@@ -1,0 +1,34 @@
+﻿Mob.tālr.: 26818008 (<TIMEX TYPE="TIME">no 09:00 līdz 22:00</TIMEX>)
+Fakss: 67804972
+<ENAMEX TYPE="ORGANIZATION">A/S “Swedbank”</ENAMEX>, BIC/SWIFT: HABALV22
+Optiskais Internets
+Optiskais internets tas ir pastāvīgs, ātrs un drošs pieslēgums tīmeklim mājā vai dzīvoklī. Optiskais internets nav tikai ērtākais veids, kā māju vai dzīvokli pieslēgt tīmeklim, tas ir pirmais solis ceļā uz ciparu pasauli, kurā sadarbojas Jūsu dators un citas elektroniskās ierīces, ļaujot Jums baudīt ciparu fotogrāfiju, mūzikas un filmu kvalitāti, kā arī spēlēt spēles, zvanīt pa videofonu un darīt vēl daudz daudz cita interesanta!
+Piedāvājums interneta pieslēgumam sēkojošos rajonos: <ENAMEX TYPE="LOCATION">Āgenskalns</ENAMEX>, <ENAMEX TYPE="LOCATION">Dzirciems</ENAMEX>, <ENAMEX TYPE="LOCATION">Torņakalns</ENAMEX>, <ENAMEX TYPE="LOCATION">Bolderāja</ENAMEX>, <ENAMEX TYPE="LOCATION">Daugavgrīva</ENAMEX>, <ENAMEX TYPE="LOCATION">Iļģuciems</ENAMEX>, <ENAMEX TYPE="LOCATION">Imanta</ENAMEX>, <ENAMEX TYPE="LOCATION">Šampēteris</ENAMEX>, <ENAMEX TYPE="LOCATION">Vecais Ziepniekkalns</ENAMEX>, <ENAMEX TYPE="LOCATION">Ziepniekkalns</ENAMEX>, <ENAMEX TYPE="LOCATION">Zasulauks</ENAMEX>, <ENAMEX TYPE="LOCATION">Zolitūde</ENAMEX>, <ENAMEX TYPE="LOCATION">Jugla</ENAMEX>, <ENAMEX TYPE="LOCATION">Juglas papīrfabrika</ENAMEX>, <ENAMEX TYPE="LOCATION">Ķengarags</ENAMEX>, <ENAMEX TYPE="LOCATION">Mežciems</ENAMEX>, <ENAMEX TYPE="LOCATION">Pļavnieki</ENAMEX>, <ENAMEX TYPE="LOCATION">Purvciems</ENAMEX>, <ENAMEX TYPE="LOCATION">Teika</ENAMEX>, <ENAMEX TYPE="LOCATION">Vecmīlgrāvis</ENAMEX>, <ENAMEX TYPE="LOCATION">Pētersala</ENAMEX>, <ENAMEX TYPE="LOCATION">Ādaži</ENAMEX>, <ENAMEX TYPE="LOCATION">Mārupe</ENAMEX>, <ENAMEX TYPE="LOCATION">Ulbroka</ENAMEX>, <ENAMEX TYPE="LOCATION">Valdlauči</ENAMEX> (Visiem tarifiem ir bezmaksas pieslēgums un ātrums <ENAMEX TYPE="ORGANIZATION">4 NETS</ENAMEX> tīklā ir līdz 1000 Mbit/sek.ec.).
+Tarifa nosaukums
+Tas ir pastāvīgs, ātrs un drošs pieslēgums tīmeklim mājā vai dzīvoklī. Mājas internets nav tikai ērtākais veids, kā māju vai dzīvokli pieslēgt tīmeklim, tas ir pirmais solis ceļā uz ciparu pasauli, kurā sadarbojas Jūsu dators un citas elektroniskās ierīces, ļaujot Jums baudīt ciparu fotogrāfiju, mūzikas un filmu kvalitāti, kā arī spēlēt spēles, zvanīt pa videofonu un darīt vēl daudz daudz cita interesanta!
+Pieslēdzoties pie <ENAMEX TYPE="ORGANIZATION">4 NETS</ENAMEX>, Jūs iegūstat nevis parastu interneta savienojumu, bet gan neierobežotu un integrētu pieeju visa veida telekomunikāciju pakalpojumiem. Savukārt nākotnē šo tīklu varēs izmantot interaktīvas televīzijas pārraidēm un citu pakalpojumu saņemšanai.
+Fiziskām personām līguma noformēšanas brīdī ir jauzrāda personas apliecinošus dokumentus. Juridiskām personām ir jauzrāda pilnvaru uz tiesībām noslēgt līgumu ka arī uzņēmuma zīmogs. Rēķina apmaksa, kurš tiek izrakstīta pieslēguma brīdī, notiek <TIMEX TYPE="DATE">10 dienu laikā</TIMEX>.
+Priekšrocības
+1. Augsta kanāla caurlaides spēja
+Tie datu pārraides ātrumi, ko savos piedāvājumos norāda provaideri, piemēram, līdz 50 Mbit/s, ir maksimālais ātrums, ko klients var sasniegt laikā, kad pārējie šī tīkla abonenti aktīvi internetu neizmanto. Ar Nākamās paaudzes tīklu <ENAMEX TYPE="ORGANIZATION">4 NETS</ENAMEX> klients var izmantot ātru internetu neatkarīgi no kaimiņu aktivitātēm. <ENAMEX TYPE="ORGANIZATION">4 NETS</ENAMEX> tīkls ļauj pārraidīt datus ar ātrumu līdz 1 Gbit/s.
+2. Augsta optiskās šķiedras stabilitāte
+Izmantojot optisko šķiedru, kas ir speciāli izstrādāta gaismas impulsu pārraidei, interneta stabilitāte ir daudzkārt lielāka, jo optisko šķiedru neietekmē ārēji dabas faktori (negaiss, zibens u.c.).Interneta lietotājam neradīsies nekādi regulāri traucējumi, kas ir novērojami citiem interneta provaideriem noteiktos apstākļos.
+3. Jaunā tīkla struktūra
+Tā kā uz katru māju iet vairāki optiskie kabeļi, līdz ar to elektroenerģijas padeves trūkums vai citas problēmas, kas saistītas ar interneta pakalpojumu darbību tuvākajā mājā, neietekmēs citus abonentus no blakus mājām, ja tie atrodas viena tīkla segmentā.
+4. Jaunās paaudzes tīkla aprīkojums
+Visi tīkla traucējumi, kas saistīti ar interneta pareizu darbību, ir ātri pamanāmi un operatīvi tiek novērsti.
+5. MULTICAST pārraides izmantošana
+Tuvākajā laikā MULTICAST pārraides izmantošana varēs piedāvāt augstas kvalitātes interaktīvo televīziju, telefoniju , kā arī sniegt citus nākotnē aktuālus telekomunikāciju pakalpojumus.
+Vairāki datori
+Pieslēdzot tīmekļa tīklam, abonentam parasti piešķir vienu statisko IP adresi. Ja Jūs interesē vairāku datoru pieslēgšana, tad mēs Jums varam piedāvāt divus pieslēguma veidus.
+1) Mēs piedāvājam Jums uzstādiīt aprīkojumu, kurš nepieciešams, lai sadalītu signālu vairākiem datoriem, arī var izmantot, lai izmantot bezvadu internetu. Maksa par pakalpojumu, ir tikai bāzes stacijas uzstādīšana un konfigurēšana, ja bezvadu risinājums datora jau ir iebūbēts - <NUMEX TYPE="MONEY">30.00Ls</NUMEX> (iegāde abonēšanas daļā), vai <NUMEX TYPE="MONEY">35.00Ls</NUMEX> (ar meistaru izsaukšana).
+2) Ja Jūs vēlaties izmantot vienlaikus vairākus tīmeklim pilnvērīgī pieslēgtus datorus viena dzīvokļa vai biroja ietvaros, katram nākamajam pieslēgumama mēs piedāvājam atlaidi, Maksa par pakalpojumu bus tikai <NUMEX TYPE="MONEY">5.69Ls/mēn.</NUMEX> neatkarīgi no Jusu tarifa. Šajā pakalpojumā ietilpst reālas IP adreses, pilnvērtīgs ātrums katram datoram (atbilstoši tarifiem).
+Rēķina saņemšana
+<ENAMEX TYPE="ORGANIZATION">4 NETS</ENAMEX> klientiem nodrošina bezmaksas elektronisku rēķinu piegāde pa e-pastu.
+Līnijas atslēgšana uz laiku
+Ja <TIMEX TYPE="DATE">vairāk kā mēnesi</TIMEX> <ENAMEX TYPE="ORGANIZATION">4 NETS</ENAMEX> internetu neizmantosi (piem. <TIMEX TYPE="DATE">vasaras</TIMEX> atvaļinājumu laikā), Tu varēsi pieteikt līnijas atslēgšanu uz laiku. Klientam ir iespēja atslēgties uz laiku uz periodu <TIMEX TYPE="DATE">no 1 līdz 3 mēnešiem</TIMEX> <TIMEX TYPE="DATE">vienā kalendārā gada</TIMEX> robežās.
+Ierobežojumi
+Pakalpojumu ierīkojam tikai fiziskām personām, kuras neveic komercdarbību un pakalpojums pieejams vietās, kur ir tehniskas ierīkošanas iespējas.
+Uzmanību! Pakalpojums ir pieejams, ja ir tehniskās ierīkošanas iespējas. Lai saņemtu detalizētu informāciju par pakalpojumiem, cenām, līgumiem un ierīkošanas nosacījumiem, lūdzam zvanīt: <ENAMEX TYPE="ORGANIZATION">4 NETS</ENAMEX> klientu apkalpošanas tālrunis 67004444, 26818008.
+Visas cenas norādītas latos, ieskaitot PVN 22%.
+- Iesakām pieslēgt.

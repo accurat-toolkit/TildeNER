@@ -1,0 +1,1111 @@
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	0	0	0	9	B-LOC
+okeāns	N	okeāns	N-msn---------n-----------l-	0	11	0	16	I-LOC
+
+
+
+
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	2	0	2	9	B-LOC
+okeāns	N	okeāns	N-msn---------n-----------l-	2	11	2	16	I-LOC
+ir	V	būt	Vp----3--i----------7-----l-	2	18	2	19	O
+otrs	M	otrs	M-msn---c-----------------l-	2	21	2	24	O
+lielākais	A	liels	A-msnc-y------------------l-	2	26	2	34	O
+okeāns	N	okeāns	N-msn---------n-----------l-	2	36	2	41	O
+uz	S	uz	S----------------sgp------l-	2	43	2	44	O
+Zemes	N	zeme	N-fsg---------n-----------f-	2	46	2	50	B-LOC
+un	C	un	C---------------------c---l-	2	52	2	53	O
+aizņem	V	aizņemt	Vp----3--i----------------l-	2	55	2	60	O
+aptuveni	R	aptuveni	R----p--------------------l-	2	62	2	69	O
+106,4	D	106,4	D--p------------------------	2	71	2	75	O
+miljonus	M	miljons	M-mpa---c-----------------l-	2	77	2	84	O
+kvadrātkilometrus	N	kvadrātkilometrs	N-mpa---------n-----------l-	2	86	2	102	O
+lielu	N	liels	N-msa---------n-----------l-	2	104	2	108	O
+platību	N	platība	N-fsa---------n-----------l-	2	110	2	116	O
+(	T	(	T--------------------------(	2	118	2	118	O
+apmēram	R	apmēram	R----p---------------g----l-	2	119	2	125	O
+1/5	-	1/5	----------------------------	2	127	2	129	O
+no	S	no	S----------------sgp------l-	2	131	2	132	O
+Zemes	N	zeme	N-fsg---------n-----------f-	2	134	2	138	B-LOC
+kopējās	A	kopējs	A-fsgp-y------------------l-	2	140	2	146	O
+virsmas	N	virsma	N-fsg---------n-----------l-	2	148	2	154	O
+)	T	)	T--------------------------)	2	155	2	155	O
+.	SENT	.	T--------------------------.	2	156	2	156	O
+Tā	P	tas	P-msg-------d-------------f-	2	158	2	159	O
+nosaukums	N	nosaukums	N-msn---------n-----------l-	2	161	2	169	O
+ir	V	būt	Vp----3--i----------7-----l-	2	171	2	172	O
+cēlies	G	cēlies	Gsmsn--n---a---y----------l-	2	174	2	179	O
+no	S	no	S----------------sgp------l-	2	181	2	182	O
+Atlanta	N	atlants	N-msg---------n-----------f-	2	184	2	190	B-PERS
+-	T	-	T---------------------------	2	192	2	192	O
+dievs	N	dievs	N-msn---------n-----------l-	2	194	2	198	O
+grieķu	N	grieķis	N-mpg---------n-----------l-	2	200	2	205	O
+mitoloģijā	N	mitoloģija	N-fsl---------n-----------l-	2	207	2	216	O
+.	SENT	.	T--------------------------.	2	217	2	217	O
+
+
+
+
+Robežas	N	robeža	N-fpn---------n-----------f-	4	0	4	6	O
+
+
+
+
+Ziemeļos	N	ziemelis	N-mpl---------n-----------f-	6	0	6	7	O
+robežojas	V	robežoties	Vp----3--i-----y----------l-	6	9	6	17	O
+ar	S	ar	S----------------sap------l-	6	19	6	20	O
+Ziemeļu	N	ziemelis	N-mpg---------n-----------f-	6	22	6	28	B-LOC
+Ledus	N	ledus	N-msg---------n-----------f-	6	30	6	34	I-LOC
+okeānu	N	okeāns	N-msa---------n-----------l-	6	36	6	41	I-LOC
+-	T	-	T---------------------------	6	43	6	43	O
+no	S	no	S----------------sgp------l-	6	45	6	46	O
+tā	P	tas	P-msg-------d-------------l-	6	48	6	49	O
+atdala	V	atdalīt	Vp----3--i----------------l-	6	51	6	56	O
+nosacītas	G	nosacīts	Gsfsgp-n---p--------------l-	6	58	6	66	O
+līnijas	N	līnija	N-fpn---------n-----------l-	6	68	6	74	O
+,	T	,	T--------------------------,	6	75	6	75	O
+kas	P	kas	P---n-------r---------x---l-	6	77	6	79	O
+savieno	V	savienot	Vp----3--i----------------l-	6	81	6	87	O
+Grenlandi	N	Grenlande	N-fsa---------n-----------f-	6	89	6	97	B-LOC
+ar	S	ar	S----------------pdp------l-	6	99	6	100	O
+Īslandes	N	Īslande	N-fsg---------n-----------f-	6	102	6	109	B-LOC
+ziemeļrietumiem	N	ziemeļrietumi	N-mpd---------n-----------l-	6	111	6	125	O
+,	T	,	T--------------------------,	6	126	6	126	O
+Īslandes	N	Īslande	N-fsg---------n-----------f-	6	128	6	135	B-LOC
+ziemeļaustrumus	N	ziemeļaustrumi	N-mpa---------n-----------l-	6	137	6	151	O
+ar	S	ar	S----------------sap------l-	6	153	6	154	O
+Špicbergenas	N	Špicbergena	N-fsg---------n-----------f-	6	156	6	167	B-LOC
+dienvidu	N	dienvidus	N-msa---------n-----------l-	6	169	6	176	O
+galu	N	gals	N-msa---------n-----------l-	6	178	6	181	O
+un	C	un	C---------------------c---l-	6	183	6	184	O
+Špicbergenu	N	Špicbergena	N-fsa---------n-----------f-	6	186	6	196	B-LOC
+ar	S	ar	S----------------sap------l-	6	198	6	199	O
+Nordkapa	N	Nordkaps	N-msg---------n-----------f-	6	201	6	208	B-LOC
+ragu	N	rags	N-msa---------n-----------l-	6	210	6	213	I-LOC
+Norvēģijā	N	Norvēģija	N-fsl---------n-----------f-	6	215	6	223	B-LOC
+.	SENT	.	T--------------------------.	6	224	6	224	O
+Dienvidaustrumos	N	dienvidaustrumi	N-mpl---------n-----------f-	6	226	6	241	O
+,	T	,	T--------------------------,	6	242	6	242	O
+pa	S	pa	S----------------sap------l-	6	244	6	245	O
+20	D	20	D--pg-----------------------	6	247	6	248	O
+°	-	°	----------------------------	6	249	6	249	O
+A	Y	A	Y-------------------------f-	6	250	6	250	O
+garuma	N	garums	N-msg---------n-----------l-	6	252	6	257	O
+grādu	N	grāds	N-msa---------n-----------l-	6	259	6	263	O
+robežojas	V	robežoties	Vp----3--i-----y----------l-	6	265	6	273	O
+ar	S	ar	S----------------sap------l-	6	275	6	276	O
+Indijas	N	Indija	N-fsg---------n-----------f-	6	278	6	284	B-LOC
+okeānu	N	okeāns	N-msa---------n-----------l-	6	286	6	291	I-LOC
+.	SENT	.	T--------------------------.	6	292	6	292	O
+Dienvidos	N	dienvidus	N-mpl---------n-----------f-	6	294	6	302	O
+pa	S	pa	S----------------sap------l-	6	304	6	305	O
+60	D	60	D--pg-----------------------	6	307	6	308	O
+°	-	°	----------------------------	6	309	6	309	O
+D	Y	d	Y-------------------------f-	6	310	6	310	O
+platuma	N	platums	N-msg---------n-----------l-	6	312	6	318	O
+grādu	N	grāds	N-msa---------n-----------l-	6	320	6	324	O
+robežojas	V	robežoties	Vp----3--i-----y----------l-	6	326	6	334	O
+ar	S	ar	S----------------sap------l-	6	336	6	337	O
+Dienvidu	N	dienvidus	N-msa---------n-----------f-	6	339	6	346	B-LOC
+okeānu	N	okeāns	N-msa---------n-----------l-	6	348	6	353	I-LOC
+.	SENT	.	T--------------------------.	6	354	6	354	O
+Dienvidrietumos	N	dienvidrietumi	N-mpl---------n-----------f-	6	356	6	370	O
+,	T	,	T--------------------------,	6	371	6	371	O
+pa	S	pa	S----------------sap------l-	6	373	6	374	O
+Dreika	N	Dreiks	N-msg---------n-----------f-	6	376	6	381	B-LOC
+šaurumu	N	šaurums	N-msa---------n-----------l-	6	383	6	389	I-LOC
+savienots	G	savienots	Gsmsnp-n---p--------------l-	6	391	6	399	O
+ar	S	ar	S----------------sap------l-	6	401	6	402	O
+Kluso	A	kluss	A-msap-y------------------f-	6	404	6	408	B-LOC
+okeānu	N	okeāns	N-msa---------n-----------l-	6	410	6	415	I-LOC
+.	SENT	.	T--------------------------.	6	416	6	416	O
+Mākslīgi	R	mākslīgi	R----p--------------------f-	6	418	6	425	O
+savienots	G	savienots	Gsmsnp-n---p--------------l-	6	427	6	435	O
+ar	S	ar	S----------------sap------l-	6	437	6	438	O
+Kluso	A	kluss	A-msap-y------------------f-	6	440	6	444	B-LOC
+okeānu	N	okeāns	N-msa---------n-----------l-	6	446	6	451	I-LOC
+caur	S	caur	S----------------pdp------l-	6	453	6	456	O
+Panamas	N	panama	N-fsg---------n-----------f-	6	458	6	464	B-LOC
+kanālu	N	kanāls	N-msa---------n-----------l-	6	466	6	471	I-LOC
+un	C	un	C---------------------c---l-	6	473	6	474	O
+ar	S	ar	S----------------sap------l-	6	476	6	477	O
+Indijas	N	Indija	N-fsg---------n-----------f-	6	479	6	485	B-LOC
+okeānu	N	okeāns	N-msa---------n-----------l-	6	487	6	492	I-LOC
+caur	S	caur	S----------------sap------l-	6	494	6	497	O
+Suecas	N	Sueca	N-fsg---------n-----------f-	6	499	6	504	B-LOC
+kanālu	N	kanāls	N-msa---------n-----------l-	6	506	6	511	I-LOC
+.	SENT	.	T--------------------------.	6	512	6	512	O
+
+
+
+
+Apskalo	V	apskalot	Vp----3--i----------------f-	8	0	8	6	O
+Ziemeļamerikas	N	Ziemeļamerika	N-fsg---------n-----------f-	8	8	8	21	B-LOC
+un	C	un	C---------------------c---l-	8	23	8	24	I-LOC
+Dienvidamerikas	N	Dienvidamerika	N-fsg---------n-----------f-	8	26	8	40	I-LOC
+austrumu	N	austrumi	N-mpg---------n-----------l-	8	42	8	49	O
+piekrasti	N	piekraste	N-fsa---------n-----------l-	8	51	8	59	O
+un	C	un	C---------------------c---l-	8	61	8	62	O
+Eiropas	N	Eiropa	N-fsg---------n-----------f-	8	64	8	70	B-LOC
+un	C	un	C---------------------c---l-	8	72	8	73	I-LOC
+Āfrikas	N	Āfrika	N-fsg---------n-----------f-	8	75	8	81	I-LOC
+rietumu	N	rietumi	N-mpg---------n-----------l-	8	83	8	89	O
+piekrasti	N	piekraste	N-fsa---------n-----------l-	8	91	8	99	O
+.	SENT	.	T--------------------------.	8	100	8	100	O
+
+
+
+
+Ģeoloģiskā	A	ģeoloģisks	A-fsnp-y------------------f-	10	0	10	9	O
+vēsture	N	vēsture	N-fsn---------n-----------l-	10	11	10	17	O
+
+
+
+
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	12	0	12	9	B-LOC
+okeāns	N	okeāns	N-msn---------n-----------l-	12	11	12	16	I-LOC
+ir	V	būt	Vp----3--i----------7-----l-	12	18	12	19	O
+otrs	M	otrs	M-msn---c-----------------l-	12	21	12	24	O
+jaunākais	A	jauns	A-msvc-y------------------l-	12	26	12	34	O
+planētas	N	planēta	N-fsg---------n-----------l-	12	36	12	43	O
+okeāns	N	okeāns	N-msn---------n-----------l-	12	45	12	50	O
+pēc	S	pēc	S----------------sgt------l-	12	52	12	54	O
+Dienvidu	N	dienvidus	N-msa---------n-----------f-	12	56	12	63	B-LOC
+okeāna	N	okeāns	N-msg---------n-----------l-	12	65	12	70	I-LOC
+.	SENT	.	T--------------------------.	12	71	12	71	O
+Dati	N	dati	N-mpn---------n-----------f-	12	73	12	76	O
+liecina	V	liecināt	Vp----3--i----------------l-	12	78	12	84	O
+,	T	,	T--------------------------,	12	85	12	85	O
+ka	C	ka	C---------------------p---l-	12	87	12	88	O
+pirms	S	pirms	S----------------sgp------l-	12	90	12	94	B-DATE
+180	D	180	D--pg-----------------------	12	96	12	98	I-DATE
+miljoniem	M	miljons	M-mpd---c-----------------l-	12	100	12	108	I-DATE
+gadu	N	gads	N-mpg---------n-----------l-	12	110	12	113	I-DATE
+tas	P	tas	P-msn-------d-------------l-	12	115	12	117	O
+vēl	Q	vēl	Q-------------------------l-	12	119	12	121	O
+neeksistēja	V	neeksistēt	Vs----3--i------y---------l-	12	123	12	133	O
+.	SENT	.	T--------------------------.	12	134	12	134	O
+Okeāns	N	okeāns	N-msn---------n-----------f-	12	136	12	141	O
+sāka	V	sākt	Vs----3--i----------3-----l-	12	143	12	146	O
+veidoties	V	veidoties	V--------n-----y----------l-	12	148	12	156	O
+mezozojā	N	mezozojs	N-msl---------n-----------l-	12	158	12	165	B-DATE
+,	T	,	T--------------------------,	12	166	12	166	O
+sadaloties	G	sadaloties	G----------a-n-y----------l-	12	168	12	177	O
+Pangejas	-	Pangejas	----------------------------	12	179	12	186	B-LOC
+superkontinentam	-	superkontinentam	----------------------------	12	188	12	203	O
+,	T	,	T--------------------------,	12	204	12	204	O
+kad	R	kad	R----p----------------f---l-	12	206	12	208	O
+viens	M	viens	M-msn---c-----------------l-	12	210	12	214	O
+no	S	no	S----------------sgp------l-	12	216	12	217	O
+otra	M	otrs	M-msg---c-----------------l-	12	219	12	222	O
+sāka	V	sākt	Vs----3--i----------3-----l-	12	224	12	227	O
+atdalīties	V	atdalīties	V--------n-----y----------l-	12	229	12	238	O
+tagadējās	A	tagadējs	A-fpap-y------------------l-	12	240	12	248	O
+Amerikas	N	Amerika	N-fsg---------n-----------f-	12	250	12	257	B-LOC
+Eirāzijas	N	Eirāzija	N-fsg---------n-----------f-	12	259	12	267	I-LOC
+un	C	un	C---------------------c---l-	12	269	12	270	I-LOC
+Āfrikas	N	Āfrika	N-fsg---------n-----------f-	12	272	12	278	I-LOC
+kontinenti	N	kontinents	N-mpn---------n-----------l-	12	280	12	289	I-LOC
+.	SENT	.	T--------------------------.	12	290	12	290	O
+Sadalīšanās	N	sadalīšanās	N-fpn---------n-----------f-	12	292	12	302	O
+sākās	V	sākties	Vs----3--i-----y----3-----l-	12	304	12	308	O
+ziemeļu	N	ziemelis	N-mpg---------n-----------l-	12	310	12	316	O
+daļā	N	daļa	N-fsl---------n-----------l-	12	318	12	321	O
+.	SENT	.	T--------------------------.	12	322	12	322	O
+Pangejas	-	Pangejas	----------------------------	12	324	12	331	B-LOC
+sadalīšanās	N	sadalīšanās	N-fsn---------n-----------l-	12	333	12	343	O
+sākās	V	sākties	Vs----3--i-----y----3-----l-	12	345	12	349	O
+triasā	N	triass	N-msl---------n-----------l-	12	351	12	356	B-DATE
+un	C	un	C---------------------c---l-	12	358	12	359	O
+beidzās	V	beigties	Vs----3--i-----y----3-----l-	12	361	12	367	O
+krītā	N	krīts	N-msl---------n-----------l-	12	369	12	373	B-DATE
+.	SENT	.	T--------------------------.	12	374	12	374	O
+
+
+
+
+Ziemeļatlantijā	N	Ziemeļatlantija	N-fsl---------n-----------f-	14	0	14	14	B-LOC
+dalīšanās	N	dalīšanās	N-fsn---------n-----------l-	14	16	14	24	O
+josla	N	josla	N-fsn---------n-----------l-	14	26	14	30	O
+sākotnēji	A	sākotnējs	A-mpnp-n------------------l-	14	32	14	40	O
+atradās	V	atrasties	Vs----3--i-----y----------l-	14	42	14	48	O
+starp	S	starp	S----------------sap------l-	14	50	14	54	O
+tagadējo	A	tagadējs	A-fsap-y------------------l-	14	56	14	63	O
+Kanādu	N	Kanāda	N-fsa---------n-----------f-	14	65	14	70	B-LOC
+un	C	un	C---------------------c---l-	14	72	14	73	O
+Grenlandi	N	Grenlande	N-fsa---------n-----------f-	14	75	14	83	B-LOC
+,	T	,	T--------------------------,	14	84	14	84	O
+taču	C	taču	C-------------------------l-	14	86	14	89	O
+vēlāk	R	vēlāk	R----p--------------------l-	14	91	14	95	O
+pārvietojās	V	pārvietoties	Vs----3--i-----y----------l-	14	97	14	107	O
+uz	S	uz	S----------------sap------l-	14	109	14	110	O
+tagadējo	A	tagadējs	A-msap-y------------------l-	14	112	14	119	O
+atrašanās	N	atrašanās	N-fsg---------n-----------l-	14	121	14	129	O
+vietu	N	vieta	N-fsa---------n-----------l-	14	131	14	135	O
+.	SENT	.	T--------------------------.	14	136	14	136	O
+
+
+
+
+Pašlaik	R	pašlaik	R----p--------------------f-	16	0	16	6	O
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	16	8	16	17	B-LOC
+okeāns	N	okeāns	N-msn---------n-----------l-	16	19	16	24	I-LOC
+turpina	V	turpināt	Vp----3--i----------3-----l-	16	26	16	32	O
+plesties	V	plesties	V--------n-----y----------l-	16	34	16	41	O
+par	S	par	S----------------sap------l-	16	43	16	45	O
+5	D	5	D--p------------------------	16	47	16	47	O
+-	T	-	T---------------------------	16	49	16	49	O
+10	D	10	D--pg-----------------------	16	51	16	52	O
+cm	Y	cm	Y-------------------------l-	16	54	16	55	O
+gadā	N	gads	N-msl---------n-----------l-	16	57	16	60	B-DATE
+,	T	,	T--------------------------,	16	61	16	61	O
+šī	P	šis	P-fsn-------d-------------l-	16	63	16	64	O
+kustība	N	kustība	N-fsn---------n-----------l-	16	66	16	72	O
+notiek	V	notikt	Vp----3--i----------------l-	16	74	16	79	O
+pateicoties	G	pateicoties	G----------a-n-y----------l-	16	81	16	91	O
+tam	P	tas	P-msd-------d-------------l-	16	93	16	95	O
+,	T	,	T--------------------------,	16	96	16	96	O
+ka	C	ka	C---------------------p---l-	16	98	16	99	O
+Ziemeļamerikas	N	Ziemeļamerika	N-fsg---------n-----------f-	16	101	16	114	B-LOC
+plātne	N	plātne	N-fsn---------n-----------l-	16	116	16	121	I-LOC
+un	C	un	C---------------------c---l-	16	123	16	124	I-LOC
+Dienvidamerikas	N	Dienvidamerika	N-fsg---------n-----------f-	16	126	16	140	I-LOC
+plātne	N	plātne	N-fsn---------n-----------l-	16	142	16	147	I-LOC
+virzās	V	virzīties	Vp----3--i-----y----------l-	16	149	16	154	O
+rietumu	N	rietumi	N-mpg---------n-----------l-	16	156	16	162	O
+virzienā	N	virziens	N-msl---------n-----------l-	16	164	16	171	O
+.	SENT	.	T--------------------------.	16	172	16	172	O
+
+
+
+
+=	T	=	T--------------------------=	18	0	18	0	O
+Vidusatlantijas	N	Vidusatlantija	N-fsg---------n-----------f-	18	2	18	16	B-LOC
+grēda	N	grēda	N-fsn---------n-----------l-	18	18	18	22	I-LOC
+=	T	=	T--------------------------=	18	24	18	24	O
+
+
+
+
+Raksturīga	A	raksturīgs	A-fsnp-n------------------f-	20	0	20	9	O
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	20	11	20	20	B-LOC
+okeāna	N	okeāns	N-msg---------n-----------l-	20	22	20	27	I-LOC
+īpatnība	N	īpatnība	N-fsn---------n-----------l-	20	29	20	36	O
+ir	V	būt	Vp----3--i----------7-----l-	20	38	20	39	O
+1950	D	1950	D--pg-----------------------	20	41	20	44	B-DATE
+.	T	.	T--------------------------.	20	45	20	45	I-DATE
+gados	N	gads	N-mpl---------n-----------l-	20	47	20	51	I-DATE
+atklātā	A	atklāts	A-fsnp-y------------------l-	20	53	20	59	O
+Vidusatlantijas	N	Vidusatlantija	N-fsg---------n-----------f-	20	61	20	75	B-LOC
+grēda	N	grēda	N-fsn---------n-----------l-	20	77	20	81	I-LOC
+-	T	-	T---------------------------	20	83	20	83	O
+garākā	A	garš	A-fsnc-y------------------l-	20	85	20	90	O
+kalnu	N	kalns	N-mpg---------n-----------l-	20	92	20	96	O
+grēda	N	grēda	N-fsn---------n-----------l-	20	98	20	102	O
+pasaulē	N	pasaule	N-fsl---------n-----------l-	20	104	20	110	O
+,	T	,	T--------------------------,	20	111	20	111	O
+kas	P	kas	P---n-------r---------x---l-	20	113	20	115	O
+pa	S	pa	S----------------sap------l-	20	117	20	118	O
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	20	120	20	129	B-LOC
+okeāna	N	okeāns	N-msg---------n-----------l-	20	131	20	136	I-LOC
+centrālo	A	centrāls	A-fsap-y------------------l-	20	138	20	145	O
+asi	N	ass	N-fsa---------n-----------l-	20	147	20	149	O
+aptuveni	R	aptuveni	R----p--------------------l-	20	151	20	158	O
+11	D	11	D--pg-----------------------	20	160	20	161	O
+300	D	300	D--pg-----------------------	20	163	20	165	O
+km	Y	km	Y-------------------------l-	20	167	20	168	O
+garumā	N	garums	N-msl---------n-----------l-	20	170	20	175	O
+stiepjas	V	stiepties	Vp----3--i-----y----------l-	20	177	20	184	O
+no	S	no	S----------------sgp------l-	20	186	20	187	O
+Īslandes	N	Īslande	N-fsg---------n-----------f-	20	189	20	196	B-LOC
+līdz	S	līdz	S----------------sdp------l-	20	198	20	201	O
+aptuveni	A	aptuvens	A-mpnp-n------------------l-	20	203	20	210	O
+54	D	54	D--p------------------------	20	212	20	213	O
+°	-	°	----------------------------	20	214	20	214	O
+D	Y	d	Y-------------------------f-	20	215	20	215	O
+platuma	N	platums	N-msg---------n-----------l-	20	217	20	223	O
+grādam	N	grāds	N-msd---------n-----------l-	20	225	20	230	O
+.	SENT	.	T--------------------------.	20	231	20	231	O
+Lielākais	A	liels	A-msvc-y------------------f-	20	233	20	241	O
+grēdas	N	grēda	N-fsg---------n-----------l-	20	243	20	248	O
+platums	N	platums	N-msn---------n-----------l-	20	250	20	256	O
+sasniedz	V	sasniegt	Vp----3--i----------------l-	20	258	20	265	O
+1	D	1	D--s------------------------	20	267	20	267	O
+600	D	600	D--pg-----------------------	20	269	20	271	O
+km	Y	km	Y-------------------------l-	20	273	20	274	O
+.	SENT	.	T--------------------------.	20	275	20	275	O
+Ūdens	N	ūdens	N-msg---------n-----------f-	20	277	20	281	O
+dziļums	N	dziļums	N-msn---------n-----------l-	20	283	20	289	O
+virs	S	virs	S----------------sgp------l-	20	291	20	294	O
+grēdas	N	grēda	N-fsg---------n-----------l-	20	296	20	301	O
+pārsvarā	N	pārsvars	N-msl---------n-----------l-	20	303	20	310	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	20	312	20	314	O
+lielāks	A	liels	A-msnc-n------------------l-	20	316	20	322	O
+par	S	par	S----------------pdp------l-	20	324	20	326	O
+2	D	2	D--p------------------------	20	328	20	328	O
+700	D	700	D--pg-----------------------	20	330	20	332	O
+m	Y	m	Y-------------------------l-	20	334	20	334	O
+,	T	,	T--------------------------,	20	335	20	335	O
+grēda	N	grēda	N-fsn---------n-----------l-	20	337	20	341	O
+vietām	R	vietām	R----p--------------------l-	20	343	20	348	O
+paceļas	V	pacelties	Vp----3--i-----y----------l-	20	350	20	356	O
+virs	S	virs	S----------------sgp------l-	20	358	20	361	O
+ūdens	N	ūdens	N-msg---------n-----------l-	20	363	20	367	O
+līmeņa	N	līmenis	N-msg---------n-----------l-	20	369	20	374	O
+(	T	(	T--------------------------(	20	376	20	376	O
+piem.	Y	piem.	Y-------------------------l-	20	377	20	381	O
+Debesbraukšanas	N	debesbraukšana	N-fsg---------n-----------f-	20	383	20	397	B-LOC
+sala	N	sala	N-fsn---------n-----------l-	20	399	20	402	I-LOC
+)	T	)	T--------------------------)	20	403	20	403	O
+.	SENT	.	T--------------------------.	20	404	20	404	O
+
+
+
+
+Vidusatlantijas	N	Vidusatlantija	N-fsg---------n-----------f-	22	0	22	14	B-LOC
+grēdas	N	grēda	N-fsg---------n-----------l-	22	16	22	21	I-LOC
+centrālajā	A	centrāls	A-fslp-y------------------l-	22	23	22	32	O
+asī	N	ass	N-fsl---------n-----------l-	22	34	22	36	O
+gandrīz	R	gandrīz	R----p---------------g----l-	22	38	22	44	O
+visā	P	viss	P-msl-------g-------------l-	22	46	22	49	O
+garumā	N	garums	N-msl---------n-----------l-	22	51	22	56	O
+savukārt	R	savukārt	R----p--------------------l-	22	58	22	65	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	22	67	22	73	O
+rifta	-	rifta	----------------------------	22	75	22	79	B-LOC
+ieleja	N	ieleja	N-fsn---------n-----------l-	22	81	22	86	I-LOC
+.	SENT	.	T--------------------------.	22	87	22	87	O
+Grēda	N	grēda	N-fsn---------n-----------f-	22	89	22	93	O
+ir	V	būt	Vp----3--i----------7-----l-	22	95	22	96	O
+robeža	N	robeža	N-fsn---------n-----------l-	22	98	22	103	O
+starp	S	starp	S----------------pdp------l-	22	105	22	109	O
+tektoniskajām	A	tektonisks	A-fpdp-y------------------l-	22	111	22	123	O
+plātnēm	N	plātne	N-fpd---------n-----------l-	22	125	22	131	O
+un	C	un	C---------------------c---l-	22	133	22	134	O
+tās	P	tas	P-fsg-------d-------------l-	22	136	22	138	O
+centrālajā	A	centrāls	A-fslp-y------------------l-	22	140	22	149	O
+daļā	N	daļa	N-fsl---------n-----------l-	22	151	22	154	O
+no	S	no	S----------------pdp------l-	22	156	22	157	O
+Zemes	N	zeme	N-fsg---------n-----------f-	22	159	22	163	B-LOC
+dzīlēm	N	dzīle	N-fpd---------n-----------l-	22	165	22	170	O
+paceļas	V	pacelties	Vp----3--i-----y----------l-	22	172	22	178	O
+jaunā	A	jauns	A-fsnp-y------------------l-	22	180	22	184	O
+okeāniskā	-	okeāniskā	----------------------------	22	186	22	194	O
+Zemes	N	zeme	N-fsg---------n-----------f-	22	196	22	200	B-LOC
+garoza	N	garoza	N-fsn---------n-----------l-	22	202	22	207	O
+tādējādi	R	tādējādi	R----p--------------------l-	22	209	22	216	O
+ik	Q	ik	Q-------------------------l-	22	218	22	219	B-DATE
+gadus	N	gads	N-mpa---------n-----------l-	22	221	22	225	I-DATE
+paplašinot	G	paplašinot	G----------a-n------------l-	22	227	22	236	O
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	22	238	22	247	B-LOC
+okeānu	N	okeāns	N-msa---------n-----------l-	22	249	22	254	I-LOC
+par	S	par	S----------------sap------l-	22	256	22	258	O
+5	D	5	D--p------------------------	22	260	22	260	O
+-	T	-	T---------------------------	22	262	22	262	O
+10	D	10	D--pg-----------------------	22	264	22	265	O
+cm	Y	cm	Y-------------------------l-	22	267	22	268	O
+.	SENT	.	T--------------------------.	22	269	22	269	O
+
+
+
+
+Vidusatlantijas	N	Vidusatlantija	N-fsg---------n-----------f-	24	0	24	14	B-LOC
+grēdas	N	grēda	N-fsg---------n-----------l-	24	16	24	21	I-LOC
+ziemeļu	N	ziemelis	N-mpg---------n-----------l-	24	23	24	29	O
+daļu	N	daļa	N-fpg---------n-----------l-	24	31	24	34	O
+dienvidos	N	dienvidus	N-mpl---------n-----------l-	24	36	24	44	O
+no	S	no	S----------------sgp------l-	24	46	24	47	O
+Īslandes	N	Īslande	N-fsg---------n-----------f-	24	49	24	56	B-LOC
+sauc	V	saukt	Vp----3--i----------------l-	24	58	24	61	O
+par	S	par	S----------------sap------l-	24	63	24	65	O
+Reikjanesas	-	Reikjanesas	----------------------------	24	67	24	77	B-LOC
+grēdu	N	grēda	N-fsa---------n-----------l-	24	79	24	83	I-LOC
+.	SENT	.	T--------------------------.	24	84	24	84	O
+
+
+
+
+=	T	=	T--------------------------=	26	0	26	0	O
+Citas	P	cits	P-fsg-------i-------------f-	26	2	26	6	O
+reljefa	N	reljefs	N-msg---------n-----------l-	26	8	26	14	O
+formas	N	forma	N-fsg---------n-----------l-	26	16	26	21	O
+=	T	=	T--------------------------=	26	23	26	23	O
+
+
+
+
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	28	0	28	9	B-LOC
+okeāna	N	okeāns	N-msg---------n-----------l-	28	11	28	16	I-LOC
+gultnē	N	gultne	N-fsl---------n-----------l-	28	18	28	23	I-LOC
+no	S	no	S----------------pdp------l-	28	25	28	26	O
+dienvidiem	N	dienvidus	N-mpd---------n-----------l-	28	28	28	37	O
+uz	S	uz	S----------------sap------l-	28	39	28	40	O
+ziemeļiem	N	ziemelis	N-mpd---------n-----------l-	28	42	28	50	O
+ir	V	būt	Vp----3--i----------7-----l-	28	52	28	53	O
+šādas	P	šāds	P-fsg-------d-------------l-	28	55	28	59	O
+nozīmīgas	A	nozīmīgs	A-fsgp-n------------------l-	28	61	28	69	O
+reljefa	A	reljefs	A-msgp-n------------------l-	28	71	28	77	O
+formas	N	forma	N-fpn---------n-----------l-	28	79	28	84	O
+:	T	:	T--------------------------:	28	85	28	85	O
+
+
+
+
+Jūras	N	jūra	N-fpn---------n-----------f-	30	0	30	4	O
+un	C	un	C---------------------c---l-	30	6	30	7	O
+līči	N	līcis	N-mpn---------n-----------l-	30	9	30	12	O
+
+
+
+
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	32	0	32	9	B-LOC
+okeānā	N	okeāns	N-msl---------n-----------l-	32	11	32	16	I-LOC
+,	T	,	T--------------------------,	32	17	32	17	O
+sākot	G	sākot	G----------a-n------------l-	32	19	32	23	O
+no	S	no	S----------------pdp------l-	32	25	32	26	O
+ziemeļiem	N	ziemelis	N-mpd---------n-----------l-	32	28	32	36	O
+pulksteņa	N	pulkstenis	N-msg---------n-----------l-	32	38	32	46	O
+rādītāja	N	rādītājs	N-msg---------n-----------l-	32	48	32	55	O
+virzienā	N	virziens	N-msl---------n-----------l-	32	57	32	64	O
+ir	V	būt	Vp----3--i----------7-----l-	32	66	32	67	O
+šādas	P	šāds	P-fpn-------d-------------l-	32	69	32	73	O
+jūras	N	jūra	N-fpn---------n-----------l-	32	75	32	79	O
+,	T	,	T--------------------------,	32	80	32	80	O
+jūras	N	jūra	N-fsg---------n-----------l-	32	82	32	86	O
+līči	N	līcis	N-mpn---------n-----------l-	32	88	32	91	O
+un	C	un	C---------------------c---l-	32	93	32	94	O
+šaurumi	N	šaurums	N-mpn---------n-----------l-	32	96	32	102	O
+:	T	:	T--------------------------:	32	103	32	103	O
+
+
+
+
+Salas	N	sala	N-fpn---------n-----------f-	34	0	34	4	O
+
+
+
+
+Dažas	P	dažs	P-fsg-------i-------------f-	36	0	36	4	O
+no	S	no	S----------------pdp------l-	36	6	36	7	O
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	36	9	36	18	B-LOC
+okeāna	N	okeāns	N-msg---------n-----------l-	36	20	36	25	I-LOC
+salām	N	sala	N-fpd---------n-----------l-	36	27	36	31	O
+un	C	un	C---------------------c---l-	36	33	36	34	O
+salu	N	sala	N-fpg---------n-----------l-	36	36	36	39	O
+grupām	N	grupa	N-fpd---------n-----------l-	36	41	36	46	O
+.	SENT	.	T--------------------------.	36	47	36	47	O
+
+
+
+
+Sk	-	Sk	----------------------------	38	0	38	1	O
+.	SENT	.	T--------------------------.	38	2	38	2	O
+Baltijas	N	Baltija	N-fsg---------n-----------f-	38	4	38	11	B-LOC
+jūras	N	jūra	N-fpn---------n-----------l-	38	13	38	17	I-LOC
+,	T	,	T--------------------------,	38	18	38	18	O
+Karību	N	Karību	N-mpg---------n-----------f-	38	20	38	25	B-LOC
+jūras	N	jūra	N-fsg---------n-----------l-	38	27	38	31	I-LOC
+un	C	un	C---------------------c---l-	38	33	38	34	I-LOC
+Vidusjūras	N	Vidusjūra	N-fsg---------n-----------f-	38	36	38	45	I-LOC
+salas	N	sala	N-fsg---------n-----------l-	38	47	38	51	I-LOC
+pie	S	pie	S----------------pdp------l-	38	53	38	55	O
+rakstiem	N	raksts	N-mpd---------n-----------l-	38	57	38	64	O
+par	S	par	S----------------pdp------l-	38	66	38	68	O
+šīm	P	šis	P-fpd-------d-------------l-	38	70	38	72	O
+jūrām	N	jūra	N-fpd---------n-----------l-	38	74	38	78	O
+.	SENT	.	T--------------------------.	38	79	38	79	O
+
+
+
+
+Nogulumi	N	nogulums	N-mpn---------n-----------f-	40	0	40	7	O
+
+
+
+
+Uz	S	uz	S----------------sgp------f-	42	0	42	1	O
+kontinentālā	A	kontinentāls	A-msgp-y------------------l-	42	3	42	14	O
+šelfa	N	šelfs	N-msg---------n-----------l-	42	16	42	20	O
+atrod	V	atrast	Vp----3--i----------------l-	42	22	42	26	O
+pārsvarā	N	pārsvars	N-msl---------n-----------l-	42	28	42	35	O
+terigēnos	-	terigēnos	----------------------------	42	37	42	45	O
+iežus	N	iezis	N-mpa---------n-----------l-	42	47	42	51	O
+-	T	-	T---------------------------	42	53	42	53	O
+smiltis	N	smilts	N-fpa---------n-----------l-	42	55	42	61	O
+,	T	,	T--------------------------,	42	62	42	62	O
+mālus	N	māls	N-mpa---------n-----------l-	42	64	42	68	O
+,	T	,	T--------------------------,	42	69	42	69	O
+kurus	P	kurš	P-mpa-------r---------a---l-	42	71	42	75	O
+šeit	R	šeit	R----p--------------------l-	42	77	42	80	O
+atnesušas	G	atnesis	Gsfpn--n---a--------------l-	42	82	42	90	O
+upes	N	upe	N-fpn---------n-----------l-	42	92	42	95	O
+un	C	un	C---------------------c---l-	42	97	42	98	O
+vēji	N	vējš	N-mpn---------n-----------l-	42	100	42	103	O
+.	SENT	.	T--------------------------.	42	104	42	104	O
+Vislielāko	A	liels	A-msas-y------------------f-	42	106	42	115	O
+biezumu	N	biezums	N-msa---------n-----------l-	42	117	42	123	O
+šādi	P	šāds	P-mpn-------d-------------l-	42	125	42	128	O
+nogulumi	N	nogulums	N-mpn---------n-----------l-	42	130	42	137	O
+sasniedz	V	sasniegt	Vp----3--i----------------l-	42	139	42	146	O
+lielu	A	liels	A-fpgp-n------------------l-	42	148	42	152	O
+upju	N	upe	N-fpg---------n-----------l-	42	154	42	157	O
+grīvās	N	grīva	N-fpl---------n-----------l-	42	159	42	164	O
+,	T	,	T--------------------------,	42	165	42	165	O
+jo	C	jo	C---------------------r---l-	42	167	42	168	O
+sevišķi	R	sevišķi	R----p--------------------l-	42	170	42	176	O
+planētas	N	planēta	N-fsg---------n-----------l-	42	178	42	185	O
+lielākās	A	liels	A-fpnc-y------------------l-	42	187	42	194	O
+upes	N	upe	N-fpn---------n-----------l-	42	196	42	199	O
+-	T	-	T---------------------------	42	201	42	201	O
+Amazones	N	amazone	N-fsg---------n-----------f-	42	203	42	210	B-LOC
+grīvā	N	grīva	N-fsl---------n-----------l-	42	212	42	216	I-LOC
+.	SENT	.	T--------------------------.	42	217	42	217	O
+
+
+
+
+Dziļjūras	N	dziļjūra	N-fsg---------n-----------f-	44	0	44	8	O
+daļā	N	daļa	N-fsl---------n-----------l-	44	10	44	13	O
+,	T	,	T--------------------------,	44	14	44	14	O
+pelaģiālē	-	pelaģiālē	----------------------------	44	16	44	24	O
+gultni	N	gultne	N-fsa---------n-----------l-	44	26	44	31	O
+veido	V	veidot	Vp----3--i----------------l-	44	33	44	37	O
+okeānā	N	okeāns	N-msl---------n-----------l-	44	39	44	44	O
+dzīvojošo	G	dzīvojošs	Gpmpgp-y---a--------------l-	44	46	44	54	O
+organismu	N	organisms	N-mpg---------n-----------l-	44	56	44	64	O
+atliekas	N	atlieka	N-fsg---------n-----------l-	44	66	44	73	O
+.	SENT	.	T--------------------------.	44	74	44	74	O
+Šādu	P	šāds	P-mpg-------d-------------f-	44	76	44	79	O
+nogulumu	N	nogulums	N-mpg---------n-----------l-	44	81	44	88	O
+biezums	N	biezums	N-msn---------n-----------l-	44	90	44	96	O
+variē	V	variēt	Vp----3--i----------------l-	44	98	44	102	O
+no	S	no	S----------------pdp------l-	44	104	44	105	O
+60	D	60	D--pg-----------------------	44	107	44	108	O
+līdz	S	līdz	S----------------pdp------l-	44	110	44	113	O
+3	D	3	D--p------------------------	44	115	44	115	O
+300	D	300	D--pg-----------------------	44	117	44	119	O
+metriem	N	metrs	N-mpd---------n-----------l-	44	121	44	127	O
+,	T	,	T--------------------------,	44	128	44	128	O
+lielāko	A	liels	A-mpgc-y------------------l-	44	130	44	136	O
+biezumu	N	biezums	N-msa---------n-----------l-	44	138	44	144	O
+sasniedzot	G	sasniedzot	G----------a-n------------l-	44	146	44	155	O
+vietās	N	vieta	N-fpl---------n-----------l-	44	157	44	162	O
+,	T	,	T--------------------------,	44	163	44	163	O
+kur	R	kur	R----p----------------f---l-	44	165	44	167	O
+notiek	V	notikt	Vp----3--i----------------l-	44	169	44	174	O
+apvelings	-	apvelings	----------------------------	44	176	44	184	O
+.	SENT	.	T--------------------------.	44	185	44	185	O
+
+
+
+
+Okeāna	N	okeāns	N-msg---------n-----------f-	46	0	46	5	O
+gultnē	N	gultne	N-fsl---------n-----------l-	46	7	46	12	O
+veidojas	V	veidoties	Vp----3--i-----y----------l-	46	14	46	21	O
+arī	Q	arī	Q-------------------------l-	46	23	46	25	O
+autigēni	-	autigēni	----------------------------	46	27	46	34	O
+nogulumi	N	nogulums	N-mpn---------n-----------l-	46	36	46	43	O
+-	T	-	T---------------------------	46	45	46	45	O
+nogulumi	N	nogulums	N-mpn---------n-----------l-	46	47	46	54	O
+,	T	,	T--------------------------,	46	55	46	55	O
+kas	P	kas	P---n-------r---------x---l-	46	57	46	59	O
+veidojas	V	veidoties	Vp----3--i-----y----------l-	46	61	46	68	O
+uz	S	uz	S----------------sgp------l-	46	70	46	71	O
+vietas	N	vieta	N-fsg---------n-----------l-	46	73	46	78	O
+.	SENT	.	T--------------------------.	46	79	46	79	O
+Pazīstamākie	G	pazīstams	Gpmpnc-y---p--------------f-	46	81	46	92	O
+šāda	P	šāds	P-msg-------d-------------l-	46	94	46	97	O
+veida	N	veids	N-msg---------n-----------l-	46	99	46	103	O
+nogulumi	N	nogulums	N-mpn---------n-----------l-	46	105	46	112	O
+ir	V	būt	Vp----3--i----------7-----l-	46	114	46	115	O
+mangāna	N	mangāns	N-msg---------n-----------l-	46	117	46	123	O
+konkrēcijas	-	konkrēcijas	----------------------------	46	125	46	135	O
+,	T	,	T--------------------------,	46	136	46	136	O
+kuras	P	kurš	P-fpn-------r---------o---l-	46	138	46	142	O
+veidojas	V	veidoties	Vp----3--i-----y----------l-	46	144	46	151	O
+vietās	N	vieta	N-fpl---------n-----------l-	46	153	46	158	O
+,	T	,	T--------------------------,	46	159	46	159	O
+kur	R	kur	R----p----------------f---l-	46	161	46	163	O
+pārējo	A	pārējais	A-mpgp-y------------------l-	46	165	46	170	O
+nogulumu	N	nogulums	N-mpg---------n-----------l-	46	172	46	179	O
+veidošanās	N	veidošanās	N-fsn---------n-----------l-	46	181	46	190	O
+notiek	V	notikt	Vp----3--i----------------l-	46	192	46	197	O
+ļoti	R	ļoti	R----p---------------g----l-	46	199	46	202	O
+lēni	R	lēni	R----p--------------------l-	46	204	46	207	O
+jeb	C	jeb	C---------------------c---l-	46	209	46	211	O
+kur	R	kur	R----p----------------f---l-	46	213	46	215	O
+nogulumus	N	nogulums	N-mpa---------n-----------l-	46	217	46	225	O
+pāršķiro	V	pāršķirot	Vp----3--i----------------l-	46	227	46	234	O
+straumes	N	straume	N-fpa---------n-----------l-	46	236	46	243	O
+.	SENT	.	T--------------------------.	46	244	46	244	O
+
+
+
+
+=	T	=	T--------------------------=	48	0	48	0	O
+Sāļums	N	sāļums	N-msn---------n-----------f-	48	2	48	7	O
+=	T	=	T--------------------------=	48	9	48	9	O
+
+
+
+
+Kopumā	N	kopums	N-msl---------n-----------f-	50	0	50	5	O
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	50	7	50	16	B-LOC
+okeāns	N	okeāns	N-msn---------n-----------l-	50	18	50	23	I-LOC
+ir	V	būt	Vp----3--i----------7-----l-	50	25	50	26	O
+sāļākais	A	sāļš	A-msnc-y------------------l-	50	28	50	35	O
+no	S	no	S----------------pdp------l-	50	37	50	38	O
+Zemes	N	zeme	N-fsg---------n-----------f-	50	40	50	44	B-LOC
+okeāniem	N	okeāns	N-mpd---------n-----------l-	50	46	50	53	O
+-	T	-	T---------------------------	50	55	50	55	O
+virsējā	A	virsējs	A-msgp-y------------------l-	50	57	50	63	O
+ūdens	N	ūdens	N-msn---------n-----------l-	50	65	50	69	O
+slāņa	N	slānis	N-msg---------n-----------l-	50	71	50	75	O
+sāļums	N	sāļums	N-msn---------n-----------l-	50	77	50	82	O
+variē	V	variēt	Vp----3--i----------------l-	50	84	50	88	O
+no	S	no	S----------------sgp------l-	50	90	50	91	O
+33	D	33	D--p------------------------	50	93	50	94	O
+līdz	S	līdz	S----------------sdp------l-	50	96	50	99	O
+37	D	37	D--p------------------------	50	101	50	102	O
+‰	-	‰	----------------------------	50	104	50	104	O
+,	T	,	T--------------------------,	50	105	50	105	O
+taču	C	taču	C-------------------------l-	50	107	50	110	O
+tas	P	tas	P-msn-------d-------------l-	50	112	50	114	O
+mainās	V	mainīties	Vp----3--i-----y----------l-	50	116	50	121	O
+atkarībā	N	atkarība	N-fsl---------n-----------l-	50	123	50	130	O
+no	S	no	S----------------pdp------l-	50	132	50	133	O
+klimatiskajiem	A	klimatisks	A-mpdp-y------------------l-	50	135	50	148	O
+apstākļiem	N	apstāklis	N-mpd---------n-----------l-	50	150	50	159	O
+un	C	un	C---------------------c---l-	50	161	50	162	O
+ģeogrāfiskās	A	ģeogrāfisks	A-fsgp-y------------------l-	50	164	50	175	O
+atrašanās	N	atrašanās	N-fsg---------n-----------l-	50	177	50	185	O
+vietas	N	vieta	N-fpn---------n-----------l-	50	187	50	192	O
+.	SENT	.	T--------------------------.	50	193	50	193	O
+Ūdens	N	ūdens	N-msg---------n-----------f-	50	195	50	199	O
+sāļumu	N	sāļums	N-msa---------n-----------l-	50	201	50	206	O
+palielina	V	palielināt	Vp----3--i----------------l-	50	208	50	216	O
+tādi	P	tāds	P-mpn-------d-------------l-	50	218	50	221	O
+faktori	N	faktors	N-mpn---------n-----------l-	50	223	50	229	O
+kā	C	kā	C---------------------f---l-	50	231	50	232	O
+:	T	:	T--------------------------:	50	233	50	233	O
+augsta	A	augsts	A-fsnp-n------------------l-	50	235	50	240	O
+iztvaikošana	N	iztvaikošana	N-fsn---------n-----------l-	50	242	50	253	O
+,	T	,	T--------------------------,	50	254	50	254	O
+sausums	N	sausums	N-msn---------n-----------l-	50	256	50	262	O
+,	T	,	T--------------------------,	50	263	50	263	O
+maza	A	mazs	A-msgp-n------------------l-	50	265	50	268	O
+saldūdens	N	saldūdens	N-msn---------n-----------l-	50	270	50	278	O
+pietece	-	pietece	----------------------------	50	280	50	286	O
+no	S	no	S----------------sgp------l-	50	288	50	289	O
+krasta	N	krasts	N-msg---------n-----------l-	50	291	50	296	O
+.	SENT	.	T--------------------------.	50	297	50	297	O
+Sāļumu	N	sāļums	N-msa---------n-----------f-	50	299	50	304	O
+pazemina	V	pazemināt	Vp----3--i----------------l-	50	306	50	313	O
+ledus	N	ledus	N-msg---------n-----------l-	50	315	50	319	O
+kušana	N	kušana	N-fsn---------n-----------l-	50	321	50	326	O
+,	T	,	T--------------------------,	50	327	50	327	O
+daudz	R	daudz	R----p---------------g----l-	50	329	50	333	O
+nokrišņu	N	nokrišņi	N-mpg---------n-----------l-	50	335	50	342	O
+,	T	,	T--------------------------,	50	343	50	343	O
+liela	A	liels	A-msgp-n------------------l-	50	345	50	349	O
+upju	N	upe	N-fpg---------n-----------l-	50	351	50	354	O
+ūdens	N	ūdens	N-msg---------n-----------l-	50	356	50	360	O
+pieplūde	N	pieplūde	N-fsn---------n-----------l-	50	362	50	369	O
+.	SENT	.	T--------------------------.	50	370	50	370	O
+Vismazākais	A	mazs	A-msns-y------------------f-	50	372	50	382	O
+sāļums	N	sāļums	N-msn---------n-----------l-	50	384	50	389	O
+okeānā	N	okeāns	N-msl---------n-----------l-	50	391	50	396	O
+ir	V	būt	Vp----3--i----------7-----l-	50	398	50	399	O
+ziemeļos	N	ziemelis	N-mpl---------n-----------l-	50	401	50	408	O
+no	S	no	S----------------sgp------l-	50	410	50	411	O
+ekvatora	N	ekvators	N-msg---------n-----------l-	50	413	50	420	B-LOC
+,	T	,	T--------------------------,	50	421	50	421	O
+kur	R	kur	R----p----------------f---l-	50	423	50	425	O
+līst	V	līt	Vp----3--i----------------l-	50	427	50	430	O
+daudz	R	daudz	R----p---------------g----l-	50	432	50	436	O
+lietus	N	lietus	N-msn---------n-----------l-	50	438	50	443	O
+,	T	,	T--------------------------,	50	444	50	444	O
+lielu	A	liels	A-fpgp-n------------------l-	50	446	50	450	O
+upju	N	upe	N-fpg---------n-----------l-	50	452	50	455	O
+grīvās	N	grīva	N-fpl---------n-----------l-	50	457	50	462	O
+.	SENT	.	T--------------------------.	50	463	50	463	O
+Vislielākais	A	liels	A-msvs-y------------------f-	50	465	50	476	O
+sāļums	N	sāļums	N-msn---------n-----------l-	50	478	50	483	O
+-	T	-	T---------------------------	50	485	50	485	O
+ap	S	ap	S----------------sap------l-	50	487	50	488	O
+25	D	25	D--p------------------------	50	490	50	491	O
+°	-	°	----------------------------	50	492	50	492	O
+Z	-	Z	----------------------------	50	494	50	494	O
+platuma	N	platums	N-msg---------n-----------l-	50	496	50	502	O
+grādos	N	grāds	N-mpl---------n-----------l-	50	504	50	509	O
+un	C	un	C---------------------c---l-	50	511	50	512	O
+dienvidos	N	dienvidus	N-mpl---------n-----------l-	50	514	50	522	O
+no	S	no	S----------------sgp------l-	50	524	50	525	O
+ekvatora	N	ekvators	N-msg---------n-----------l-	50	527	50	534	B-LOC
+,	T	,	T--------------------------,	50	535	50	535	O
+kur	R	kur	R----p----------------f---l-	50	537	50	539	O
+maz	R	maz	R----p---------------g----l-	50	541	50	543	O
+nokrišņu	N	nokrišņi	N-mpg---------n-----------l-	50	545	50	552	O
+un	C	un	C---------------------c---l-	50	554	50	555	O
+liela	A	liels	A-msgp-n------------------l-	50	557	50	561	O
+ūdens	N	ūdens	N-msg---------n-----------l-	50	563	50	567	O
+iztvaikošana	N	iztvaikošana	N-fsn---------n-----------l-	50	569	50	580	O
+.	SENT	.	T--------------------------.	50	581	50	581	O
+
+
+
+
+=	T	=	T--------------------------=	52	0	52	0	O
+Temperatūra	N	temperatūra	N-fsn---------n-----------f-	52	2	52	12	O
+=	T	=	T--------------------------=	52	14	52	14	O
+
+
+
+
+Ūdens	N	ūdens	N-msn---------n-----------f-	54	0	54	4	O
+virsējā	A	virsējs	A-msgp-y------------------l-	54	6	54	12	O
+slāņa	N	slānis	N-msg---------n-----------l-	54	14	54	18	O
+temperatūru	N	temperatūra	N-fsa---------n-----------l-	54	20	54	30	O
+nosaka	V	nosacīt	Vp----3--i----------------l-	54	32	54	37	O
+platuma	N	platums	N-msg---------n-----------l-	54	39	54	45	O
+grādi	N	grāds	N-mpn---------n-----------l-	54	47	54	51	O
+,	T	,	T--------------------------,	54	52	54	52	O
+straumju	N	straume	N-fpg---------n-----------l-	54	54	54	61	O
+režīms	N	režīms	N-msn---------n-----------l-	54	63	54	68	O
+,	T	,	T--------------------------,	54	69	54	69	O
+gadalaiks	N	gadalaiks	N-msn---------n-----------l-	54	71	54	79	O
+.	SENT	.	T--------------------------.	54	80	54	80	O
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	54	82	54	91	B-LOC
+okeānā	N	okeāns	N-msl---------n-----------l-	54	93	54	98	I-LOC
+temperatūra	N	temperatūra	N-fsn---------n-----------l-	54	100	54	110	O
+variē	V	variēt	Vp----3--i----------------l-	54	112	54	116	O
+no	S	no	S----------------sgp------l-	54	118	54	119	O
+-	T	-	T---------------------------	54	121	54	121	O
+2	D	2	D--p------------------------	54	122	54	122	O
+°	-	°	----------------------------	54	124	54	124	O
+C	Y	C	Y-------------------------f-	54	125	54	125	O
+līdz	S	līdz	S----------------sdp------l-	54	127	54	130	O
+29	D	29	D--p------------------------	54	132	54	133	O
+°	-	°	----------------------------	54	135	54	135	O
+C.	-	C.	----------------------------	54	136	54	137	O
+Vissiltākais	G	silts	Gsmsns-y---p--------------f-	54	139	54	150	O
+ūdens	N	ūdens	N-msn---------n-----------l-	54	152	54	156	O
+ir	V	būt	Vp----3--i----------7-----l-	54	158	54	159	O
+ziemeļos	N	ziemelis	N-mpl---------n-----------l-	54	161	54	168	O
+no	S	no	S----------------sgp------l-	54	170	54	171	O
+ekvatora	N	ekvators	N-msg---------n-----------l-	54	173	54	180	B-LOC
+un	C	un	C---------------------c---l-	54	182	54	183	O
+visaukstākais	A	auksts	A-msns-y------------------l-	54	185	54	197	O
+-	T	-	T---------------------------	54	199	54	199	O
+polārajos	A	polārs	A-mplp-y------------------l-	54	201	54	209	O
+reģionos	N	reģions	N-mpl---------n-----------l-	54	211	54	218	O
+.	SENT	.	T--------------------------.	54	219	54	219	O
+
+
+
+
+=	T	=	T--------------------------=	56	0	56	0	O
+Straumes	N	straume	N-fsg---------n-----------f-	56	2	56	9	O
+=	T	=	T--------------------------=	56	11	56	11	O
+
+
+
+
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	58	0	58	9	B-LOC
+okeāna	N	okeāns	N-msg---------n-----------l-	58	11	58	16	I-LOC
+straumju	N	straume	N-fpg---------n-----------l-	58	18	58	25	O
+režīms	N	režīms	N-msn---------n-----------l-	58	27	58	32	O
+lielā	A	liels	A-mslp-n------------------l-	58	34	58	38	O
+mērā	N	mērs	N-msl---------n-----------l-	58	40	58	43	O
+nosaka	V	nosacīt	Vp----3--i----------------l-	58	45	58	50	O
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	58	52	58	61	B-LOC
+okeāna	N	okeāns	N-msg---------n-----------l-	58	63	58	68	I-LOC
+piekrastes	N	piekraste	N-fsg---------n-----------l-	58	70	58	79	O
+reģionu	N	reģions	N-msa---------n-----------l-	58	81	58	87	O
+klimatu	N	klimats	N-msa---------n-----------l-	58	89	58	95	O
+,	T	,	T--------------------------,	58	96	58	96	O
+augu	A	augu	A-msap-n------------------l-	58	98	58	101	O
+un	C	un	C---------------------c---l-	58	103	58	104	O
+dzīvnieku	N	dzīvnieks	N-msa---------n-----------l-	58	106	58	114	O
+valsti	N	valsts	N-fsa---------n-----------l-	58	116	58	121	O
+un	C	un	C---------------------c---l-	58	123	58	124	O
+līdz ar to	-	līdz_ar_to	----------------------------	58	126	58	135	O
+-	T	-	T---------------------------	58	137	58	137	O
+okeāna	N	okeāns	N-msg---------n-----------l-	58	139	58	144	O
+krastā	N	krasts	N-msl---------n-----------l-	58	146	58	151	O
+dzīvojušo	G	dzīvojis	Gsfpg--y---a--------------l-	58	153	58	161	O
+civilizāciju	N	civilizācija	N-fsa---------n-----------l-	58	163	58	174	O
+vēsturi	N	vēsture	N-fsa---------n-----------l-	58	176	58	182	O
+,	T	,	T--------------------------,	58	183	58	183	O
+saimniecību	N	saimniecība	N-fsa---------n-----------l-	58	185	58	195	O
+.	SENT	.	T--------------------------.	58	196	58	196	O
+Lielu	N	liels	N-msa---------n-----------f-	58	198	58	202	O
+,	T	,	T--------------------------,	58	203	58	203	O
+pozitīvu	N	pozitīvs	N-msa---------n-----------l-	58	205	58	212	O
+ietekmi	N	ietekme	N-fsa---------n-----------l-	58	214	58	220	O
+uz	S	uz	S----------------sap------l-	58	222	58	223	O
+Eiropas	N	Eiropa	N-fsg---------n-----------f-	58	225	58	231	B-LOC
+vēsturi	N	vēsture	N-fsa---------n-----------l-	58	233	58	239	O
+un	C	un	C---------------------c---l-	58	241	58	242	O
+saimniecību	N	saimniecība	N-fsa---------n-----------l-	58	244	58	254	O
+atstājusi	G	atstājis	Gsfsn--n---a--------------l-	58	256	58	264	O
+siltā	G	silts	Gsmsgp-y---p--------------l-	58	266	58	270	O
+Golfa	N	golfs	N-msg---------n-----------f-	58	272	58	276	B-LOC
+straume	N	straume	N-fsn---------n-----------l-	58	278	58	284	I-LOC
+un	C	un	C---------------------c---l-	58	286	58	287	O
+Ziemeļatlantijas	N	Ziemeļatlantija	N-fsg---------n-----------f-	58	289	58	304	B-LOC
+straume	N	straume	N-fsn---------n-----------l-	58	306	58	312	I-LOC
+,	T	,	T--------------------------,	58	313	58	313	O
+savukārt	R	savukārt	R----p--------------------l-	58	315	58	322	O
+Āfrikas	N	Āfrika	N-fsg---------n-----------f-	58	324	58	330	B-LOC
+ziemeļrietumu	N	ziemeļrietumi	N-mpg---------n-----------l-	58	332	58	344	O
+piekrasti	N	piekraste	N-fsa---------n-----------l-	58	346	58	354	O
+tuksnesīgu	A	tuksnesīgs	A-fsap-n------------------l-	58	356	58	365	O
+un	C	un	C---------------------c---l-	58	367	58	368	O
+saimniecībai	N	saimniecība	N-fsd---------n-----------l-	58	370	58	381	O
+maz	R	maz	R----p---------------g----l-	58	383	58	385	O
+piemērotu	A	piemērots	A-fsap-n------------------l-	58	387	58	395	O
+darījusi	G	darījis	Gsfsn--n---a--------------l-	58	397	58	404	O
+arī	Q	arī	Q-------------------------l-	58	406	58	408	O
+vēsā	A	vēss	A-fslp-n------------------l-	58	410	58	413	O
+Kanāriju	N	Kanārija	N-fsa---------n-----------f-	58	415	58	422	B-LOC
+straume	N	straume	N-fsn---------n-----------l-	58	424	58	430	I-LOC
+.	SENT	.	T--------------------------.	58	431	58	431	O
+
+
+
+
+Savdabīgs	A	savdabīgs	A-msnp-n------------------f-	60	0	60	8	O
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	60	10	60	19	B-LOC
+okeāna	N	okeāns	N-msg---------n-----------l-	60	21	60	26	I-LOC
+reģions	N	reģions	N-msn---------n-----------l-	60	28	60	34	O
+ir	V	būt	Vp----3--i----------7-----l-	60	36	60	37	O
+Sargasu	-	Sargasu	----------------------------	60	39	60	45	B-LOC
+jūra	N	jūra	N-fsn---------n-----------l-	60	47	60	50	I-LOC
+-	T	-	T---------------------------	60	52	60	52	O
+liela	A	liels	A-fsnp-n------------------l-	60	54	60	58	O
+,	T	,	T--------------------------,	60	59	60	59	O
+straumju	N	straume	N-fpg---------n-----------l-	60	61	60	68	O
+izolēta	G	izolēts	Gsmsgp-n---p--------------l-	60	70	60	76	O
+ūdens	N	ūdens	N-msg---------n-----------l-	60	78	60	82	O
+platība	N	platība	N-fsn---------n-----------l-	60	84	60	90	O
+,	T	,	T--------------------------,	60	91	60	91	O
+kurā	P	kurš	P-fsl-------r---------a---l-	60	93	60	96	O
+ūdens	N	ūdens	N-msg---------n-----------l-	60	98	60	102	O
+sāļums	N	sāļums	N-msn---------n-----------l-	60	104	60	109	O
+ir	V	būt	Vp----3--i----------7-----l-	60	111	60	112	O
+jūtami	G	jūtams	Gpmpnp-n---p--------------l-	60	114	60	119	O
+augstāks	A	augstāks	A-msnp-n------------------l-	60	121	60	128	O
+nekā	C	nekā	C---------------------w---l-	60	130	60	133	O
+ap	S	ap	S----------------sap------l-	60	135	60	136	O
+to	P	tas	P-msa-------d-------------l-	60	138	60	139	O
+.	SENT	.	T--------------------------.	60	140	60	140	O
+
+
+
+
+Klimats	N	klimats	N-msn---------n-----------f-	62	0	62	6	O
+
+
+
+
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	64	0	64	9	B-LOC
+okeāna	N	okeāns	N-msg---------n-----------l-	64	11	64	16	I-LOC
+un	C	un	C---------------------c---l-	64	18	64	19	O
+tā	P	tas	P-msg-------d-------------l-	64	21	64	22	O
+piekrastes	N	piekraste	N-fsg---------n-----------l-	64	24	64	33	O
+reģionu	N	reģions	N-msa---------n-----------l-	64	35	64	41	O
+klimatu	N	klimats	N-msa---------n-----------l-	64	43	64	49	O
+nosaka	V	nosacīt	Vp----3--i----------------l-	64	51	64	56	O
+ūdens	N	ūdens	N-msg---------n-----------l-	64	58	64	62	O
+virsējā	A	virsējs	A-msgp-y------------------l-	64	64	64	70	O
+slāņa	N	slānis	N-msg---------n-----------l-	64	72	64	76	O
+temperatūra	N	temperatūra	N-fsn---------n-----------l-	64	78	64	88	O
+,	T	,	T--------------------------,	64	89	64	89	O
+okeāna	N	okeāns	N-msg---------n-----------l-	64	91	64	96	O
+straumes	N	straume	N-fsg---------n-----------l-	64	98	64	105	O
+un	C	un	C---------------------c---l-	64	107	64	108	O
+vēju	N	vējš	N-mpg---------n-----------l-	64	110	64	113	O
+virzieni	N	virziens	N-mpn---------n-----------l-	64	115	64	122	O
+.	SENT	.	T--------------------------.	64	123	64	123	O
+Tā	R	tā	R----p--------------------f-	64	125	64	126	O
+kā	R	kā	R----p--------------------l-	64	128	64	129	O
+ūdens	N	ūdens	N-msn---------n-----------l-	64	131	64	135	O
+ir	V	būt	Vp----3--i----------7-----l-	64	137	64	138	O
+viela	N	viela	N-fsn---------n-----------l-	64	140	64	144	O
+ar	S	ar	S----------------sap------l-	64	146	64	147	O
+augstu	A	augsts	A-fsap-n------------------l-	64	149	64	154	O
+siltumietilpību	N	siltumietilpība	N-fsa---------n-----------l-	64	156	64	170	O
+,	T	,	T--------------------------,	64	171	64	171	O
+jūras	N	jūra	N-fsg---------n-----------l-	64	173	64	177	O
+piekrastē	N	piekraste	N-fsl---------n-----------l-	64	179	64	187	O
+klimats	N	klimats	N-msn---------n-----------l-	64	189	64	195	O
+ir	V	būt	Vp----3--i----------7-----l-	64	197	64	198	O
+mērens	A	mērens	A-msnp-n------------------l-	64	200	64	205	O
+,	T	,	T--------------------------,	64	206	64	206	O
+tam	P	tas	P-msd-------d-------------l-	64	208	64	210	O
+nepiemīt	V	nepiemist	Vp----3--i------y---------l-	64	212	64	219	O
+krasas	A	krass	A-fpap-n------------------l-	64	221	64	226	O
+sezonālas	A	sezonāls	A-fpnp-n------------------l-	64	228	64	236	O
+izmaiņas	N	izmaiņa	N-fpa---------n-----------l-	64	238	64	245	O
+.	SENT	.	T--------------------------.	64	246	64	246	O
+
+
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	66	0	66	9	B-LOC
+okeāna	N	okeāns	N-msg---------n-----------l-	66	11	66	16	I-LOC
+un	C	un	C---------------------c---l-	66	18	66	19	O
+tā	P	tas	P-msg-------d-------------l-	66	21	66	22	O
+piekrastes	N	piekraste	N-fsg---------n-----------l-	66	24	66	33	O
+temperatūru	N	temperatūra	N-fsa---------n-----------l-	66	35	66	45	O
+nosaka	V	nosacīt	Vp----3--i----------------l-	66	47	66	52	O
+galvenokārt	R	galvenokārt	R----p--------------------l-	66	54	66	64	O
+platuma	N	platums	N-msg---------n-----------l-	66	66	66	72	O
+grādi	N	grāds	N-mpn---------n-----------l-	66	74	66	78	O
+.	SENT	.	T--------------------------.	66	79	66	79	O
+Reģioni	N	reģions	N-mpn---------n-----------f-	66	81	66	87	O
+,	T	,	T--------------------------,	66	88	66	88	O
+kas	P	kas	P---n-------r---------x---l-	66	90	66	92	O
+ir	V	būt	Vp----3--i----------7-----l-	66	94	66	95	O
+visattālākie	A	attāls	A-mpns-y------------------l-	66	97	66	108	O
+no	S	no	S----------------pdp------l-	66	110	66	111	O
+ekvatora	N	ekvators	N-msg---------n-----------l-	66	113	66	120	B-LOC
+,	T	,	T--------------------------,	66	121	66	121	O
+ir	V	būt	Vp----3--i----------7-----l-	66	123	66	124	O
+visaukstākie	A	auksts	A-mpns-y------------------l-	66	126	66	137	O
+,	T	,	T--------------------------,	66	138	66	138	O
+vissiltākais	G	silts	Gsmsns-y---p--------------l-	66	140	66	151	O
+ir	V	būt	Vp----3--i----------7-----l-	66	153	66	154	O
+reģions	N	reģions	N-msn---------n-----------l-	66	156	66	162	O
+ziemeļos	N	ziemelis	N-mpl---------n-----------l-	66	164	66	171	O
+no	S	no	S----------------sgp------l-	66	173	66	174	O
+ekvatora	N	ekvators	N-msg---------n-----------l-	66	176	66	183	B-LOC
+.	SENT	.	T--------------------------.	66	184	66	184	O
+Aukstākajos	A	auksts	A-mplc-y------------------f-	66	186	66	196	O
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	66	198	66	207	B-LOC
+okeāna	N	okeāns	N-msg---------n-----------l-	66	209	66	214	I-LOC
+reģionos	N	reģions	N-mpl---------n-----------l-	66	216	66	223	O
+nereti	R	nereti	R----p----------y---------l-	66	225	66	230	O
+veidojas	V	veidoties	Vp----3--i-----y----------l-	66	232	66	239	O
+ledus	N	ledus	N-msn---------n-----------l-	66	241	66	245	O
+.	SENT	.	T--------------------------.	66	246	66	246	O
+Ziemās	N	ziema	N-fpl---------n-----------f-	66	248	66	253	B-DATE
+ledus	N	ledus	N-msn---------n-----------l-	66	255	66	259	O
+klāj	V	klāt	Vp----3--i----------------l-	66	261	66	264	O
+daļu	N	daļa	N-fsa---------n-----------l-	66	266	66	269	O
+no	S	no	S----------------sgp------l-	66	271	66	272	O
+Labradoras	-	Labradoras	----------------------------	66	274	66	283	B-LOC
+jūras	N	jūra	N-fsg---------n-----------l-	66	285	66	289	I-LOC
+un	C	un	C---------------------c---l-	66	291	66	292	O
+Dāņu	N	dānis	N-mpg---------n-----------f-	66	294	66	297	B-LOC
+šauruma	N	šaurums	N-msg---------n-----------l-	66	299	66	305	I-LOC
+.	SENT	.	T--------------------------.	66	306	66	306	O
+Arktikas	N	Arktika	N-fsg---------n-----------f-	66	308	66	315	B-LOC
+aisbergi	N	aisbergs	N-mpn---------n-----------l-	66	317	66	324	O
+nereti	R	nereti	R----p----------y---------l-	66	326	66	331	O
+nokļūst	V	nokļūt	Vp----3--i----------------l-	66	333	66	339	O
+pat	Q	pat	Q-------------------------l-	66	341	66	343	O
+līdz	S	līdz	S----------------pdp------l-	66	345	66	348	O
+Madeirai	N	madeira	N-fsd---------n-----------f-	66	350	66	357	B-LOC
+un	C	un	C---------------------c---l-	66	359	66	360	O
+Bermudu	N	Bermudas	N-fpg---------n-----------f-	66	362	66	368	B-LOC
+salām	N	sala	N-fpd---------n-----------l-	66	370	66	374	I-LOC
+.	SENT	.	T--------------------------.	66	375	66	375	O
+
+
+
+
+Lielā	A	liels	A-mslp-n------------------f-	68	0	68	4	O
+mērā	N	mērs	N-msl---------n-----------l-	68	6	68	9	O
+klimatu	N	klimats	N-msa---------n-----------l-	68	11	68	17	O
+nosaka	V	nosacīt	Vp----3--i----------------l-	68	19	68	24	O
+arī	Q	arī	Q-------------------------l-	68	26	68	28	O
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	68	30	68	39	B-LOC
+okeāna	N	okeāns	N-msg---------n-----------l-	68	41	68	46	I-LOC
+straumes	N	straume	N-fsg---------n-----------l-	68	48	68	55	O
+-	T	-	T---------------------------	68	57	68	57	O
+Ziemeļeiropā	N	Ziemeļeiropa	N-fsl---------n-----------f-	68	59	68	70	B-LOC
+klimats	N	klimats	N-msn---------n-----------l-	68	72	68	78	O
+ir	V	būt	Vp----3--i----------7-----l-	68	80	68	81	O
+salīdzinoši	G	salīdzinošs	Gpmpnp-n---a--------------l-	68	83	68	93	O
+maigāks	A	maigs	A-msnc-n------------------l-	68	95	68	101	O
+un	C	un	C---------------------c---l-	68	103	68	104	O
+siltāks	G	silts	Gsmsnc-n---p--------------l-	68	106	68	112	O
+pateicoties	G	pateicoties	G----------a-n-y----------l-	68	114	68	124	O
+siltajai	A	silts	A-fsdp-y------------------l-	68	126	68	133	O
+Ziemeļatlantijas	N	Ziemeļatlantija	N-fsg---------n-----------f-	68	135	68	150	B-LOC
+straumei	N	straume	N-fsd---------n-----------l-	68	152	68	159	I-LOC
+.	SENT	.	T--------------------------.	68	160	68	160	O
+Savukārt	R	savukārt	R----p--------------------f-	68	162	68	169	O
+aukstās	A	auksts	A-fsgp-y------------------l-	68	171	68	177	O
+straumes	N	straume	N-fpn---------n-----------l-	68	179	68	186	O
+padara	V	padarīt	Vp----3--i----------------l-	68	188	68	193	O
+Kanādas	N	Kanāda	N-fsg---------n-----------f-	68	195	68	201	B-LOC
+austrumu	N	austrumi	N-mpg---------n-----------l-	68	203	68	210	O
+piekrasti	N	piekraste	N-fsa---------n-----------l-	68	212	68	220	O
+salīdzinoši	R	salīdzinoši	R----p--------------------l-	68	222	68	232	O
+aukstāku	A	auksts	A-fsac-n------------------l-	68	234	68	241	O
+,	T	,	T--------------------------,	68	242	68	242	O
+te	R	te	R----p--------------------l-	68	244	68	245	O
+biežāk	R	bieži	R----c--------------------l-	68	247	68	252	O
+ir	V	būt	Vp----3--i----------7-----l-	68	254	68	255	O
+migla	N	migla	N-fsn---------n-----------l-	68	257	68	261	O
+.	SENT	.	T--------------------------.	68	262	68	262	O
+
+
+
+
+Ziemeļatlantijas	N	Ziemeļatlantija	N-fsg---------n-----------f-	70	0	70	15	B-LOC
+dienvidu	N	dienvidus	N-msa---------n-----------l-	70	17	70	24	O
+daļā	N	daļa	N-fsl---------n-----------l-	70	26	70	29	O
+veidojas	V	veidoties	Vp----3--i-----y----------l-	70	31	70	38	O
+spēcīgas	A	spēcīgs	A-fpnp-n------------------l-	70	40	70	47	O
+viesuļvētras	N	viesuļvētra	N-fpn---------n-----------l-	70	49	70	60	O
+,	T	,	T--------------------------,	70	61	70	61	O
+kas	P	kas	P---n-------r---------x---l-	70	63	70	65	O
+regulāri	R	regulāri	R----p--------------------l-	70	67	70	74	O
+skar	V	skart	Vp----3--i----------------l-	70	76	70	79	O
+Karību	N	Karību	N-mpg---------n-----------f-	70	81	70	86	B-LOC
+jūras	N	jūra	N-fsg---------n-----------l-	70	88	70	92	I-LOC
+salas	N	sala	N-fpa---------n-----------l-	70	94	70	98	I-LOC
+.	SENT	.	T--------------------------.	70	99	70	99	O
+
+
+
+
+Pastāv	V	pastāvēt	Vp----3--i----------------f-	72	0	72	5	O
+uzskati	N	uzskats	N-mpn---------n-----------l-	72	7	72	13	O
+un	C	un	C---------------------c---l-	72	15	72	16	O
+virkne	N	virkne	N-fsn---------n-----------l-	72	18	72	23	O
+leģendu	N	leģenda	N-fsa---------n-----------l-	72	25	72	31	O
+par	S	par	S----------------sap------l-	72	33	72	35	O
+Bermudu	N	Bermuds	N-msa---------n-----------f-	72	37	72	43	B-LOC
+trijstūri	N	trijstūris	N-msa---------n-----------l-	72	45	72	53	I-LOC
+kā	C	kā	C---------------------f---l-	72	55	72	56	O
+par	S	par	S----------------sap------l-	72	58	72	60	O
+mistisku	A	mistisks	A-fsap-n------------------l-	72	62	72	69	O
+vietu	N	vieta	N-fsa---------n-----------l-	72	71	72	75	O
+,	T	,	T--------------------------,	72	76	72	76	O
+kurā	P	kurš	P-fsl-------r---------a---l-	72	78	72	81	O
+notiek	V	notikt	Vp----3--i----------------l-	72	83	72	88	O
+daudz	R	daudz	R----p---------------g----l-	72	90	72	94	O
+neizskaidrojamu	G	neizskaidrojams	Gpmpgp-n---p----y---------l-	72	96	72	110	O
+kuģu	N	kuģis	N-mpg---------n-----------l-	72	112	72	115	O
+un	C	un	C---------------------c---l-	72	117	72	118	O
+lidmašīnu	N	lidmašīna	N-fpg---------n-----------l-	72	120	72	128	O
+katastrofu	N	katastrofa	N-fsa---------n-----------l-	72	130	72	139	O
+-	T	-	T---------------------------	72	141	72	141	O
+tomēr	C	tomēr	C-------------------------l-	72	143	72	147	O
+,	T	,	T--------------------------,	72	148	72	148	O
+šie	P	šis	P-mpn-------d-------------l-	72	150	72	152	O
+negadījumi	N	negadījums	N-mpn---------n-y---------l-	72	154	72	163	O
+saistāmi	G	saistāms	Gpmpnp-n---p--------------l-	72	165	72	172	O
+ar	S	ar	S----------------sap------l-	72	174	72	175	O
+ļoti	R	ļoti	R----p---------------g----l-	72	177	72	180	O
+intensīvo	A	intensīvs	A-fsap-y------------------l-	72	182	72	190	O
+satiksmi	N	satiksme	N-fsa---------n-----------l-	72	192	72	199	O
+reģionā	N	reģions	N-msl---------n-----------l-	72	201	72	207	O
+,	T	,	T--------------------------,	72	208	72	208	O
+viesuļvētrām	N	viesuļvētra	N-fpd---------n-----------l-	72	210	72	221	O
+un	C	un	C---------------------c---l-	72	223	72	224	O
+citādi	R	citādi	R----p--------------------l-	72	226	72	231	O
+nelabvēligiem	-	nelabvēligiem	----------------------------	72	233	72	245	O
+laika	N	laiks	N-msg---------n-----------l-	72	247	72	251	O
+apstākļiem	N	apstāklis	N-mpd---------n-----------l-	72	253	72	262	O
+.	SENT	.	T--------------------------.	72	263	72	263	O

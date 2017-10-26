@@ -1,0 +1,66 @@
+﻿Kas ir interneta satura filtrs?
+Interneta filtrs (pazīstams arī kā vecāku kontroles programmatūra) vienkārši kontrolē, kāda satura interneta lapas iespējams apskatīt ģimenes datorā, un kontrolē arī lietotāja piekļuvi šim saturam.
+Dažiem progresīvākajiem filtriem var iestatīt papildu iespējas:
+Bloķēt vai novērot piekļuvi tiešsaistes lietojumprogrammām, piemēram, tērzētavām, intereškopām vai tiešsaistes ziņojumapmaiņai.
+Bloķēt personiskas informācijas (vārdu, adrešu, telefona numuru) uzrādīšanu.
+Novērst neautorizētu lejupielādi.
+Fiksēt aktivitātes internetā un automātiski nosūtīt brīdinājuma e-pastus, kad atrasti neatbilstoši materiāli.
+Vairums filtru iespējams aizsargāt ar paroli, lai bērni tos nevarētu apiet.
+Kā darbojas filtri?
+Ir trīs dažādi veidi, kādos darbojas interneta filtri:
+Melnie saraksti – Melnais saraksts ir saraksts ar tām tīmekļa vietnēm, par kurām zināms, ka to saturs ir nevēlams. Filtrs salīdzina vietnes adresi ar melno sarakstu un, ja tiek atrasta sakritība, lietotājam tiek liegta pieeja vietnei.
+Baltie saraksti – Baltais saraksts ir melnā pretstats. Tas satur sarakstu ar tām tīmekļa vietnēm, par kurām zināms, ka to saturs nav nevēlams. Filtrs liegs pieeju jebkurai tīmekļa vietnei, kas nav uzskaitīta baltajā sarakstā.
+Parametru satura filtri – Šie filtri pārmeklē tīmekļa vietni, pirms tā tiek parādīta. Tie meklē nevēlamus atslēgas vārdus, frāzes un/vai vietnes ar procentuāli lielu miesas krāsas attēlu skaitu.Ja vietnes saturs neatbilst filtrā nodefinētajam pieņemamajam līmenim, lietotājam tiek liegta pieeja vietnei.
+Vispārīgi satura filtra darbība ir šāda:
+Cik efektīvi ir interneta filtri?
+Interneta filtri nebūs 100% efektīvi bērniem nevēlama interneta satura bloķēšanā. Atkarībā no filtra tipa, var izrādīties, ka nevēlams saturs netiek bloķēts, vai arī filtrs ierobežo piekļuvi vietnēm, kuras vēlaties apmeklēt. Lai no tā izvairītos, daudzi interneta filtri izmanto melno sarakstu, balto sarakstu un satura filtru kombināciju. Dažādo pieeju rezultāts ir šāds:
+Baltie saraksti visefektīvāk aiztur nevēlamus materiālus, taču ir visierobežojošākie; un
+Melnie saraksti apvienojumā ar satura filtriem ir populārākais risinājums, jo tie bloķē lielāko tiesu nevēlamā satura un ļauj apskatīt lielāko tiesu pieļaujamo materiālu.
+Iespējams, ka visefektīvākie ir tie interneta filtri, kas apvieno visas trīs filtrēšanas metodes. Piemēram, jūs itin viegli atradīsiet filtru, kurā ir vienkārši izveidojams profils katram bērnam jūsu ģimenē. Bērniem pēc vajadzības var noteikt pašiem savu filtrēšanas līmeni. Kad viņi ielogojas sistēmā, viņus sagaida viņiem paredzētais pieejas līmenis.
+Kāda veida filtru lietot?
+Pieejami ir daudz un dažādi filtri, un tie visi piedāvā plašu filtrēšanas funkciju klāstu. Lai labāk izvēlētos filtru, apsveriet jūsu ģimenes situāciju un nosakiet, kāda veida funkcijas filtram būtu jāpilda. Piemēram:
+Kādas (kādu) vecuma grupu pārstāvis (pārstāvji) lietos internetu, un kāda veida saturs būtu jāfiltrē, lai tas viņus nesasniegtu?
+Vai jūs vēlaties pievienot nevēlamās vietnes melnajam sarakstam, vai vēlamās – baltajam sarakstam?
+Vai jums nepieciešamas papildus iespējas, piemēram, uznirstošo logu bloķētājs vai vīrusu aizsardzība?
+Vai filtram jābloķē vai jānovēro pieeja citām lietojumprogrammām, piemēram, tērzētavām?
+Pieejamie satura filtri
+Sadarbībā ar <ENAMEX TYPE="PRODUCT">Nākotnes parku</ENAMEX> esam izveidojuši materiālu vecākiem par Interneta satura filtriem. Materiāls ir pieejams gan lasīšanai, šeit >>> , gan kā informatīvi izglītojošs video materiāls mūsu video sadaļā, šeit >>> .
+Ir pieejami 5 secīgi sižeti, kas sniedz vispārīgu informāciju par to, kas ir satura filtri un kāpēc tos izmantot, kādi satura filtri ir pieejami; apkopots populārāko satura filtru testa rezultāts (testu veikuši neatkarīgi eksperti), kā arī vecāku viedoklis par satura filtru lietošanas nepieciešamību. Zemāk pieejams īss satura filtru apraksts un efektivitātes apkopojums.
+Nosaukums
+Pieejams:
+Atvērtā koda bezmaksas programma
+<ENAMEX TYPE="PRODUCT">Windows Vista Parental Controls</ENAMEX>
+Integrēts satura kontroles risinājums. Ietver interneta filtrēšanu, datora lietošanas laika ierobežošanu, kā arī noteikta rakstura spēļu un citu datorprogrammu bloķēšanu. <ENAMEX TYPE="PRODUCT">Vista</ENAMEX> filtra iespējas ir pieticīgas, bet konfigurācija ir vienkārša un labi saprotama <ENAMEX TYPE="PRODUCT">Windows Vista</ENAMEX> filtram ir divi darbības varianti:
+1. atļaut pieeju tikai īpaši norādītām „labajām” vietnēm
+2. uzticēt filtrēšanu automatizētam satura filtram.
+Ja pirmais variants, dabiski, ir efektīvs, tad automatizētā filtrēšana izrādījās diezgan bezzobaina ne-anglisko lapu gadījumā, rezultāts – 54%.
+Ja esat <ENAMEX TYPE="PRODUCT">Windows Vista</ENAMEX> īpašnieks risinājums pieejams bez maksas
+<ENAMEX TYPE="PRODUCT">CyberPatrol Parental Controls 7</ENAMEX>
+2. smalki izstrādātas filtrēšanas opcijas u.tml.
+Tērzēšanas kontrole, darbosies tikai tad, ja vecāki aizpildīs slikto latviešu vārdu tabulu programmā, jo latviešu valodu pēc noklusējuma programma nesaprot.
+Pieejams:
+Licence 3 datoriem uz <TIMEX TYPE="DATE">1 gadu</TIMEX> ~ <NUMEX TYPE="MONEY">LVL 20</NUMEX>
+<ENAMEX TYPE="PRODUCT">ContentWatch Net Nanny</ENAMEX>
+1. satura filtrus
+3. spēļu un lejuplādēšanas programmu ierobežošanu,
+4. laika kontroli.
+Līderis interneta filtrēšanā un lietotāja kontroles funkcionalitātē ārvalstu IT portālu apskatos.
+Pieejams:
+Funkcionāli programma ir bagātākā un piedāvā novatoriskus risinājumus satura filtrēšanā. Ar patiesi sliktajām lapām šī programma lieliski tiek galā, bet caur <ENAMEX TYPE="PRODUCT">Net Nanny</ENAMEX> aizsargmehānismiem izspraucās gandrīz visas interneta vietnes, kuras primāri uztveramas kā izklaides portāli, tomēr satur erotiku un vardarbību. Testa rezultāts – tikai 46%.
+Licence 1 datoram uz <TIMEX TYPE="DATE">1 gadu</TIMEX> ~ <NUMEX TYPE="MONEY">LVL 20</NUMEX>
+<ENAMEX TYPE="PRODUCT">Internet Safety Safe Eyes</ENAMEX>
+<ENAMEX TYPE="PRODUCT">Safe Eyes</ENAMEX> ir viena no populārākajām maksas programmām un pēc funkcionalitātes tā daudz neatšķiras no saviem konkurentiem (<ENAMEX TYPE="PRODUCT">ContentWatch Net Nanny</ENAMEX>; <ENAMEX TYPE="PRODUCT">CyberPatrol Parental Controls 7</ENAMEX>)
+Pieejams:
+Licence 1 datoram uz <TIMEX TYPE="DATE">1 gadu</TIMEX> ~ <NUMEX TYPE="MONEY">LVL 25</NUMEX>
+<ENAMEX TYPE="PRODUCT">Kaspersky Internet Security 2009</ENAMEX>
+<ENAMEX TYPE="PRODUCT">Kaspersky Internet Security 2009</ENAMEX> pamata funkcionalitāte ir aizsardzība pret vīrusiem un interneta satura filts ir daļa no šīs daudzfunkcionālās programmas.
+Pieejams:
+Licence 2 datoriem uz <TIMEX TYPE="DATE">1 gadu</TIMEX> ~ <NUMEX TYPE="MONEY">LVL 35</NUMEX>
+<ENAMEX TYPE="PRODUCT">WhiteNet</ENAMEX>
+<ENAMEX TYPE="PRODUCT">WhiteNet</ENAMEX> – <ENAMEX TYPE="LOCATION">Latvijā</ENAMEX> izstrādāts produkts ar latviešu valodu un vienkāršu lietojamību.
+<ENAMEX TYPE="PRODUCT">WhiteNet</ENAMEX> ir salīdzinoši vienkārša lietošanā, jo lietotājam ir jāveic maz uzstādījumus un tā ir pilnībā latviskota. <ENAMEX TYPE="PRODUCT">WhiteNet</ENAMEX> būs vienkāršākais tiem, kas nav datora lietošanas speciālisti. Jāņem vērā, ka <ENAMEX TYPE="PRODUCT">WhiteNet</ENAMEX> izstrādātāji programmu pilnveido, un tā pašreiz nestrādā ar <ENAMEX TYPE="PRODUCT">Google Chrome</ENAMEX> interneta pārlūku, kā arī ar <ENAMEX TYPE="PRODUCT">Windows Vista</ENAMEX> un <ENAMEX TYPE="PRODUCT">Windows</ENAMEX> 7operētājsistēmu.
+Pieejams:
+Licence 1 datoram uz <TIMEX TYPE="DATE">1 gadu</TIMEX> ~ <NUMEX TYPE="MONEY">LVL 25</NUMEX>
+Savam interneta pakalpojuma sniedzējam jums ir tiesības pieprasīt bezmaksas satura filtru uzstādīšanu!
+Saskaņā ar <ENAMEX TYPE="PRODUCT">LR Elektronisko sakaru likuma</ENAMEX> 19.panta 1.daļas 17.apakšpunktu, jums ir tiesības savam interneta pakalpojuma sniedzējam pieprasīt bezmaksas filtru uzstādīšanu „Elektronisko sakaru komersanta pienākums ir informēt lietotāju par iespēju uzstādīt satura filtru, kas ierobežo tādu materiālu pieejamību, kuros propagandēta cietsirdīga uzvedība, vardarbība, erotika, pornogrāfija un kuri rada draudus bērna garīgajai attīstībai, kā arī nodrošināt bezmaksas satura filtra uzstādīšanu, ja abonents to pieprasa no elektronisko sakaru komersanta.„ (pieejams: http://www.likumi.lv/doc.php?id=96611 )
+Internets ir:

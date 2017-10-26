@@ -1,0 +1,56 @@
+﻿Šeit ir atbildes uz dažiem bieži uzdotiem jautājumiem par bezvadu tīkliem.
+Tīklu var veidot viens dators, kas savienots ar internetu, vai divi vai vairāki datori, kas savienoti cits ar citu (un ar internetu). Bezvadu tīklā datorus savieno radio signāli, nevis vadi vai kabeļi. Bezvadu tīklu priekšrocības ir mobilitāte un bezvadu savienojums. Kā trūkumus var minēt lēnāku savienojumu nekā vadu tīklā un traucējumus, ko rada citas bezvadu ierīces, piemēram, bezvadu tālruņi.
+Bezvadu tīkls ar koplietotu interneta savienojumu
+802.11b
+Priekšrocības
+Iespējams mazāks vienlaicīgu lietotāju skaits
+Izmanto 2,4 gigahercu (GHz) frekvenci (tāpat kā daudzas mikroviļņu krāsnis, bezvadu tālruņi un cita aparatūra), kas var radīt traucējumus
+802.11a
+Izmanto 5 GHz frekvenci, tādējādi tiek ierobežoti citu ierīču radīti traucējumi
+Trūkumi
+Nav saderīga ar 802.11b tīkla adapteriem, maršrutētājiem un piekļuves punktiem
+802.11g
+Iespējams lielāks vienlaicīgu lietotāju skaits
+Labs signāla diapazons, iespējami mazāki traucējumi
+Saderīgs ar 802.11b tīkla adapteriem, maršrutētājiem un piekļuves punktiem
+Trūkumi
+802.11n
+Ātrums
+Atkarībā no aparatūras atbalstīto datu straumju skaita 802.11n var pārraidīt datus ar ātrumu līdz 150 Mb/s, 300 Mb/s, 450 Mb/s vai 600 Mb/s
+Priekšrocības
+Iespējams lielāks vienlaicīgu lietotāju skaits
+Vislabākais signāla diapazons ar mazākajiem traucējumiem
+Noturīgs pret traucējumiem no citām ierīcēm
+Var izmantot gan 2,4 GHz, gan 5,0 GHz frekvenci
+Ja izmanto 2,4 GHz frekvenci, ir saderīga ar 802.11g tīkla adapteriem, maršrutētājiem un piekļuves punktiem
+Trūkumi
+Šis protokols joprojām tiek pabeigts, tādēļ dažas prasības var mainīties
+Ja datorā ir vairāki bezvadu tīkla adapteri vai adapterī tiek lietoti vairāki standarti, varat norādīt, kuru adapteri vai standartu lietot katram tīkla savienojumam. Piemēram, ja datoru lietojat multivides straumēšanai uz citiem datoriem tīklā, iestatiet 802.11a vai 802.11n savienojuma lietošanu, ja tas ir pieejams, jo tā varat iegūt lielāku datu pārsūtīšanas ātrumu, kad skatāties video vai klausāties mūziku.
+Atveriet tīkla savienojumus, noklikšķinot uz pogas Sākt
+, pēc tam uz Vadības panelis, uz Tīkls un internets, uz Tīkla un koplietošanas centrs un uz Pārvaldīt tīkla savienojumus.
+Tur norādīti datorā instalētie adapteri.
+Pieejamo bezvadu tīklu sarakstā redzēsit simbolu
+,  kas rāda bezvadu signāla stiprumu katrā tīklā. Jo vairāk joslu, jo stiprāks signāls. Stiprs signāls (piecas joslas) parasti nozīmē, ka bezvadu tīkls atrodas tuvumā vai nav traucējumu. Lai iegūtu vislabāko veiktspēju, izveidojiet savienojumu ar bezvadu tīklu, kura signāls ir visspēcīgākais. Taču, ja nedroša tīkla signāls ir spēcīgāks nekā tīklam ar iespējotu drošību, datu drošības dēļ ieteicams izveidot savienojumu ar tīklu, kam iespējota drošība (bet jums jābūt šī tīkla autorizētam lietotājam). Lai uzlabotu signāla stiprumu, varat pārvietot datoru tuvāk bezvadu maršrutētājam vai piekļuves punktam vai pārvietot maršrutētāju vai piekļuves punktu tā, lai tie atrastos tālāk no traucējumu izraisītājiem, piemēram, ķieģeļu sienas vai sienas, kurās ir metāla sijas.
+Atveriet Izveidot savienonjumu ar tīklu, noklikšķinot uz pogas Sākt
+un pēc tam uz Izveidot savienojumu ar.
+Publiskie bezvadu tīkli ir ērti, bet, ja tie nav pareizi nodrošināti, veidot savienojumu var būt riskanti. Kad iespējams, veidojiet savienojumu tikai ar tiem bezvadu tīkliem, kuros tiek pieprasīta tīkla drošības atslēga vai kuros ir citi drošības elementi, piemēram, sertifikāts. Šādos tīklos pārsūtīta informācija tiek šifrēta — tas var palīdzēt aizsargāt datoru pret neautorizētu piekļuvi. Pieejamo bezvadu tīklu sarakstā katrs tīkls ir atzīmēts kā tīkls ar iespējotu drošību vai kā nedrošs tīkls Ja tomēr veidojat savienojumu ar tīklu, kas nav drošs, ņemiet vērā, ka persona ar piemērotiem rīkiem var redzēt visu, ko darāt, tostarp apmeklētās vietnes, dokumentus, ar ko strādājat, kā arī lietotājvārdus un paroles. Ja ir izveidots savienojums ar šādu tīklu, nestrādājiet ar dokumentiem un neapmeklējiet vietnes, kas satur personisku informāciju, piemēram, bankas ierakstus.
+Ja iepriekš esat izveidojis savienojumu ar šo tīklu, pārliecinieties, vai dators atrodas tīkla diapazonā (maksimums 46 m iekštelpās un 92 m brīvā dabā 802.11b un 802.11g aparatūrai un maksimums 15 m iekštelpās un 30 m brīvā dabā 802.11a aparatūrai), vai ir ieslēgts maršrutētājs vai piekļuves punkts (ja ir piekļuve maršrutētājam vai piekļuves punktam) un vai datorā ir ieslēgts bezvadu slēdzis. (Dažiem datoriem nav slēdža. Ja jūsu datoram ir slēdzis, tas parasti atrodas datora priekšpusē vai sānos.) Ja neesat izveidojis savienojumu ar tīklu, iespējams, ka ir izslēgta apraide un tīkls jāpievieno manuāli. Lai pievienotu tīklu, kas neveic apraidi, rīkojieties šādi:
+Atveriet Izveidot savienonjumu ar tīklu, noklikšķinot uz pogas Sākt
+un pēc tam uz Izveidot savienojumu ar.
+Noklikšķiniet uz Iestatīt savienojumu vai tīklu.
+Noklikšķiniet uz Manuāli izveidot savienojumu ar bezvadu tīklu un pēc tam ievadiet tīkla informāciju.
+Tīkls tiek pievienots tīklu sarakstam un ar to turpmāk var izveidot savienojumu, kad dators ir diapazonā.
+Citiem datoriem un ierīcēm tīklā jāzina, kā sazināties ar bezvadu maršrutētāju, lai tās tīklā varētu sūtīt un saņemt informāciju. Katrā datorā vai ierīcē nepieciešami iestatījumi, piemēram, tīkla nosaukums un tīkla drošības atslēga, lai varētu sazināties ar maršrutētāju. Kad tīklam pievienojat ierīces vai datorus, izmantojot bezvadu maršrutētāja vai piekļuves punkta iestatīšanas vedni, sistēma <ENAMEX TYPE="PRODUCT">Windows</ENAMEX> nodrošina detalizētas instrukcijas par atbilstošo iestatījumu kopēšanu datoros.
+Atveriet bezvadu maršrutētāja vai piekļuves punkta iestatīšanu, noklikšķinot uz pogas Sākt
+, uz Vadības panelis, Tīkls un internets un pēc tam uz Tīkla un koplietošanas centrs. Kreisajā rūtī noklikšķiniet uz Iestatīt savienojumu vai tīklu un pēc tam uz Iestatīt bezvadu maršrutētāju vai piekļuves punktu.
+Jā. Lai gan automātiskā bezvadu tīkla konfigurēšana sistēmā <ENAMEX TYPE="PRODUCT">Windows</ENAMEX> ir iespējota pēc noklusējuma, to var atspējot, instalējot un lietojot citu programmu. Daudzi tīkla adapteri ir aprīkoti ar savu bezvadu pārvaldības programmu. Ja lietojat citu bezvadu tīkla savienojumu pārvaldības programmu un tās vietā vēlaties lietot sistēmas <ENAMEX TYPE="PRODUCT">Windows</ENAMEX> programmu, rīkojieties šādi:
+Izslēdziet vai atspējojiet šo programmu.
+Atveriet logu Komandu uzvedne, noklikšķinot uz pogas Sākt
+, pēc tam uz Visas programmas, uz Piederumi un uz Komandu uzvedne.
+Ierakstiet netsh wlan show settings.
+Ja automātiskā bezvadu tīkla konfigurēšana ir atspējota, redzēsit tekstu Automātiskās konfigurēšanas loģika ir atspējota interfeisā “Interfeisa nosaukums”.
+Lai iespējotu automātisko konfigurēšanu, ierakstiet set autoconfig enabled=yes interface="<interfeisa nosaukums>".
+Kad iestatāt tīklu, sistēma <ENAMEX TYPE="PRODUCT">Windows</ENAMEX> nosaka, ar kādu šifrēšanas tipu darbojas maršrutētājs vai piekļuves punkts un datora tīkla adapteris, un iesaka opciju. Lai uzzinātu, ar kādiem šifrēšanas tipiem darbojas tīkla adapteris, skatiet adapterim vai datoram pievienoto informāciju vai apmeklējiet ražotāja vietni.
+Paldies!
+Paldies! Jūsu atsauksmes palīdz mums pastāvīgi uzlabot saturu.
+1200 400 Kā padarīt šo informāciju vēl noderīgāku? Iesniegt Izlaist Vai vēlaties vēl kaut ko pievienot? Iesniegt Nē, paldies

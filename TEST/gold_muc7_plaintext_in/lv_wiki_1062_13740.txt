@@ -1,0 +1,9 @@
+﻿<ENAMEX TYPE="ORGANIZATION">Krievijas Federācijas Konstitucionālā tiesa</ENAMEX>
+
+<ENAMEX TYPE="ORGANIZATION">Krievijas Federācijas Konstitucionālā tiesa</ENAMEX> - tiesu sistēmas institūcija, kas īsteno konstitucionālo kontroli pār <ENAMEX TYPE="LOCATION">Krievijā</ENAMEX> spēkā esošajiem likumiem un noteikumiem. <ENAMEX TYPE="ORGANIZATION">Krievijas Federācijas Konstitucionālās tiesas</ENAMEX> pilnvaras, formācijas kārtību un darbību reglamentē <ENAMEX TYPE="PRODUCT">Krievijas Federācijas Konstitūcija</ENAMEX> un Federālais konstitucionālais likums "<ENAMEX TYPE="PRODUCT">Par Krievijas Federācijas Konstitucionālo tiesu</ENAMEX>". Konstitucionālā tiesa sastāv no 19 tiesnešiem. Saskaņā ar <ENAMEX TYPE="PRODUCT">Krievijas Federācijas Konstitūciju</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">Konstitucionālā tiesa</ENAMEX> ir viens no trim valsts varas pamatbalstiem, tomēr praktiski tā pilnībā ir atkarīga no izpildvaras.
+
+<TIMEX TYPE="DATE">2005. gada decembrī</TIMEX> <ENAMEX TYPE="ORGANIZATION">Krievijas Federācijas Valsts Dome</ENAMEX> pieņēma lēmumu par <ENAMEX TYPE="ORGANIZATION">Krievijas Federācijas Konstitucionālās tiesas</ENAMEX> pārcelšanu no <ENAMEX TYPE="LOCATION">Maskavas</ENAMEX> uz <ENAMEX TYPE="LOCATION">Sanktpēterburgu</ENAMEX>.
+
+<ENAMEX TYPE="ORGANIZATION">Krievijas Federācijas Konstitucionālās tiesas</ENAMEX> pilnvaras
+
+<ENAMEX TYPE="ORGANIZATION">Krievijas Federācijas Konstitucionālā tiesa</ENAMEX>:

@@ -1,0 +1,25 @@
+﻿<ENAMEX TYPE="LOCATION">Druskininki</ENAMEX>
+
+Iedzīvotāji (<TIMEX TYPE="DATE">2005</TIMEX>)17 791 Citi nosaukumipoļu - <ENAMEX TYPE="LOCATION">Druskieniki</ENAMEX>
+
+baltkrievu - <ENAMEX TYPE="LOCATION">Друскенікі</ENAMEX> Pilsētano <TIMEX TYPE="DATE">1893.g</TIMEX> ApriņķisAlītas apriņķis Mājaslapawww.druskininkai.lt  <ENAMEX TYPE="LOCATION">Druskininki</ENAMEX> (lietuviešu: <ENAMEX TYPE="LOCATION">Druskininkai</ENAMEX> baltkrievu: <ENAMEX TYPE="LOCATION">Друскенікі</ENAMEX>; poļu: <ENAMEX TYPE="LOCATION">Druskieniki</ENAMEX>) ir kūrortpilsēta <ENAMEX TYPE="LOCATION">Lietuvā</ENAMEX> pie <ENAMEX TYPE="LOCATION">Nemunas upes</ENAMEX>, netālu no <ENAMEX TYPE="LOCATION">Baltkrievijas</ENAMEX> un <ENAMEX TYPE="LOCATION">Polijas</ENAMEX> robežas. Tas ir <TIMEX TYPE="DATE">visu gadu</TIMEX> spēkā esošs balneoloģisks, dūņu un klimatisks kūrorts, vecākais (<TIMEX TYPE="DATE">no 1794. g.</TIMEX>) un lielākais <ENAMEX TYPE="LOCATION">Lietuvas</ENAMEX> kūrorts. <ENAMEX TYPE="LOCATION">Druskininku vecpilsēta</ENAMEX> pasludināta par urbanistisku liegumu.
+
+Pilsētā atrodas divas katoļu baznīcas — <ENAMEX TYPE="LOCATION">Druskininku</ENAMEX> (<TIMEX TYPE="DATE">no 1931. gada</TIMEX>) un <ENAMEX TYPE="LOCATION">Ratnīčas</ENAMEX> (<TIMEX TYPE="DATE">no 1910. g.</TIMEX>), pareizticīgo baznīca, pilsētas kapsēta, kā arī daudz atpūtas centru, viesnīcas, ģimnāzija un divas vidusskolas, divi bērnudārzi, <ENAMEX TYPE="LOCATION">Druskininku centrālā slimnīca</ENAMEX> (<ENAMEX TYPE="LOCATION">Balaines mežā</ENAMEX>), poliklīnika. <ENAMEX TYPE="LOCATION">Ratnīča</ENAMEX> ir uz dienvidaustrumiem no pilsētas centra esoša pilsētas daļa. <TIMEX TYPE="DATE">2007. gada pašā sākumā</TIMEX> pilsētā tika atvērts <ENAMEX TYPE="LOCATION">Austrumeiropas</ENAMEX> lielākais akvaparks.
+
+Ģeogrāfija
+
+<ENAMEX TYPE="LOCATION">Druskininku</ENAMEX> kūrorts atrodas dienvidu <ENAMEX TYPE="LOCATION">Lietuvā</ENAMEX>, 95,14 m virs jūras līmeņa, labajā <ENAMEX TYPE="LOCATION">Nemunas upes</ENAMEX> krastā. Augstākā pilsētas vieta — <ENAMEX TYPE="LOCATION">Veselīguma</ENAMEX> (<ENAMEX TYPE="PERSON">K. Dineikas</ENAMEX>) parks (105 m virs jūras līmeņa), zemākā — <ENAMEX TYPE="LOCATION">Nemunas</ENAMEX> krasts pie Fizioterapijas dziedniecības iestādes.
+
+<ENAMEX TYPE="LOCATION">Nemunā</ENAMEX> ieplūst <ENAMEX TYPE="LOCATION">Ratnīča</ENAMEX> (<ENAMEX TYPE="LOCATION">Ratnīčele</ENAMEX>), kura 2 km tek caur kūrorta austrumdaļu, no dienvidiem uz ziemeļiem. Dienvidpilsētā atrodas <ENAMEX TYPE="LOCATION">Druskoņa ezers</ENAMEX>, <ENAMEX TYPE="LOCATION">Vijūnēļa dīķis</ENAMEX> un <ENAMEX TYPE="LOCATION">Meiteņu acu</ENAMEX> (<ENAMEX TYPE="LOCATION">Mergelių akių</ENAMEX>) ezeriņš. Kūrorta austrumdaļā — „<ENAMEX TYPE="LOCATION">Saules taka</ENAMEX>“, dīķīs ar kaskādesvannām.
+
+Klimats
+
+<ENAMEX TYPE="LOCATION">Druskininku</ENAMEX> klimats izceļas ar labvēlīgiem klimatterapijas un rekreācijas apstākļiem. Dominē paugurains, gravains reljefs, daudz vidēju un mazu ezeru. Vidējā maksimālā gaisa temperatūra <TIMEX TYPE="DATE">vasarā</TIMEX> (<TIMEX TYPE="DATE">jūnijā</TIMEX>, <TIMEX TYPE="DATE">jūlijā un augustā</TIMEX>) — augstāka par 22 °C. Vidējā <TIMEX TYPE="DATE">gada</TIMEX> nokrišņu summa ir 661 mm. Vēja ātrums kūrortā <TIMEX TYPE="DATE">jūlija-augusta mēnešos</TIMEX> ir 2,4—2,6 m/s). Dominē dienvidrietumu, rietumu un ziemeļrietumu, bet <TIMEX TYPE="DATE">ziemā</TIMEX> pūš dienvidaustrumu, austrumu un dienvidrietumu vēji.
+
+Daba
+
+Lai gan <ENAMEX TYPE="LOCATION">Druskininku</ENAMEX> meži tālu no jūras, bet tajos arī atrodas kāpas. Tikai šeit tās nav līdzīgas jūrmalas kāpām — tās ir kontinentakāpas. Tās ir apaugušas priedainēm.
+
+Kūrorts
+
+Kūrorts dibināts <TIMEX TYPE="DATE">1794. g. 20. jūnijā</TIMEX>, kad <ENAMEX TYPE="PERSON">Stanislavs Augusts</ENAMEX> <ENAMEX TYPE="LOCATION">Druskininkus</ENAMEX> pieteica par dziedniecības vietu. Tas ir pirmais un lielākais kūrorts <ENAMEX TYPE="LOCATION">Lietuvā</ENAMEX>. Kūrorta tips — balneoloģisks, dūņu, klimatisks. <ENAMEX TYPE="LOCATION">Druskininkus</ENAMEX> ielenc skaistas, tīras <ENAMEX TYPE="LOCATION">Dzūkijas</ENAMEX> priedaines un ezeri. Vienam pilsētas iedzīvotājam tiek pat 2,1 ha meža.

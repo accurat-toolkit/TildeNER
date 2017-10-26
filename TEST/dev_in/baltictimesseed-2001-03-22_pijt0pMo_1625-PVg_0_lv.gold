@@ -1,0 +1,334 @@
+2005	D	2005	D--p------------------------	0	0	0	3	B-DATE
+.	T	.	T--------------------------.	0	4	0	4	I-DATE
+gadā	N	gads	N-msl---------n-----------l-	0	6	0	9	I-DATE
+Lietuvas	N	Lietuva	N-fsg---------n-----------f-	0	11	0	18	B-ORG
+Komunistiskās	A	komunistisks	A-fsgp-y------------------f-	0	20	0	32	I-ORG
+partijas	N	partija	N-fsg---------n-----------l-	0	34	0	41	I-ORG
+Centrālkomitejas	N	centrālkomiteja	N-fsg---------n-----------f-	0	43	0	58	I-ORG
+pirmais	M	pirmais	M-msn---o-----------------l-	0	60	0	66	O
+sekretārs	N	sekretārs	N-msn---------n-----------l-	0	68	0	76	O
+
+
+Amatā	N	amats	N-msl---------n-----------f-	1	0	1	4	O
+1988	D	1988	D--p------------------------	1	6	1	9	B-DATE
+.	T	.	T--------------------------.	1	10	1	10	I-DATE
+gada	N	gads	N-msg---------n-----------l-	1	12	1	15	I-DATE
+29	D	29	D--p------------------------	1	17	1	18	I-DATE
+.	T	.	T--------------------------.	1	19	1	19	I-DATE
+oktobris	N	oktobris	N-msn---------n-----------l-	1	21	1	28	I-DATE
+–	T	–	T--------------------------–	1	30	1	30	I-DATE
+1989	D	1989	D--p------------------------	1	32	1	35	I-DATE
+.	T	.	T--------------------------.	1	36	1	36	I-DATE
+gada	N	gads	N-msg---------n-----------l-	1	38	1	41	I-DATE
+19	D	19	D--pg-----------------------	1	43	1	44	I-DATE
+.	T	.	T--------------------------.	1	45	1	45	I-DATE
+decembris	N	decembris	N-msn---------n-----------l-	1	47	1	55	I-DATE
+
+
+Priekštecis	N	priekštecis	N-msn---------n-----------f-	2	0	2	10	O
+Ringauds	-	Ringauds	----------------------------	2	12	2	19	B-PERS
+Songails	-	Songails	----------------------------	2	21	2	28	I-PERS
+
+
+Pēctecis	N	pēctecis	N-msn---------n-----------f-	3	0	3	7	O
+Mikolas	-	Mikolas	----------------------------	3	9	3	15	B-PERS
+Burokevičus	-	Burokevičus	----------------------------	3	17	3	27	I-PERS
+
+
+Lietuvas	N	Lietuva	N-fsg---------n-----------f-	4	0	4	7	B-ORG
+PSR	Y	PSR	Y-------------------------u-	4	9	4	11	I-ORG
+Augstākās	A	augsts	A-fsgc-y------------------f-	4	13	4	21	I-ORG
+padomes	N	padome	N-fsg---------n-----------l-	4	23	4	29	I-ORG
+Prezidija	N	prezidijs	N-msg---------n-----------f-	4	31	4	39	I-ORG
+priekšsēdētājs	N	priekšsēdētājs	N-msn---------n-----------l-	4	41	4	54	O
+
+
+Amatā	N	Amata	N-fsl---------n-----------f-	5	0	5	4	O
+1990	D	1990	D--pg-----------------------	5	6	5	9	B-DATE
+.	T	.	T--------------------------.	5	10	5	10	I-DATE
+gada	N	gads	N-msg---------n-----------l-	5	12	5	15	I-DATE
+15	D	15	D--pg-----------------------	5	17	5	18	I-DATE
+.	T	.	T--------------------------.	5	19	5	19	I-DATE
+janvāris	N	janvāris	N-msn---------n-----------l-	5	21	5	28	I-DATE
+–	T	–	T--------------------------–	5	30	5	30	I-DATE
+1990	D	1990	D--pg-----------------------	5	32	5	35	I-DATE
+.	T	.	T--------------------------.	5	36	5	36	I-DATE
+gada	N	gads	N-msg---------n-----------l-	5	38	5	41	I-DATE
+11	D	11	D--pg-----------------------	5	43	5	44	I-DATE
+.	T	.	T--------------------------.	5	45	5	45	I-DATE
+marts	N	marts	N-msn---------n-----------l-	5	47	5	51	I-DATE
+
+
+Priekštecis	N	priekštecis	N-msn---------n-----------f-	6	0	6	10	O
+Vītauts	N	Vītauts	N-msn---------n-----------f-	6	12	6	18	B-PERS
+Astrausks	-	Astrausks	----------------------------	6	20	6	28	I-PERS
+
+
+Pēctecis	N	pēctecis	N-msn---------n-----------f-	7	0	7	7	O
+Vītauts	N	Vītauts	N-msn---------n-----------f-	7	9	7	15	B-PERS
+Landsberģis	N	Landsberģis	N-msn---------n-----------f-	7	17	7	27	I-PERS
+(	T	(	T--------------------------(	7	29	7	29	O
+kā	C	kā	C---------------------f---l-	7	30	7	31	O
+Augstākās	A	augsts	A-fsgc-y------------------f-	7	33	7	41	B-ORG
+padomes	N	padome	N-fsg---------n-----------l-	7	43	7	49	I-ORG
+priekšsēdētājs	N	priekšsēdētājs	N-msn---------n-----------l-	7	51	7	64	O
+)	T	)	T--------------------------)	7	65	7	65	O
+
+
+Lietuvas	N	Lietuva	N-fsg---------n-----------f-	8	0	8	7	B-LOC
+prezidents	N	prezidents	N-msn---------n-----------l-	8	9	8	18	O
+
+
+Amatā	N	amats	N-msl---------n-----------f-	9	0	9	4	O
+1992	D	1992	D--p------------------------	9	6	9	9	B-DATE
+.	T	.	T--------------------------.	9	10	9	10	I-DATE
+gada	N	gads	N-msg---------n-----------l-	9	12	9	15	I-DATE
+25	D	25	D--p------------------------	9	17	9	18	I-DATE
+.	T	.	T--------------------------.	9	19	9	19	I-DATE
+novembris	N	novembris	N-msn---------n-----------l-	9	21	9	29	I-DATE
+–	T	–	T--------------------------–	9	31	9	31	I-DATE
+1998	D	1998	D--p------------------------	9	33	9	36	I-DATE
+.	T	.	T--------------------------.	9	37	9	37	I-DATE
+gada	N	gads	N-msg---------n-----------l-	9	39	9	42	I-DATE
+25	D	25	D--p------------------------	9	44	9	45	I-DATE
+.	T	.	T--------------------------.	9	46	9	46	I-DATE
+februāris	N	februāris	N-msn---------n-----------l-	9	48	9	56	I-DATE
+
+
+Priekštecis	N	priekštecis	N-msn---------n-----------f-	10	0	10	10	O
+Vītauts	N	Vītauts	N-msn---------n-----------f-	10	12	10	18	B-PERS
+Landsberģis	N	Landsberģis	N-msn---------n-----------f-	10	20	10	30	I-PERS
+(	T	(	T--------------------------(	10	32	10	32	O
+Seima	N	seims	N-msg---------n-----------f-	10	33	10	37	B-ORG
+priekšsēdētājs	N	priekšsēdētājs	N-msn---------n-----------l-	10	39	10	52	O
+,	T	,	T--------------------------,	10	53	10	53	O
+de	-	de	----------------------------	10	55	10	56	O
+facto	-	facto	----------------------------	10	58	10	62	O
+Lietuvas	N	Lietuva	N-fsg---------n-----------f-	10	64	10	71	B-LOC
+prezidents	N	prezidents	N-msn---------n-----------l-	10	73	10	82	O
+)	T	)	T--------------------------)	10	83	10	83	O
+
+
+Pēctecis	N	pēctecis	N-msn---------n-----------f-	11	0	11	7	O
+Valds	-	Valds	----------------------------	11	9	11	13	B-PERS
+Adamkus	N	Adamkus	N-msn---------n-----------f-	11	15	11	21	I-PERS
+
+
+Lietuvas	N	Lietuva	N-fsg---------n-----------f-	12	0	12	7	B-LOC
+premjerministrs	N	premjerministrs	N-msn---------n-----------l-	12	9	12	23	O
+
+
+Amatā	N	amats	N-msl---------n-----------f-	13	0	13	4	O
+2001	D	2001	D--s------------------------	13	6	13	9	B-DATE
+.	T	.	T--------------------------.	13	10	13	10	I-DATE
+gada	N	gads	N-msg---------n-----------l-	13	12	13	15	I-DATE
+29	D	29	D--p------------------------	13	17	13	18	I-DATE
+.	T	.	T--------------------------.	13	19	13	19	I-DATE
+jūnijs	N	jūnijs	N-msn---------n-----------l-	13	21	13	26	I-DATE
+–	T	–	T--------------------------–	13	28	13	28	I-DATE
+2006	D	2006	D--p------------------------	13	30	13	33	I-DATE
+.	T	.	T--------------------------.	13	34	13	34	I-DATE
+gada	N	gads	N-msg---------n-----------l-	13	36	13	39	I-DATE
+1	D	1	D--s------------------------	13	41	13	41	I-DATE
+.	T	.	T--------------------------.	13	42	13	42	I-DATE
+jūnijs	N	jūnijs	N-msn---------n-----------l-	13	44	13	49	I-DATE
+
+
+Priekštecis	N	priekštecis	N-msn---------n-----------f-	14	0	14	10	O
+Jevgenijus	-	Jevgenijus	----------------------------	14	12	14	21	B-PERS
+Gentvils	-	Gentvils	----------------------------	14	23	14	30	I-PERS
+
+
+Pēctecis	N	pēctecis	N-msn---------n-----------f-	15	0	15	7	O
+Zigmants	-	Zigmants	----------------------------	15	9	15	16	B-PERS
+Balčitis	-	Balčitis	----------------------------	15	18	15	25	I-PERS
+
+
+Dzimš	-	Dzimš	----------------------------	16	0	16	4	O
+.	T	.	T--------------------------.	16	5	16	5	O
+dati	N	dati	N-mpn---------n-----------l-	16	7	16	10	O
+
+
+1932	D	1932	D--p------------------------	17	0	17	3	B-DATE
+.	T	.	T--------------------------.	17	4	17	4	I-DATE
+gada	N	gads	N-msg---------n-----------l-	17	6	17	9	I-DATE
+22	D	22	D--p------------------------	17	11	17	12	I-DATE
+.	T	.	T--------------------------.	17	13	17	13	I-DATE
+septembris	N	septembris	N-msn---------n-----------l-	17	15	17	24	I-DATE
+Rokišķi	-	Rokišķi	----------------------------	17	26	17	32	B-LOC
+,	T	,	T--------------------------,	17	33	17	33	O
+Lietuva	N	Lietuva	N-fsn---------n-----------f-	17	35	17	41	B-LOC
+
+
+Mirš	-	Mirš	----------------------------	18	0	18	3	O
+.	T	.	T--------------------------.	18	4	18	4	O
+dati	N	dati	N-mpn---------n-----------l-	18	6	18	9	O
+
+
+2010	D	2010	D--pg-----------------------	19	0	19	3	B-DATE
+.	T	.	T--------------------------.	19	4	19	4	I-DATE
+gada	N	gads	N-msg---------n-----------l-	19	6	19	9	I-DATE
+26	D	26	D--p------------------------	19	11	19	12	I-DATE
+.	T	.	T--------------------------.	19	13	19	13	I-DATE
+jūnijs	N	jūnijs	N-msn---------n-----------l-	19	15	19	20	I-DATE
+Viļņa	N	Viļņa	N-fsn---------n-----------f-	19	22	19	26	B-LOC
+,	T	,	T--------------------------,	19	27	19	27	O
+Lietuva	N	Lietuva	N-fsn---------n-----------f-	19	29	19	35	B-LOC
+
+
+Tautība	N	tautība	N-fsn---------n-----------f-	20	0	20	6	O
+-	T	-	T---------------------------	20	8	20	8	O
+lietuvietis	N	lietuvietis	N-msn---------n-----------l-	20	10	20	20	O
+
+
+Politiskā	A	politisks	A-fsnp-y------------------f-	21	0	21	8	O
+partija	N	partija	N-fsn---------n-----------l-	21	10	21	16	O
+LKP	-	LKP	----------------------------	21	18	21	20	B-ORG
+LSP	-	LSP	----------------------------	21	22	21	24	I-ORG
+
+
+Bērni	N	bērns	N-mpn---------n-----------f-	22	0	22	4	O
+-	T	-	T---------------------------	22	6	22	6	O
+2	D	2	D--p------------------------	22	8	22	8	O
+meitas	N	meita	N-fpa---------n-----------l-	22	10	22	15	O
+(	T	(	T--------------------------(	22	17	22	17	O
+no	S	no	S----------------sgp------l-	22	18	22	19	O
+pirmās	M	pirmais	M-fsg---o-----------------l-	22	21	22	26	O
+laulības	N	laulība	N-fsg---------n-----------l-	22	28	22	35	O
+)	T	)	T--------------------------)	22	36	22	36	O
+
+
+Profesija	N	profesija	N-fsn---------n-----------f-	23	0	23	8	O
+-	T	-	T---------------------------	23	10	23	10	O
+Inženieris	N	inženieris	N-msn---------n-----------f-	23	12	23	21	O
+,	T	,	T--------------------------,	23	22	23	22	O
+politiķis	N	politiķis	N-msn---------n-----------l-	23	24	23	32	O
+.	SENT	.	T--------------------------.	23	33	23	33	O
+
+
+Alma	N	Alma	N-fsn---------n-----------f-	24	0	24	3	O
+mater	-	mater	----------------------------	24	5	24	9	O
+Kauņas	N	Kauņa	N-fsg---------n-----------f-	24	11	24	16	B-ORG
+Politehniskais	A	politehnisks	A-msnp-y------------------f-	24	18	24	31	I-ORG
+institūts	N	institūts	N-msn---------n-----------l-	24	33	24	41	I-ORG
+
+
+Aļģirds	N	Aļģirds	N-msn---------n-----------f-	25	0	25	6	B-PERS
+Brazausks	-	Brazausks	----------------------------	25	8	25	16	I-PERS
+(	T	(	T--------------------------(	25	18	25	18	O
+lietuviešu	N	lietuvietis	N-mpg---------n-----------l-	25	19	25	28	O
+:	T	:	T--------------------------:	25	29	25	29	O
+Algirdas	-	Algirdas	----------------------------	25	31	25	38	B-PERS
+Brazauskas	-	Brazauskas	----------------------------	25	40	25	49	I-PERS
+;	T	;	T--------------------------;	25	50	25	50	O
+1932	D	1932	D--p------------------------	25	52	25	55	B-DATE
+.	T	.	T--------------------------.	25	56	25	56	I-DATE
+gada	N	gads	N-msg---------n-----------l-	25	58	25	61	I-DATE
+22	D	22	D--p------------------------	25	63	25	64	I-DATE
+.	T	.	T--------------------------.	25	65	25	65	I-DATE
+septembris	N	septembris	N-msn---------n-----------l-	25	67	25	76	I-DATE
+—	T	—	T--------------------------—	25	78	25	78	I-DATE
+2010	D	2010	D--pg-----------------------	25	80	25	83	I-DATE
+.	T	.	T--------------------------.	25	84	25	84	I-DATE
+gada	N	gads	N-msg---------n-----------l-	25	86	25	89	I-DATE
+26	D	26	D--p------------------------	25	91	25	92	I-DATE
+.	T	.	T--------------------------.	25	93	25	93	I-DATE
+jūnijs	N	jūnijs	N-msn---------n-----------l-	25	95	25	100	I-DATE
+)	T	)	T--------------------------)	25	101	25	101	O
+bija	V	būt	Vs----3--i----------1-----l-	25	103	25	106	O
+pirmais	M	pirmais	M-msn---o-----------------l-	25	108	25	114	O
+Lietuvas	N	Lietuva	N-fsg---------n-----------f-	25	116	25	123	B-LOC
+prezidents	N	prezidents	N-msn---------n-----------l-	25	125	25	134	O
+(	T	(	T--------------------------(	25	136	25	136	O
+1993	D	1993	D--p------------------------	25	137	25	140	B-DATE
+—	T	—	T--------------------------—	25	142	25	142	I-DATE
+1998	D	1998	D--p------------------------	25	144	25	147	I-DATE
+)	T	)	T--------------------------)	25	148	25	148	O
+pēc	S	pēc	S----------------sgp------l-	25	150	25	152	O
+Lietuvas	N	Lietuva	N-fsg---------n-----------f-	25	154	25	161	B-LOC
+valstiskuma	N	valstiskums	N-msg---------n-----------l-	25	163	25	173	O
+atjaunošanas	N	atjaunošana	N-fsg---------n-----------l-	25	175	25	186	O
+un	C	un	C---------------------c---l-	25	188	25	189	O
+Lietuvas	N	Lietuva	N-fsg---------n-----------f-	25	191	25	198	B-LOC
+premjerministrs	N	premjerministrs	N-msn---------n-----------l-	25	200	25	214	O
+no	S	no	S----------------sgp------l-	25	216	25	217	B-DATE
+2001	D	2001	D--s------------------------	25	219	25	222	I-DATE
+.	T	.	T--------------------------.	25	223	25	223	I-DATE
+līdz	S	līdz	S----------------pdp------l-	25	225	25	228	I-DATE
+2006	D	2006	D--p------------------------	25	230	25	233	I-DATE
+.	T	.	T--------------------------.	25	234	25	234	I-DATE
+gadam	N	gads	N-msd---------n-----------l-	25	236	25	240	I-DATE
+.	SENT	.	T--------------------------.	25	241	25	241	O
+Šis	P	šis	P-msn-------d-------------f-	25	243	25	245	O
+raksts	N	raksts	N-msn---------n-----------l-	25	247	25	252	O
+ir	V	būt	Vp----3--i----------7-----l-	25	254	25	255	O
+ļoti	R	ļoti	R----p---------------g----l-	25	257	25	260	O
+īss	A	īss	A-msnp-n------------------l-	25	262	25	264	O
+un	C	un	C---------------------c---l-	25	266	25	267	O
+nepilnīgs	A	nepilnīgs	A-msnp-n--------y---------l-	25	269	25	277	O
+.	SENT	.	T--------------------------.	25	278	25	278	O
+Jūs	P	jūs	P--pn-2-----p-------------f-	25	280	25	282	O
+varat	V	varēt	Vp-p--2--i----------3-----l-	25	284	25	288	O
+dot	V	dot	V--------n----------------l-	25	290	25	292	O
+savu	P	savs	P-msa-------s-------------l-	25	294	25	297	O
+ieguldījumu	N	ieguldījums	N-msa---------n-----------l-	25	299	25	309	O
+Vikipēdijā	N	Vikipēdija	N-fsl---------n-----------f-	25	311	25	320	B-PROD
+,	T	,	T--------------------------,	25	321	25	321	O
+papildinot	G	papildinot	G----------a-n------------l-	25	323	25	332	O
+to	P	tas	P-fsa-------d-------------l-	25	334	25	335	O
+.	SENT	.	T--------------------------.	25	336	25	336	O
+Šis	P	šis	P-msn-------d-------------f-	25	338	25	340	O
+ar	S	ar	S----------------sap------l-	25	342	25	343	O
+Lietuvu	N	Lietuva	N-fsa---------n-----------f-	25	345	25	351	B-LOC
+saistītais	G	saistīts	Gsmsnp-y---p--------------l-	25	353	25	362	O
+raksts	N	raksts	N-msn---------n-----------l-	25	364	25	369	O
+ir	V	būt	Vp----3--i----------7-----l-	25	371	25	372	O
+nepilnīgs	A	nepilnīgs	A-msnp-n--------y---------l-	25	374	25	382	O
+.	SENT	.	T--------------------------.	25	383	25	383	O
+Jūs	P	jūs	P--pn-2-----p-------------f-	25	385	25	387	O
+varat	V	varēt	Vp-p--2--i----------3-----l-	25	389	25	393	O
+dot	V	dot	V--------n----------------l-	25	395	25	397	O
+savu	P	savs	P-msa-------s-------------l-	25	399	25	402	O
+ieguldījumu	N	ieguldījums	N-msa---------n-----------l-	25	404	25	414	O
+Vikipēdijā	N	Vikipēdija	N-fsl---------n-----------f-	25	416	25	425	B-PROD
+,	T	,	T--------------------------,	25	426	25	426	O
+papildinot	G	papildinot	G----------a-n------------l-	25	428	25	437	O
+to	P	tas	P-fsa-------d-------------l-	25	439	25	440	O
+.	SENT	.	T--------------------------.	25	441	25	441	O
+Saturs	N	saturs	N-msn---------n-----------f-	25	443	25	448	O
+iegūts	G	iegūts	Gsmsnp-n---p--------------l-	25	450	25	455	O
+no	S	no	S----------------sgp------l-	25	457	25	458	O
+"	T	"	T--------------------------"	25	460	25	460	O
+http://lv.wikipedia.org/wiki/A%C4%BC%C4%A3irds_Brazausks	-	http://lv.wikipedia.org/wiki/A%C4%BC%C4%A3irds_Brazausks	----------------------------	25	461	25	516	O
+"	T	"	T--------------------------"	25	517	25	517	O
+Kategorijas	N	kategorija	N-fpn---------n-----------f-	25	519	25	529	O
+:	T	:	T--------------------------:	25	530	25	530	O
+Sevišķi	R	sevišķi	R----p--------------------f-	25	532	25	538	O
+īsi	R	īsi	R----p--------------------l-	25	540	25	542	O
+raksti	N	raksts	N-mpn---------n-----------l-	25	544	25	549	O
+|	T	|	T--------------------------|	25	551	25	551	O
+Nepabeigti	G	nepabeigts	Gsmpnp-n---p----y---------f-	25	553	25	562	O
+raksti	N	raksts	N-mpn---------n-----------l-	25	564	25	569	O
+par	S	par	S----------------sap------l-	25	571	25	573	O
+Lietuvu	N	Lietuva	N-fsa---------n-----------f-	25	575	25	581	B-LOC
+|	T	|	T--------------------------|	25	583	25	583	O
+1932	D	1932	D--p------------------------	25	585	25	588	B-DATE
+.	T	.	T--------------------------.	25	589	25	589	I-DATE
+gadā	N	gads	N-msl---------n-----------l-	25	591	25	594	I-DATE
+dzimušie	G	dzimis	Gsmpn--y---a--------------l-	25	596	25	603	O
+|	T	|	T--------------------------|	25	605	25	605	O
+2010	D	2010	D--pg-----------------------	25	607	25	610	B-DATE
+.	T	.	T--------------------------.	25	611	25	611	I-DATE
+gadā	N	gads	N-msl---------n-----------l-	25	613	25	616	I-DATE
+mirušie	G	miris	Gsmpn--y---a--------------l-	25	618	25	624	O
+|	T	|	T--------------------------|	25	626	25	626	O
+Lietuvas	N	Lietuva	N-fsg---------n-----------f-	25	628	25	635	B-LOC
+prezidenti	N	prezidents	N-mpn---------n-----------l-	25	637	25	646	O
+|	T	|	T--------------------------|	25	648	25	648	O
+Lietuvas	N	Lietuva	N-fsg---------n-----------f-	25	650	25	657	B-LOC
+premjerministri	N	premjerministrs	N-mpn---------n-----------l-	25	659	25	673	O
+|	T	|	T--------------------------|	25	675	25	675	O
+Triju	M	trīs	M-mpg---c-----------------f-	25	677	25	681	B-PROD
+Zvaigžņu	N	Zvaigzne	N-mpg---------n-----------f-	25	683	25	690	I-PROD
+ordeņa	N	ordenis	N-msg---------n-----------l-	25	692	25	697	I-PROD
+kavalieri	N	kavalieris	N-mpn---------n-----------l-	25	699	25	707	O

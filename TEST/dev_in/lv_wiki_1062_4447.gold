@@ -1,0 +1,460 @@
+Grankanārija	-	Grankanārija	----------------------------	0	0	0	11	B-LOC
+
+
+
+
+Grankanārijas	-	Grankanārijas	----------------------------	2	0	2	12	B-LOC
+topogrāfijaGrankanārija	-	topogrāfijaGrankanārija	----------------------------	2	14	2	36	O
+(	T	(	T--------------------------(	2	38	2	38	O
+Gran	-	Gran	----------------------------	2	39	2	42	B-LOC
+Canaria	-	Canaria	----------------------------	2	44	2	50	I-LOC
+)	T	)	T--------------------------)	2	51	2	51	O
+ir	V	būt	Vp----3--i----------7-----l-	2	53	2	54	O
+trešā	M	trešais	M-fsn---o-----------------l-	2	56	2	60	O
+lielākā	A	liels	A-mslc-n------------------l-	2	62	2	68	O
+Spānijai	N	Spānija	N-fsd---------n-----------f-	2	70	2	77	B-LOC
+piederošā	G	piederošs	Gpfsnp-y---a--------------l-	2	79	2	87	O
+Kanāriju	N	Kanārija	N-fsa---------n-----------f-	2	89	2	96	B-LOC
+salu	N	sals	N-mpg---------n-----------l-	2	98	2	101	I-LOC
+arhipelāga	N	arhipelāgs	N-msg---------n-----------l-	2	103	2	112	I-LOC
+sala	N	sals	N-msg---------n-----------l-	2	114	2	117	O
+,	T	,	T--------------------------,	2	118	2	118	O
+kas	P	kas	P---n-------r---------x---l-	2	120	2	122	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	2	124	2	130	O
+Atlantijas	N	Atlantija	N-fsg---------n-----------f-	2	132	2	141	B-LOC
+okeānā	N	okeāns	N-msl---------n-----------l-	2	143	2	148	I-LOC
+210	D	210	D--pg-----------------------	2	150	2	152	O
+km	Y	km	Y-------------------------l-	2	154	2	155	O
+attālumā	N	attālums	N-msl---------n-----------l-	2	157	2	164	O
+no	S	no	S----------------sgp------l-	2	166	2	167	O
+Āfrikas	N	Āfrika	N-fsg---------n-----------f-	2	169	2	175	B-LOC
+ziemeļaustrumu	N	ziemeļaustrums	N-msa---------n-----------l-	2	177	2	190	O
+krasta	N	krasts	N-msg---------n-----------l-	2	192	2	197	O
+starp	S	starp	S----------------sap------l-	2	199	2	203	O
+Tenerifes	-	Tenerifes	----------------------------	2	205	2	213	B-LOC
+un	C	un	C---------------------c---l-	2	215	2	216	I-LOC
+Fuerteventūras	-	Fuerteventūras	----------------------------	2	218	2	231	I-LOC
+salām	N	sala	N-fpd---------n-----------l-	2	233	2	237	I-LOC
+.	SENT	.	T--------------------------.	2	238	2	238	O
+Salas	N	sala	N-fsg---------n-----------f-	2	240	2	244	O
+izcelsme	N	izcelsme	N-fsn---------n-----------l-	2	246	2	253	O
+ir	V	būt	Vp----3--i----------7-----l-	2	255	2	256	O
+vulkāniska	A	vulkānisks	A-fsnp-n------------------l-	2	258	2	267	O
+.	SENT	.	T--------------------------.	2	268	2	268	O
+Sala	N	sala	N-fsn---------n-----------f-	2	270	2	273	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	2	275	2	281	O
+1250	D	1250	D--pg-----------------------	2	283	2	286	O
+km	Y	km	Y-------------------------l-	2	288	2	289	O
+attālumā	N	attālums	N-msl---------n-----------l-	2	291	2	298	O
+no	S	no	S----------------sgp------l-	2	300	2	301	O
+kontinentālās	A	kontinentāls	A-fsgp-y------------------l-	2	303	2	315	O
+Spānijas	N	Spānija	N-fsg---------n-----------f-	2	317	2	324	B-LOC
+un	C	un	C---------------------c---l-	2	326	2	327	O
+lidojums	N	lidojums	N-msn---------n-----------l-	2	329	2	336	O
+līdz	S	līdz	S----------------sdp------l-	2	338	2	341	O
+valsts	N	valsts	N-fsg---------n-----------l-	2	343	2	348	O
+galvaspilsētai	N	galvaspilsēta	N-fsd---------n-----------l-	2	350	2	363	O
+Madridei	N	Madride	N-fsd---------n-----------f-	2	365	2	372	B-LOC
+ilgst	V	ilgt	Vp----3--i----------------l-	2	374	2	378	O
+apmēram	R	apmēram	R----p---------------g----l-	2	380	2	386	O
+3	D	3	D--p------------------------	2	388	2	388	B-TIME
+stundas	N	stunda	N-fpa---------n-----------l-	2	390	2	396	I-TIME
+.	SENT	.	T--------------------------.	2	397	2	397	O
+
+
+
+
+Neskatoties	G	neskatoties	G----------a-n-yy---------f-	4	0	4	10	O
+uz	S	uz	S----------------sap------l-	4	12	4	13	O
+to	P	tas	P-msa-------d-------------l-	4	15	4	16	O
+,	T	,	T--------------------------,	4	17	4	17	O
+ka	C	ka	C---------------------p---l-	4	19	4	20	O
+sala	V	salt	Vs----3--i----------------l-	4	22	4	25	O
+ir	V	būt	Vp----3--i----------7-----l-	4	27	4	28	O
+neliela	A	neliels	A-fsnp-n--------y---------l-	4	30	4	36	O
+,	T	,	T--------------------------,	4	37	4	37	O
+tajā	P	tas	P-fsl-------d-------------l-	4	39	4	42	O
+ir	V	būt	Vp----3--i----------7-----l-	4	44	4	45	O
+neparasti	R	neparasti	R----p----------y---------l-	4	47	4	55	O
+daudzveidīgas	A	daudzveidīgs	A-fsgp-n------------------l-	4	57	4	69	O
+dabas	N	daba	N-fsg---------n-----------l-	4	71	4	75	O
+ainavas	N	ainava	N-fsg---------n-----------l-	4	77	4	83	O
+un	C	un	C---------------------c---l-	4	85	4	86	O
+dažādas	A	dažāds	A-fsgp-n------------------l-	4	88	4	94	O
+klimatiskās	A	klimatisks	A-fpap-y------------------l-	4	96	4	106	O
+joslas	N	josla	N-fpn---------n-----------l-	4	108	4	113	O
+,	T	,	T--------------------------,	4	114	4	114	O
+tāpēc	R	tāpēc	R----p--------------------l-	4	116	4	120	O
+Grankanārija	-	Grankanārija	----------------------------	4	122	4	133	B-LOC
+tiek	V	tikt	Vp----3--i----------6-----l-	4	135	4	138	O
+dēvēta	G	dēvēts	Gsfsnp-n---p--------------l-	4	140	4	145	O
+par	S	par	S----------------sap------l-	4	147	4	149	O
+mazo	A	mazs	A-msap-y------------------l-	4	151	4	154	O
+kontinentu	N	kontinents	N-msa---------n-----------l-	4	156	4	165	O
+.	SENT	.	T--------------------------.	4	166	4	166	O
+Gaisa	N	gaiss	N-msg---------n-----------f-	4	168	4	172	O
+temperatūra	N	temperatūra	N-fsv---------n-----------l-	4	174	4	184	O
+salas	N	sala	N-fsg---------n-----------l-	4	186	4	190	O
+ziemeļos	N	ziemelis	N-mpl---------n-----------l-	4	192	4	199	O
+parasti	R	parasti	R----p--------------------l-	4	201	4	207	O
+par	S	par	S----------------pdp------l-	4	209	4	211	O
+vairākiem	P	vairāki	P-mpd-------i-------------l-	4	213	4	221	O
+grādiem	N	grāds	N-mpd---------n-----------l-	4	223	4	229	O
+ir	V	būt	Vp----3--i----------7-----l-	4	231	4	232	O
+zemāka	A	zems	A-fsnc-n------------------l-	4	234	4	239	O
+nekā	C	nekā	C---------------------w---l-	4	241	4	244	O
+gaisa	V	gaist	Vs----3--i----------------l-	4	246	4	250	O
+temperatūras	N	temperatūra	N-fsg---------n-----------l-	4	252	4	263	O
+salas	N	sala	N-fsg---------n-----------l-	4	265	4	269	O
+dienvidos	N	dienvidus	N-mpl---------n-----------l-	4	271	4	279	O
+.	SENT	.	T--------------------------.	4	280	4	280	O
+
+
+
+
+Salas	N	sala	N-fsg---------n-----------f-	6	0	6	4	O
+pirmiedzīvotāji	N	pirmiedzīvotājs	N-mpn---------n-----------l-	6	6	6	20	O
+ir	V	būt	Vp----3--i----------7-----l-	6	22	6	23	O
+guanči	-	guanči	----------------------------	6	25	6	30	O
+.	SENT	.	T--------------------------.	6	31	6	31	O
+
+
+
+
+Grankanārijas	-	Grankanārijas	----------------------------	8	0	8	12	B-LOC
+platība	N	platība	N-fsn---------n-----------l-	8	14	8	20	O
+ir	V	būt	Vp----3--i----------7-----l-	8	22	8	23	O
+1560,1	D	1560,1	D--s------------------------	8	25	8	30	O
+km	Y	km	Y-------------------------l-	8	32	8	33	O
+²	-	²	----------------------------	8	34	8	34	O
+.	SENT	.	T--------------------------.	8	35	8	35	O
+Salai	N	sala	N-fsd---------n-----------f-	8	37	8	41	O
+ir	V	būt	Vp----3--i----------7-----l-	8	43	8	44	O
+gandrīz	R	gandrīz	R----p---------------g----l-	8	46	8	52	O
+apaļa	A	apaļš	A-fsnp-n------------------l-	8	54	8	58	O
+forma	N	forma	N-fsn---------n-----------l-	8	60	8	64	O
+un	C	un	C---------------------c---l-	8	66	8	67	O
+diametrs	N	diametrs	N-msn---------n-----------l-	8	69	8	76	O
+ap	S	ap	S----------------pdp------l-	8	78	8	79	O
+50	D	50	D--pg-----------------------	8	81	8	82	O
+km	Y	km	Y-------------------------l-	8	84	8	85	O
+.	SENT	.	T--------------------------.	8	86	8	86	O
+
+
+
+
+Administratīvi	R	administratīvi	R----p--------------------f-	10	0	10	13	O
+Grankanārija	-	Grankanārija	----------------------------	10	15	10	26	B-LOC
+ir	V	būt	Vp----3--i----------7-----l-	10	28	10	29	O
+sadalīta	G	sadalīts	Gsfsnp-n---p--------------l-	10	31	10	38	O
+21	D	21	D--s------------------------	10	40	10	41	O
+municipalitātē	N	municipalitāte	N-fsl---------n-----------l-	10	43	10	56	O
+:	T	:	T--------------------------:	10	57	10	57	O
+
+
+
+
+2003	D	2003	D--p------------------------	12	0	12	3	B-DATE
+.	T	.	T--------------------------.	12	4	12	4	I-DATE
+gadā	N	gads	N-msl---------n-----------l-	12	6	12	9	I-DATE
+salas	N	sala	N-fsg---------n-----------l-	12	11	12	15	O
+iedzīvotāju	N	iedzīvotājs	N-mpg---------n-----------l-	12	17	12	27	O
+skaits	N	skaits	N-msn---------n-----------l-	12	29	12	34	O
+bija	V	būt	Vs----3--i----------1-----l-	12	36	12	39	O
+789,908	D	789,908	D--p------------------------	12	41	12	47	O
+.	SENT	.	T--------------------------.	12	48	12	48	O
+Vairāk	R	daudz	R----c--------------------f-	12	50	12	55	O
+nekā	C	nekā	C---------------------w---l-	12	57	12	60	O
+370	D	370	D--pg-----------------------	12	62	12	64	O
+000	D	000	D--p------------------------	12	66	12	68	O
+no	S	no	S----------------pdp------l-	12	70	12	71	O
+viņiem	P	viņš	P-mpd-3-----p-------------l-	12	73	12	78	O
+dzīvo	V	dzīvot	Vp----3--i----------------l-	12	80	12	84	O
+salas	N	sala	N-fsg---------n-----------l-	12	86	12	90	O
+galvaspilsētā	N	galvaspilsēta	N-fsl---------n-----------l-	12	92	12	104	O
+Las	-	Las	----------------------------	12	106	12	108	B-LOC
+Palmas	N	palma	N-fpn---------n-----------f-	12	110	12	115	I-LOC
+,	T	,	T--------------------------,	12	116	12	116	O
+kas	P	kas	P---n-------r---------x---l-	12	118	12	120	O
+ir	V	būt	Vp----3--i----------7-----l-	12	122	12	123	O
+arī	Q	arī	Q-------------------------l-	12	125	12	127	O
+lielākā	A	liels	A-msgc-y------------------l-	12	129	12	135	O
+Kanāriju	N	Kanārija	N-fsa---------n-----------f-	12	137	12	144	B-LOC
+salu	N	sala	N-fpg---------n-----------l-	12	146	12	149	I-LOC
+pilsēta	N	pilsēta	N-fsn---------n-----------l-	12	151	12	157	O
+.	SENT	.	T--------------------------.	12	158	12	158	O
+Kanāriju	N	Kanārija	N-fsa---------n-----------f-	12	160	12	167	B-LOC
+salu	N	sals	N-mpg---------n-----------l-	12	169	12	172	I-LOC
+arhipelāgam	N	arhipelāgs	N-msd---------n-----------l-	12	174	12	184	I-LOC
+ir	V	būt	Vp----3--i----------7-----l-	12	186	12	187	O
+divas	M	divi	M-fpn---c-----------------l-	12	189	12	193	O
+galvaspilsētas	N	galvaspilsēta	N-fpa---------n-----------l-	12	195	12	208	O
+.	SENT	.	T--------------------------.	12	209	12	209	O
+Viena	M	viens	M-fsn---c-----------------f-	12	211	12	215	O
+no	S	no	S----------------pdp------l-	12	217	12	218	O
+tām	P	tas	P-fpd-------d-------------l-	12	220	12	222	O
+ir	V	būt	Vp----3--i----------7-----l-	12	224	12	225	O
+Santa	N	Santis	N-msg---------n-----------f-	12	227	12	231	B-LOC
+Cruz	-	Cruz	----------------------------	12	233	12	236	I-LOC
+de	-	de	----------------------------	12	238	12	239	I-LOC
+Tenerife	-	Tenerife	----------------------------	12	241	12	248	I-LOC
+Tenerifes	-	Tenerifes	----------------------------	12	250	12	258	B-LOC
+salā	N	sala	N-fsl---------n-----------l-	12	260	12	263	I-LOC
+,	T	,	T--------------------------,	12	264	12	264	O
+kas	P	kas	P---n-------r---------x---l-	12	266	12	268	O
+ir	V	būt	Vp----3--i----------7-----l-	12	270	12	271	O
+Tenerifes	-	Tenerifes	----------------------------	12	273	12	281	B-LOC
+provinces	N	province	N-fsg---------n-----------l-	12	283	12	291	I-LOC
+galvaspilsēta	N	galvaspilsēta	N-fsn---------n-----------l-	12	293	12	305	O
+,	T	,	T--------------------------,	12	306	12	306	O
+bet	C	bet	C---------------------c---l-	12	308	12	310	O
+otra	M	otrs	M-fsn---c-----------------l-	12	312	12	315	O
+-	T	-	T---------------------------	12	317	12	317	O
+Las	-	Las	----------------------------	12	319	12	321	B-LOC
+Palmas	N	palma	N-fsg---------n-----------f-	12	323	12	328	I-LOC
+Grankanārijā	-	Grankanārijā	----------------------------	12	330	12	341	B-LOC
+ir	V	būt	Vp----3--i----------7-----l-	12	343	12	344	O
+Las	-	Las	----------------------------	12	346	12	348	B-LOC
+Palmas	N	palma	N-fsg---------n-----------f-	12	350	12	355	I-LOC
+provinces	N	province	N-fsg---------n-----------l-	12	357	12	365	I-LOC
+galvaspilsēta	N	galvaspilsēta	N-fsn---------n-----------l-	12	367	12	379	O
+.	SENT	.	T--------------------------.	12	380	12	380	O
+
+
+
+
+Transports	N	transports	N-msn---------n-----------f-	14	0	14	9	O
+
+
+
+
+Ņemot	G	ņemot	G----------a-n------------f-	16	0	16	4	O
+vērā	R	vērā	R----p--------------------l-	16	6	16	9	O
+Grankanārijas	-	Grankanārijas	----------------------------	16	11	16	23	B-LOC
+atrašanās	N	atrašanās	N-fsg---------n-----------l-	16	25	16	33	O
+vietu	N	vieta	N-fsa---------n-----------l-	16	35	16	39	O
+,	T	,	T--------------------------,	16	40	16	40	O
+visērtākais	A	ērts	A-msns-y------------------l-	16	42	16	52	O
+transporta	N	transports	N-msg---------n-----------l-	16	54	16	63	O
+veids	N	veids	N-msn---------n-----------l-	16	65	16	69	O
+,	T	,	T--------------------------,	16	70	16	70	O
+lai	C	lai	C---------------------f---l-	16	72	16	74	O
+nokļūtu	V	nokļūt	Vp-------s----------------l-	16	76	16	82	O
+šajā	P	šis	P-msl-------d-------------l-	16	84	16	87	O
+salā	N	sala	N-fsl---------n-----------l-	16	89	16	92	O
+,	T	,	T--------------------------,	16	93	16	93	O
+ir	V	būt	Vp----3--i----------7-----l-	16	95	16	96	O
+lidmašīna	N	lidmašīna	N-fsn---------n-----------l-	16	98	16	106	O
+.	SENT	.	T--------------------------.	16	107	16	107	O
+Salā	N	sala	N-fsl---------n-----------f-	16	109	16	112	O
+ir	V	būt	Vp----3--i----------7-----l-	16	114	16	115	O
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	16	117	16	125	O
+nokļūt	V	nokļūt	V--------n----------------l-	16	127	16	132	O
+arī	Q	arī	Q-------------------------l-	16	134	16	136	O
+ar	S	ar	S----------------sap------l-	16	138	16	139	O
+kompānijas	N	kompānija	N-fsg---------n-----------l-	16	141	16	150	O
+Trasmediterranea	-	Trasmediterranea	----------------------------	16	152	16	167	B-ORG
+prāmi	N	prāmis	N-msa---------n-----------l-	16	169	16	173	O
+,	T	,	T--------------------------,	16	174	16	174	O
+kas	P	kas	P---n-------r---------x---l-	16	176	16	178	O
+kursē	V	kursēt	Vp----3--i----------------l-	16	180	16	184	O
+starp	S	starp	S----------------sap------l-	16	186	16	190	O
+Kadisas	N	Kadisa	N-fsg---------n-----------f-	16	192	16	198	B-LOC
+(	T	(	T--------------------------(	16	200	16	200	O
+Cádiz	-	C?diz	----------------------------	16	201	16	205	B-LOC
+)	T	)	T--------------------------)	16	206	16	206	O
+pilsētu	N	pilsēta	N-fpg---------n-----------l-	16	208	16	214	O
+kontinentā	N	kontinents	N-msl---------n-----------l-	16	216	16	225	O
+un	C	un	C---------------------c---l-	16	227	16	228	O
+Las	-	Las	----------------------------	16	230	16	232	B-LOC
+Palmas	N	palma	N-fpn---------n-----------f-	16	234	16	239	I-LOC
+,	T	,	T--------------------------,	16	240	16	240	O
+taču	C	taču	C-------------------------l-	16	242	16	245	O
+jārēķinās	V	rēķināties	Vp-------c-----y----------l-	16	247	16	255	O
+ar	S	ar	S----------------sap------l-	16	257	16	258	O
+to	P	tas	P-msa-------d-------------l-	16	260	16	261	O
+,	T	,	T--------------------------,	16	262	16	262	O
+ka	C	ka	C---------------------p---l-	16	264	16	265	O
+brauciens	N	brauciens	N-msn---------n-----------l-	16	267	16	275	O
+ilgst	V	ilgt	Vp----3--i----------------l-	16	277	16	281	O
+divas	M	divi	M-fpa---c-----------------l-	16	283	16	287	B-DATE
+diennaktis	N	diennakts	N-fpn---------n-----------l-	16	289	16	298	I-DATE
+.	SENT	.	T--------------------------.	16	299	16	299	O
+
+
+
+
+Grankanārijā	-	Grankanārijā	----------------------------	18	0	18	11	B-LOC
+ir	V	būt	Vp----3--i----------7-----l-	18	13	18	14	O
+uzbūvēta	G	uzbūvēts	Gsfsnp-n---p--------------l-	18	16	18	23	O
+mūsdienīga	A	mūsdienīgs	A-fsnp-n------------------l-	18	25	18	34	O
+autostrāde	N	autostrāde	N-fsn---------n-----------l-	18	36	18	45	O
+GC1	-	GC1	----------------------------	18	47	18	49	O
+,	T	,	T--------------------------,	18	50	18	50	O
+kas	P	kas	P---n-------r---------x---l-	18	52	18	54	O
+savieno	V	savienot	Vp----3--i----------------l-	18	56	18	62	O
+galvaspilsētu	N	galvaspilsēta	N-fsa---------n-----------l-	18	64	18	76	O
+Las	-	Las	----------------------------	18	78	18	80	B-LOC
+Palmas	N	palma	N-fsg---------n-----------f-	18	82	18	87	I-LOC
+salas	N	sala	N-fsg---------n-----------l-	18	89	18	93	O
+ziemeļos	N	ziemelis	N-mpl---------n-----------l-	18	95	18	102	O
+ar	S	ar	S----------------sap------l-	18	104	18	105	O
+Puerto	-	Puerto	----------------------------	18	107	18	112	B-LOC
+Rico	-	Rico	----------------------------	18	114	18	117	I-LOC
+kūrortu	N	kūrorts	N-mpg---------n-----------l-	18	119	18	125	O
+salas	N	sala	N-fsg---------n-----------l-	18	127	18	131	O
+dienvidos	N	dienvidus	N-mpl---------n-----------l-	18	133	18	141	O
+.	SENT	.	T--------------------------.	18	142	18	142	O
+Šī	P	šis	P-fsn-------d-------------f-	18	144	18	145	O
+ir	V	būt	Vp----3--i----------7-----l-	18	147	18	148	O
+vienīgā	A	vienīgs	A-fsnp-y------------------l-	18	150	18	156	O
+ātrgaitas	N	ātrgaita	N-fsg---------n-----------l-	18	158	18	166	O
+autostrāde	N	autostrāde	N-fsn---------n-----------l-	18	168	18	177	O
+,	T	,	T--------------------------,	18	178	18	178	O
+jo	C	jo	C---------------------r---l-	18	180	18	181	O
+,	T	,	T--------------------------,	18	182	18	182	O
+ņemot	G	ņemot	G----------a-n------------l-	18	184	18	188	O
+vērā	R	vērā	R----p--------------------l-	18	190	18	193	O
+to	P	tas	P-fsa-------d-------------l-	18	195	18	196	O
+,	T	,	T--------------------------,	18	197	18	197	O
+ka	C	ka	C---------------------p---l-	18	199	18	200	O
+lielāko	A	liels	A-fpgc-y------------------l-	18	202	18	208	O
+daļu	N	daļa	N-fsa---------n-----------l-	18	210	18	213	O
+Grankanārijas	-	Grankanārijas	----------------------------	18	215	18	227	B-LOC
+aizņem	V	aizņemt	Vp----3--i----------------l-	18	229	18	234	O
+kalni	N	kalns	N-mpn---------n-----------l-	18	236	18	240	O
+,	T	,	T--------------------------,	18	241	18	241	O
+salas	N	sala	N-fsg---------n-----------l-	18	243	18	247	O
+vidienē	N	vidiene	N-fsl---------n-----------l-	18	249	18	255	O
+nākas	V	nākties	Vp----3--i-----y----------l-	18	257	18	261	O
+pārvietoties	V	pārvietoties	V--------n-----y----------l-	18	263	18	274	O
+pa	S	pa	S----------------pdp------l-	18	276	18	277	O
+šauriem	A	šaurs	A-mpdp-n------------------l-	18	279	18	285	O
+,	T	,	T--------------------------,	18	286	18	286	O
+līkumotiem	A	līkumots	A-mpdp-n------------------l-	18	288	18	297	O
+kalnu	N	kalns	N-mpg---------n-----------l-	18	299	18	303	O
+ceļiem	N	ceļš	N-mpd---------n-----------l-	18	305	18	310	O
+,	T	,	T--------------------------,	18	311	18	311	O
+serpantīniem	-	serpantīniem	----------------------------	18	313	18	324	O
+.	SENT	.	T--------------------------.	18	325	18	325	O
+Pārvietoties	V	pārvietoties	V--------n-----y----------f-	18	327	18	338	O
+pa	S	pa	S----------------sap------l-	18	340	18	341	O
+salu	N	sala	N-fsa---------n-----------l-	18	343	18	346	O
+ir	V	būt	Vp----3--i----------7-----l-	18	348	18	349	O
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	18	351	18	359	O
+gan	C	gan	C---------------------c---l-	18	361	18	363	O
+ar	S	ar	S----------------pdp------l-	18	365	18	366	O
+auto	N	auto	N-msg---------n-----------l-	18	368	18	371	O
+,	T	,	T--------------------------,	18	372	18	372	O
+gan	C	gan	C---------------------c---l-	18	374	18	376	O
+ar	S	ar	S----------------sap------l-	18	378	18	379	O
+sabiedrisko	A	sabiedrisks	A-msap-y------------------l-	18	381	18	391	O
+transportu	N	transports	N-msa---------n-----------l-	18	393	18	402	O
+(	T	(	T--------------------------(	18	404	18	404	O
+autobusiem	N	autobuss	N-mpd---------n-----------l-	18	405	18	414	O
+,	T	,	T--------------------------,	18	415	18	415	O
+kas	P	kas	P---n-------r---------x---l-	18	417	18	419	O
+šeit	R	šeit	R----p--------------------l-	18	421	18	424	O
+tiek	V	tikt	Vp----3--i----------6-----l-	18	426	18	429	O
+saukti	G	saukts	Gsmpnp-n---p--------------l-	18	431	18	436	O
+par	S	par	S----------------sap------l-	18	438	18	440	O
+guagua	-	guagua	----------------------------	18	442	18	447	O
+)	T	)	T--------------------------)	18	448	18	448	O
+.	SENT	.	T--------------------------.	18	449	18	449	O
+Elektrotransporta	N	elektrotransports	N-msg---------n-----------f-	18	451	18	467	O
+vai	C	vai	C---------------------c---l-	18	469	18	471	O
+dzelzceļa	N	dzelzceļš	N-msg---------n-----------l-	18	473	18	481	O
+satiksmes	N	satiksme	N-fsg---------n-----------l-	18	483	18	491	O
+salā	N	sala	N-fsl---------n-----------l-	18	493	18	496	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	18	498	18	500	O
+.	SENT	.	T--------------------------.	18	501	18	501	O
+Salā	N	sala	N-fsl---------n-----------f-	18	503	18	506	O
+ir	V	būt	Vp----3--i----------7-----l-	18	508	18	509	O
+labi	R	labi	R----p--------------------l-	18	511	18	514	O
+attīstīta	A	attīstīts	A-fsnp-n------------------l-	18	516	18	524	O
+arī	Q	arī	Q-------------------------l-	18	526	18	528	O
+taksometru	N	taksometrs	N-mpg---------n-----------l-	18	530	18	539	O
+satiksme	N	satiksme	N-fsn---------n-----------l-	18	541	18	548	O
+,	T	,	T--------------------------,	18	549	18	549	O
+kuru	P	kurš	P-mpg-------r---------a---l-	18	551	18	554	O
+pakalpojumi	N	pakalpojums	N-mpn---------n-----------l-	18	556	18	566	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	18	568	18	570	O
+dārgi	R	dārgi	R----p--------------------l-	18	572	18	576	O
+.	SENT	.	T--------------------------.	18	577	18	577	O
+
+
+
+
+18	D	18	D--pg-----------------------	20	0	20	1	O
+kilometrus	N	kilometrs	N-mpa---------n-----------l-	20	3	20	12	O
+no	S	no	S----------------sgp------l-	20	14	20	15	O
+salas	N	sala	N-fsg---------n-----------l-	20	17	20	21	O
+galvaspilsētas	N	galvaspilsēta	N-fsg---------n-----------l-	20	23	20	36	O
+Las	-	Las	----------------------------	20	38	20	40	B-LOC
+Palmas	N	palma	N-fsg---------n-----------f-	20	42	20	47	I-LOC
+salas	N	sala	N-fsg---------n-----------l-	20	49	20	53	O
+ziemeļos	N	ziemelis	N-mpl---------n-----------l-	20	55	20	62	O
+un	C	un	C---------------------c---l-	20	64	20	65	O
+25	D	25	D--p------------------------	20	67	20	68	O
+kilometrus	N	kilometrs	N-mpa---------n-----------l-	20	70	20	79	O
+no	S	no	S----------------pdp------l-	20	81	20	82	O
+galvenajiem	A	galvenais	A-mpdp-y------------------l-	20	84	20	94	O
+tūrisma	N	tūrisms	N-msg---------n-----------l-	20	96	20	102	O
+centriem	N	centrs	N-mpd---------n-----------l-	20	104	20	111	O
+salas	N	sala	N-fsg---------n-----------l-	20	113	20	117	O
+dienvidos	N	dienvidus	N-mpl---------n-----------l-	20	119	20	127	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	20	129	20	135	O
+Grankanārijas	-	Grankanārijas	----------------------------	20	137	20	149	B-LOC
+lidosta	N	lidosta	N-fsn---------n-----------l-	20	151	20	157	I-LOC
+,	T	,	T--------------------------,	20	158	20	158	O
+kas	P	kas	P---n-------r---------x---l-	20	160	20	162	O
+gadā	N	gads	N-msl---------n-----------l-	20	164	20	167	B-DATE
+apkalpo	V	apkalpot	Vp----3--i----------------l-	20	169	20	175	O
+miljoniem	M	miljons	M-mpd---c-----------------l-	20	177	20	185	O
+pasažieru	N	pasažieris	N-mpg---------n-----------l-	20	187	20	195	O
+.	SENT	.	T--------------------------.	20	196	20	196	O
+
+
+
+
+Ir	V	būt	Vp----3--i----------7-----f-	22	0	22	1	O
+attīstīta	G	attīstīts	Gsfsnp-n---p--------------l-	22	3	22	11	O
+arī	Q	arī	Q-------------------------l-	22	13	22	15	O
+vietējā	A	vietējs	A-fsnp-y------------------l-	22	17	22	23	O
+aviosatiksme	N	aviosatiksme	N-fsn---------n-----------l-	22	25	22	36	O
+starp	S	starp	S----------------pdp------l-	22	38	22	42	O
+Grankanāriju	-	Grankanāriju	----------------------------	22	44	22	55	B-LOC
+un	C	un	C---------------------c---l-	22	57	22	58	O
+citām	P	cits	P-fpd-------i-------------l-	22	60	22	64	O
+Kanāriju	N	Kanārija	N-fsa---------n-----------f-	22	66	22	73	B-LOC
+salām	N	sala	N-fpd---------n-----------l-	22	75	22	79	I-LOC
+,	T	,	T--------------------------,	22	80	22	80	O
+ko	P	kas	P---a-------r-------------l-	22	82	22	83	O
+nodrošina	V	nodrošināt	Vp----3--i----------------l-	22	85	22	93	O
+aviokompānijas	N	aviokompānija	N-fsg---------n-----------l-	22	95	22	108	O
+Binter	-	Binter	----------------------------	22	110	22	115	B-ORG
+Canarias	-	Canarias	----------------------------	22	117	22	124	I-ORG
+un	C	un	C---------------------c---l-	22	126	22	127	O
+Islas	-	Islas	----------------------------	22	129	22	133	B-ORG
+Airways	-	Airways	----------------------------	22	135	22	141	I-ORG
+.	SENT	.	T--------------------------.	22	142	22	142	O
+
+
+
+
+Prāmju	N	prāmis	N-mpg---------n-----------f-	24	0	24	5	O
+kompānijas	N	kompānija	N-fsg---------n-----------l-	24	7	24	16	O
+Naviera	-	Naviera	----------------------------	24	18	24	24	B-ORG
+Armas	-	Armas	----------------------------	24	26	24	30	I-ORG
+un	C	un	C---------------------c---l-	24	32	24	33	O
+Fred	N	Freds	N-msv---------n-----------f-	24	35	24	38	B-ORG
+Olsen	N	Olsens	N-msv---------n-----------f-	24	40	24	44	I-ORG
+nodrošina	V	nodrošināt	Vp----3--i----------------l-	24	46	24	54	O
+jūras	N	jūra	N-fsg---------n-----------l-	24	56	24	60	O
+satiksmi	N	satiksme	N-fsa---------n-----------l-	24	62	24	69	O
+starp	S	starp	S----------------pdp------l-	24	71	24	75	O
+Grankanāriju	-	Grankanāriju	----------------------------	24	77	24	88	B-LOC
+un	C	un	C---------------------c---l-	24	90	24	91	O
+citām	P	cits	P-fpd-------i-------------l-	24	93	24	97	O
+salām	N	sala	N-fpd---------n-----------l-	24	99	24	103	O
+.	SENT	.	T--------------------------.	24	104	24	104	O

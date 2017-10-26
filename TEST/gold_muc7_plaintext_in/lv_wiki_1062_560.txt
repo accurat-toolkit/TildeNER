@@ -1,0 +1,73 @@
+﻿<ENAMEX TYPE="LOCATION">Atlantijas okeāns</ENAMEX>
+
+<ENAMEX TYPE="LOCATION">Atlantijas okeāns</ENAMEX> ir otrs lielākais okeāns uz <ENAMEX TYPE="LOCATION">Zemes</ENAMEX> un aizņem aptuveni 106,4 miljonus kvadrātkilometrus lielu platību (apmēram 1/5 no <ENAMEX TYPE="LOCATION">Zemes</ENAMEX> kopējās virsmas). Tā nosaukums ir cēlies no <ENAMEX TYPE="PERSON">Atlanta</ENAMEX> - dievs grieķu mitoloģijā.
+
+Robežas
+
+Ziemeļos robežojas ar <ENAMEX TYPE="LOCATION">Ziemeļu Ledus okeānu</ENAMEX> - no tā atdala nosacītas līnijas, kas savieno <ENAMEX TYPE="LOCATION">Grenlandi</ENAMEX> ar <ENAMEX TYPE="LOCATION">Īslandes</ENAMEX> ziemeļrietumiem, <ENAMEX TYPE="LOCATION">Īslandes</ENAMEX> ziemeļaustrumus ar <ENAMEX TYPE="LOCATION">Špicbergenas</ENAMEX> dienvidu galu un <ENAMEX TYPE="LOCATION">Špicbergenu</ENAMEX> ar <ENAMEX TYPE="LOCATION">Nordkapa ragu</ENAMEX> <ENAMEX TYPE="LOCATION">Norvēģijā</ENAMEX>. Dienvidaustrumos, pa 20°A garuma grādu robežojas ar <ENAMEX TYPE="LOCATION">Indijas okeānu</ENAMEX>. Dienvidos pa 60°D platuma grādu robežojas ar <ENAMEX TYPE="LOCATION">Dienvidu okeānu</ENAMEX>. Dienvidrietumos, pa <ENAMEX TYPE="LOCATION">Dreika šaurumu</ENAMEX> savienots ar <ENAMEX TYPE="LOCATION">Kluso okeānu</ENAMEX>. Mākslīgi savienots ar <ENAMEX TYPE="LOCATION">Kluso okeānu</ENAMEX> caur <ENAMEX TYPE="LOCATION">Panamas kanālu</ENAMEX> un ar <ENAMEX TYPE="LOCATION">Indijas okeānu</ENAMEX> caur <ENAMEX TYPE="LOCATION">Suecas kanālu</ENAMEX>.
+
+Apskalo <ENAMEX TYPE="LOCATION">Ziemeļamerikas un Dienvidamerikas</ENAMEX> austrumu piekrasti un <ENAMEX TYPE="LOCATION">Eiropas un Āfrikas</ENAMEX> rietumu piekrasti.
+
+Ģeoloģiskā vēsture
+
+<ENAMEX TYPE="LOCATION">Atlantijas okeāns</ENAMEX> ir otrs jaunākais planētas okeāns pēc <ENAMEX TYPE="LOCATION">Dienvidu okeāna</ENAMEX>. Dati liecina, ka <TIMEX TYPE="DATE">pirms 180 miljoniem gadu</TIMEX> tas vēl neeksistēja. Okeāns sāka veidoties <TIMEX TYPE="DATE">mezozojā</TIMEX>, sadaloties <ENAMEX TYPE="LOCATION">Pangejas</ENAMEX> superkontinentam, kad viens no otra sāka atdalīties tagadējās <ENAMEX TYPE="LOCATION">Amerikas Eirāzijas un Āfrikas kontinenti</ENAMEX>. Sadalīšanās sākās ziemeļu daļā. <ENAMEX TYPE="LOCATION">Pangejas</ENAMEX> sadalīšanās sākās <TIMEX TYPE="DATE">triasā</TIMEX> un beidzās <TIMEX TYPE="DATE">krītā</TIMEX>.
+
+<ENAMEX TYPE="LOCATION">Ziemeļatlantijā</ENAMEX> dalīšanās josla sākotnēji atradās starp tagadējo <ENAMEX TYPE="LOCATION">Kanādu</ENAMEX> un <ENAMEX TYPE="LOCATION">Grenlandi</ENAMEX>, taču vēlāk pārvietojās uz tagadējo atrašanās vietu.
+
+Pašlaik <ENAMEX TYPE="LOCATION">Atlantijas okeāns</ENAMEX> turpina plesties par 5 - 10 cm <TIMEX TYPE="DATE">gadā</TIMEX>, šī kustība notiek pateicoties tam, ka <ENAMEX TYPE="LOCATION">Ziemeļamerikas plātne un Dienvidamerikas plātne</ENAMEX> virzās rietumu virzienā.
+
+= <ENAMEX TYPE="LOCATION">Vidusatlantijas grēda</ENAMEX> =
+
+Raksturīga <ENAMEX TYPE="LOCATION">Atlantijas okeāna</ENAMEX> īpatnība ir <TIMEX TYPE="DATE">1950. gados</TIMEX> atklātā <ENAMEX TYPE="LOCATION">Vidusatlantijas grēda</ENAMEX> - garākā kalnu grēda pasaulē, kas pa <ENAMEX TYPE="LOCATION">Atlantijas okeāna</ENAMEX> centrālo asi aptuveni 11 300 km garumā stiepjas no <ENAMEX TYPE="LOCATION">Īslandes</ENAMEX> līdz aptuveni 54°D platuma grādam. Lielākais grēdas platums sasniedz 1 600 km. Ūdens dziļums virs grēdas pārsvarā nav lielāks par 2 700 m, grēda vietām paceļas virs ūdens līmeņa (piem. <ENAMEX TYPE="LOCATION">Debesbraukšanas sala</ENAMEX>).
+
+<ENAMEX TYPE="LOCATION">Vidusatlantijas grēdas</ENAMEX> centrālajā asī gandrīz visā garumā savukārt atrodas <ENAMEX TYPE="LOCATION">rifta ieleja</ENAMEX>. Grēda ir robeža starp tektoniskajām plātnēm un tās centrālajā daļā no <ENAMEX TYPE="LOCATION">Zemes</ENAMEX> dzīlēm paceļas jaunā okeāniskā <ENAMEX TYPE="LOCATION">Zemes</ENAMEX> garoza tādējādi <TIMEX TYPE="DATE">ik gadus</TIMEX> paplašinot <ENAMEX TYPE="LOCATION">Atlantijas okeānu</ENAMEX> par 5 - 10 cm.
+
+<ENAMEX TYPE="LOCATION">Vidusatlantijas grēdas</ENAMEX> ziemeļu daļu dienvidos no <ENAMEX TYPE="LOCATION">Īslandes</ENAMEX> sauc par <ENAMEX TYPE="LOCATION">Reikjanesas grēdu</ENAMEX>.
+
+= Citas reljefa formas =
+
+<ENAMEX TYPE="LOCATION">Atlantijas okeāna gultnē</ENAMEX> no dienvidiem uz ziemeļiem ir šādas nozīmīgas reljefa formas:
+
+Jūras un līči
+
+<ENAMEX TYPE="LOCATION">Atlantijas okeānā</ENAMEX>, sākot no ziemeļiem pulksteņa rādītāja virzienā ir šādas jūras, jūras līči un šaurumi:
+
+Salas
+
+Dažas no <ENAMEX TYPE="LOCATION">Atlantijas okeāna</ENAMEX> salām un salu grupām.
+
+Sk. <ENAMEX TYPE="LOCATION">Baltijas jūras</ENAMEX>, <ENAMEX TYPE="LOCATION">Karību jūras un Vidusjūras salas</ENAMEX> pie rakstiem par šīm jūrām.
+
+Nogulumi
+
+Uz kontinentālā šelfa atrod pārsvarā terigēnos iežus - smiltis, mālus, kurus šeit atnesušas upes un vēji. Vislielāko biezumu šādi nogulumi sasniedz lielu upju grīvās, jo sevišķi planētas lielākās upes - <ENAMEX TYPE="LOCATION">Amazones grīvā</ENAMEX>.
+
+Dziļjūras daļā, pelaģiālē gultni veido okeānā dzīvojošo organismu atliekas. Šādu nogulumu biezums variē no 60 līdz 3 300 metriem, lielāko biezumu sasniedzot vietās, kur notiek apvelings.
+
+Okeāna gultnē veidojas arī autigēni nogulumi - nogulumi, kas veidojas uz vietas. Pazīstamākie šāda veida nogulumi ir mangāna konkrēcijas, kuras veidojas vietās, kur pārējo nogulumu veidošanās notiek ļoti lēni jeb kur nogulumus pāršķiro straumes.
+
+= Sāļums =
+
+Kopumā <ENAMEX TYPE="LOCATION">Atlantijas okeāns</ENAMEX> ir sāļākais no <ENAMEX TYPE="LOCATION">Zemes</ENAMEX> okeāniem - virsējā ūdens slāņa sāļums variē no 33 līdz 37 ‰, taču tas mainās atkarībā no klimatiskajiem apstākļiem un ģeogrāfiskās atrašanās vietas. Ūdens sāļumu palielina tādi faktori kā: augsta iztvaikošana, sausums, maza saldūdens pietece no krasta. Sāļumu pazemina ledus kušana, daudz nokrišņu, liela upju ūdens pieplūde. Vismazākais sāļums okeānā ir ziemeļos no <ENAMEX TYPE="LOCATION">ekvatora</ENAMEX>, kur līst daudz lietus, lielu upju grīvās. Vislielākais sāļums - ap 25° Z platuma grādos un dienvidos no <ENAMEX TYPE="LOCATION">ekvatora</ENAMEX>, kur maz nokrišņu un liela ūdens iztvaikošana.
+
+= Temperatūra =
+
+Ūdens virsējā slāņa temperatūru nosaka platuma grādi, straumju režīms, gadalaiks. <ENAMEX TYPE="LOCATION">Atlantijas okeānā</ENAMEX> temperatūra variē no -2 °C līdz 29 °C. Vissiltākais ūdens ir ziemeļos no <ENAMEX TYPE="LOCATION">ekvatora</ENAMEX> un visaukstākais - polārajos reģionos.
+
+= Straumes =
+
+<ENAMEX TYPE="LOCATION">Atlantijas okeāna</ENAMEX> straumju režīms lielā mērā nosaka <ENAMEX TYPE="LOCATION">Atlantijas okeāna</ENAMEX> piekrastes reģionu klimatu, augu un dzīvnieku valsti un līdz ar to - okeāna krastā dzīvojušo civilizāciju vēsturi, saimniecību. Lielu, pozitīvu ietekmi uz <ENAMEX TYPE="LOCATION">Eiropas</ENAMEX> vēsturi un saimniecību atstājusi siltā <ENAMEX TYPE="LOCATION">Golfa straume</ENAMEX> un <ENAMEX TYPE="LOCATION">Ziemeļatlantijas straume</ENAMEX>, savukārt <ENAMEX TYPE="LOCATION">Āfrikas</ENAMEX> ziemeļrietumu piekrasti tuksnesīgu un saimniecībai maz piemērotu darījusi arī vēsā <ENAMEX TYPE="LOCATION">Kanāriju straume</ENAMEX>.
+
+Savdabīgs <ENAMEX TYPE="LOCATION">Atlantijas okeāna</ENAMEX> reģions ir <ENAMEX TYPE="LOCATION">Sargasu jūra</ENAMEX> - liela, straumju izolēta ūdens platība, kurā ūdens sāļums ir jūtami augstāks nekā ap to.
+
+Klimats
+
+<ENAMEX TYPE="LOCATION">Atlantijas okeāna</ENAMEX> un tā piekrastes reģionu klimatu nosaka ūdens virsējā slāņa temperatūra, okeāna straumes un vēju virzieni. Tā kā ūdens ir viela ar augstu siltumietilpību, jūras piekrastē klimats ir mērens, tam nepiemīt krasas sezonālas izmaiņas.
+
+<ENAMEX TYPE="LOCATION">Atlantijas okeāna</ENAMEX> un tā piekrastes temperatūru nosaka galvenokārt platuma grādi. Reģioni, kas ir visattālākie no <ENAMEX TYPE="LOCATION">ekvatora</ENAMEX>, ir visaukstākie, vissiltākais ir reģions ziemeļos no <ENAMEX TYPE="LOCATION">ekvatora</ENAMEX>. Aukstākajos <ENAMEX TYPE="LOCATION">Atlantijas okeāna</ENAMEX> reģionos nereti veidojas ledus. <TIMEX TYPE="DATE">Ziemās</TIMEX> ledus klāj daļu no <ENAMEX TYPE="LOCATION">Labradoras jūras</ENAMEX> un <ENAMEX TYPE="LOCATION">Dāņu šauruma</ENAMEX>. <ENAMEX TYPE="LOCATION">Arktikas</ENAMEX> aisbergi nereti nokļūst pat līdz <ENAMEX TYPE="LOCATION">Madeirai</ENAMEX> un <ENAMEX TYPE="LOCATION">Bermudu salām</ENAMEX>.
+
+Lielā mērā klimatu nosaka arī <ENAMEX TYPE="LOCATION">Atlantijas okeāna</ENAMEX> straumes - <ENAMEX TYPE="LOCATION">Ziemeļeiropā</ENAMEX> klimats ir salīdzinoši maigāks un siltāks pateicoties siltajai <ENAMEX TYPE="LOCATION">Ziemeļatlantijas straumei</ENAMEX>. Savukārt aukstās straumes padara <ENAMEX TYPE="LOCATION">Kanādas</ENAMEX> austrumu piekrasti salīdzinoši aukstāku, te biežāk ir migla.
+
+<ENAMEX TYPE="LOCATION">Ziemeļatlantijas</ENAMEX> dienvidu daļā veidojas spēcīgas viesuļvētras, kas regulāri skar <ENAMEX TYPE="LOCATION">Karību jūras salas</ENAMEX>.
+
+Pastāv uzskati un virkne leģendu par <ENAMEX TYPE="LOCATION">Bermudu trijstūri</ENAMEX> kā par mistisku vietu, kurā notiek daudz neizskaidrojamu kuģu un lidmašīnu katastrofu - tomēr, šie negadījumi saistāmi ar ļoti intensīvo satiksmi reģionā, viesuļvētrām un citādi nelabvēligiem laika apstākļiem.

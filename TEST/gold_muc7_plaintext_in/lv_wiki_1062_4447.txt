@@ -1,0 +1,25 @@
+﻿<ENAMEX TYPE="LOCATION">Grankanārija</ENAMEX>
+
+<ENAMEX TYPE="LOCATION">Grankanārijas</ENAMEX> topogrāfijaGrankanārija (<ENAMEX TYPE="LOCATION">Gran Canaria</ENAMEX>) ir trešā lielākā <ENAMEX TYPE="LOCATION">Spānijai</ENAMEX> piederošā <ENAMEX TYPE="LOCATION">Kanāriju salu arhipelāga</ENAMEX> sala, kas atrodas <ENAMEX TYPE="LOCATION">Atlantijas okeānā</ENAMEX> 210 km attālumā no <ENAMEX TYPE="LOCATION">Āfrikas</ENAMEX> ziemeļaustrumu krasta starp <ENAMEX TYPE="LOCATION">Tenerifes un Fuerteventūras salām</ENAMEX>. Salas izcelsme ir vulkāniska. Sala atrodas 1250 km attālumā no kontinentālās <ENAMEX TYPE="LOCATION">Spānijas</ENAMEX> un lidojums līdz valsts galvaspilsētai <ENAMEX TYPE="LOCATION">Madridei</ENAMEX> ilgst apmēram <TIMEX TYPE="TIME">3 stundas</TIMEX>.
+
+Neskatoties uz to, ka sala ir neliela, tajā ir neparasti daudzveidīgas dabas ainavas un dažādas klimatiskās joslas, tāpēc <ENAMEX TYPE="LOCATION">Grankanārija</ENAMEX> tiek dēvēta par mazo kontinentu. Gaisa temperatūra salas ziemeļos parasti par vairākiem grādiem ir zemāka nekā gaisa temperatūras salas dienvidos.
+
+Salas pirmiedzīvotāji ir guanči.
+
+<ENAMEX TYPE="LOCATION">Grankanārijas</ENAMEX> platība ir 1560,1 km². Salai ir gandrīz apaļa forma un diametrs ap 50 km.
+
+Administratīvi <ENAMEX TYPE="LOCATION">Grankanārija</ENAMEX> ir sadalīta 21 municipalitātē:
+
+<TIMEX TYPE="DATE">2003. gadā</TIMEX> salas iedzīvotāju skaits bija 789,908. Vairāk nekā 370 000 no viņiem dzīvo salas galvaspilsētā <ENAMEX TYPE="LOCATION">Las Palmas</ENAMEX>, kas ir arī lielākā <ENAMEX TYPE="LOCATION">Kanāriju salu</ENAMEX> pilsēta. <ENAMEX TYPE="LOCATION">Kanāriju salu arhipelāgam</ENAMEX> ir divas galvaspilsētas. Viena no tām ir <ENAMEX TYPE="LOCATION">Santa Cruz de Tenerife</ENAMEX> <ENAMEX TYPE="LOCATION">Tenerifes salā</ENAMEX>, kas ir <ENAMEX TYPE="LOCATION">Tenerifes provinces</ENAMEX> galvaspilsēta, bet otra - <ENAMEX TYPE="LOCATION">Las Palmas</ENAMEX> <ENAMEX TYPE="LOCATION">Grankanārijā</ENAMEX> ir <ENAMEX TYPE="LOCATION">Las Palmas provinces</ENAMEX> galvaspilsēta.
+
+Transports
+
+Ņemot vērā <ENAMEX TYPE="LOCATION">Grankanārijas</ENAMEX> atrašanās vietu, visērtākais transporta veids, lai nokļūtu šajā salā, ir lidmašīna. Salā ir iespējams nokļūt arī ar kompānijas <ENAMEX TYPE="ORGANIZATION">Trasmediterranea</ENAMEX> prāmi, kas kursē starp <ENAMEX TYPE="LOCATION">Kadisas</ENAMEX> (<ENAMEX TYPE="LOCATION">Cádiz</ENAMEX>) pilsētu kontinentā un <ENAMEX TYPE="LOCATION">Las Palmas</ENAMEX>, taču jārēķinās ar to, ka brauciens ilgst <TIMEX TYPE="DATE">divas diennaktis</TIMEX>.
+
+<ENAMEX TYPE="LOCATION">Grankanārijā</ENAMEX> ir uzbūvēta mūsdienīga autostrāde GC1, kas savieno galvaspilsētu <ENAMEX TYPE="LOCATION">Las Palmas</ENAMEX> salas ziemeļos ar <ENAMEX TYPE="LOCATION">Puerto Rico</ENAMEX> kūrortu salas dienvidos. Šī ir vienīgā ātrgaitas autostrāde, jo, ņemot vērā to, ka lielāko daļu <ENAMEX TYPE="LOCATION">Grankanārijas</ENAMEX> aizņem kalni, salas vidienē nākas pārvietoties pa šauriem, līkumotiem kalnu ceļiem, serpantīniem. Pārvietoties pa salu ir iespējams gan ar auto, gan ar sabiedrisko transportu (autobusiem, kas šeit tiek saukti par guagua). Elektrotransporta vai dzelzceļa satiksmes salā nav. Salā ir labi attīstīta arī taksometru satiksme, kuru pakalpojumi nav dārgi.
+
+18 kilometrus no salas galvaspilsētas <ENAMEX TYPE="LOCATION">Las Palmas</ENAMEX> salas ziemeļos un 25 kilometrus no galvenajiem tūrisma centriem salas dienvidos atrodas <ENAMEX TYPE="LOCATION">Grankanārijas lidosta</ENAMEX>, kas <TIMEX TYPE="DATE">gadā</TIMEX> apkalpo miljoniem pasažieru.
+
+Ir attīstīta arī vietējā aviosatiksme starp <ENAMEX TYPE="LOCATION">Grankanāriju</ENAMEX> un citām <ENAMEX TYPE="LOCATION">Kanāriju salām</ENAMEX>, ko nodrošina aviokompānijas <ENAMEX TYPE="ORGANIZATION">Binter Canarias</ENAMEX> un <ENAMEX TYPE="ORGANIZATION">Islas Airways</ENAMEX>.
+
+Prāmju kompānijas <ENAMEX TYPE="ORGANIZATION">Naviera Armas</ENAMEX> un <ENAMEX TYPE="ORGANIZATION">Fred Olsen</ENAMEX> nodrošina jūras satiksmi starp <ENAMEX TYPE="LOCATION">Grankanāriju</ENAMEX> un citām salām.

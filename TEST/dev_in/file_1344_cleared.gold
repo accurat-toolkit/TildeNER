@@ -1,0 +1,1262 @@
+Kas	P	kas	P---n-------q---------o---f-	0	0	0	2	O
+ir	V	būt	Vp----3--i----------7-----l-	0	4	0	5	O
+interneta	N	internets	N-msg---------n-----------l-	0	7	0	15	O
+satura	N	saturs	N-msg---------n-----------l-	0	17	0	22	O
+filtrs	N	filtrs	N-msn---------n-----------l-	0	24	0	29	O
+?	SENT	?	T--------------------------?	0	30	0	30	O
+
+
+Interneta	N	internets	N-msg---------n-----------f-	1	0	1	8	O
+filtrs	N	filtrs	N-msn---------n-----------l-	1	10	1	15	O
+(	T	(	T--------------------------(	1	17	1	17	O
+pazīstams	G	pazīstams	Gpmsnp-n---p--------------l-	1	18	1	26	O
+arī	Q	arī	Q-------------------------l-	1	28	1	30	O
+kā	C	kā	C---------------------f---l-	1	32	1	33	O
+vecāku	A	vecs	A-fpgc-n------------------l-	1	35	1	40	O
+kontroles	N	kontrole	N-fsg---------n-----------l-	1	42	1	50	O
+programmatūra	N	programmatūra	N-fsn---------n-----------l-	1	52	1	64	O
+)	T	)	T--------------------------)	1	65	1	65	O
+vienkārši	R	vienkārši	R----p--------------------l-	1	67	1	75	O
+kontrolē	V	kontrolēt	Vp----3--i----------------l-	1	77	1	84	O
+,	T	,	T--------------------------,	1	85	1	85	O
+kāda	P	kāds	P-msg-------r---------p---l-	1	87	1	90	O
+satura	N	saturs	N-msg---------n-----------l-	1	92	1	97	O
+interneta	N	internets	N-msg---------n-----------l-	1	99	1	107	O
+lapas	N	lapa	N-fsg---------n-----------l-	1	109	1	113	O
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	1	115	1	123	O
+apskatīt	V	apskatīt	V--------n----------------l-	1	125	1	132	O
+ģimenes	N	ģimene	N-fsg---------n-----------l-	1	134	1	140	O
+datorā	N	dators	N-msl---------n-----------l-	1	142	1	147	O
+,	T	,	T--------------------------,	1	148	1	148	O
+un	C	un	C---------------------c---l-	1	150	1	151	O
+kontrolē	V	kontrolēt	Vp----3--i----------------l-	1	153	1	160	O
+arī	Q	arī	Q-------------------------l-	1	162	1	164	O
+lietotāja	N	lietotāja	N-fsn---------n-----------l-	1	166	1	174	O
+piekļuvi	N	piekļuve	N-fsa---------n-----------l-	1	176	1	183	O
+šim	P	šis	P-msd-------d-------------l-	1	185	1	187	O
+saturam	V	saturēt	Vp-p--1--i----------------l-	1	189	1	195	O
+.	SENT	.	T--------------------------.	1	196	1	196	O
+
+
+Dažiem	P	dažs	P-mpd-------i-------------f-	2	0	2	5	O
+progresīvākajiem	A	progresīvs	A-mpdc-y------------------l-	2	7	2	22	O
+filtriem	N	filtrs	N-mpd---------n-----------l-	2	24	2	31	O
+var	V	varēt	Vp----3--i----------3-----l-	2	33	2	35	O
+iestatīt	V	iestatīt	V--------n----------------l-	2	37	2	44	O
+papildu	N	papildu	N-mpg---------n-----------l-	2	46	2	52	O
+iespējas	N	iespēja	N-fpa---------n-----------l-	2	54	2	61	O
+:	T	:	T--------------------------:	2	62	2	62	O
+
+
+Bloķēt	V	bloķēt	V--------n----------------f-	3	0	3	5	O
+vai	C	vai	C---------------------c---l-	3	7	3	9	O
+novērot	V	novērot	V--------n----------------l-	3	11	3	17	O
+piekļuvi	N	piekļuve	N-fsa---------n-----------l-	3	19	3	26	O
+tiešsaistes	N	tiešsaiste	N-fsg---------n-----------l-	3	28	3	38	O
+lietojumprogrammām	N	lietojumprogramma	N-fpd---------n-----------l-	3	40	3	57	O
+,	T	,	T--------------------------,	3	58	3	58	O
+piemēram	R	piemēram	R----p--------------------l-	3	60	3	67	O
+,	T	,	T--------------------------,	3	68	3	68	O
+tērzētavām	-	tērzētavām	----------------------------	3	70	3	79	O
+,	T	,	T--------------------------,	3	80	3	80	O
+intereškopām	N	intereškopa	N-fpd---------n-----------l-	3	82	3	93	O
+vai	C	vai	C---------------------c---l-	3	95	3	97	O
+tiešsaistes	N	tiešsaiste	N-fsg---------n-----------l-	3	99	3	109	O
+ziņojumapmaiņai	N	ziņojumapmaiņa	N-fsd---------n-----------l-	3	111	3	125	O
+.	SENT	.	T--------------------------.	3	126	3	126	O
+
+
+Bloķēt	V	bloķēt	V--------n----------------f-	4	0	4	5	O
+personiskas	A	personisks	A-fsgp-n------------------l-	4	7	4	17	O
+informācijas	N	informācija	N-fsg---------n-----------l-	4	19	4	30	O
+(	T	(	T--------------------------(	4	32	4	32	O
+vārdu	N	vārds	N-msa---------n-----------l-	4	33	4	37	O
+,	T	,	T--------------------------,	4	38	4	38	O
+adrešu	N	adrese	N-fpg---------n-----------l-	4	40	4	45	O
+,	T	,	T--------------------------,	4	46	4	46	O
+telefona	N	telefons	N-msg---------n-----------l-	4	48	4	55	O
+numuru	N	numurs	N-msa---------n-----------l-	4	57	4	62	O
+)	T	)	T--------------------------)	4	63	4	63	O
+uzrādīšanu	N	uzrādīšana	N-fsa---------n-----------l-	4	65	4	74	O
+.	SENT	.	T--------------------------.	4	75	4	75	O
+
+
+Novērst	V	novērst	V--------n----------------f-	5	0	5	6	O
+neautorizētu	A	neautorizēts	A-fsap-n--------y---------l-	5	8	5	19	O
+lejupielādi	N	lejupielāde	N-fsa---------n-----------l-	5	21	5	31	O
+.	SENT	.	T--------------------------.	5	32	5	32	O
+
+
+Fiksēt	V	fiksēt	V--------n----------------f-	6	0	6	5	O
+aktivitātes	N	aktivitāte	N-fsg---------n-----------l-	6	7	6	17	O
+internetā	N	internets	N-msl---------n-----------l-	6	19	6	27	O
+un	C	un	C---------------------c---l-	6	29	6	30	O
+automātiski	R	automātiski	R----p--------------------l-	6	32	6	42	O
+nosūtīt	V	nosūtīt	V--------n----------------l-	6	44	6	50	O
+brīdinājuma	N	brīdinājums	N-msg---------n-----------l-	6	52	6	62	O
+e-pastus	-	e-pastus	----------------------------	6	64	6	71	O
+,	T	,	T--------------------------,	6	72	6	72	O
+kad	R	kad	R----p----------------f---l-	6	74	6	76	O
+atrasti	G	atrasts	Gsmpnp-n---p--------------l-	6	78	6	84	O
+neatbilstoši	G	neatbilstošs	Gpmpnp-n---a----y---------l-	6	86	6	97	O
+materiāli	A	materiāls	A-mpnp-n------------------l-	6	99	6	107	O
+.	SENT	.	T--------------------------.	6	108	6	108	O
+
+
+Vairums	N	vairums	N-msn---------n-----------f-	7	0	7	6	O
+filtru	N	filtrs	N-msa---------n-----------l-	7	8	7	13	O
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	7	15	7	23	O
+aizsargāt	V	aizsargāt	V--------n----------------l-	7	25	7	33	O
+ar	S	ar	S----------------sap------l-	7	35	7	36	O
+paroli	N	parole	N-fsa---------n-----------l-	7	38	7	43	O
+,	T	,	T--------------------------,	7	44	7	44	O
+lai	C	lai	C---------------------f---l-	7	46	7	48	O
+bērni	N	bērns	N-mpn---------n-----------l-	7	50	7	54	O
+tos	P	tas	P-mpa-------d-------------l-	7	56	7	58	O
+nevarētu	V	nevarēt	Vp-------s------y---3-----l-	7	60	7	67	O
+apiet	V	apiet	V--------n----------------l-	7	69	7	73	O
+.	SENT	.	T--------------------------.	7	74	7	74	O
+
+
+Kā	C	kā	C---------------------o---f-	8	0	8	1	O
+darbojas	V	darboties	Vp----3--i-----y----------l-	8	3	8	10	O
+filtri	N	filtrs	N-mpn---------n-----------l-	8	12	8	17	O
+?	SENT	?	T--------------------------?	8	18	8	18	O
+
+
+Ir	V	būt	Vp----3--i----------7-----f-	9	0	9	1	O
+trīs	M	trīs	M-fpn---c-----------------l-	9	3	9	6	O
+dažādi	A	dažāds	A-mpnp-n------------------l-	9	8	9	13	O
+veidi	N	veids	N-mpn---------n-----------l-	9	15	9	19	O
+,	T	,	T--------------------------,	9	20	9	20	O
+kādos	P	kāds	P-mpl-------r---------a---l-	9	22	9	26	O
+darbojas	V	darboties	Vp----3--i-----y----------l-	9	28	9	35	O
+interneta	N	internets	N-msg---------n-----------l-	9	37	9	45	O
+filtri	N	filtrs	N-mpn---------n-----------l-	9	47	9	52	O
+:	T	:	T--------------------------:	9	53	9	53	O
+
+
+Melnie	A	melns	A-mpnp-y------------------f-	10	0	10	5	O
+saraksti	N	saraksts	N-mpn---------n-----------l-	10	7	10	14	O
+–	T	–	T--------------------------–	10	16	10	16	O
+Melnais	A	melns	A-msnp-y------------------f-	10	18	10	24	O
+saraksts	N	saraksts	N-msn---------n-----------l-	10	26	10	33	O
+ir	V	būt	Vp----3--i----------7-----l-	10	35	10	36	O
+saraksts	N	saraksts	N-msn---------n-----------l-	10	38	10	45	O
+ar	S	ar	S----------------pdp------l-	10	47	10	48	O
+tām	P	tas	P-fpd-------d-------------l-	10	50	10	52	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	10	54	10	60	O
+vietnēm	N	vietne	N-fpd---------n-----------l-	10	62	10	68	O
+,	T	,	T--------------------------,	10	69	10	69	O
+par	S	par	S----------------pdp------l-	10	71	10	73	O
+kurām	P	kurš	P-fpd-------r---------a---l-	10	75	10	79	O
+zināms	G	zināms	Gpmsnp-n---p--------------l-	10	81	10	86	O
+,	T	,	T--------------------------,	10	87	10	87	O
+ka	C	ka	C---------------------p---l-	10	89	10	90	O
+to	P	tas	P-mpg-------d-------------l-	10	92	10	93	O
+saturs	N	saturs	N-msn---------n-----------l-	10	95	10	100	O
+ir	V	būt	Vp----3--i----------7-----l-	10	102	10	103	O
+nevēlams	G	nevēlams	Gpmsnp-n---p----y---------l-	10	105	10	112	O
+.	SENT	.	T--------------------------.	10	113	10	113	O
+Filtrs	N	filtrs	N-msn---------n-----------f-	10	115	10	120	O
+salīdzina	V	salīdzināt	Vp----3--i----------------l-	10	122	10	130	O
+vietnes	N	vietne	N-fsg---------n-----------l-	10	132	10	138	O
+adresi	N	adrese	N-fsa---------n-----------l-	10	140	10	145	O
+ar	S	ar	S----------------sap------l-	10	147	10	148	O
+melno	A	melns	A-msap-y------------------l-	10	150	10	154	O
+sarakstu	N	saraksts	N-msa---------n-----------l-	10	156	10	163	O
+un	C	un	C---------------------c---l-	10	165	10	166	O
+,	T	,	T--------------------------,	10	167	10	167	O
+ja	C	ja	C---------------------d---l-	10	169	10	170	O
+tiek	V	tikt	Vp----3--i----------6-----l-	10	172	10	175	O
+atrasta	G	atrasts	Gsfsnp-n---p--------------l-	10	177	10	183	O
+sakritība	N	sakritība	N-fsn---------n-----------l-	10	185	10	193	O
+,	T	,	T--------------------------,	10	194	10	194	O
+lietotājam	N	lietotājs	N-msd---------n-----------l-	10	196	10	205	O
+tiek	V	tikt	Vp----3--i----------6-----l-	10	207	10	210	O
+liegta	G	liegts	Gsfsnp-n---p--------------l-	10	212	10	217	O
+pieeja	N	pieeja	N-fsn---------n-----------l-	10	219	10	224	O
+vietnei	N	vietne	N-fsd---------n-----------l-	10	226	10	232	O
+.	SENT	.	T--------------------------.	10	233	10	233	O
+
+
+Baltie	A	balts	A-mpnp-y------------------f-	11	0	11	5	O
+saraksti	N	saraksts	N-mpn---------n-----------l-	11	7	11	14	O
+–	T	–	T--------------------------–	11	16	11	16	O
+Baltais	A	balts	A-msnp-y------------------f-	11	18	11	24	O
+saraksts	N	saraksts	N-msn---------n-----------l-	11	26	11	33	O
+ir	V	būt	Vp----3--i----------7-----l-	11	35	11	36	O
+melnā	A	melns	A-fsnp-y------------------l-	11	38	11	42	O
+pretstats	N	pretstats	N-msn---------n-----------l-	11	44	11	52	O
+.	SENT	.	T--------------------------.	11	53	11	53	O
+Tas	P	tas	P-msn-------d-------------f-	11	55	11	57	O
+satur	V	saturēt	Vp----3--i----------------l-	11	59	11	63	O
+sarakstu	N	saraksts	N-msa---------n-----------l-	11	65	11	72	O
+ar	S	ar	S----------------pdp------l-	11	74	11	75	O
+tām	P	tas	P-fpd-------d-------------l-	11	77	11	79	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	11	81	11	87	O
+vietnēm	N	vietne	N-fpd---------n-----------l-	11	89	11	95	O
+,	T	,	T--------------------------,	11	96	11	96	O
+par	S	par	S----------------pdp------l-	11	98	11	100	O
+kurām	P	kurš	P-fpd-------r---------a---l-	11	102	11	106	O
+zināms	G	zināms	Gpmsnp-n---p--------------l-	11	108	11	113	O
+,	T	,	T--------------------------,	11	114	11	114	O
+ka	C	ka	C---------------------p---l-	11	116	11	117	O
+to	P	tas	P-mpg-------d-------------l-	11	119	11	120	O
+saturs	N	saturs	N-msn---------n-----------l-	11	122	11	127	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	11	129	11	131	O
+nevēlams	G	nevēlams	Gpmsnp-n---p----y---------l-	11	133	11	140	O
+.	SENT	.	T--------------------------.	11	141	11	141	O
+Filtrs	N	filtrs	N-msn---------n-----------f-	11	143	11	148	O
+liegs	A	liegs	A-msnp-n------------------l-	11	150	11	154	O
+pieeju	N	pieeja	N-fsa---------n-----------l-	11	156	11	161	O
+jebkurai	P	jebkurš	P-fsd-------g-------------l-	11	163	11	170	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	11	172	11	178	O
+vietnei	N	vietne	N-fsd---------n-----------l-	11	180	11	186	O
+,	T	,	T--------------------------,	11	187	11	187	O
+kas	P	kas	P---n-------r---------x---l-	11	189	11	191	O
+nav	V	nebūt	Vp----3--i------y---4-----l-	11	193	11	195	O
+uzskaitīta	G	uzskaitīts	Gsfsnp-n---p--------------l-	11	197	11	206	O
+baltajā	A	balts	A-mslp-y------------------l-	11	208	11	214	O
+sarakstā	N	saraksts	N-msl---------n-----------l-	11	216	11	223	O
+.	SENT	.	T--------------------------.	11	224	11	224	O
+
+
+Parametru	N	parametrs	N-mpg---------n-----------f-	12	0	12	8	O
+satura	N	saturs	N-msg---------n-----------l-	12	10	12	15	O
+filtri	N	filtrs	N-mpn---------n-----------l-	12	17	12	22	O
+–	T	–	T--------------------------–	12	24	12	24	O
+Šie	P	šis	P-mpn-------d-------------f-	12	26	12	28	O
+filtri	N	filtrs	N-mpn---------n-----------l-	12	30	12	35	O
+pārmeklē	V	pārmeklēt	Vp----3--i----------------l-	12	37	12	44	O
+tīmekļa	N	tīmeklis	N-msg---------n-----------l-	12	46	12	52	O
+vietni	N	vietne	N-fsa---------n-----------l-	12	54	12	59	O
+,	T	,	T--------------------------,	12	60	12	60	O
+pirms	S	pirms	S----------------sgp------l-	12	62	12	66	O
+tā	P	tas	P-msg-------d-------------l-	12	68	12	69	O
+tiek	V	tikt	Vp----3--i----------6-----l-	12	71	12	74	O
+parādīta	G	parādīts	Gsfsnp-n---p--------------l-	12	76	12	83	O
+.	SENT	.	T--------------------------.	12	84	12	84	O
+Tie	P	tas	P-mpn-------d-------------f-	12	86	12	88	O
+meklē	V	meklēt	Vp----3--i----------------l-	12	90	12	94	O
+nevēlamus	G	nevēlams	Gpmpap-n---p----y---------l-	12	96	12	104	O
+atslēgas	N	atslēga	N-fsg---------n-----------l-	12	106	12	113	O
+vārdus	N	vārds	N-mpa---------n-----------l-	12	115	12	120	O
+,	T	,	T--------------------------,	12	121	12	121	O
+frāzes	N	frāze	N-fsg---------n-----------l-	12	123	12	128	O
+un	C	un	C---------------------c---l-	12	130	12	131	O
+/	T	/	T--------------------------/	12	132	12	132	O
+vai	C	vai	C---------------------c---l-	12	133	12	135	O
+vietnes	N	vietne	N-fpn---------n-----------l-	12	137	12	143	O
+ar	S	ar	S----------------sap------l-	12	145	12	146	O
+procentuāli	R	procentuāli	R----p--------------------l-	12	148	12	158	O
+lielu	A	liels	A-fpgp-n------------------l-	12	160	12	164	O
+miesas	N	miesa	N-fsg---------n-----------l-	12	166	12	171	O
+krāsas	N	krāsa	N-fsg---------n-----------l-	12	173	12	178	O
+attēlu	N	attēls	N-msa---------n-----------l-	12	180	12	185	O
+skaitu.Ja	-	skaitu.Ja	----------------------------	12	187	12	195	O
+vietnes	N	vietne	N-fsg---------n-----------l-	12	197	12	203	O
+saturs	N	saturs	N-msn---------n-----------l-	12	205	12	210	O
+neatbilst	V	neatbilst	Vp----3--i------y---------l-	12	212	12	220	O
+filtrā	N	filtrs	N-msl---------n-----------l-	12	222	12	227	O
+nodefinētajam	G	nodefinēts	Gsmsdp-y---p--------------l-	12	229	12	241	O
+pieņemamajam	A	pieņemams	A-msdp-y------------------l-	12	243	12	254	O
+līmenim	N	līmenis	N-msd---------n-----------l-	12	256	12	262	O
+,	T	,	T--------------------------,	12	263	12	263	O
+lietotājam	N	lietotājs	N-msd---------n-----------l-	12	265	12	274	O
+tiek	V	tikt	Vp----3--i----------6-----l-	12	276	12	279	O
+liegta	G	liegts	Gsfsnp-n---p--------------l-	12	281	12	286	O
+pieeja	N	pieeja	N-fsn---------n-----------l-	12	288	12	293	O
+vietnei	N	vietne	N-fsd---------n-----------l-	12	295	12	301	O
+.	SENT	.	T--------------------------.	12	302	12	302	O
+
+
+Vispārīgi	R	vispārīgi	R----p--------------------f-	13	0	13	8	O
+satura	N	saturs	N-msg---------n-----------l-	13	10	13	15	O
+filtra	N	filtrs	N-msg---------n-----------l-	13	17	13	22	O
+darbība	N	darbība	N-fsn---------n-----------l-	13	24	13	30	O
+ir	V	būt	Vp----3--i----------7-----l-	13	32	13	33	O
+šāda	P	šāds	P-fsn-------d-------------l-	13	35	13	38	O
+:	T	:	T--------------------------:	13	39	13	39	O
+
+
+Cik	R	cik	R----p----------------m---f-	14	0	14	2	O
+efektīvi	R	efektīvi	R----p--------------------l-	14	4	14	11	O
+ir	V	būt	Vp----3--i----------7-----l-	14	13	14	14	O
+interneta	N	internets	N-msg---------n-----------l-	14	16	14	24	O
+filtri	N	filtrs	N-mpn---------n-----------l-	14	26	14	31	O
+?	SENT	?	T--------------------------?	14	32	14	32	O
+
+
+Interneta	N	internets	N-msg---------n-----------f-	15	0	15	8	O
+filtri	N	filtrs	N-mpn---------n-----------l-	15	10	15	15	O
+nebūs	V	nebūt	Vf----3--i------y---1-----l-	15	17	15	21	O
+100	D	100	D--pg-----------------------	15	23	15	25	O
+%	T	%	T--------------------------%	15	26	15	26	O
+efektīvi	R	efektīvi	R----p--------------------l-	15	28	15	35	O
+bērniem	N	bērns	N-mpd---------n-----------l-	15	37	15	43	O
+nevēlama	G	nevēlams	Gpmsgp-n---p----y---------l-	15	45	15	52	O
+interneta	N	internets	N-msg---------n-----------l-	15	54	15	62	O
+satura	N	saturs	N-msg---------n-----------l-	15	64	15	69	O
+bloķēšanā	N	bloķēšana	N-fsl---------n-----------l-	15	71	15	79	O
+.	SENT	.	T--------------------------.	15	80	15	80	O
+Atkarībā	N	atkarība	N-fsl---------n-----------f-	15	82	15	89	O
+no	S	no	S----------------sgp------l-	15	91	15	92	O
+filtra	N	filtrs	N-msg---------n-----------l-	15	94	15	99	O
+tipa	N	tips	N-msg---------n-----------l-	15	101	15	104	O
+,	T	,	T--------------------------,	15	105	15	105	O
+var	V	varēt	Vp----3--i----------3-----l-	15	107	15	109	O
+izrādīties	V	izrādīties	V--------n-----y----------l-	15	111	15	120	O
+,	T	,	T--------------------------,	15	121	15	121	O
+ka	C	ka	C---------------------p---l-	15	123	15	124	O
+nevēlams	A	nevēlams	A-msnp-n--------y---------l-	15	126	15	133	O
+saturs	N	saturs	N-msn---------n-----------l-	15	135	15	140	O
+netiek	V	netikt	Vp----3--i------y---6-----l-	15	142	15	147	O
+bloķēts	G	bloķēts	Gsmsnp-n---p--------------l-	15	149	15	155	O
+,	T	,	T--------------------------,	15	156	15	156	O
+vai arī	C	vai_arī	C---------------------c---l-	15	158	15	164	O
+filtrs	N	filtrs	N-msn---------n-----------l-	15	166	15	171	O
+ierobežo	V	ierobežot	Vp----3--i----------------l-	15	173	15	180	O
+piekļuvi	N	piekļuve	N-fsa---------n-----------l-	15	182	15	189	O
+vietnēm	N	vietne	N-fpd---------n-----------l-	15	191	15	197	O
+,	T	,	T--------------------------,	15	198	15	198	O
+kuras	P	kurš	P-fpa-------r---------f---l-	15	200	15	204	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	15	206	15	213	O
+apmeklēt	V	apmeklēt	V--------n----------------l-	15	215	15	222	O
+.	SENT	.	T--------------------------.	15	223	15	223	O
+Lai	C	lai	C---------------------k---f-	15	225	15	227	O
+no	S	no	S----------------sgp------l-	15	229	15	230	O
+tā	P	tas	P-msg-------d-------------l-	15	232	15	233	O
+izvairītos	V	izvairīties	Vp-------s-----y----------l-	15	235	15	244	O
+,	T	,	T--------------------------,	15	245	15	245	O
+daudzi	M	daudzi	M-mpn---c-----------------l-	15	247	15	252	O
+interneta	N	internets	N-msg---------n-----------l-	15	254	15	262	O
+filtri	N	filtrs	N-mpn---------n-----------l-	15	264	15	269	O
+izmanto	V	izmantot	Vp----3--i----------------l-	15	271	15	277	O
+melno	A	melns	A-msap-y------------------l-	15	279	15	283	O
+sarakstu	N	saraksts	N-msa---------n-----------l-	15	285	15	292	O
+,	T	,	T--------------------------,	15	293	15	293	O
+balto	A	balts	A-msap-y------------------l-	15	295	15	299	O
+sarakstu	N	saraksts	N-msa---------n-----------l-	15	301	15	308	O
+un	C	un	C---------------------c---l-	15	310	15	311	O
+satura	N	saturs	N-msg---------n-----------l-	15	313	15	318	O
+filtru	N	filtrs	N-mpg---------n-----------l-	15	320	15	325	O
+kombināciju	N	kombinācija	N-fsa---------n-----------l-	15	327	15	337	O
+.	SENT	.	T--------------------------.	15	338	15	338	O
+Dažādo	A	dažāds	A-mpgp-y------------------f-	15	340	15	345	O
+pieeju	N	pieeja	N-fpg---------n-----------l-	15	347	15	352	O
+rezultāts	N	rezultāts	N-msn---------n-----------l-	15	354	15	362	O
+ir	V	būt	Vp----3--i----------7-----l-	15	364	15	365	O
+šāds	P	šāds	P-msn-------d-------------l-	15	367	15	370	O
+:	T	:	T--------------------------:	15	371	15	371	O
+
+
+Baltie	A	balts	A-mpnp-y------------------f-	16	0	16	5	O
+saraksti	N	saraksts	N-mpn---------n-----------l-	16	7	16	14	O
+visefektīvāk	R	efektīvi	R----s--------------------l-	16	16	16	27	O
+aiztur	V	aizturēt	Vp----3--i----------------l-	16	29	16	34	O
+nevēlamus	G	nevēlams	Gpmpap-n---p----y---------l-	16	36	16	44	O
+materiālus	N	materiāls	N-mpa---------n-----------l-	16	46	16	55	O
+,	T	,	T--------------------------,	16	56	16	56	O
+taču	C	taču	C-------------------------l-	16	58	16	61	O
+ir	V	būt	Vp----3--i----------7-----l-	16	63	16	64	O
+visierobežojošākie	G	ierobežojošs	Gpmpns-y---a--------------l-	16	66	16	83	O
+;	T	;	T--------------------------;	16	84	16	84	O
+un	C	un	C---------------------c---l-	16	86	16	87	O
+
+
+Melnie	A	melns	A-mpnp-y------------------f-	17	0	17	5	O
+saraksti	N	saraksts	N-mpn---------n-----------l-	17	7	17	14	O
+apvienojumā	N	apvienojums	N-msl---------n-----------l-	17	16	17	26	O
+ar	S	ar	S----------------pdp------l-	17	28	17	29	O
+satura	N	saturs	N-msg---------n-----------l-	17	31	17	36	O
+filtriem	N	filtrs	N-mpd---------n-----------l-	17	38	17	45	O
+ir	V	būt	Vp----3--i----------7-----l-	17	47	17	48	O
+populārākais	A	populārs	A-msnc-y------------------l-	17	50	17	61	O
+risinājums	N	risinājums	N-msn---------n-----------l-	17	63	17	72	O
+,	T	,	T--------------------------,	17	73	17	73	O
+jo	C	jo	C---------------------r---l-	17	75	17	76	O
+tie	P	tas	P-mpn-------d-------------l-	17	78	17	80	O
+bloķē	V	bloķēt	Vp----3--i----------------l-	17	82	17	86	O
+lielāko	A	liels	A-fsac-y------------------l-	17	88	17	94	O
+tiesu	N	tiesa	N-fsa---------n-----------l-	17	96	17	100	O
+nevēlamā	A	nevēlams	A-msgp-y--------y---------l-	17	102	17	109	O
+satura	N	saturs	N-msg---------n-----------l-	17	111	17	116	O
+un	C	un	C---------------------c---l-	17	118	17	119	O
+ļauj	V	ļaut	Vp----3--i----------9-----l-	17	121	17	124	O
+apskatīt	V	apskatīt	V--------n----------------l-	17	126	17	133	O
+lielāko	A	liels	A-fsac-y------------------l-	17	135	17	141	O
+tiesu	N	tiesa	N-fsa---------n-----------l-	17	143	17	147	O
+pieļaujamo	A	pieļaujams	A-fsap-y------------------l-	17	149	17	158	O
+materiālu	N	materiāls	N-msa---------n-----------l-	17	160	17	168	O
+.	SENT	.	T--------------------------.	17	169	17	169	O
+
+
+Iespējams	G	iespējams	Gpmsnp-n---p--------------f-	18	0	18	8	O
+,	T	,	T--------------------------,	18	9	18	9	O
+ka	C	ka	C---------------------p---l-	18	11	18	12	O
+visefektīvākie	A	efektīvs	A-mpns-y------------------l-	18	14	18	27	O
+ir	V	būt	Vp----3--i----------7-----l-	18	29	18	30	O
+tie	P	tas	P-mpn-------d-------------l-	18	32	18	34	O
+interneta	N	internets	N-msg---------n-----------l-	18	36	18	44	O
+filtri	N	filtrs	N-mpn---------n-----------l-	18	46	18	51	O
+,	T	,	T--------------------------,	18	52	18	52	O
+kas	P	kas	P---n-------r---------x---l-	18	54	18	56	O
+apvieno	V	apvienot	Vp----3--i----------------l-	18	58	18	64	O
+visas	P	viss	P-fpa-------g-------------l-	18	66	18	70	O
+trīs	M	trīs	M-fpn---c-----------------l-	18	72	18	75	O
+filtrēšanas	N	filtrēšana	N-fpa---------n-----------l-	18	77	18	87	O
+metodes	N	metode	N-fpa---------n-----------l-	18	89	18	95	O
+.	SENT	.	T--------------------------.	18	96	18	96	O
+Piemēram	R	piemēram	R----p--------------------f-	18	98	18	105	O
+,	T	,	T--------------------------,	18	106	18	106	O
+jūs	P	jūs	P--pn-2-----p-------------l-	18	108	18	110	O
+itin	Q	itin	Q-------------------------l-	18	112	18	115	O
+viegli	R	viegli	R----p--------------------l-	18	117	18	122	O
+atradīsiet	V	atrast	Vf-p--2--i----------------l-	18	124	18	133	O
+filtru	N	filtrs	N-msa---------n-----------l-	18	135	18	140	O
+,	T	,	T--------------------------,	18	141	18	141	O
+kurā	P	kurš	P-fsl-------r---------a---l-	18	143	18	146	O
+ir	V	būt	Vp----3--i----------7-----l-	18	148	18	149	O
+vienkārši	R	vienkārši	R----p--------------------l-	18	151	18	159	O
+izveidojams	G	izveidojams	Gpmsnp-n---p--------------l-	18	161	18	171	O
+profils	N	profils	N-msn---------n-----------l-	18	173	18	179	O
+katram	P	katrs	P-msd-------g-------------l-	18	181	18	186	O
+bērnam	N	bērns	N-msd---------n-----------l-	18	188	18	193	O
+jūsu	P	jūs	P--pg-2-----p-------------l-	18	195	18	198	O
+ģimenē	N	ģimene	N-fsl---------n-----------l-	18	200	18	205	O
+.	SENT	.	T--------------------------.	18	206	18	206	O
+Bērniem	N	bērns	N-mpd---------n-----------f-	18	208	18	214	O
+pēc	S	pēc	S----------------sgp------l-	18	216	18	218	O
+vajadzības	N	vajadzība	N-fsg---------n-----------l-	18	220	18	229	O
+var	V	varēt	Vp----3--i----------3-----l-	18	231	18	233	O
+noteikt	V	noteikt	V--------n----------------l-	18	235	18	241	O
+pašiem	P	pats	P-mpd-------m-------------l-	18	243	18	248	O
+savu	P	savs	P-mpg-------s-------------l-	18	250	18	253	O
+filtrēšanas	N	filtrēšana	N-fsg---------n-----------l-	18	255	18	265	O
+līmeni	N	līmenis	N-msa---------n-----------l-	18	267	18	272	O
+.	SENT	.	T--------------------------.	18	273	18	273	O
+Kad	R	kad	R----p----------------o---f-	18	275	18	277	O
+viņi	P	viņš	P-mpn-3-----p-------------l-	18	279	18	282	O
+ielogojas	V	ielogoties	Vp----3--i-----y----------l-	18	284	18	292	O
+sistēmā	N	sistēma	N-fsl---------n-----------l-	18	294	18	300	O
+,	T	,	T--------------------------,	18	301	18	301	O
+viņus	P	viņš	P-mpa-3-----p-------------l-	18	303	18	307	O
+sagaida	V	sagaidīt	Vp----3--i----------------l-	18	309	18	315	O
+viņiem	P	viņš	P-mpd-3-----p-------------l-	18	317	18	322	O
+paredzētais	G	paredzēts	Gsmsnp-y---p--------------l-	18	324	18	334	O
+pieejas	N	pieeja	N-fsg---------n-----------l-	18	336	18	342	O
+līmenis	N	līmenis	N-msn---------n-----------l-	18	344	18	350	O
+.	SENT	.	T--------------------------.	18	351	18	351	O
+
+
+Kāda	P	kāds	P-msg-------r---------p---f-	19	0	19	3	O
+veida	N	veids	N-msg---------n-----------l-	19	5	19	9	O
+filtru	N	filtrs	N-msa---------n-----------l-	19	11	19	16	O
+lietot	V	lietot	V--------n----------------l-	19	18	19	23	O
+?	SENT	?	T--------------------------?	19	24	19	24	O
+
+
+Pieejami	R	pieejami	R----p--------------------f-	20	0	20	7	O
+ir	V	būt	Vp----3--i----------7-----l-	20	9	20	10	O
+daudz	R	daudz	R----p---------------g----l-	20	12	20	16	O
+un	C	un	C---------------------c---l-	20	18	20	19	O
+dažādi	A	dažāds	A-mpnp-n------------------l-	20	21	20	26	O
+filtri	N	filtrs	N-mpn---------n-----------l-	20	28	20	33	O
+,	T	,	T--------------------------,	20	34	20	34	O
+un	C	un	C---------------------c---l-	20	36	20	37	O
+tie	P	tas	P-mpn-------d-------------l-	20	39	20	41	O
+visi	P	viss	P-mpn-------g-------------l-	20	43	20	46	O
+piedāvā	V	piedāvāt	Vp----3--i----------------l-	20	48	20	54	O
+plašu	A	plašs	A-fsap-n------------------l-	20	56	20	60	O
+filtrēšanas	N	filtrēšana	N-fsg---------n-----------l-	20	62	20	72	O
+funkciju	N	funkcija	N-fpg---------n-----------l-	20	74	20	81	O
+klāstu	N	klāsts	N-msa---------n-----------l-	20	83	20	88	O
+.	SENT	.	T--------------------------.	20	89	20	89	O
+Lai	C	lai	C---------------------k---f-	20	91	20	93	O
+labāk	R	labi	R----c--------------------l-	20	95	20	99	O
+izvēlētos	G	izvēlēts	Gsmpap-y---p--------------l-	20	101	20	109	O
+filtru	N	filtrs	N-msa---------n-----------l-	20	111	20	116	O
+,	T	,	T--------------------------,	20	117	20	117	O
+apsveriet	V	apsvērt	V--p--2--m----------------l-	20	119	20	127	O
+jūsu	P	jūs	P--pg-2-----p-------------l-	20	129	20	132	O
+ģimenes	N	ģimene	N-fsg---------n-----------l-	20	134	20	140	O
+situāciju	N	situācija	N-fsa---------n-----------l-	20	142	20	150	O
+un	C	un	C---------------------c---l-	20	152	20	153	O
+nosakiet	V	nosacīt	V--p--2--m----------------l-	20	155	20	162	O
+,	T	,	T--------------------------,	20	163	20	163	O
+kāda	P	kāds	P-msg-------r---------o---l-	20	165	20	168	O
+veida	N	veids	N-msg---------n-----------l-	20	170	20	174	O
+funkcijas	N	funkcija	N-fsg---------n-----------l-	20	176	20	184	O
+filtram	N	filtrs	N-msd---------n-----------l-	20	186	20	192	O
+būtu	V	būt	Vp-------s----------7-----l-	20	194	20	197	O
+jāpilda	V	pildīt	Vp-------c----------------l-	20	199	20	205	O
+.	SENT	.	T--------------------------.	20	206	20	206	O
+Piemēram	R	piemēram	R----p--------------------f-	20	208	20	215	O
+:	T	:	T--------------------------:	20	216	20	216	O
+
+
+Kādas	P	kāds	P-fpn-------r---------p---f-	21	0	21	4	O
+(	T	(	T--------------------------(	21	6	21	6	O
+kādu	P	kāds	P-msa-------g---------o---l-	21	7	21	10	O
+)	T	)	T--------------------------)	21	11	21	11	O
+vecuma	N	vecums	N-msg---------n-----------l-	21	13	21	18	O
+grupu	N	grupa	N-fpg---------n-----------l-	21	20	21	24	O
+pārstāvis	N	pārstāvis	N-msn---------n-----------l-	21	26	21	34	O
+(	T	(	T--------------------------(	21	36	21	36	O
+pārstāvji	N	pārstāvis	N-mpn---------n-----------l-	21	37	21	45	O
+)	T	)	T--------------------------)	21	46	21	46	O
+lietos	G	liets	Gsmpap-y---p--------------l-	21	48	21	53	O
+internetu	N	internets	N-msa---------n-----------l-	21	55	21	63	O
+,	T	,	T--------------------------,	21	64	21	64	O
+un	C	un	C---------------------c---l-	21	66	21	67	O
+kāda	P	kāds	P-msg-------g---------a---l-	21	69	21	72	O
+veida	N	veids	N-msg---------n-----------l-	21	74	21	78	O
+saturs	N	saturs	N-msn---------n-----------l-	21	80	21	85	O
+būtu	V	būt	Vp-------s----------7-----l-	21	87	21	90	O
+jāfiltrē	V	filtrēt	Vp-------c----------------l-	21	92	21	99	O
+,	T	,	T--------------------------,	21	100	21	100	O
+lai	C	lai	C---------------------f---l-	21	102	21	104	O
+tas	P	tas	P-msn-------d-------------l-	21	106	21	108	O
+viņus	P	viņš	P-mpa-3-----p-------------l-	21	110	21	114	O
+nesasniegtu	V	nesasniegt	Vp-------s------y---------l-	21	116	21	126	O
+?	SENT	?	T--------------------------?	21	127	21	127	O
+
+
+Vai	C	vai	C---------------------c---f-	22	0	22	2	O
+jūs	P	jūs	P--pn-2-----p-------------l-	22	4	22	6	O
+vēlaties	V	vēlēties	Vp-p--2--i-----y----3-----l-	22	8	22	15	O
+pievienot	V	pievienot	V--------n----------------l-	22	17	22	25	O
+nevēlamās	A	nevēlams	A-fpap-y--------y---------l-	22	27	22	35	O
+vietnes	N	vietne	N-fpa---------n-----------l-	22	37	22	43	O
+melnajam	A	melns	A-msdp-y------------------l-	22	45	22	52	O
+sarakstam	N	saraksts	N-msd---------n-----------l-	22	54	22	62	O
+,	T	,	T--------------------------,	22	63	22	63	O
+vai	C	vai	C---------------------c---l-	22	65	22	67	O
+vēlamās	G	vēlams	Gpfpap-y---p--------------l-	22	69	22	75	O
+–	T	–	T--------------------------–	22	77	22	77	O
+baltajam	A	balts	A-msdp-y------------------l-	22	79	22	86	O
+sarakstam	N	saraksts	N-msd---------n-----------l-	22	88	22	96	O
+?	SENT	?	T--------------------------?	22	97	22	97	O
+
+
+Vai	C	vai	C---------------------c---f-	23	0	23	2	O
+jums	P	jūs	P--pd-2-----p-------------l-	23	4	23	7	O
+nepieciešamas	G	nepieciešams	Gpfpnp-n---p----y---------l-	23	9	23	21	O
+papildus	R	papildus	R----p--------------------l-	23	23	23	30	O
+iespējas	N	iespēja	N-fpn---------n-----------l-	23	32	23	39	O
+,	T	,	T--------------------------,	23	40	23	40	O
+piemēram	R	piemēram	R----p--------------------l-	23	42	23	49	O
+,	T	,	T--------------------------,	23	50	23	50	O
+uznirstošo	G	uznirstošs	Gpmpgp-y---a--------------l-	23	52	23	61	O
+logu	N	logs	N-mpg---------n-----------l-	23	63	23	66	O
+bloķētājs	N	bloķētājs	N-msn---------n-----------l-	23	68	23	76	O
+vai	C	vai	C---------------------c---l-	23	78	23	80	O
+vīrusu	N	vīruss	N-mpg---------n-----------l-	23	82	23	87	O
+aizsardzība	N	aizsardzība	N-fsn---------n-----------l-	23	89	23	99	O
+?	SENT	?	T--------------------------?	23	100	23	100	O
+
+
+Vai	C	vai	C---------------------c---f-	24	0	24	2	O
+filtram	N	filtrs	N-msd---------n-----------l-	24	4	24	10	O
+jābloķē	V	bloķēt	Vp-------c----------------l-	24	12	24	18	O
+vai	C	vai	C---------------------c---l-	24	20	24	22	O
+jānovēro	V	novērot	Vp-------c----------------l-	24	24	24	31	O
+pieeja	N	pieeja	N-fsn---------n-----------l-	24	33	24	38	O
+citām	P	cits	P-fpd-------i-------------l-	24	40	24	44	O
+lietojumprogrammām	N	lietojumprogramma	N-fpd---------n-----------l-	24	46	24	63	O
+,	T	,	T--------------------------,	24	64	24	64	O
+piemēram	R	piemēram	R----p--------------------l-	24	66	24	73	O
+,	T	,	T--------------------------,	24	74	24	74	O
+tērzētavām	-	tērzētavām	----------------------------	24	76	24	85	O
+?	SENT	?	T--------------------------?	24	86	24	86	O
+
+
+Pieejamie	G	pieejams	Gpmpnp-y---p--------------f-	25	0	25	8	O
+satura	N	saturs	N-msg---------n-----------l-	25	10	25	15	O
+filtri	N	filtrs	N-mpn---------n-----------l-	25	17	25	22	O
+
+
+Sadarbībā	N	sadarbība	N-fsl---------n-----------f-	26	0	26	8	O
+ar	S	ar	S----------------sap------l-	26	10	26	11	O
+Nākotnes	N	nākotne	N-fsg---------n-----------f-	26	13	26	20	B-PROD
+parku	N	parks	N-msa---------n-----------l-	26	22	26	26	I-PROD
+esam	V	būt	Vp-p--1--i----------1-----l-	26	28	26	31	O
+izveidojuši	G	izveidojis	Gsmpn--n---a--------------l-	26	33	26	43	O
+materiālu	N	materiāls	N-mpg---------n-----------l-	26	45	26	53	O
+vecākiem	N	vecāks	N-mpd---------n-----------l-	26	55	26	62	O
+par	S	par	S----------------pdp------l-	26	64	26	66	O
+Interneta	N	internets	N-msg---------n-----------f-	26	68	26	76	O
+satura	N	saturs	N-msg---------n-----------l-	26	78	26	83	O
+filtriem	N	filtrs	N-mpd---------n-----------l-	26	85	26	92	O
+.	SENT	.	T--------------------------.	26	93	26	93	O
+Materiāls	N	materiāls	N-msn---------n-----------f-	26	95	26	103	O
+ir	V	būt	Vp----3--i----------7-----l-	26	105	26	106	O
+pieejams	G	pieejams	Gpmsnp-n---p--------------l-	26	108	26	115	O
+gan	C	gan	C---------------------c---l-	26	117	26	119	O
+lasīšanai	N	lasīšana	N-fsd---------n-----------l-	26	121	26	129	O
+,	T	,	T--------------------------,	26	130	26	130	O
+šeit	R	šeit	R----p--------------------l-	26	132	26	135	O
+>>>	T	>>>	T-------------------------->	26	137	26	139	O
+,	T	,	T--------------------------,	26	141	26	141	O
+gan	C	gan	C---------------------c---l-	26	143	26	145	O
+kā	C	kā	C---------------------f---l-	26	147	26	148	O
+informatīvi	R	informatīvi	R----p--------------------l-	26	150	26	160	O
+izglītojošs	G	izglītojošs	Gpmsnp-n---a--------------l-	26	162	26	172	O
+video	N	video	N-msg---------n-----------l-	26	174	26	178	O
+materiāls	N	materiāls	N-msn---------n-----------l-	26	180	26	188	O
+mūsu	P	mēs	P--pg-1-----p-------------l-	26	190	26	193	O
+video	N	video	N-msg---------n-----------l-	26	195	26	199	O
+sadaļā	N	sadaļa	N-fsl---------n-----------l-	26	201	26	206	O
+,	T	,	T--------------------------,	26	207	26	207	O
+šeit	R	šeit	R----p--------------------l-	26	209	26	212	O
+>>>	T	>>>	T-------------------------->	26	214	26	216	O
+.	SENT	.	T--------------------------.	26	218	26	218	O
+
+
+Ir	V	būt	Vp----3--i----------7-----f-	27	0	27	1	O
+pieejami	G	pieejams	Gpmpnp-n---p--------------l-	27	3	27	10	O
+5	D	5	D--p------------------------	27	12	27	12	O
+secīgi	R	secīgi	R----p--------------------l-	27	14	27	19	O
+sižeti	N	sižets	N-mpn---------n-----------l-	27	21	27	26	O
+,	T	,	T--------------------------,	27	27	27	27	O
+kas	P	kas	P---n-------r---------x---l-	27	29	27	31	O
+sniedz	V	sniegt	Vp----3--i----------------l-	27	33	27	38	O
+vispārīgu	A	vispārīgs	A-fsap-n------------------l-	27	40	27	48	O
+informāciju	N	informācija	N-fsa---------n-----------l-	27	50	27	60	O
+par	S	par	S----------------sap------l-	27	62	27	64	O
+to	P	tas	P-msa-------d-------------l-	27	66	27	67	O
+,	T	,	T--------------------------,	27	68	27	68	O
+kas	P	kas	P---n-------r---------x---l-	27	70	27	72	O
+ir	V	būt	Vp----3--i----------7-----l-	27	74	27	75	O
+satura	N	saturs	N-msg---------n-----------l-	27	77	27	82	O
+filtri	N	filtrs	N-mpn---------n-----------l-	27	84	27	89	O
+un	C	un	C---------------------c---l-	27	91	27	92	O
+kāpēc	R	kāpēc	R----p----------------o---l-	27	94	27	98	O
+tos	P	tas	P-mpa-------d-------------l-	27	100	27	102	O
+izmantot	V	izmantot	V--------n----------------l-	27	104	27	111	O
+,	T	,	T--------------------------,	27	112	27	112	O
+kādi	P	kāds	P-mpn-------r---------a---l-	27	114	27	117	O
+satura	N	saturs	N-msg---------n-----------l-	27	119	27	124	O
+filtri	N	filtrs	N-mpn---------n-----------l-	27	126	27	131	O
+ir	V	būt	Vp----3--i----------7-----l-	27	133	27	134	O
+pieejami	G	pieejams	Gpmpnp-n---p--------------l-	27	136	27	143	O
+;	T	;	T--------------------------;	27	144	27	144	O
+apkopots	G	apkopots	Gsmsnp-n---p--------------l-	27	146	27	153	O
+populārāko	A	populārs	A-mpgc-y------------------l-	27	155	27	164	O
+satura	N	saturs	N-msg---------n-----------l-	27	166	27	171	O
+filtru	N	filtrs	N-mpg---------n-----------l-	27	173	27	178	O
+testa	N	tests	N-msg---------n-----------l-	27	180	27	184	O
+rezultāts	N	rezultāts	N-msn---------n-----------l-	27	186	27	194	O
+(	T	(	T--------------------------(	27	196	27	196	O
+testu	N	tests	N-mpg---------n-----------l-	27	197	27	201	O
+veikuši	G	veicis	Gsmpn--n---a--------------l-	27	203	27	209	O
+neatkarīgi	A	neatkarīgs	A-mpnp-n--------y---------l-	27	211	27	220	O
+eksperti	N	eksperts	N-mpn---------n-----------l-	27	222	27	229	O
+)	T	)	T--------------------------)	27	230	27	230	O
+,	T	,	T--------------------------,	27	231	27	231	O
+kā arī	C	kā_arī	C---------------------c---l-	27	233	27	238	O
+vecāku	N	vecāks	N-mpg---------n-----------l-	27	240	27	245	O
+viedoklis	N	viedoklis	N-msn---------n-----------l-	27	247	27	255	O
+par	S	par	S----------------sap------l-	27	257	27	259	O
+satura	N	saturs	N-msg---------n-----------l-	27	261	27	266	O
+filtru	N	filtrs	N-mpg---------n-----------l-	27	268	27	273	O
+lietošanas	N	lietošana	N-fsg---------n-----------l-	27	275	27	284	O
+nepieciešamību	N	nepieciešamība	N-fsa---------n-----------l-	27	286	27	299	O
+.	SENT	.	T--------------------------.	27	300	27	300	O
+Zemāk	R	zem	R----c--------------------f-	27	302	27	306	O
+pieejams	G	pieejams	Gpmsnp-n---p--------------l-	27	308	27	315	O
+īss	A	īss	A-msnp-n------------------l-	27	317	27	319	O
+satura	N	saturs	N-msg---------n-----------l-	27	321	27	326	O
+filtru	N	filtrs	N-mpg---------n-----------l-	27	328	27	333	O
+apraksts	N	apraksts	N-msn---------n-----------l-	27	335	27	342	O
+un	C	un	C---------------------c---l-	27	344	27	345	O
+efektivitātes	N	efektivitāte	N-fsg---------n-----------l-	27	347	27	359	O
+apkopojums	N	apkopojums	N-msn---------n-----------l-	27	361	27	370	O
+.	SENT	.	T--------------------------.	27	371	27	371	O
+
+
+Nosaukums	N	nosaukums	N-msn---------n-----------f-	28	0	28	8	O
+
+
+Pieejams	A	pieejams	A-msnp-n------------------f-	29	0	29	7	O
+:	T	:	T--------------------------:	29	8	29	8	O
+
+
+Atvērtā	G	atvērts	Gsmsgp-y---p--------------f-	30	0	30	6	O
+koda	N	kods	N-msg---------n-----------l-	30	8	30	11	O
+bezmaksas	N	bezmaksas	N-fsg---------n-----------l-	30	13	30	21	O
+programma	N	programma	N-fsn---------n-----------l-	30	23	30	31	O
+
+
+Windows	N	Windows	N-fsn---------n-----------f-	31	0	31	6	B-PROD
+Vista	N	Vista	N-fsl---------n-----------f-	31	8	31	12	I-PROD
+Parental	-	Parental	----------------------------	31	14	31	21	I-PROD
+Controls	-	Controls	----------------------------	31	23	31	30	I-PROD
+
+
+Integrēts	G	integrēts	Gsmsnp-n---p--------------f-	32	0	32	8	O
+satura	N	saturs	N-msg---------n-----------l-	32	10	32	15	O
+kontroles	N	kontrole	N-fsg---------n-----------l-	32	17	32	25	O
+risinājums	N	risinājums	N-msn---------n-----------l-	32	27	32	36	O
+.	SENT	.	T--------------------------.	32	37	32	37	O
+Ietver	V	ietvert	Vp----3--i----------------f-	32	39	32	44	O
+interneta	N	internets	N-msg---------n-----------l-	32	46	32	54	O
+filtrēšanu	N	filtrēšana	N-fsa---------n-----------l-	32	56	32	65	O
+,	T	,	T--------------------------,	32	66	32	66	O
+datora	N	dators	N-msg---------n-----------l-	32	68	32	73	O
+lietošanas	N	lietošana	N-fsg---------n-----------l-	32	75	32	84	O
+laika	N	laiks	N-msg---------n-----------l-	32	86	32	90	O
+ierobežošanu	N	ierobežošana	N-fsa---------n-----------l-	32	92	32	103	O
+,	T	,	T--------------------------,	32	104	32	104	O
+kā arī	C	kā_arī	C---------------------c---l-	32	106	32	111	O
+noteikta	G	noteikts	Gsmsgp-n---p--------------l-	32	113	32	120	O
+rakstura	N	raksturs	N-msg---------n-----------l-	32	122	32	129	O
+spēļu	N	spēle	N-fpg---------n-----------l-	32	131	32	135	O
+un	C	un	C---------------------c---l-	32	137	32	138	O
+citu	P	cits	P-fpg-------i-------------l-	32	140	32	143	O
+datorprogrammu	N	datorprogramma	N-fsa---------n-----------l-	32	145	32	158	O
+bloķēšanu	N	bloķēšana	N-fsa---------n-----------l-	32	160	32	168	O
+.	SENT	.	T--------------------------.	32	169	32	169	O
+Vista	N	Vista	N-fpn---------n-----------f-	32	171	32	175	B-PROD
+filtra	N	filtrs	N-msg---------n-----------l-	32	177	32	182	O
+iespējas	N	iespēja	N-fpn---------n-----------l-	32	184	32	191	O
+ir	V	būt	Vp----3--i----------7-----l-	32	193	32	194	O
+pieticīgas	A	pieticīgs	A-fpnp-n------------------l-	32	196	32	205	O
+,	T	,	T--------------------------,	32	206	32	206	O
+bet	C	bet	C---------------------c---l-	32	208	32	210	O
+konfigurācija	N	konfigurācija	N-fsn---------n-----------l-	32	212	32	224	O
+ir	V	būt	Vp----3--i----------7-----l-	32	226	32	227	O
+vienkārša	A	vienkāršs	A-fsnp-n------------------l-	32	229	32	237	O
+un	C	un	C---------------------c---l-	32	239	32	240	O
+labi	R	labi	R----p--------------------l-	32	242	32	245	O
+saprotama	A	saprotams	A-fsnp-n------------------l-	32	247	32	255	O
+Windows	N	Windows	N-fsg---------n-----------f-	32	257	32	263	B-PROD
+Vista	N	Vista	N-fsg---------n-----------f-	32	265	32	269	I-PROD
+filtram	N	filtrs	N-msd---------n-----------l-	32	271	32	277	O
+ir	V	būt	Vp----3--i----------7-----l-	32	279	32	280	O
+divi	M	divi	M-mpn---c-----------------l-	32	282	32	285	O
+darbības	N	darbība	N-fsg---------n-----------l-	32	287	32	294	O
+varianti	N	variants	N-mpn---------n-----------l-	32	296	32	303	O
+:	T	:	T--------------------------:	32	304	32	304	O
+
+
+1	D	1	D--s------------------------	33	0	33	0	O
+.	T	.	T--------------------------.	33	1	33	1	O
+atļaut	V	atļaut	V--------n----------------l-	33	3	33	8	O
+pieeju	N	pieeja	N-fsa---------n-----------l-	33	10	33	15	O
+tikai	Q	tikai	Q-------------------------l-	33	17	33	21	O
+īpaši	R	īpaši	R----p--------------------l-	33	23	33	27	O
+norādītām	G	norādīts	Gsfpdp-n---p--------------l-	33	29	33	37	O
+„	T	„	T--------------------------„	33	39	33	39	O
+labajām	A	labs	A-fpdp-y------------------l-	33	40	33	46	O
+”	T	”	T--------------------------”	33	47	33	47	O
+vietnēm	N	vietne	N-fpd---------n-----------l-	33	49	33	55	O
+
+
+2	D	2	D--p------------------------	34	0	34	0	O
+.	T	.	T--------------------------.	34	1	34	1	O
+uzticēt	V	uzticēt	V--------n----------------l-	34	3	34	9	O
+filtrēšanu	N	filtrēšana	N-fsa---------n-----------l-	34	11	34	20	O
+automatizētam	G	automatizēts	Gsmsdp-n---p--------------l-	34	22	34	34	O
+satura	N	saturs	N-msg---------n-----------l-	34	36	34	41	O
+filtram	N	filtrs	N-msd---------n-----------l-	34	43	34	49	O
+.	SENT	.	T--------------------------.	34	50	34	50	O
+
+
+Ja	C	ja	C---------------------f---f-	35	0	35	1	O
+pirmais	M	pirmais	M-msn---o-----------------l-	35	3	35	9	O
+variants	N	variants	N-msn---------n-----------l-	35	11	35	18	O
+,	T	,	T--------------------------,	35	19	35	19	O
+dabiski	R	dabiski	R----p--------------------l-	35	21	35	27	O
+,	T	,	T--------------------------,	35	28	35	28	O
+ir	V	būt	Vp----3--i----------7-----l-	35	30	35	31	O
+efektīvs	A	efektīvs	A-msnp-n------------------l-	35	33	35	40	O
+,	T	,	T--------------------------,	35	41	35	41	O
+tad	R	tad	R----p--------------------l-	35	43	35	45	O
+automatizētā	G	automatizēts	Gsfsnp-y---p--------------l-	35	47	35	58	O
+filtrēšana	N	filtrēšana	N-fsn---------n-----------l-	35	60	35	69	O
+izrādījās	V	izrādīties	Vs----3--i-----y----------l-	35	71	35	79	O
+diezgan	R	diezgan	R----p---------------g----l-	35	81	35	87	O
+bezzobaina	A	bezzobains	A-fsnp-n------------------l-	35	89	35	98	O
+ne-anglisko	-	ne-anglisko	----------------------------	35	100	35	110	O
+lapu	N	lapa	N-fpg---------n-----------l-	35	112	35	115	O
+gadījumā	N	gadījums	N-msl---------n-----------l-	35	117	35	124	O
+,	T	,	T--------------------------,	35	125	35	125	O
+rezultāts	N	rezultāts	N-msn---------n-----------l-	35	127	35	135	O
+–	T	–	T--------------------------–	35	137	35	137	O
+54	D	54	D--p------------------------	35	139	35	140	O
+%	T	%	T--------------------------%	35	141	35	141	O
+.	SENT	.	T--------------------------.	35	142	35	142	O
+
+
+Ja	C	ja	C---------------------f---f-	36	0	36	1	O
+esat	V	būt	Vp-p--2--i----------1-----l-	36	3	36	6	O
+Windows	N	Windows	N-fsg---------n-----------f-	36	8	36	14	B-PROD
+Vista	N	Vista	N-fsg---------n-----------f-	36	16	36	20	I-PROD
+īpašnieks	N	īpašnieks	N-msn---------n-----------l-	36	22	36	30	O
+risinājums	N	risinājums	N-msn---------n-----------l-	36	32	36	41	O
+pieejams	G	pieejams	Gpmsnp-n---p--------------l-	36	43	36	50	O
+bez	S	bez	S----------------sgp------l-	36	52	36	54	O
+maksas	N	maksa	N-fsg---------n-----------l-	36	56	36	61	O
+
+
+CyberPatrol	-	CyberPatrol	----------------------------	37	0	37	10	B-PROD
+Parental	-	Parental	----------------------------	37	12	37	19	I-PROD
+Controls	-	Controls	----------------------------	37	21	37	28	I-PROD
+7	D	7	D--p------------------------	37	30	37	30	I-PROD
+
+
+2	D	2	D--p------------------------	38	0	38	0	O
+.	T	.	T--------------------------.	38	1	38	1	O
+smalki	R	smalki	R----p--------------------l-	38	3	38	8	O
+izstrādātas	G	izstrādāts	Gsfpnp-n---p--------------l-	38	10	38	20	O
+filtrēšanas	N	filtrēšana	N-fpn---------n-----------l-	38	22	38	32	O
+opcijas	N	opcija	N-fsg---------n-----------l-	38	34	38	40	O
+u.tml.	Y	u.tml.	Y-------------------------l-	38	42	38	47	O
+
+
+Tērzēšanas	N	tērzēšana	N-fsg---------n-----------f-	39	0	39	9	O
+kontrole	N	kontrole	N-fsn---------n-----------l-	39	11	39	18	O
+,	T	,	T--------------------------,	39	19	39	19	O
+darbosies	V	darboties	Vf----3--i-----y----------l-	39	21	39	29	O
+tikai	Q	tikai	Q-------------------------l-	39	31	39	35	O
+tad	R	tad	R----p--------------------l-	39	37	39	39	O
+,	T	,	T--------------------------,	39	40	39	40	O
+ja	C	ja	C---------------------d---l-	39	42	39	43	O
+vecāki	N	vecāks	N-mpn---------n-----------l-	39	45	39	50	O
+aizpildīs	V	aizpildīt	Vf----3--i----------------l-	39	52	39	60	O
+slikto	A	slikts	A-fpgp-y------------------l-	39	62	39	67	O
+latviešu	N	latvietis	N-mpg---------n-----------l-	39	69	39	76	O
+vārdu	N	vārds	N-mpg---------n-----------l-	39	78	39	82	O
+tabulu	N	tabula	N-fpg---------n-----------l-	39	84	39	89	O
+programmā	N	programma	N-fsl---------n-----------l-	39	91	39	99	O
+,	T	,	T--------------------------,	39	100	39	100	O
+jo	C	jo	C---------------------r---l-	39	102	39	103	O
+latviešu	N	latviete	N-fpg---------n-----------l-	39	105	39	112	O
+valodu	N	valoda	N-fsa---------n-----------l-	39	114	39	119	O
+pēc	S	pēc	S----------------sgt------l-	39	121	39	123	O
+noklusējuma	N	noklusējums	N-msg---------n-----------l-	39	125	39	135	O
+programma	N	programma	N-fsn---------n-----------l-	39	137	39	145	O
+nesaprot	V	nesaprast	Vp----3--i------y---------l-	39	147	39	154	O
+.	SENT	.	T--------------------------.	39	155	39	155	O
+
+
+Pieejams	A	pieejams	A-msnp-n------------------f-	40	0	40	7	O
+:	T	:	T--------------------------:	40	8	40	8	O
+
+
+Licence	N	licence	N-fsn---------n-----------f-	41	0	41	6	O
+3	D	3	D--p------------------------	41	8	41	8	O
+datoriem	N	dators	N-mpd---------n-----------l-	41	10	41	17	O
+uz	S	uz	S----------------pdp------l-	41	19	41	20	O
+1	D	1	D--s------------------------	41	22	41	22	B-DATE
+gadu	N	gads	N-msa---------n-----------l-	41	24	41	27	I-DATE
+~	T	~	T--------------------------~	41	29	41	29	O
+LVL	Y	LVL	Y-------------------------u-	41	31	41	33	B-MON
+20	D	20	D--pg-----------------------	41	35	41	36	I-MON
+
+
+ContentWatch	-	ContentWatch	----------------------------	42	0	42	11	B-PROD
+Net	-	Net	----------------------------	42	13	42	15	I-PROD
+Nanny	-	Nanny	----------------------------	42	17	42	21	I-PROD
+
+
+1	D	1	D--s------------------------	43	0	43	0	O
+.	T	.	T--------------------------.	43	1	43	1	O
+satura	N	saturs	N-msg---------n-----------l-	43	3	43	8	O
+filtrus	N	filtrs	N-mpa---------n-----------l-	43	10	43	16	O
+
+
+3	D	3	D--p------------------------	44	0	44	0	O
+.	T	.	T--------------------------.	44	1	44	1	O
+spēļu	N	spēle	N-fpg---------n-----------l-	44	3	44	7	O
+un	C	un	C---------------------c---l-	44	9	44	10	O
+lejuplādēšanas	N	lejuplādēšana	N-fsg---------n-----------l-	44	12	44	25	O
+programmu	N	programma	N-fpg---------n-----------l-	44	27	44	35	O
+ierobežošanu	N	ierobežošana	N-fsa---------n-----------l-	44	37	44	48	O
+,	T	,	T--------------------------,	44	49	44	49	O
+
+
+4	D	4	D--p------------------------	45	0	45	0	O
+.	T	.	T--------------------------.	45	1	45	1	O
+laika	N	laiks	N-msg---------n-----------l-	45	3	45	7	O
+kontroli	N	kontrole	N-fsa---------n-----------l-	45	9	45	16	O
+.	SENT	.	T--------------------------.	45	17	45	17	O
+
+
+Līderis	N	līderis	N-msn---------n-----------f-	46	0	46	6	O
+interneta	N	internets	N-msg---------n-----------l-	46	8	46	16	O
+filtrēšanā	N	filtrēšana	N-fsl---------n-----------l-	46	18	46	27	O
+un	C	un	C---------------------c---l-	46	29	46	30	O
+lietotāja	N	lietotāja	N-fsn---------n-----------l-	46	32	46	40	O
+kontroles	N	kontrole	N-fsg---------n-----------l-	46	42	46	50	O
+funkcionalitātē	N	funkcionalitāte	N-fsl---------n-----------l-	46	52	46	66	O
+ārvalstu	N	ārvalsts	N-msa---------n-----------l-	46	68	46	75	O
+IT	Q	it	Q-------------------------u-	46	77	46	78	O
+portālu	N	portāls	N-mpg---------n-----------l-	46	80	46	86	O
+apskatos	N	apskats	N-mpl---------n-----------l-	46	88	46	95	O
+.	SENT	.	T--------------------------.	46	96	46	96	O
+
+
+Pieejams	A	pieejams	A-msnp-n------------------f-	47	0	47	7	O
+:	T	:	T--------------------------:	47	8	47	8	O
+
+
+Funkcionāli	R	funkcionāli	R----p--------------------f-	48	0	48	10	O
+programma	N	programma	N-fsn---------n-----------l-	48	12	48	20	O
+ir	V	būt	Vp----3--i----------7-----l-	48	22	48	23	O
+bagātākā	A	bagāts	A-msgc-y------------------l-	48	25	48	32	O
+un	C	un	C---------------------c---l-	48	34	48	35	O
+piedāvā	V	piedāvāt	Vp-s--2--i----------------l-	48	37	48	43	O
+novatoriskus	A	novatorisks	A-mpap-n------------------l-	48	45	48	56	O
+risinājumus	N	risinājums	N-mpa---------n-----------l-	48	58	48	68	O
+satura	N	saturs	N-msg---------n-----------l-	48	70	48	75	O
+filtrēšanā	N	filtrēšana	N-fsl---------n-----------l-	48	77	48	86	O
+.	SENT	.	T--------------------------.	48	87	48	87	O
+Ar	S	ar	S----------------pdp------f-	48	89	48	90	O
+patiesi	R	patiesi	R----p--------------------l-	48	92	48	98	O
+sliktajām	A	slikts	A-fpdp-y------------------l-	48	100	48	108	O
+lapām	N	lapa	N-fpd---------n-----------l-	48	110	48	114	O
+šī	P	šis	P-fsn-------d-------------l-	48	116	48	117	O
+programma	N	programma	N-fsn---------n-----------l-	48	119	48	127	O
+lieliski	R	lieliski	R----p--------------------l-	48	129	48	136	O
+tiek	V	tikt	Vp----3--i----------6-----l-	48	138	48	141	O
+galā	R	galā	R----p--------------------l-	48	143	48	146	O
+,	T	,	T--------------------------,	48	147	48	147	O
+bet	C	bet	C---------------------c---l-	48	149	48	151	O
+caur	S	caur	S----------------pdp------l-	48	153	48	156	O
+Net	-	Net	----------------------------	48	158	48	160	B-PROD
+Nanny	-	Nanny	----------------------------	48	162	48	166	I-PROD
+aizsargmehānismiem	N	aizsargmehānisms	N-mpd---------n-----------l-	48	168	48	185	O
+izspraucās	V	izspraukties	Vs----3--i-----y----------l-	48	187	48	196	O
+gandrīz	R	gandrīz	R----p---------------g----l-	48	198	48	204	O
+visas	P	viss	P-fsg-------g-------------l-	48	206	48	210	O
+interneta	N	internets	N-msg---------n-----------l-	48	212	48	220	O
+vietnes	N	vietne	N-fpn---------n-----------l-	48	222	48	228	O
+,	T	,	T--------------------------,	48	229	48	229	O
+kuras	P	kurš	P-fpn-------r---------o---l-	48	231	48	235	O
+primāri	R	primāri	R----p--------------------l-	48	237	48	243	O
+uztveramas	G	uztverams	Gpfpnp-n---p--------------l-	48	245	48	254	O
+kā	C	kā	C---------------------f---l-	48	256	48	257	O
+izklaides	N	izklaide	N-fsg---------n-----------l-	48	259	48	267	O
+portāli	N	portāls	N-mpn---------n-----------l-	48	269	48	275	O
+,	T	,	T--------------------------,	48	276	48	276	O
+tomēr	C	tomēr	C-------------------------l-	48	278	48	282	O
+satur	V	saturēt	Vp----3--i----------------l-	48	284	48	288	O
+erotiku	N	erotika	N-fsa---------n-----------l-	48	290	48	296	O
+un	C	un	C---------------------c---l-	48	298	48	299	O
+vardarbību	N	vardarbība	N-fsa---------n-----------l-	48	301	48	310	O
+.	SENT	.	T--------------------------.	48	311	48	311	O
+Testa	N	tests	N-msg---------n-----------f-	48	313	48	317	O
+rezultāts	N	rezultāts	N-msn---------n-----------l-	48	319	48	327	O
+–	T	–	T--------------------------–	48	329	48	329	O
+tikai	Q	tikai	Q-------------------------l-	48	331	48	335	O
+46	D	46	D--p------------------------	48	337	48	338	O
+%	T	%	T--------------------------%	48	339	48	339	O
+.	SENT	.	T--------------------------.	48	340	48	340	O
+
+
+Licence	N	licence	N-fsn---------n-----------f-	49	0	49	6	O
+1	D	1	D--s------------------------	49	8	49	8	O
+datoram	N	dators	N-msd---------n-----------l-	49	10	49	16	O
+uz	S	uz	S----------------pdp------l-	49	18	49	19	O
+1	D	1	D--s------------------------	49	21	49	21	B-DATE
+gadu	N	gads	N-msa---------n-----------l-	49	23	49	26	I-DATE
+~	T	~	T--------------------------~	49	28	49	28	O
+LVL	Y	LVL	Y-------------------------u-	49	30	49	32	B-MON
+20	D	20	D--pg-----------------------	49	34	49	35	I-MON
+
+
+Internet	N	Internet	N-fsn---------n-----------f-	50	0	50	7	B-PROD
+Safety	-	Safety	----------------------------	50	9	50	14	I-PROD
+Safe	-	Safe	----------------------------	50	16	50	19	I-PROD
+Eyes	-	Eyes	----------------------------	50	21	50	24	I-PROD
+
+
+Safe	-	Safe	----------------------------	51	0	51	3	B-PROD
+Eyes	-	Eyes	----------------------------	51	5	51	8	I-PROD
+ir	V	būt	Vp----3--i----------7-----l-	51	10	51	11	O
+viena	M	viens	M-fsn---c-----------------l-	51	13	51	17	O
+no	S	no	S----------------pdp------l-	51	19	51	20	O
+populārākajām	A	populārs	A-fpdc-y------------------l-	51	22	51	34	O
+maksas	N	maksa	N-fsg---------n-----------l-	51	36	51	41	O
+programmām	N	programma	N-fpd---------n-----------l-	51	43	51	52	O
+un	C	un	C---------------------c---l-	51	54	51	55	O
+pēc	S	pēc	S----------------sgp------l-	51	57	51	59	O
+funkcionalitātes	N	funkcionalitāte	N-fsg---------n-----------l-	51	61	51	76	O
+tā	P	tas	P-fsn-------d-------------l-	51	78	51	79	O
+daudz	R	daudz	R----p---------------g----l-	51	81	51	85	O
+neatšķiras	V	neatšķirties	Vp----3--i-----yy---------l-	51	87	51	96	O
+no	S	no	S----------------pdp------l-	51	98	51	99	O
+saviem	P	savs	P-mpd-------s-------------l-	51	101	51	106	O
+konkurentiem	N	konkurents	N-mpd---------n-----------l-	51	108	51	119	O
+(	T	(	T--------------------------(	51	121	51	121	O
+ContentWatch	-	ContentWatch	----------------------------	51	122	51	133	B-PROD
+Net	-	Net	----------------------------	51	135	51	137	I-PROD
+Nanny	-	Nanny	----------------------------	51	139	51	143	I-PROD
+;	T	;	T--------------------------;	51	144	51	144	O
+CyberPatrol	-	CyberPatrol	----------------------------	51	146	51	156	B-PROD
+Parental	-	Parental	----------------------------	51	158	51	165	I-PROD
+Controls	-	Controls	----------------------------	51	167	51	174	I-PROD
+7	D	7	D--p------------------------	51	176	51	176	I-PROD
+)	T	)	T--------------------------)	51	177	51	177	O
+
+
+Pieejams	A	pieejams	A-msnp-n------------------f-	52	0	52	7	O
+:	T	:	T--------------------------:	52	8	52	8	O
+
+
+Licence	N	licence	N-fsn---------n-----------f-	53	0	53	6	O
+1	D	1	D--s------------------------	53	8	53	8	O
+datoram	N	dators	N-msd---------n-----------l-	53	10	53	16	O
+uz	S	uz	S----------------pdp------l-	53	18	53	19	O
+1	D	1	D--s------------------------	53	21	53	21	B-DATE
+gadu	N	gads	N-msa---------n-----------l-	53	23	53	26	I-DATE
+~	T	~	T--------------------------~	53	28	53	28	O
+LVL	Y	LVL	Y-------------------------u-	53	30	53	32	B-MON
+25	D	25	D--p------------------------	53	34	53	35	I-MON
+
+
+Kaspersky	-	Kaspersky	----------------------------	54	0	54	8	B-PROD
+Internet	N	Internet	N-fsn---------n-----------f-	54	10	54	17	I-PROD
+Security	-	Security	----------------------------	54	19	54	26	I-PROD
+2009	D	2009	D--p------------------------	54	28	54	31	I-PROD
+
+
+Kaspersky	-	Kaspersky	----------------------------	55	0	55	8	B-PROD
+Internet	N	Internet	N-fsg---------n-----------f-	55	10	55	17	I-PROD
+Security	-	Security	----------------------------	55	19	55	26	I-PROD
+2009	D	2009	D--p------------------------	55	28	55	31	I-PROD
+pamata	N	pamats	N-msg---------n-----------l-	55	33	55	38	O
+funkcionalitāte	N	funkcionalitāte	N-fsn---------n-----------l-	55	40	55	54	O
+ir	V	būt	Vp----3--i----------7-----l-	55	56	55	57	O
+aizsardzība	N	aizsardzība	N-fsn---------n-----------l-	55	59	55	69	O
+pret	S	pret	S----------------pdp------l-	55	71	55	74	O
+vīrusiem	N	vīruss	N-mpd---------n-----------l-	55	76	55	83	O
+un	C	un	C---------------------c---l-	55	85	55	86	O
+interneta	N	internets	N-msg---------n-----------l-	55	88	55	96	O
+satura	N	saturs	N-msg---------n-----------l-	55	98	55	103	O
+filts	-	filts	----------------------------	55	105	55	109	O
+ir	V	būt	Vp----3--i----------7-----l-	55	111	55	112	O
+daļa	N	daļa	N-fsn---------n-----------l-	55	114	55	117	O
+no	S	no	S----------------sgp------l-	55	119	55	120	O
+šīs	P	šis	P-fsg-------d-------------l-	55	122	55	124	O
+daudzfunkcionālās	A	daudzfunkcionāls	A-fsgp-y------------------l-	55	126	55	142	O
+programmas	N	programma	N-fsg---------n-----------l-	55	144	55	153	O
+.	SENT	.	T--------------------------.	55	154	55	154	O
+
+
+Pieejams	A	pieejams	A-msnp-n------------------f-	56	0	56	7	O
+:	T	:	T--------------------------:	56	8	56	8	O
+
+
+Licence	N	licence	N-fsn---------n-----------f-	57	0	57	6	O
+2	D	2	D--p------------------------	57	8	57	8	O
+datoriem	N	dators	N-mpd---------n-----------l-	57	10	57	17	O
+uz	S	uz	S----------------pdp------l-	57	19	57	20	O
+1	D	1	D--s------------------------	57	22	57	22	B-DATE
+gadu	N	gads	N-msa---------n-----------l-	57	24	57	27	I-DATE
+~	T	~	T--------------------------~	57	29	57	29	O
+LVL	Y	LVL	Y-------------------------u-	57	31	57	33	B-MON
+35	D	35	D--p------------------------	57	35	57	36	I-MON
+
+
+WhiteNet	-	WhiteNet	----------------------------	58	0	58	7	B-PROD
+
+
+WhiteNet	-	WhiteNet	----------------------------	59	0	59	7	B-PROD
+–	T	–	T--------------------------–	59	9	59	9	O
+Latvijā	N	Latvija	N-fsl---------n-----------f-	59	11	59	17	B-LOC
+izstrādāts	G	izstrādāts	Gsmsnp-n---p--------------l-	59	19	59	28	O
+produkts	N	produkts	N-msn---------n-----------l-	59	30	59	37	O
+ar	S	ar	S----------------pdp------l-	59	39	59	40	O
+latviešu	N	latvietis	N-mpg---------n-----------l-	59	42	59	49	O
+valodu	N	valoda	N-fsa---------n-----------l-	59	51	59	56	O
+un	C	un	C---------------------c---l-	59	58	59	59	O
+vienkāršu	A	vienkāršs	A-fsap-n------------------l-	59	61	59	69	O
+lietojamību	N	lietojamība	N-fsa---------n-----------l-	59	71	59	81	O
+.	SENT	.	T--------------------------.	59	82	59	82	O
+
+
+WhiteNet	-	WhiteNet	----------------------------	60	0	60	7	B-PROD
+ir	V	būt	Vp----3--i----------7-----l-	60	9	60	10	O
+salīdzinoši	R	salīdzinoši	R----p--------------------l-	60	12	60	22	O
+vienkārša	A	vienkāršs	A-fsnp-n------------------l-	60	24	60	32	O
+lietošanā	N	lietošana	N-fsl---------n-----------l-	60	34	60	42	O
+,	T	,	T--------------------------,	60	43	60	43	O
+jo	C	jo	C---------------------r---l-	60	45	60	46	O
+lietotājam	N	lietotājs	N-msd---------n-----------l-	60	48	60	57	O
+ir	V	būt	Vp----3--i----------7-----l-	60	59	60	60	O
+jāveic	V	veikt	Vp-------c----------------l-	60	62	60	67	O
+maz	R	maz	R----p---------------g----l-	60	69	60	71	O
+uzstādījumus	N	uzstādījums	N-mpa---------n-----------l-	60	73	60	84	O
+un	C	un	C---------------------c---l-	60	86	60	87	O
+tā	P	tas	P-fsn-------d-------------l-	60	89	60	90	O
+ir	V	būt	Vp----3--i----------7-----l-	60	92	60	93	O
+pilnībā	N	pilnība	N-fsl---------n-----------l-	60	95	60	101	O
+latviskota	G	latviskots	Gsfsnp-n---p--------------l-	60	103	60	112	O
+.	SENT	.	T--------------------------.	60	113	60	113	O
+WhiteNet	-	WhiteNet	----------------------------	60	115	60	122	B-PROD
+būs	V	būt	Vf----3--i----------1-----l-	60	124	60	126	O
+vienkāršākais	A	vienkāršs	A-msnc-y------------------l-	60	128	60	140	O
+tiem	P	tas	P-mpd-------d-------------l-	60	142	60	145	O
+,	T	,	T--------------------------,	60	146	60	146	O
+kas	P	kas	P---n-------r---------x---l-	60	148	60	150	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	60	152	60	154	O
+datora	N	dators	N-msg---------n-----------l-	60	156	60	161	O
+lietošanas	N	lietošana	N-fsg---------n-----------l-	60	163	60	172	O
+speciālisti	N	speciālists	N-mpn---------n-----------l-	60	174	60	184	O
+.	SENT	.	T--------------------------.	60	185	60	185	O
+Jāņem	V	ņemt	Vp-------c----------------f-	60	187	60	191	O
+vērā	R	vērā	R----p--------------------l-	60	193	60	196	O
+,	T	,	T--------------------------,	60	197	60	197	O
+ka	C	ka	C---------------------p---l-	60	199	60	200	O
+WhiteNet	-	WhiteNet	----------------------------	60	202	60	209	B-PROD
+izstrādātāji	N	izstrādātājs	N-mpn---------n-----------l-	60	211	60	222	O
+programmu	N	programma	N-fsa---------n-----------l-	60	224	60	232	O
+pilnveido	V	pilnveidot	Vp----3--i----------------l-	60	234	60	242	O
+,	T	,	T--------------------------,	60	243	60	243	O
+un	C	un	C---------------------c---l-	60	245	60	246	O
+tā	P	tas	P-fsn-------d-------------l-	60	248	60	249	O
+pašreiz	R	pašreiz	R----p--------------------l-	60	251	60	257	O
+nestrādā	V	nestrādāt	Vp----3--i------y---------l-	60	259	60	266	O
+ar	S	ar	S----------------sap------l-	60	268	60	269	O
+Google	-	Google	----------------------------	60	271	60	276	B-PROD
+Chrome	-	Chrome	----------------------------	60	278	60	283	I-PROD
+interneta	N	internets	N-msg---------n-----------l-	60	285	60	293	O
+pārlūku	N	pārlūks	N-msa---------n-----------l-	60	295	60	301	O
+,	T	,	T--------------------------,	60	302	60	302	O
+kā arī	C	kā_arī	C---------------------c---l-	60	304	60	309	O
+ar	S	ar	S----------------pdp------l-	60	311	60	312	O
+Windows	N	Windows	N-fsg---------n-----------f-	60	314	60	320	B-PROD
+Vista	N	Vista	N-fsg---------n-----------f-	60	322	60	326	I-PROD
+un	C	un	C---------------------c---l-	60	328	60	329	O
+Windows	N	Windows	N-fsa---------n-----------f-	60	331	60	337	B-PROD
+7	D	7	D--p------------------------	60	339	60	339	O
+operētājsistēmu	N	operētājsistēma	N-fsa---------n-----------l-	60	340	60	354	O
+.	SENT	.	T--------------------------.	60	355	60	355	O
+
+
+Pieejams	A	pieejams	A-msnp-n------------------f-	61	0	61	7	O
+:	T	:	T--------------------------:	61	8	61	8	O
+
+
+Licence	N	licence	N-fsn---------n-----------f-	62	0	62	6	O
+1	D	1	D--s------------------------	62	8	62	8	O
+datoram	N	dators	N-msd---------n-----------l-	62	10	62	16	O
+uz	S	uz	S----------------pdp------l-	62	18	62	19	O
+1	D	1	D--s------------------------	62	21	62	21	B-DATE
+gadu	N	gads	N-msa---------n-----------l-	62	23	62	26	I-DATE
+~	T	~	T--------------------------~	62	28	62	28	O
+LVL	Y	LVL	Y-------------------------u-	62	30	62	32	B-MON
+25	D	25	D--p------------------------	62	34	62	35	I-MON
+
+
+Savam	P	savs	P-msd-------s-------------f-	63	0	63	4	O
+interneta	N	internets	N-msg---------n-----------l-	63	6	63	14	O
+pakalpojuma	N	pakalpojums	N-msg---------n-----------l-	63	16	63	26	O
+sniedzējam	N	sniedzējs	N-msd---------n-----------l-	63	28	63	37	O
+jums	P	jūs	P--pd-2-----p-------------l-	63	39	63	42	O
+ir	V	būt	Vp----3--i----------7-----l-	63	44	63	45	O
+tiesības	N	tiesības	N-fpn---------n-----------l-	63	47	63	54	O
+pieprasīt	V	pieprasīt	V--------n----------------l-	63	56	63	64	O
+bezmaksas	N	bezmaksas	N-fsg---------n-----------l-	63	66	63	74	O
+satura	N	saturs	N-msg---------n-----------l-	63	76	63	81	O
+filtru	N	filtrs	N-mpg---------n-----------l-	63	83	63	88	O
+uzstādīšanu	N	uzstādīšana	N-fsa---------n-----------l-	63	90	63	100	O
+!	SENT	!	T--------------------------!	63	101	63	101	O
+
+
+Saskaņā	N	saskaņa	N-fsl---------n-----------f-	64	0	64	6	O
+ar	S	ar	S----------------sap------l-	64	8	64	9	O
+LR	Y	LR	Y-------------------------u-	64	11	64	12	B-PROD
+Elektronisko	A	elektronisks	A-mpgp-y------------------f-	64	14	64	25	I-PROD
+sakaru	N	sakars	N-msa---------n-----------l-	64	27	64	32	I-PROD
+likuma	N	likums	N-msg---------n-----------l-	64	34	64	39	I-PROD
+19	D	19	D--pg-----------------------	64	41	64	42	O
+.	T	.	T--------------------------.	64	43	64	43	O
+panta	N	pants	N-msg---------n-----------l-	64	44	64	48	O
+1	D	1	D--s------------------------	64	50	64	50	O
+.	T	.	T--------------------------.	64	51	64	51	O
+daļas	N	daļa	N-fsg---------n-----------l-	64	52	64	56	O
+17	D	17	D--pg-----------------------	64	58	64	59	O
+.	T	.	T--------------------------.	64	60	64	60	O
+apakšpunktu	N	apakšpunkts	N-msa---------n-----------l-	64	61	64	71	O
+,	T	,	T--------------------------,	64	72	64	72	O
+jums	P	jūs	P--pd-2-----p-------------l-	64	74	64	77	O
+ir	V	būt	Vp----3--i----------7-----l-	64	79	64	80	O
+tiesības	N	tiesības	N-fpn---------n-----------l-	64	82	64	89	O
+savam	P	savs	P-msd-------s-------------l-	64	91	64	95	O
+interneta	N	internets	N-msg---------n-----------l-	64	97	64	105	O
+pakalpojuma	N	pakalpojums	N-msg---------n-----------l-	64	107	64	117	O
+sniedzējam	N	sniedzējs	N-msd---------n-----------l-	64	119	64	128	O
+pieprasīt	V	pieprasīt	V--------n----------------l-	64	130	64	138	O
+bezmaksas	N	bezmaksas	N-fsg---------n-----------l-	64	140	64	148	O
+filtru	N	filtrs	N-msa---------n-----------l-	64	150	64	155	O
+uzstādīšanu	N	uzstādīšana	N-fsa---------n-----------l-	64	157	64	167	O
+„	T	„	T--------------------------„	64	169	64	169	O
+Elektronisko	A	elektronisks	A-msap-y------------------f-	64	170	64	181	O
+sakaru	N	sakars	N-msa---------n-----------l-	64	183	64	188	O
+komersanta	N	komersants	N-msg---------n-----------l-	64	190	64	199	O
+pienākums	N	pienākums	N-msn---------n-----------l-	64	201	64	209	O
+ir	V	būt	Vp----3--i----------7-----l-	64	211	64	212	O
+informēt	V	informēt	V--------n----------------l-	64	214	64	221	O
+lietotāju	N	lietotāja	N-fsa---------n-----------l-	64	223	64	231	O
+par	S	par	S----------------sap------l-	64	233	64	235	O
+iespēju	N	iespēja	N-fsa---------n-----------l-	64	237	64	243	O
+uzstādīt	V	uzstādīt	V--------n----------------l-	64	245	64	252	O
+satura	N	saturs	N-msg---------n-----------l-	64	254	64	259	O
+filtru	N	filtrs	N-msa---------n-----------l-	64	261	64	266	O
+,	T	,	T--------------------------,	64	267	64	267	O
+kas	P	kas	P---n-------r---------x---l-	64	269	64	271	O
+ierobežo	V	ierobežot	Vp----3--i----------------l-	64	273	64	280	O
+tādu	P	tāds	P-fsa-------d-------------l-	64	282	64	285	O
+materiālu	N	materiāls	N-msa---------n-----------l-	64	287	64	295	O
+pieejamību	N	pieejamība	N-fsa---------n-----------l-	64	297	64	306	O
+,	T	,	T--------------------------,	64	307	64	307	O
+kuros	P	kurš	P-mpl-------r---------f---l-	64	309	64	313	O
+propagandēta	G	propagandēts	Gsfsnp-n---p--------------l-	64	315	64	326	O
+cietsirdīga	A	cietsirdīgs	A-fsnp-n------------------l-	64	328	64	338	O
+uzvedība	N	uzvedība	N-fsn---------n-----------l-	64	340	64	347	O
+,	T	,	T--------------------------,	64	348	64	348	O
+vardarbība	N	vardarbība	N-fsn---------n-----------l-	64	350	64	359	O
+,	T	,	T--------------------------,	64	360	64	360	O
+erotika	N	erotika	N-fsn---------n-----------l-	64	362	64	368	O
+,	T	,	T--------------------------,	64	369	64	369	O
+pornogrāfija	N	pornogrāfija	N-fsn---------n-----------l-	64	371	64	382	O
+un	C	un	C---------------------c---l-	64	384	64	385	O
+kuri	P	kurš	P-mpn-------r---------a---l-	64	387	64	390	O
+rada	V	radīt	Vp----3--i----------------l-	64	392	64	395	O
+draudus	N	drauds	N-mpa---------n-----------l-	64	397	64	403	O
+bērna	N	bērns	N-msg---------n-----------l-	64	405	64	409	O
+garīgajai	A	garīgs	A-fsdp-y------------------l-	64	411	64	419	O
+attīstībai	N	attīstība	N-fsd---------n-----------l-	64	421	64	430	O
+,	T	,	T--------------------------,	64	431	64	431	O
+kā arī	C	kā_arī	C---------------------c---l-	64	433	64	438	O
+nodrošināt	V	nodrošināt	V--------n----------------l-	64	440	64	449	O
+bezmaksas	N	bezmaksas	N-fsg---------n-----------l-	64	451	64	459	O
+satura	N	saturs	N-msg---------n-----------l-	64	461	64	466	O
+filtra	N	filtrs	N-msg---------n-----------l-	64	468	64	473	O
+uzstādīšanu	N	uzstādīšana	N-fsa---------n-----------l-	64	475	64	485	O
+,	T	,	T--------------------------,	64	486	64	486	O
+ja	C	ja	C---------------------d---l-	64	488	64	489	O
+abonents	N	abonents	N-msn---------n-----------l-	64	491	64	498	O
+to	P	tas	P-fsa-------d-------------l-	64	500	64	501	O
+pieprasa	V	pieprasīt	Vp----3--i----------------l-	64	503	64	510	O
+no	S	no	S----------------sgp------l-	64	512	64	513	O
+elektronisko	A	elektronisks	A-mpgp-y------------------l-	64	515	64	526	O
+sakaru	N	sakars	N-mpg---------n-----------l-	64	528	64	533	O
+komersanta	N	komersants	N-msg---------n-----------l-	64	535	64	544	O
+.	T	.	T--------------------------.	64	545	64	545	O
+„	T	„	T--------------------------„	64	546	64	546	O
+(	T	(	T--------------------------(	64	548	64	548	O
+pieejams	A	pieejams	A-msnp-n------------------l-	64	549	64	556	O
+:	T	:	T--------------------------:	64	557	64	557	O
+http://www.likumi.lv/doc.php?id=96611	-	http://www.likumi.lv/doc.php?id=96611	----------------------------	64	559	64	595	O
+)	T	)	T--------------------------)	64	597	64	597	O
+
+
+Internets	N	internets	N-msn---------n-----------f-	65	0	65	8	O
+ir	V	būt	Vp----3--i----------7-----l-	65	10	65	11	O
+:	T	:	T--------------------------:	65	12	65	12	O

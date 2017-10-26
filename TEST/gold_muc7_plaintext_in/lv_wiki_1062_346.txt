@@ -1,0 +1,59 @@
+﻿<ENAMEX TYPE="LOCATION">Bruneja</ENAMEX>
+
+Attēls:<ENAMEX TYPE="LOCATION">Bruneja</ENAMEX> vieta.png Valsts valoda malajiešu valoda GalvaspilsētaBandarseribegavana Lielākās pilsētasBandarseribegavana
+
+MonarhsHasanals <ENAMEX TYPE="PERSON">Bolkiahs</ENAMEX> Platība5770 km² Iedzīvotāju skaits
+
+371 100 61/km&sup2;  NeatkarībaNo <ENAMEX TYPE="LOCATION">Lielbritānijas</ENAMEX> <TIMEX TYPE="DATE">1984. gada 1.janvārī</TIMEX> Valūta <ENAMEX TYPE="LOCATION">Brunejas</ENAMEX> dolārs/BND Laika zona UTC +8 Valsts himnaYa Allah lanjutkan la usia Duli tuanku Interneta domēns.bn Starptautiskais tālsarunu kods+673
+
+<ENAMEX TYPE="LOCATION">Bruneja</ENAMEX> ir sultanāts <ENAMEX TYPE="LOCATION">Āzijas</ENAMEX> dienvidos <ENAMEX TYPE="LOCATION">Borneo salas</ENAMEX> ziemeļrietumu daļā. Dienvidos <ENAMEX TYPE="LOCATION">Brunejai</ENAMEX> ir sauszemes robeža ar <ENAMEX TYPE="LOCATION">Malaiziju</ENAMEX>, bet valsts ziemeļu robežu apskalo <ENAMEX TYPE="LOCATION">Dienvidķīnas jūra</ENAMEX>. <ENAMEX TYPE="LOCATION">Bruneja</ENAMEX> sastāv no 2 nošķirtiem apgabaliem, kas atrodas aptuveni 30 km attālumā viens no otra.
+
+Platība:
+
+5770 km2  Iedzīvotāju skaits: 365,2 tūkst.  Valsts iekārta: konstitucionāla monarhija — sultanāts, valsts vadītājs ir viens no bagātākajiem cilvēkiem pasaulē - Sultāns <ENAMEX TYPE="PERSON">Hassanal Bolkiah</ENAMEX>
+
+Galvaspilsēta:
+
+Lielākās pilsētas: <ENAMEX TYPE="LOCATION">Bandarseribegavana</ENAMEX>, <ENAMEX TYPE="LOCATION">Tutonga</ENAMEX>, <ENAMEX TYPE="LOCATION">Bangara</ENAMEX>, <ENAMEX TYPE="LOCATION">Jerudonga</ENAMEX>, <ENAMEX TYPE="LOCATION">Sukanga</ENAMEX>.
+
+Oficiālā valoda:
+
+malajiešu, angļu, ķīniešu Reliģija: 67 % islāms; 13 % budisms; 10 % kristietība; 10 % pamatiedzīvotāju pagāniskās ticības.
+
+Klimats:
+
+<ENAMEX TYPE="LOCATION">Bruneja</ENAMEX> atrodas ekvatoriālajā klimata joslā, tāpēc valstī <TIMEX TYPE="DATE">visu gadu</TIMEX> ir augsta gaisa temperatūra. Vidējā gaisa temperatūra <TIMEX TYPE="DATE">janvārī</TIMEX> + 25 °C, bet <TIMEX TYPE="DATE">jūlijā</TIMEX> +35 °C. Klimats ir karsts, bet mitrs un lietains, <TIMEX TYPE="DATE">gada</TIMEX> vidējais nokrišņu daudzums sasniedz pat 3000 mm, kas ir diezgan daudz.
+
+Naudas vienība:
+
+<ENAMEX TYPE="LOCATION">Brunejas</ENAMEX> dolārs (BND) <NUMEX TYPE="MONEY">1 USD</NUMEX> = <NUMEX TYPE="MONEY">1.71 BND</NUMEX>; Paralēli valstī daudzviet iespējams norēķināties arī ar <ENAMEX TYPE="LOCATION">Singapūras</ENAMEX> dolāriem.
+
+Transports:
+
+Visvairāk tūristu <ENAMEX TYPE="LOCATION">Brunejā</ENAMEX> ierodas ar aviotransportu. Valstī ir 2 lidostas. <ENAMEX TYPE="LOCATION">Latvijas</ENAMEX> iedzīvotājiem visērtāk ceļot caur <ENAMEX TYPE="LOCATION">Londonu</ENAMEX>. <ENAMEX TYPE="LOCATION">Brunejā</ENAMEX> var pārvietoties ar autobusu, īrētu automašīnu vai taksi. Maršrutu autobusu satiksme ir tikai galvaspilsētā. No apkārtesošajām salu valstīm <ENAMEX TYPE="LOCATION">Brunejā</ENAMEX> iespējams nokļūt arī ar ūdenstransportu, lielākās ostas ir <ENAMEX TYPE="LOCATION">Bandarseribegavana</ENAMEX>, <ENAMEX TYPE="LOCATION">Kuala Belait</ENAMEX>, <ENAMEX TYPE="LOCATION">Muar</ENAMEX>, <ENAMEX TYPE="LOCATION">Tutong</ENAMEX>.
+
+Tradīcijas:
+
+<ENAMEX TYPE="LOCATION">Brunejā</ENAMEX> bieži notiek krāšņi festivāli. Lielākā daļa svētku ir saistīti ar nozīmīgām dienām sultāna dzīvē, piemēram, <TIMEX TYPE="DATE">1. augusts</TIMEX> — sultāna kronēšanas gadadiena. <TIMEX TYPE="DATE">23. februāris</TIMEX> ir <ENAMEX TYPE="LOCATION">Brunejas</ENAMEX> neatkarības diena — kad tā kļuva neatkarīga no <ENAMEX TYPE="LOCATION">Lielbritānijas</ENAMEX>. <TIMEX TYPE="DATE">Jauno gadu</TIMEX> <ENAMEX TYPE="LOCATION">Brunejā</ENAMEX> sagaida pēc ķīniešu kalendāra <TIMEX TYPE="DATE">janvārī</TIMEX> vai <TIMEX TYPE="DATE">februārī</TIMEX>.  Hari Raija ir viens no lielākajiem festivāliem — tas sākas pēc <TIMEX TYPE="DATE">Ramadāna</TIMEX> (gavēšanas laika) beigām. Šajā laikā mošejas ir pilnas ar ticīgajiem un sultāns uzņem viesus savā rezidencē.
+
+Laika starpība: + <TIMEX TYPE="TIME">8 stundas</TIMEX>
+
+Nacionālā virtuve:
+
+<ENAMEX TYPE="LOCATION">Brunejā</ENAMEX> izvēles iespējas ir ļoti plašas, sākot ar nelielām, lētām ēstuvītēm un ātrās apkalpošanas restorāniem, beidzot ar smalkiem restorāniem. <ENAMEX TYPE="LOCATION">Brunejas</ENAMEX> virtuves tradīcijās ir jūtama ķīniešu, libāņu, indonēziešu, indiešu un malaiziešu virtuves ietekme. Ļoti bieži ēdienu pagatavošanā tiek izmantotas jēlas zivis, rīsi, nūdeles un dažādas garšvielas. Nacionālie ēdieni: laksa — zivju zupa; rendang — liellopu gaļas ēdiens ar garšvielām; satay — nacionālajā gaumē cepta liellopu, cūkas, vistas gaļa vai garneles, ketupat — rīsu pīrāgs. Alkohola tirdzniecība veikalos un restorānos <ENAMEX TYPE="LOCATION">Brunejā</ENAMEX> ir aizliegta ar likumu. Lielākā daļa restorānu ir atvērti tikai <TIMEX TYPE="TIME">līdz plkst. 22:00</TIMEX>.
+
+Apskates objekti
+
+<ENAMEX TYPE="LOCATION">Bandarseribegavanā</ENAMEX> ievērojamākais apskates objekts bez šaubām ir sultāna rezidence un mošeja — <ENAMEX TYPE="LOCATION">Istana Nurul Iman</ENAMEX>. Tā ir lielākā valdnieka rezidence pasaulē un pateicoties krāšņajām velvēm, zeltītajiem kupoliem, kā arī atrašanās vietai (upes krastā) ir iecienīts fotogrāfu objekts. Interesenti rezidenci var apmeklēt tikai Hari Raya svētku laikā, kad sultāns pieņem viesus. Apmeklējot mošeju, jāatceras, ka ieeja tajā atļauta tikai garajās biksēs, apsegtiem pleciem, sievietēm obligāta prasība ir galvassega.
+
+<ENAMEX TYPE="LOCATION">Kampong Ayer</ENAMEX> — šis rajons tiek saukts par <ENAMEX TYPE="LOCATION">Austrumu Venēciju</ENAMEX>. Tā ir pilsētas daļa, kas atrodas uz ūdens. Tajā var nokļūt ar laivām vai autotransportu pa gariem koka tiltiem. Šajā rajonā atrodas daudz gan modernu, gan vēsturisku celtņu. Sultāns šajā ciematā ir uzbūvējis skolas, mošejas, slimnīcas un citas nepieciešamas iestādes, kas nepieciešamas 30 000 ciemata iedzīvotājiem. <ENAMEX TYPE="LOCATION">Brunejas</ENAMEX> apmeklējums bez <ENAMEX TYPE="LOCATION">Kampong Ayer</ENAMEX> apskates būtu daudz neizteiksmīgāks.
+
+<ENAMEX TYPE="LOCATION">Karalisko dārgumu muzejs</ENAMEX> — tajā glabājas karaliskās ģimenes relikvijas, arī sultāna kroņa kopija.  Te arī aplūkojama ekspozīcija, kas vēsta par <ENAMEX TYPE="LOCATION">Brunejas</ENAMEX> vēsturi un konstitūciju.  Blakus muzejam atrodas <ENAMEX TYPE="LOCATION">Brunejas Vēstures centrs</ENAMEX> — šeit aplūkojamas dažādas vēsturiskas liecības par sultanātu, arī arheoloģiskie izrakumi.
+
+<ENAMEX TYPE="LOCATION">Lapau</ENAMEX> — karalisko ceremoniju halle, kurā <TIMEX TYPE="DATE">1968. gada 1. augustā</TIMEX> tika kronēts <ENAMEX TYPE="LOCATION">Brunejas</ENAMEX> sultāns.Te norisinās dažādas svarīgas ceremonijas.  <TIMEX TYPE="TIME">15 minūšu</TIMEX> attālumā no <ENAMEX TYPE="LOCATION">Lapau</ENAMEX> atrodas <ENAMEX TYPE="LOCATION">Tasek Izklaides parks</ENAMEX> — tas ir viens no vecākajiem atpūtas parkiem pilsētā. Parkā ir dabīgs ūdenskritums un ezers, kā arī skaists koku un puķu dārzs. Parks ir ideāla vieta, kur atpūsties no pilsētas trokšņiem un burzmas.
+
+<ENAMEX TYPE="LOCATION">Tamu Kianggeh</ENAMEX> — tirgus, kas atrodas pilsētas centrā, atvērts <TIMEX TYPE="TIME">no agra rīta līdz vēlam vakaram</TIMEX>. Šeit iespējams iegādāties nacionālos ēdienus, augļus, dārzeņus, amatnieku izstrādājumus un daudz interesantu suvenīru.  <ENAMEX TYPE="LOCATION">Wasai Kandal</ENAMEX> — vieta netālu no pilsētas centra, kur iespējams izbaudīt džungļu gaisotni. Izbūvētās takas neapdraud tūristu drošību, bet sniedz patiesu baudījumu gan dabas mīļotājiem, gan zinātniekiem un dabas pētniekiem. Te ir skaisti ūdenskritumi, bambusu audzes un citi eksotiski augi.
+
+<ENAMEX TYPE="LOCATION">Kota Batu</ENAMEX> ir amatnieku pilsēta, kur iespējams iegādāties jaukus suvenīrus. <ENAMEX TYPE="LOCATION">Mākslas un Amatniecības centrā</ENAMEX> iespējams iegādāties amatnieku darinātas sudraba rotaslietas, kā arī sarongas (nacionālos tautas tērpus).  <ENAMEX TYPE="LOCATION">Brunejas muzejs</ENAMEX> — apskatāmas keramikas, stikla un krāšņu paklāju izstādes, musulmaņu mākslas izstādes, bronzas izstrādājumi, kā arī <ENAMEX TYPE="LOCATION">Borneo salas</ENAMEX> etnogrāfiskās mākslas ekspozīcijas.
+
+<ENAMEX TYPE="LOCATION">Jerudonga</ENAMEX> — <ENAMEX TYPE="LOCATION">Jerudongas atpūtas parks</ENAMEX> ir vienīgais šāda tipa parks pasaulē, kurā nav jāmaksā par ieeju. Bērniem iekārtoti spēļu laukumi, pieaugušajiem dažādi sporta laukumi, izjādes, polo un golfa laukumi.

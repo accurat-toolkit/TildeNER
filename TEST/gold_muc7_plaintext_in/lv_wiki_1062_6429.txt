@@ -1,0 +1,11 @@
+﻿<ENAMEX TYPE="LOCATION">Koraļļu jūra</ENAMEX>
+
+Liela jūra ar daudzveidīgu gultnes reljefu. Austrumu daļā pie <ENAMEX TYPE="LOCATION">Santakrusas salām</ENAMEX> atrodas <ENAMEX TYPE="LOCATION">Torresa dziļvaga</ENAMEX>, kur jūras dziļums sasniedz 9 175 metrus. Ūdens virsējā slāņa sāļums ir 34-35‰. Ārkārtīgi augsta bioloģiskā daudzveidība.
+
+<ENAMEX TYPE="LOCATION">Koraļļu jūra</ENAMEX> ir slavena ar to, ka tajā atrodas pasaulē lielākais koraļļu rifs - <ENAMEX TYPE="LOCATION">Lielais Barjeru rifs</ENAMEX>. Lielākā daļa jūras ir <ENAMEX TYPE="LOCATION">Austrālijas</ENAMEX> teritorijā. Jūrā ļoti daudz koraļļu salu, lielākā daļa no tām neapdzīvotas. Vietām salas veido savdabīgu milzu labirintu. <ENAMEX TYPE="LOCATION">Koraļļu jūrā</ENAMEX> atrodas arī <ENAMEX TYPE="LOCATION">Lihū rifs</ENAMEX> - viens no pasaulē lielākajiem atoliem, šī atola lagūnas platība ap 2 500 km², bet atola sauszemes platība tikai 0,91 km².
+
+<TIMEX TYPE="DATE">1942. gada 7 - 8. maijā</TIMEX> <ENAMEX TYPE="LOCATION">Koraļļu jūrā</ENAMEX> notika kauja starp japāņiem un sabiedrotajiem, kas novērsa <ENAMEX TYPE="LOCATION">Portmorsbi</ENAMEX> okupāciju.
+
+Robežas
+
+Ziemeļos atrodas <ENAMEX TYPE="LOCATION">Jaungvineja</ENAMEX>, <ENAMEX TYPE="LOCATION">Zālamana jūra</ENAMEX> un <ENAMEX TYPE="LOCATION">Zālamana salas</ENAMEX>, austrumos - <ENAMEX TYPE="LOCATION">Santakrusas salas</ENAMEX> un <ENAMEX TYPE="LOCATION">Vanuatu</ENAMEX>, dienvidaustrumos - <ENAMEX TYPE="LOCATION">Jaunkaledonija</ENAMEX> un <ENAMEX TYPE="LOCATION">Fidži jūra</ENAMEX>. Dienvidos pāriet <ENAMEX TYPE="LOCATION">Tasmāna jūrā</ENAMEX> - par robežu starp abām jūrām kalpo <ENAMEX TYPE="LOCATION">Kvīnslendas un Jaundienvidvelsas štatu</ENAMEX> robežas pagarinājums jūrā. Rietumos - <ENAMEX TYPE="LOCATION">Austrālija</ENAMEX>, <ENAMEX TYPE="LOCATION">Kvīnslendas štats</ENAMEX>.

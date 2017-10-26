@@ -1,0 +1,57 @@
+﻿Nr Vārds, Uzvārds(17) Dzimis Darba vieta Amats Izglītība
+1 <ENAMEX TYPE="PERSON">Ivars Ķervis</ENAMEX> <TIMEX TYPE="DATE">1955</TIMEX> <ENAMEX TYPE="ORGANIZATION">Liepājas pilsētas dome</ENAMEX> deputāts augstākā
+2 <ENAMEX TYPE="PERSON">Arnis Jekste</ENAMEX> <TIMEX TYPE="DATE">1980</TIMEX> <ENAMEX TYPE="ORGANIZATION">Valsts a/s "Ceļu satiksmes drošības direkcija" Liepājas rajona nodaļa</ENAMEX> priekšnieka vietnieks augstākā
+3 <ENAMEX TYPE="PERSON">Kristīne Grulle-Drulle</ENAMEX> <TIMEX TYPE="DATE">1975</TIMEX> <ENAMEX TYPE="ORGANIZATION">Kurzemes reģionālā valsts darba inspekcija, Liepājas sektors</ENAMEX> inspektors augstākā
+4 <ENAMEX TYPE="PERSON">Uldis Pirktiņš</ENAMEX> <TIMEX TYPE="DATE">1987</TIMEX> <ENAMEX TYPE="ORGANIZATION">SIA "VUP"</ENAMEX> valdes loceklis, direktors vidējā
+5 <ENAMEX TYPE="PERSON">Anita Baranovska</ENAMEX> <TIMEX TYPE="DATE">1985</TIMEX> mājsaimniece nav augstākā
+6 <ENAMEX TYPE="PERSON">Inga Spirģe-Laukmane</ENAMEX> <TIMEX TYPE="DATE">1982</TIMEX> <ENAMEX TYPE="ORGANIZATION">SIA "LISA A.P."</ENAMEX> veikala <ENAMEX TYPE="ORGANIZATION">LIZIĀNA</ENAMEX> vadītāja augstākā
+7 <ENAMEX TYPE="PERSON">Iveta Ļesina</ENAMEX> <TIMEX TYPE="DATE">1958</TIMEX> <ENAMEX TYPE="ORGANIZATION">SIA "MAKS"</ENAMEX> ienākošā tūrisma nodaļas vadītāja augstākā
+8 <ENAMEX TYPE="PERSON">Edgars Saldenieks</ENAMEX> <TIMEX TYPE="DATE">1985</TIMEX> <ENAMEX TYPE="ORGANIZATION">SIA "EIRO AGRO"</ENAMEX> valdes priekšsēdētājs vidējā
+9 <ENAMEX TYPE="PERSON">Emīlija Ziemele</ENAMEX> <TIMEX TYPE="DATE">1942</TIMEX> pensionāre nav augstākā
+10 <ENAMEX TYPE="PERSON">Inese Eistere</ENAMEX> <TIMEX TYPE="DATE">1933</TIMEX> <ENAMEX TYPE="ORGANIZATION">Liepājas universitāte vides zinātņu kadetdra</ENAMEX> lektore augstākā
+11 <ENAMEX TYPE="PERSON">Māris Stankevičs</ENAMEX> <TIMEX TYPE="DATE">1978</TIMEX> <ENAMEX TYPE="ORGANIZATION">SIA "Kurzemes namzinis"</ENAMEX> valdes priekšsēdētājs vidējā
+12 <ENAMEX TYPE="PERSON">Valda Šneidere</ENAMEX> <TIMEX TYPE="DATE">1961</TIMEX> <ENAMEX TYPE="ORGANIZATION">SIA "Liepājas reģionālā slimnīca"</ENAMEX> māsa - saimniece vidējā
+13 <ENAMEX TYPE="PERSON">Erika Kursa</ENAMEX> <TIMEX TYPE="DATE">1947</TIMEX> Biedrība "<ENAMEX TYPE="ORGANIZATION">Liepājas Vācu nams</ENAMEX>" koordinātore vidējā
+14 <ENAMEX TYPE="PERSON">Ināra Putika</ENAMEX> <TIMEX TYPE="DATE">1956</TIMEX> <ENAMEX TYPE="ORGANIZATION">Komplekā sporta skola - 8.vidusskola</ENAMEX> ūdens veselības aerobikas trenere vidējā
+15 <ENAMEX TYPE="PERSON">Imants Radavs</ENAMEX> <TIMEX TYPE="DATE">1947</TIMEX> <ENAMEX TYPE="ORGANIZATION">SIA "Latvijas nacionālais meteoroloģijas centrs" Liepājas nodaļa</ENAMEX> inženieris vidējā
+16 <ENAMEX TYPE="PERSON">Gunārs Gūža</ENAMEX> <TIMEX TYPE="DATE">1975</TIMEX> <ENAMEX TYPE="ORGANIZATION">SIA "Ungārs"</ENAMEX> valdes priekšsēdētājs vidējā
+17 <ENAMEX TYPE="PERSON">Gunārs Stankevičs</ENAMEX> <TIMEX TYPE="DATE">1954</TIMEX> Biedrība "<ENAMEX TYPE="ORGANIZATION">Latvijas Dzīvokļu Īpašnieku savienība</ENAMEX>" valdes loceklis augstākā
+
+Lasītākais Jaunākais Jaunākais Lasītākais SABIEDROTO RAKSTI
+'<ENAMEX TYPE="PRODUCT">Avangard</ENAMEX>' un '<ENAMEX TYPE="PRODUCT">Vitjazj</ENAMEX>' spēlē izceļas masveida kautiņš (3)
+'<ENAMEX TYPE="PRODUCT">Dinamo</ENAMEX>' zaudē pēcspēles metienu sērijā No <ENAMEX TYPE="LOCATION">Rīgas</ENAMEX> izvesti 1400 kubikmetri sniega (3)
+Uz <ENAMEX TYPE="LOCATION">Tallinas šosejas</ENAMEX> avarē autobuss <ENAMEX TYPE="ORGANIZATION">DELFI</ENAMEX> FOTO Sniega lāpsta <ENAMEX TYPE="ORGANIZATION">Prāta Vētras</ENAMEX> koncerts <ENAMEX TYPE="ORGANIZATION">Prāta Vētras</ENAMEX> koncerts "<ENAMEX TYPE="ORGANIZATION">airBaltic</ENAMEX>" iepazīstina ar jauno "<ENAMEX TYPE="PRODUCT">Bombardier</ENAMEX>" lidmašīnu. (8)
+<TIMEX TYPE="DATE">10. decembra</TIMEX> sniegs <ENAMEX TYPE="LOCATION">Rīgā</ENAMEX> Sniegputenis <ENAMEX TYPE="LOCATION">Igaunijā</ENAMEX> Pie tiesas iestieg apcietināto konvojs (14)
+Sniegputenis <ENAMEX TYPE="LOCATION">Igaunijā</ENAMEX> (9)
+Sniegputenis <ENAMEX TYPE="LOCATION">Rīgā</ENAMEX> (2)
+Arhīvs - TABULA - Cilvēku interneta lietošanas paradumi mājās
+Nespēj iztikt bez interneta 9%
+Nevar pavadīt ne <TIMEX TYPE="DATE">dienu</TIMEX> bez interneta 11,2%
+Var pavadīt <TIMEX TYPE="DATE">1-3 dienas</TIMEX> bez interneta >25%
+Var pavadīt bez interneta <TIMEX TYPE="DATE">nedēļu</TIMEX> 14%
+Dzīvojot bez interneta <TIMEX TYPE="DATE">no dienas līdz nedēļai</TIMEX>, būtu lielas problēmas 60%
+Internetu lieto informācijas meklēšanai 86,2%
+Internetu lieto saziņai 74,4%
+Internetu lieto rēķinu kārtošanai 65%
+Internetu lieto darbam un mācībām < 64%
+Internetu lieto izklaidei 63%
+Internetu lieto <TIMEX TYPE="TIME">vismaz piecas stundas</TIMEX> 38%
+Internetu lieto <TIMEX TYPE="TIME">trīs līdz četras stundas</TIMEX> 33%
+Avots: "<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX>"
+AKCIJAS PRECE! Ādas krēsls <NUMEX TYPE="MONEY">168 Ls</NUMEX>
+VAIRĀK NEKĀ 400 JAUNIE JUVELIERIZSTRĀDĀJUMU MODEĻI!!! ATLAIDE 25%! LC-32LE705EV Izvēlies labāko! LED televizors - ražots <ENAMEX TYPE="LOCATION">Japānā</ENAMEX>! www.pta.lv
+Saldais grēks Šokolādes konfekšu izlase tamborētā groziņā www.zemenitessniega.lv
+labas cenas dāvanām elektriskā tējkanna <ENAMEX TYPE="PRODUCT">Comfort</ENAMEX>, 2000W, 1.8l www.cenuklubs.lv
+Apnika tizlas dāvanas? Spied! Un tavu dāvanu novērtēs visi :-) www.mojo-jojo.lv
+<TIMEX TYPE="DATE">Jaunajam Gadam</TIMEX> Lai sapņi piepildās!! www.neoshop.lv
+Vajadzīgs dators? Plaša personālo datoru izvēle Cena no <NUMEX TYPE="MONEY">Ls130.00</NUMEX> Saldi groziņi Jauna garšīga prece!!! Cena no <NUMEX TYPE="MONEY">10 LVL</NUMEX>!!! www.1shop.lv
+<ENAMEX TYPE="PRODUCT">Apple iPhone 4</ENAMEX> 16GB salidzini.lv Rotaļlietas virs 18 Seksa rotaļlietu komplekti visdažādākajām gaumēm www.SexyStyle.lv
+Dāvanas no <ENAMEX TYPE="ORGANIZATION">Bosch</ENAMEX>! Lieliskas atlaides <ENAMEX TYPE="ORGANIZATION">Bosch</ENAMEX> sadzīves tehnikai Nenokavē! <ENAMEX TYPE="ORGANIZATION">PRIME Office</ENAMEX> <NUMEX TYPE="MONEY">169Ls</NUMEX> <ENAMEX TYPE="ORGANIZATION">Intel</ENAMEX> 2.80 GHz/ 2GB / 320GB 7200rpm/<ENAMEX TYPE="PRODUCT">GMA X4500</ENAMEX> www.ITEM.lv
+<TIMEX TYPE="DATE">Ziemassvētku</TIMEX> atlaides! Zelta un sudraba juvelierizstrādājumi <ENAMEX TYPE="ORGANIZATION">Vitreum.lv</ENAMEX> <ENAMEX TYPE="PRODUCT">ASUS Eee</ENAMEX> PC - <NUMEX TYPE="MONEY">199Ls</NUMEX> <ENAMEX TYPE="PRODUCT">Atom N450</ENAMEX> 1.66GHz/ 1GB DDR2/ 250GB/ 10.1/ <ENAMEX TYPE="PRODUCT">Win7</ENAMEX>/ 1.27kg www.m79.lv
+Backwards clock Amizants pulkstenis. Rādītāji griežas pretējā virzienā! DĀVANU veikals <ENAMEX TYPE="PRODUCT">Cherry.lv</ENAMEX> <ENAMEX TYPE="PRODUCT">Moulinex</ENAMEX> maizes krāsns Izbaudi īstas maizes garšu!!! Cena no <NUMEX TYPE="MONEY">45 ls</NUMEX> <ENAMEX TYPE="PRODUCT">Function Plus</ENAMEX> 80120 Īpašā cena: <NUMEX TYPE="MONEY">76.50 Ls</NUMEX> www.living.lv
+<ENAMEX TYPE="ORGANIZATION">PTA</ENAMEX> Salidzini Living.lv
+<ENAMEX TYPE="ORGANIZATION">DELFI</ENAMEX> ceļojumi
+Karstās ceļazīmes <ENAMEX TYPE="LOCATION">Turcijā</ENAMEX>,<ENAMEX TYPE="LOCATION">Spānija</ENAMEX>,<ENAMEX TYPE="LOCATION">Ēģipte</ENAMEX>
+Aviokompāniju akcijas <ENAMEX TYPE="LOCATION">Maskava-Rīga</ENAMEX> <NUMEX TYPE="MONEY">45 Ls</NUMEX>
+<ENAMEX TYPE="ORGANIZATION">Astra Tūre</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Finnair</ENAMEX> akcija
+Biļetes uz <ENAMEX TYPE="LOCATION">ASV</ENAMEX> no <NUMEX TYPE="MONEY">Ls 320</NUMEX>

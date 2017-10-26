@@ -1,0 +1,656 @@
+﻿ORG	„ Baltijos “ laivų statykla
+ORG	ABB
+ORG	ABB koncernas Lietuvoje
+ORG	Achema
+ORG	Adnet
+ORG	Agaras
+ORG	Agrovet
+ORG	Akmenė
+ORG	Akmenės rajono savivaldybė
+ORG	ALF
+ORG	Alga
+ORG	Aliejus
+ORG	Alio
+ORG	Alita
+ORG	Alkesta
+ORG	Alma Littera
+ORG	Alna
+ORG	Alnos biuro sistemos
+ORG	Alytaus rajono savivaldybė
+ORG	Alytaus tekstilė
+ORG	Alytus
+ORG	Anykščiai
+ORG	Anykščiai rajono savivaldybė
+ORG	Anykščių vynas
+ORG	Aon Consulting
+ORG	Apranga
+ORG	Architektūros ir statybos institutas
+ORG	Armitana
+ORG	Ars Computandi
+ORG	Arsenalas - EHG
+ORG	Asbis
+ORG	Asbis Vilnius
+ORG	Asotra
+ORG	Atviros Lietuvos fondas
+ORG	Audėjas
+ORG	Audimas
+ORG	Autodina
+ORG	Aviakompanija Lietuva
+ORG	BA
+ORG	Baldų rojus
+ORG	Baltic Amadeus
+ORG	Baltic Clipper
+ORG	Baltic Logistic System Vilnius
+ORG	Baltic Travel Service
+ORG	Baltijos tyrimai
+ORG	Baltik Vairas
+ORG	Baltlanta
+ORG	Bankas Snoras
+ORG	BB
+ORG	BEGA
+ORG	Beiersdorf
+ORG	Bennet
+ORG	Bennet Distributors
+ORG	Berlin Chemie Menarini Baltic
+ORG	Biok
+ORG	Biovela
+ORG	Birštonas
+ORG	Birštono savivaldybė
+ORG	Biržai
+ORG	Biržų rajono savivaldybė
+ORG	Bitė
+ORG	Bitė GSM
+ORG	Biznio mašinų kompanija
+ORG	Bizpak
+ORG	Blue Bridge
+ORG	BMK
+ORG	BMS
+ORG	BNS
+ORG	BNS žinios
+ORG	Bonum Publicum
+ORG	BTS
+ORG	Busturas
+ORG	Centro kubas
+ORG	CLASCO
+ORG	Compservis
+ORG	Cygate
+ORG	Cygate Lietuva
+ORG	Čečeta
+ORG	Čili
+ORG	Čilija
+ORG	Daisotra
+ORG	Danexport
+ORG	Danijos karališkoji ambasada
+ORG	Darbo federacija
+ORG	Dasma
+ORG	Dominga Harwood
+ORG	Dominga Mill
+ORG	Draudos autocentras
+ORG	Drobė
+ORG	Druskininkai
+ORG	Druskininkų Rasa
+ORG	Druskininkų savivaldybė
+ORG	Dvarčionių keramika
+ORG	Egzotika
+ORG	Ekobana
+ORG	Ekranas
+ORG	Eksma
+ORG	Elektrėnai
+ORG	Elektrėnų savivaldybė
+ORG	Elektrobalt
+ORG	Elga
+ORG	Elko-Kaunas
+ORG	Elsis
+ORG	ELTA
+ORG	ERGO Lietuva
+ORG	Ericsson
+ORG	Ericsson Lietuva
+ORG	Ernst&Young
+ORG	ES Socrates
+ORG	ET informacinis biuras
+ORG	ETD
+ORG	Eugesta
+ORG	Europos bendrija
+ORG	Europos parkas
+ORG	Europos teisės departamentas
+ORG	Falck Security
+ORG	Fedora
+ORG	Fermentas
+ORG	Fima
+ORG	Finansų ministerija
+ORG	FM
+ORG	Galinta
+ORG	Galinta ir partneriai
+ORG	Gardėsis
+ORG	Garsų pasaulis
+ORG	Genčių nafta
+ORG	Geonafta
+ORG	Gintaro muziejus
+ORG	Girių bizonas
+ORG	GNT
+ORG	GNT Lietuva
+ORG	GP
+ORG	Grafobal Vilnius
+ORG	Grigiškės
+ORG	Grūstė
+ORG	Gubernija
+ORG	Hansabankas
+ORG	Hanza Lizingas
+ORG	Helisota
+ORG	Hidrostatyba
+ORG	Higienos institutas
+ORG	Hoja
+ORG	Hoja transportas
+ORG	Hronas
+ORG	Hydro Texaco
+ORG	IAE
+ORG	IF draudimas
+ORG	Ignalina
+ORG	Ignalinos Atomimė Elektrinė
+ORG	Ignalinos rajono savivaldybė
+ORG	Ikoda
+ORG	Imsas
+ORG	Informacinės technologijos
+ORG	Ingman Vega
+ORG	Intersurgical
+ORG	Iris
+ORG	ISM
+ORG	Itera
+ORG	Itera Lietuva
+ORG	Jara
+ORG	Jaunimo teatras
+ORG	Jonava
+ORG	Jonavos rajono savivaldybė
+ORG	Joniškio rajono savivaldybė
+ORG	Joniškis
+ORG	Junesta
+ORG	Jungtinės Karalystės ambasada
+ORG	Jungtinės tautos
+ORG	Jungtinių Amerikos Valstijų ambasada
+ORG	Jurbarkas
+ORG	Jurbarko rajono savivaldybė
+ORG	Juta 
+ORG	Jūrės medis
+ORG	Kaišiadorių paukštynas
+ORG	Kaišiadorių rajono savivaldybė
+ORG	Kaišiadorys
+ORG	Kalnapilis
+ORG	KAM
+ORG	Kappa Packaging Baltic
+ORG	Katra
+ORG	Kaunas
+ORG	Kauno baldai
+ORG	Kauno diena
+ORG	Kauno dramos teatras
+ORG	Kauno energija
+ORG	Kauno IX forto muziejus
+ORG	Kauno ketaus liejykla
+ORG	Kauno miesto savivaldybė
+ORG	Kauno pieno centras
+ORG	Kauno technologijos universitetas
+ORG	Kauno tiltai
+ORG	Kauno vandenys
+ORG	Kausta
+ORG	Kautra
+ORG	Kavinukas
+ORG	Kazlų Rūdos metalas
+ORG	Kėdainiai
+ORG	Kėdainių grūdai
+ORG	Kėdainių rajono savivaldybė
+ORG	Keistuolių teatras
+ORG	Kelmė
+ORG	Kelmės rajono savivaldybė
+ORG	Kemira GrowHow
+ORG	Kernavės archeologijos ir istorijos muziejus
+ORG	Klaipėda
+ORG	Klaipėdos baldų prekyba
+ORG	Klaipėdos dramos teatras
+ORG	Klaipėdos duona
+ORG	Klaipėdos energija
+ORG	Klaipėdos jūrų krovinių kompanija CLASCO
+ORG	Klaipėdos kartonas
+ORG	Klaipėdos mediena
+ORG	Klaipėdos miesto savivaldybė
+ORG	Klaipėdos muzikinis teatras
+ORG	Klaipėdos nafta
+ORG	Klaipėdos transporto laivynas
+ORG	Klaipėdos universitetas
+ORG	Klaipėdos vanduo
+ORG	KM
+ORG	Kompozitorių sąjunga
+ORG	Kraft Foods Lietuva
+ORG	Kraitenė
+ORG	Krantas Travel
+ORG	Krasta Auto
+ORG	Krašto apsaugos ministerija
+ORG	Kredyt bank
+ORG	Krekenavos agrofirma
+ORG	Kretinga
+ORG	Kretingos grūdai
+ORG	Kretingos rajono savivaldybė
+ORG	KTU
+ORG	KU
+ORG	Kultūros ministerija
+ORG	Kultūros vertybių apsaugos departamentas
+ORG	Kupiškio rajono savivaldybė
+ORG	Kupiškis
+ORG	Laisvosios rinkos institutas
+ORG	Laivitė
+ORG	LAT
+ORG	Lazdijai
+ORG	Lazdijų rajono savivaldybė
+ORG	LB
+ORG	Lėlė
+ORG	Lelija
+ORG	Lenkijos Respublikos ambasada
+ORG	Leo Burnett
+ORG	Lėvuo
+ORG	Lex
+ORG	Lex-system
+ORG	Li Sadolin
+ORG	Liaudies buities muziejus
+ORG	Libra Vitalis
+ORG	Lietkabelis
+ORG	Lietuva Statoil
+ORG	Lietuvių kalbos institutas
+ORG	Lietuvos aidas
+ORG	Lietuvos Aukščiausiasis Teismas
+ORG	Lietuvos aviacijos muziejus
+ORG	Lietuvos bankas
+ORG	Lietuvos dailės muziejus
+ORG	Lietuvos draudimas
+ORG	Lietuvos dujos
+ORG	Lietuvos energija
+ORG	Lietuvos etnokosmologijos muziejus
+ORG	Lietuvos geležinkeliai
+ORG	Lietuvos istorijos Trakų muziejus
+ORG	Lietuvos jūrų laivininkystė
+ORG	Lietuvos jūrų muziejus
+ORG	Lietuvos karo akademija
+ORG	Lietuvos krikščioniškojo fondo mokykla
+ORG	Lietuvos kūno kultūros akademija
+ORG	Lietuvos liaudies buities muziejus
+ORG	Lietuvos muitinė
+ORG	Lietuvos muitinės departamentas
+ORG	Lietuvos muzikos akademija
+ORG	Lietuvos nacionalinis muziejus
+ORG	Lietuvos paštas
+ORG	Lietuvos radijas
+ORG	Lietuvos radijo ir televizijos centras
+ORG	Lietuvos Respublikos Konstitucinis Teismas
+ORG	Lietuvos Respublikos Ministras Pirmininkas
+ORG	Lietuvos Respublikos Prezidentas
+ORG	Lietuvos Respublikos Seimas
+ORG	Lietuvos Respublikos Specialiųjų tyrimų tarnyba
+ORG	Lietuvos Respublikos Vyriausybė
+ORG	Lietuvos rytas
+ORG	Lietuvos spauda
+ORG	Lietuvos Statistikos Departamentas
+ORG	Lietuvos tara
+ORG	Lietuvos teisės universitetas
+ORG	Lietuvos Telekomas
+ORG	Lietuvos ūkininkų draugija
+ORG	Lietuvos valstybinė vertybinių popierių birža
+ORG	Lietuvos veterinarijos akademija
+ORG	Lietuvos žemės ūkio universitetas
+ORG	Lietuvos žinios
+ORG	Lietuvos žydų muziejus
+ORG	Lifosa
+ORG	Limada
+ORG	Limarko
+ORG	Limedika
+ORG	Linas
+ORG	Lindra
+ORG	Linų audiniai
+ORG	LISCO
+ORG	LISCO Baltic Service
+ORG	Litagra
+ORG	Litbela
+ORG	Liteksas
+ORG	Litexpo
+ORG	Litfarma ir partneriai
+ORG	Lithun
+ORG	Lituanica
+ORG	LKI
+ORG	LMA
+ORG	LR
+ORG	LRF Farmacija
+ORG	LRKT
+ORG	LRS
+ORG	LRV
+ORG	LTU
+ORG	Lukoil
+ORG	Lukoil Baltija
+ORG	LVAT
+ORG	Lytagra
+ORG	LZUU
+ORG	M-1
+ORG	Maksimalus greitis
+ORG	Maldis
+ORG	Malsena
+ORG	MAP
+ORG	MAP Lietuva
+ORG	Marijampolė
+ORG	Marijampolės grūdai
+ORG	Marijampolės rajono savivaldybė
+ORG	Markučiai
+ORG	Mažeikiai
+ORG	Mažeikių nafta
+ORG	Mažeikių rajono savivaldybė
+ORG	Mažosios Lietuvos istorijos muziejus
+ORG	Media House
+ORG	Medicinos bankas
+ORG	Medikona
+ORG	Megrame
+ORG	MELI
+ORG	Mercuri International
+ORG	Mėsa
+ORG	Metalo prekyba
+ORG	MG Baltic
+ORG	Militzer & Munch Fortransas
+ORG	Mineraliniai vandenys
+ORG	Minijos nafta
+ORG	Minolta
+ORG	Minolta Baltija
+ORG	Mitnija
+ORG	Mokslo ir enciklopedijų leidybos institutas
+ORG	Mokslo ir studijų fondas
+ORG	Molėtai
+ORG	Molėtų rajono savivaldybė
+ORG	Moller Auto
+ORG	Montuotojas
+ORG	Mosėdžio akmenų muziejus
+ORG	Muzikų sąjunga
+ORG	MV
+ORG	Nacionalinis dramos teatras
+ORG	Nacionalinis operos ir baleto teatras
+ORG	Narbutas ir Ko
+ORG	Natanga
+ORG	NATO
+ORG	Naujieji Verkiai
+ORG	Naujoji Rūta
+ORG	NCC Fegda
+ORG	Nematekas
+ORG	Nemunas
+ORG	Nemuno banga
+ORG	Neringa
+ORG	Neringos savivaldybė
+ORG	Neste
+ORG	Neste Lietuva
+ORG	NOBT
+ORG	Nord
+ORG	Nord/LB
+ORG	Nordea
+ORG	Nordea bank
+ORG	Norvelita
+ORG	Novaturas
+ORG	Ochoco Lumber
+ORG	Office1
+ORG	Ogmios centras
+ORG	Ogmios pulsas
+ORG	Olifėja
+ORG	OMD
+ORG	OMD Lietuva
+ORG	Omnitel
+ORG	Oro navigacija
+ORG	Ortopedijos technika
+ORG	Pagirių šiltnamiai
+ORG	Pajūrio mediena
+ORG	Pakmarkas
+ORG	Pakruojis
+ORG	Pakruojo rajono savivaldybė
+ORG	Palanga
+ORG	Palangos miesto savivaldybė
+ORG	Panevėžio energija
+ORG	Panevėžio keliai
+ORG	Panevėžio miesto savivaldybė
+ORG	Panevėžio pienas
+ORG	Panevėžio statybos trestas
+ORG	Panevėžio stiklas
+ORG	Panevėžys
+ORG	Papyrus Distribution
+ORG	Parex
+ORG	Parex bankas
+ORG	Paroc
+ORG	Pasaulio banko atstovybė
+ORG	Pasienio policijos departamentas
+ORG	Pasvalio rajono savivaldybė
+ORG	Pasvalys
+ORG	Penki kontinentai
+ORG	Perdanga
+ORG	Pieno žvaigždės
+ORG	Plasta
+ORG	Plungė
+ORG	Plungės rajono savivaldybė
+ORG	Prienai
+ORG	Prienų rajono savivaldybė
+ORG	Putokšnis
+ORG	Pūkas 
+ORG	Radiocentras
+ORG	Radviliškio rajono savivaldybė
+ORG	Radviliškis
+ORG	Raganiukės teatras
+ORG	Ragutis
+ORG	Ranga IV
+ORG	Rannila
+ORG	Rannila Steel Vilnius
+ORG	Rasmitas
+ORG	Rašytojų sąjunga
+ORG	Raudonojo Kryžiaus draugija
+ORG	Respublika
+ORG	Rietavas
+ORG	Rietavo rajono savivaldybė
+ORG	Rinkuškiai
+ORG	Rokiškio rajono savivaldybė
+ORG	Rokiškio sūris
+ORG	Rokiškis
+ORG	Rubicon Prodimpeksas
+ORG	Rusų dramos teatras
+ORG	Rūta 
+ORG	Rytų skirstomieji tinklai
+ORG	Sabelija
+ORG	Sabonio klubas ir partneriai
+ORG	SAM
+ORG	Sampo
+ORG	Sampo bankas
+ORG	Samsonas
+ORG	Sanitas
+ORG	Sanitex
+ORG	Sarma
+ORG	SBA
+ORG	SBA koncernas
+ORG	SCA Packaging Lithuania
+ORG	Schenker
+ORG	Schmitz Cargobull Baltic
+ORG	Schneidersohne Baltija
+ORG	Schuco Vilnius
+ORG	Sėklos 
+ORG	Sema
+ORG	Senovė
+ORG	Senukai
+ORG	Senukų prekybos centras
+ORG	SIC
+ORG	SIC rinkos tyrimai
+ORG	Siemens
+ORG	Sintagma
+ORG	Sintagma sistemos
+ORG	Siūlas
+ORG	Skaidula
+ORG	Skirnuva
+ORG	Skuodas
+ORG	Skuodo rajono savivaldybė
+ORG	SM
+ORG	Snaigė
+ORG	Snoras
+ORG	Sodra
+ORG	Sonex
+ORG	Sonex kompiuteriai
+ORG	Sostena
+ORG	Sparta
+ORG	Spauda
+ORG	Statistikos departamentas
+ORG	Statoil
+ORG	STD
+ORG	Stimeksa
+ORG	Stora Enso Miškas
+ORG	Stora Enso Packaging
+ORG	STT
+ORG	Stumbras
+ORG	SU
+ORG	Susisiekimo ministerija
+ORG	Suskystintos dujos
+ORG	Sveikatos apsaugos ministerija
+ORG	Svoris
+ORG	SY Wiring Technologies Lietuva
+ORG	Šakiai
+ORG	Šakių rajono savivaldybė
+ORG	Šalčininkai
+ORG	Šalčininkų rajono savivaldybė
+ORG	Šatrija
+ORG	Šiauliai
+ORG	Šiaulių bankas
+ORG	Šiaulių energija
+ORG	Šiaulių miesto savivaldybė
+ORG	Šiaulių Stumbras
+ORG	Šiaulių tara
+ORG	Šiaulių Tauro Televizoriai
+ORG	Šiaulių titanas
+ORG	Šiaulių universitetas
+ORG	Šiaurės Ministrų Taryba
+ORG	Šilalė
+ORG	Šilalės rajono savivaldybė
+ORG	Šilutė
+ORG	Šilutės baldai
+ORG	Šilutės rajono savivaldybė
+ORG	Širvintos
+ORG	Širvintų rajono savivaldybė
+ORG	Šiuolaikinis meno centras
+ORG	ŠMC
+ORG	ŠMM
+ORG	Švedijos ambasada
+ORG	Švenčionėlių vaisvandeniai
+ORG	Švenčionių rajono savivaldybė
+ORG	Švenčionys
+ORG	Švietimo ir mokslo ministerija
+ORG	Tamro
+ORG	Tanagra
+ORG	Tarptautinė aukštoji vadybos mokykla
+ORG	Tarptautinių santykių ir politikos mokslų institutas
+ORG	Tauragė
+ORG	Tauragės rajono savivaldybė
+ORG	Tech Data
+ORG	Tech Data Lietuva
+ORG	Teisingumo ministerija
+ORG	Teismų departamentas
+ORG	Tele2
+ORG	TELE-3
+ORG	Telšiai
+ORG	Telšių rajono savivaldybė
+ORG	Tilde
+ORG	Tilde informacinės technologijos
+ORG	TM
+ORG	Tokvila
+ORG	Trakai
+ORG	Trakų rajono savivaldybė
+ORG	Transekspedicija
+ORG	Transimeksa
+ORG	Trinyčiai
+ORG	Trojina
+ORG	Trys sezonai
+ORG	Turizmo departamentas
+ORG	Turto bankas
+ORG	TV3
+ORG	Ukmergė
+ORG	Ukmergės rajono savivaldybė
+ORG	Umaras
+ORG	Uotas
+ORG	UT
+ORG	Utena
+ORG	Utenos rajono savivaldybė
+ORG	Utenos rajono vartotojų kooperatyvas
+ORG	Utenos trikotažas
+ORG	Užupio teatras
+ORG	Ūkio bankas
+ORG	Ūkio ministerija
+ORG	ŪM
+ORG	VAE Legetechna
+ORG	Vaga
+ORG	Vakarų ekspresas
+ORG	Vakarų laivų remontas
+ORG	Valstybės žinios
+ORG	Valstybinė lietuvių kalbos komisija
+ORG	Valstybinė ligonių kasa
+ORG	Valstybinė mokesčių inspekcija
+ORG	Valstybinio socialinio draudimo fondo valdyba
+ORG	Varėna
+ORG	Varėnos rajono savivaldybė
+ORG	Varos Group
+ORG	Vartotojų kooperatyvų sąjunga
+ORG	VB
+ORG	VDA
+ORG	VDU
+ORG	Veho
+ORG	Veikmė
+ORG	Venta 
+ORG	Ventus-nafta
+ORG	Vereins und Westbank
+ORG	Vernitas
+ORG	Verslo žinios
+ORG	Vesiga
+ORG	Vestekspress
+ORG	VGTU
+ORG	VIA Media
+ORG	Vidaus reikalų ministerija
+ORG	Video reklamos studija
+ORG	Vienybė
+ORG	Vievio paukštynas
+ORG	Vikeda
+ORG	Vilkaviškio rajono savivaldybė
+ORG	Vilkaviškis
+ORG	Vilkyškių pieninė
+ORG	Vilniaus autobusai
+ORG	Vilniaus baldų kombinatas
+ORG	Vilniaus bankas
+ORG	Vilniaus dailės akademija
+ORG	Vilniaus degtinė
+ORG	Vilniaus Dobilas
+ORG	Vilniaus Gedimino technikos universitetas
+ORG	Vilniaus mėsos kombinatas
+ORG	Vilniaus miesto savivaldybė
+ORG	Vilniaus paukštynas
+ORG	Vilniaus pedagoginis universitetas
+ORG	Vilniaus Pergalė
+ORG	Vilniaus teatras Lėlė
+ORG	Vilniaus universitetas
+ORG	Vilniaus vandenys
+ORG	Vilniaus Vingis
+ORG	Vilnika
+ORG	Vilnius
+ORG	Vilpra
+ORG	Visaginas
+ORG	Visagino miesto savivaldybė
+ORG	Vita Baltic International
+ORG	Vivacolor
+ORG	VLK
+ORG	VLKK
+ORG	VMI
+ORG	VP
+ORG	VP Market
+ORG	VPU
+ORG	VRM
+ORG	VRS
+ORG	VU
+ORG	VU užsienio kalbų institutas
+ORG	Vyriausiasis Administracinis Teismas
+ORG	Vytaras
+ORG	Vytauto Didžiojo universitetas
+ORG	Zarasai
+ORG	Zarasų rajono savivaldybė
+ORG	Znad Wilii
+ORG	Znad Wilii radijo stotis
+ORG	Žaibo ratas
+ORG	Žemaitijos pienas
+ORG	Žemės ūkio ministerija
+ORG	Žemės ūkio paskolų garantijų fondas
+ORG	Žibintas
+ORG	ŽŪM

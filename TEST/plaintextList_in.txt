@@ -1,0 +1,2 @@
+./TEST/plaintext_in.txt	./TEST/list_muc-7_plaintext_out.txt
+./TEST/plaintext2_in.txt	./TEST/list_muc-7_plaintext2_out.txt

@@ -1,0 +1,53 @@
+﻿<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX>
+
+<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> (agrāk <ENAMEX TYPE="ORGANIZATION">Lattelekom</ENAMEX>) ir interneta pakalpojumu sniedzējs (IPS) un telekomunikāciju operators <ENAMEX TYPE="LOCATION">Latvijā</ENAMEX>.
+
+<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> 51% kapitāldaļu pieder <ENAMEX TYPE="LOCATION">Latvijas</ENAMEX> valstij, bet atlikušie 49% - skandināvu telekomunikāciju koncernam <ENAMEX TYPE="ORGANIZATION">TeliaSonera AB</ENAMEX>. Kompānijai <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX>, savukārt pieder 23% <ENAMEX TYPE="LOCATION">Latvijas</ENAMEX> mobilā operatora <ENAMEX TYPE="ORGANIZATION">Latvijas Mobilais Telefons</ENAMEX> kapitāldaļu.
+
+<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> vēsture
+
+<ENAMEX TYPE="LOCATION">Latvijas</ENAMEX> valsts telekomunikāciju uzņēmums <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> (toreiz <ENAMEX TYPE="ORGANIZATION">Lattelekom</ENAMEX>) tika piereģistrēts <ENAMEX TYPE="ORGANIZATION">Uzņēmumu reģistrā</ENAMEX> <TIMEX TYPE="DATE">1992.gada 9.janvārī</TIMEX>. Gandrīz <TIMEX TYPE="DATE">2 gadus vēlāk</TIMEX> - <TIMEX TYPE="DATE">1993.gada 22.decembrī</TIMEX> <ENAMEX TYPE="ORGANIZATION">Latvijas Republikas Ministru kabinets</ENAMEX> apstiprina komisijas lēmumu atzīt par konkursa „Par <ENAMEX TYPE="LOCATION">Latvijas</ENAMEX> telekomunikāciju tīkla modernizāciju” uzvarētāju britu un somu konsorciju <ENAMEX TYPE="ORGANIZATION">TILTS Communications</ENAMEX>, kas kļūst <ENAMEX TYPE="ORGANIZATION">Lattelekom</ENAMEX> stratēģisko investoru.
+
+Privatizācijas rezultātā, 49% uzņēmuma kapitāldaļu iegādājās divi ārvalstu investori - <ENAMEX TYPE="ORGANIZATION">Cable and Wireless</ENAMEX> un <ENAMEX TYPE="ORGANIZATION">Telecom Finland</ENAMEX>, kas vēlāk kļuva par zviedru telekomunikācijas koncerna <ENAMEX TYPE="ORGANIZATION">TeliaSonera AB</ENAMEX> daļu. <ENAMEX TYPE="ORGANIZATION">Cable and Wireless</ENAMEX> savas daļas vēlāk pārdeva <ENAMEX TYPE="ORGANIZATION">TeliaSonera</ENAMEX>, kā rezultātā šobrīd 51% uzņēmuma akciju pieder <ENAMEX TYPE="LOCATION">Latvijas</ENAMEX> valstij, bet 49% - <ENAMEX TYPE="ORGANIZATION">TeliaSonera</ENAMEX>.
+
+<TIMEX TYPE="DATE">Līdz 2003. gada 1. janvārim</TIMEX> uzņēmumam <ENAMEX TYPE="LOCATION">Latvijā</ENAMEX> bija monopolstāvoklis fiksēto balss sakaru jomā, kā rezultātā tas ir noteicošais fiksēto telefonsakaru operators.
+
+<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> grupa
+
+<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> grupā ir pieci uzņēmumi: <ENAMEX TYPE="ORGANIZATION">SIA Lattelecom</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">SIA Lattelecom BPO</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">SIA Citrus Solutions</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">SIA Lattelecom Technology</ENAMEX> un tam piederošs meitasuzņēmums <ENAMEX TYPE="ORGANIZATION">SIA Baltijas Datoru Akadēmija</ENAMEX>.
+
+<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> specializējas interneta, balss un televīzijas pakalpojumu jomā. <ENAMEX TYPE="ORGANIZATION">Lattelecom BPO</ENAMEX> sniedz klientu apkalpošanas risinājumus un biznesa procesu ārpakalpojumus (business process outsourcing - BPO), kā arī <ENAMEX TYPE="ORGANIZATION">Uzziņu dienesta 1188</ENAMEX> informatīvos pakalpojumus. <ENAMEX TYPE="ORGANIZATION">Lattelecom Technology</ENAMEX> sniedz integrētus IT risinājumus un pakalpojumus. <ENAMEX TYPE="ORGANIZATION">Baltijas Datoru Akadēmija</ENAMEX> ir informācijas un komunikāciju tehnoloģiju (IKT) profesionāļu un lietotāju mācību un speciālistu sertifikācijas centrs, bet <ENAMEX TYPE="ORGANIZATION">Citrus Solutions</ENAMEX>, kurš izveidots, no mātes uzņēmuma <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> savulaik atdalot Tīkla uzturēšanas daļu, piedāvā integrētus risinājumus tīklu infrastruktūras un drošības sistēmu būvniecībā.
+
+<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> internets
+
+<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> ir valstī lielākais Interneta pakalpojumu sniedzējs.
+
+<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> piedāva vairāku interneta pieslēgumu veidus - platjoslas DSL internetu, optisko internetu, kā arī bezvadu risinājumus - WiMAX un mobilo internetu, kas balstīts uz CDMA tehnoloģiju. Lielāko <ENAMEX TYPE="LOCATION">Latvijas</ENAMEX> pilsetu centros <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> taksofonu apkārtnē ir pieejams arī <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> bezvadu (Wi-Fi) internets.
+
+Optiskais internets
+
+<TIMEX TYPE="DATE">2009.gadā</TIMEX> <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> sācis piedāvāt arī privātajiem klientiem optisko internetu ar ātrumu līdz 100 megabitiem <TIMEX TYPE="TIME">sekundē</TIMEX>. Par pirmo rajonu, kur kļuva pieejams <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> optiskais internets, kļuva <ENAMEX TYPE="LOCATION">Zolitūde</ENAMEX> <ENAMEX TYPE="LOCATION">Rīgā</ENAMEX> (<TIMEX TYPE="DATE">2009.gada janvārī</TIMEX>), vēlāk - <ENAMEX TYPE="LOCATION">Ķengarags</ENAMEX>, <ENAMEX TYPE="LOCATION">Purvciems</ENAMEX>, <ENAMEX TYPE="LOCATION">Pļavnieki</ENAMEX>, <ENAMEX TYPE="LOCATION">Ziepniekkalns</ENAMEX> un citi. Par pirmo pilsētu ārpus <ENAMEX TYPE="LOCATION">Rīgas</ENAMEX>, kur ir pieejams optiskais internets, kļuvusi <ENAMEX TYPE="LOCATION">Jelgava</ENAMEX>, bet <TIMEX TYPE="DATE">2009.gada nogalē</TIMEX> <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> optika tika ierīkota arī tadās pilsētās kā <ENAMEX TYPE="LOCATION">Daugavpils</ENAMEX>, <ENAMEX TYPE="LOCATION">Salaspils</ENAMEX> un citās.
+
+Tas, ka optiskā interneta tīkls sākumā tiek izvērsts <ENAMEX TYPE="LOCATION">Rīgas</ENAMEX> un <ENAMEX TYPE="LOCATION">Latvijas</ENAMEX> lielāko pilsētu mikrorajonos tiek skaidrots ar to, līdzekļus, kas ieguldīti tīkla izvēršanā, ir iespējams atpelnīt tikai tādā gadījumā, ja pieslēgtajā ēkā ir vismaz 30 dzīvokļi. Pakalpojuma nodrošināšanai tiek izmantota GPON tehnoloģija, kas ļauj 100 megabitu <TIMEX TYPE="TIME">sekundē</TIMEX> ātrumu nodrošināt katrā pieslēgšanas vietā (dzīvoklī).
+
+<TIMEX TYPE="DATE">2009.gada septembrī</TIMEX> tika paziņots, ka <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> palielinājis optiskā interneta ātrumu līdz 500 megabitiem <TIMEX TYPE="TIME">sekundē</TIMEX>.
+
+<TIMEX TYPE="DATE">2010.gada sākumā</TIMEX> uzņēmums paziņoja, ka <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> optiskais internets pieejams 100 000 mājsaimniecībās - 88 000 no tām atrodas <ENAMEX TYPE="LOCATION">Rīgā</ENAMEX>, 6500 - <ENAMEX TYPE="LOCATION">Jelgavā</ENAMEX>, 4500 - <ENAMEX TYPE="LOCATION">Daugavpilī</ENAMEX> un 1000 - <ENAMEX TYPE="LOCATION">Salaspilī</ENAMEX>. Tiek prognozēts, ka <TIMEX TYPE="DATE">2010.gada</TIMEX> laikā <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> optisko internetu izmantos 40 000 mājsaimniecības. <TIMEX TYPE="DATE">2010.gada aprīļa sākumā</TIMEX> <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> paziņoja, ka optiskā tīkla izbūve ieguldīti <NUMEX TYPE="MONEY">10 miljoni latu</NUMEX>, <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> optisko internetu visā <ENAMEX TYPE="LOCATION">Latvijā</ENAMEX> reāli lieto 19 000 klientu, bet kopumā uz doto brīdi tas pieejams jau vairāk nekā 150 000 mājokļu..
+
+<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> televīzija
+
+<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> piedāvā trīs veidu ciparu televīzju - <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> interneta televīja, kas pieejama portālā <ENAMEX TYPE="ORGANIZATION">Apollo.lv</ENAMEX> visiem <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> interneta lietotājiem, <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> digitālā virszemes televīzija un <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> Interaktīvā televīzija, kas nodrošina iespēju klientam izvēlēties, ko un kad skatīties.
+
+Interaktīvā TV
+
+Jaunākās paaudzes televīzija, kas nodrošina interaktivitāti - iespēju klientam izvēlēties, ko un kad skatīties. <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> Interaktīvā TV piedāvā virtuālo video nomu, pārraižu arhīvu (timeshift), raidījumu un filmu ieraksta funkciju un citas iespējas. Vieno no tām, piemeram, ir kanālu apraide HD (augstas izšķirtspējas) kvalitātē. Interaktīvās TV signāls tiek raidīts izmantojot platjoslas interneta pieslēgumu, kas nodrošina gan interneta, gan televīzijas pieslēgumu pa vienu vadu (tālruņa līniju). Abonentam tas nozīmē, ka mājās nav jāvelk papildu kabeļi vai pie mājas jāstiprina satelīta šķīvis.
+
+Virszemes TV
+
+<TIMEX TYPE="DATE">Kopš 2009.gada sākuma</TIMEX> <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX>, uzvarot <ENAMEX TYPE="ORGANIZATION">Latvijas Republikas Satiksmes ministrijas</ENAMEX> izsludinātajā konkursā, sadarbībā ar <ENAMEX TYPE="ORGANIZATION">Latvijas Valsts radio un televīzijas centru</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">LVRTC</ENAMEX>) realizē <ENAMEX TYPE="LOCATION">Latvijā</ENAMEX> pāreju no analogās uz ciparu TV apraidi. <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> Digitālā Virszemes televīzija ir pa gaisu ar radio viļņiem pārraidīts signāls, kas uztverams ar istabas vai jumta antenas palīdzību. Tiem skatītājiem, kas patlaban ar istabas vai jumta antenām skatās analogo televīziju, ir jāiegādājas televizora palīgierīce - dekoders, lai turpinātu to darīt. Plānots, ka Virszemes TV bezmaksas būs skatāmi visi <ENAMEX TYPE="LOCATION">Latvijas</ENAMEX> nacionālie kanāli - <ENAMEX TYPE="ORGANIZATION">LTV1</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">LTV7</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">LNT</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">TV3</ENAMEX> un <ENAMEX TYPE="ORGANIZATION">TV5</ENAMEX> (<ENAMEX TYPE="LOCATION">Rīgas</ENAMEX> apraides reģionā).
+
+<TIMEX TYPE="DATE">2009.gada nogalē</TIMEX> <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> ir bijis 55 tūkstoši televīzijas klientu - Interaktīvo TV lietojuši 43 tūkstoši cilvēku, bet Virszemes TV maksas paketes - ap 12 tūkstošiem. Kopumā <TIMEX TYPE="DATE">2009.gada beigās</TIMEX> <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> Virszemes TV regulāri skatijušies 20 tūkstoši mājsaimniecību. Savukārt, <TIMEX TYPE="DATE">2010.gada aprīļa sākumā</TIMEX> uzņēmums informēja, ka "kopējais «Virszemes TV» skatītāju skaits šobrīd varētu būt jau ap 150 000 līdz 160 000."
+
+<ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> zīmols
+
+<TIMEX TYPE="DATE">2006.gada 18.maijā</TIMEX> <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> realizēja tā saucāmo rebrendingu, nomainot veco zīmolu pret jaunu. Pārmaiņu mērķis bija uzlabot saistību starp <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> zīmolu, produktiem un pakalpojumiem, panākt lielāku komunikācijas un izmaksu efektivitāti, kā arī pamatoti uzsvērt <ENAMEX TYPE="ORGANIZATION">Lattelecom</ENAMEX> līderpozīcijas tirgū.

@@ -1,0 +1,50 @@
+Universālais	A	universāls	A-msnp-y------------------f-	0	0	0	11	O
+koordinētais	G	koordinēts	Gsmsnp-y---p--------------l-	0	13	0	24	O
+laiks	N	laiks	N-msn---------n-----------l-	0	26	0	30	O
+
+
+
+
+Universālais	A	universāls	A-msnp-y------------------f-	2	0	2	11	O
+koordinētais	G	koordinēts	Gsmsnp-y---p--------------l-	2	13	2	24	O
+laiks	N	laiks	N-msn---------n-----------l-	2	26	2	30	O
+,	T	,	T--------------------------,	2	31	2	31	O
+biežāk	R	bieži	R----c--------------------l-	2	33	2	38	O
+pazīstams	G	pazīstams	Gpmsnp-n---p--------------l-	2	40	2	48	O
+kā	C	kā	C---------------------f---l-	2	50	2	51	O
+UTC	-	UTC	----------------------------	2	53	2	55	O
+(	T	(	T--------------------------(	2	57	2	57	O
+Universal	-	Universal	----------------------------	2	58	2	66	O
+Time	-	Time	----------------------------	2	68	2	71	O
+Coordinated	-	Coordinated	----------------------------	2	73	2	83	O
+)	T	)	T--------------------------)	2	84	2	84	O
+ir	V	būt	Vp----3--i----------7-----l-	2	86	2	87	O
+starptautisks	A	starptautisks	A-msnp-n------------------l-	2	89	2	101	O
+,	T	,	T--------------------------,	2	102	2	102	O
+ļoti	R	ļoti	R----p---------------g----l-	2	104	2	107	O
+precīzs	A	precīzs	A-msnp-n------------------l-	2	109	2	115	O
+un	C	un	C---------------------c---l-	2	117	2	118	O
+stabils	A	stabils	A-msnp-n------------------l-	2	120	2	126	O
+laika	N	laiks	N-msg---------n-----------l-	2	128	2	132	O
+noteikšanas	N	noteikšana	N-fsg---------n-----------l-	2	134	2	144	O
+standarts	N	standarts	N-msn---------n-----------l-	2	146	2	154	O
+,	T	,	T--------------------------,	2	155	2	155	O
+ko	P	kas	P---a-------r-------------l-	2	157	2	158	O
+izstrādājusi	G	izstrādājis	Gsfsn--n---a--------------l-	2	160	2	171	O
+ASV	Y	ASV	Y-------------------------u-	2	173	2	175	B-ORG
+jūras	N	jūra	N-fsg---------n-----------l-	2	177	2	181	I-ORG
+observatorija	N	observatorija	N-fsn---------n-----------l-	2	183	2	195	I-ORG
+.	SENT	.	T--------------------------.	2	196	2	196	O
+UTC	-	UTC	----------------------------	2	198	2	200	O
+ir	V	būt	Vp----3--i----------7-----l-	2	202	2	203	O
+plašāk	R	plaši	R----c--------------------l-	2	205	2	210	O
+zināms	G	zināms	Gpmsnp-n---p--------------l-	2	212	2	217	O
+kā	C	kā	C---------------------f---l-	2	219	2	220	O
+abreviatūra	N	abreviatūra	N-fsn---------n-----------l-	2	222	2	232	O
+GMT	-	GMT	----------------------------	2	234	2	236	O
+(	T	(	T--------------------------(	2	238	2	238	O
+Greenwich	-	Greenwich	----------------------------	2	239	2	247	B-LOC
+Meridian	-	Meridian	----------------------------	2	249	2	256	O
+Time	-	Time	----------------------------	2	258	2	261	O
+)	T	)	T--------------------------)	2	262	2	262	O
+.	SENT	.	T--------------------------.	2	263	2	263	O

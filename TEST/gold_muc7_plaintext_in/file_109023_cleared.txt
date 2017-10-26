@@ -1,0 +1,14 @@
+﻿Ievietoja: <ENAMEX TYPE="PERSON">MartinsKarelis</ENAMEX> @ <TIMEX TYPE="DATE">2010.12.29</TIMEX> <TIMEX TYPE="TIME">13:52</TIMEX>
+<ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> veidotais <ENAMEX TYPE="PRODUCT">iPhone 4</ENAMEX> viedtālrunis pārspējis lelli <ENAMEX TYPE="PRODUCT">Bārbiju</ENAMEX> un <ENAMEX TYPE="ORGANIZATION">Bītlus</ENAMEX>, kļūstot par šajā gadā pieprasītāko preci eBay iepirkšanās vietnē. Savukārt <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> veidotais <ENAMEX TYPE="PRODUCT">iPad</ENAMEX> planšetdators atrodas topa piektajā vietā.
+eBay <TIMEX TYPE="DATE">ik gadu</TIMEX> apkopo <TIMEX TYPE="DATE">gada laikā</TIMEX> pārdoto un meklēto preču rezultātus, izveidojot topu ar lietotāju pieprasītākajām precēm. Balstoties uz eBay sniegto informāciju, <TIMEX TYPE="DATE">šajā gadā</TIMEX> tika pārdoti 1,63 miljoni preču, kas saistītas ar <ENAMEX TYPE="PRODUCT">iPhone 4</ENAMEX> viedtālruni. Arī topa piekto vietu ieņem <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> ražojums - <ENAMEX TYPE="PRODUCT">iPad</ENAMEX> planšetdators. <TIMEX TYPE="DATE">Šajā gadā</TIMEX> eBay vietnē patērētāji iegādājušies 600 tūkstošus preču, kas saistītas ar <ENAMEX TYPE="PRODUCT">iPad</ENAMEX>.
+Topa otrajā vietā atrodas slavenā lelle <ENAMEX TYPE="PRODUCT">Bārbija</ENAMEX>, savukārt ceturtajā – Hot Wheels rotaļlietas. <TIMEX TYPE="DATE">Pagājušajā gadā</TIMEX> eBay topā nebija iekļuvusi neviena elektroierīce un topa pirmajā vietā bija lietas, kas saistītas ar populāro beisbola komandu „<ENAMEX TYPE="ORGANIZATION">The Yankees</ENAMEX>” (aptuveni 550 tūkstoši pirkumu).
+Šī gada tops:
+10. <ENAMEX TYPE="ORGANIZATION">New Orleans Saints</ENAMEX>
+Savukārt populārais laikraksts <ENAMEX TYPE="ORGANIZATION">Time</ENAMEX> nodēvējuši <ENAMEX TYPE="PRODUCT">Apple iPad</ENAMEX> par „No. 1 gadget of <TIMEX TYPE="DATE">2010</TIMEX>”. Populārāko elektroierīču desmitniekā iekļuvuši arī citi <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> produkti – <ENAMEX TYPE="PRODUCT">MacBook Air</ENAMEX>, <ENAMEX TYPE="PRODUCT">iPhone 4</ENAMEX> un <ENAMEX TYPE="PRODUCT">Apple TV</ENAMEX>.
+Pats lietoju <ENAMEX TYPE="PRODUCT">iPhone</ENAMEX>, bet tagad domāju pāriet uz <ENAMEX TYPE="ORGANIZATION">HTC</ENAMEX>.
+Tas sāk kļūt nenopietni, <TIMEX TYPE="DATE">šodien</TIMEX> lieku zvanu un tas nezvana, neko nesaprotu, uzlieku 10 zvanus (intervāls <TIMEX TYPE="TIME">1min</TIMEX>), neviens nenozvana? wtf?
+Pat laiku nespēj normāli uzprogrammēt, ļoti esmu vīlies. Apsveru tiešām manīt.
+Arī ar jauno <ENAMEX TYPE="PRODUCT">iOS 4.2.1</ENAMEX> ir Wifi neuztveramības problēmas.
+<ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> pārņem <ENAMEX TYPE="PRODUCT">windows</ENAMEX> sindroms, ar katru nākamo update rada vēl vairāk bugu.
+Paldies. Tāds kauns.
+Copyright © <TIMEX TYPE="DATE">2004-2010</TIMEX>, <ENAMEX TYPE="LOCATION">Datuve.lv</ENAMEX> - Tehnoloģiju ziņas. Raksti ir portāla autortiesību objekts

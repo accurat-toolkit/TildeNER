@@ -1,0 +1,14 @@
+﻿<ENAMEX TYPE="PRODUCT">Ubuntu</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">SIA Odo</ENAMEX> piedāvā <ENAMEX TYPE="PRODUCT">Ubuntu Linux</ENAMEX> operētājsistēmas atbalstu gan uz darbstacijām (galda datoros, klēpjadatoros un mazdatoros), gan uz serveriem.
+Darbstacija
+<ENAMEX TYPE="PRODUCT">Ubuntu Linux</ENAMEX> darbstacija ir lēta un viegli lietojama alternatīva <ENAMEX TYPE="PRODUCT">Microsoft Windows</ENAMEX> operētājsistēmai un <ENAMEX TYPE="PRODUCT">Office</ENAMEX> biroja programmatūrai. <ENAMEX TYPE="PRODUCT">Ubuntu Linux</ENAMEX> jau <TIMEX TYPE="DATE">vairākus gadus</TIMEX> ir http://www.distrowatch.org aptauju priekšgalā. Tajā ir iekļautas visas biroja darbam nepieciešamās programmas, <ENAMEX TYPE="PRODUCT">OpenOffice</ENAMEX> biroja programmatūra, <ENAMEX TYPE="PRODUCT">Firefox</ENAMEX> tīkla pārlūkprogramma, multivides atskaņošanas programmatūra, tīkla saziņas rīki, spēles u.c.
+Lietojot <ENAMEX TYPE="PRODUCT">Ubuntu Linux</ENAMEX>, Jums nebūs jābaidās no vīrusiem, okšķerēšanas programmām u.tml. programmu uzbrukumiem. Varēsiet izmantot to pašu datoru gan grāmatvedībai un personīgo fotogrāfiju glabāšanai, gan tīmekļa pārlūkošanai un spēlēm.
+Lai uzzinātu vairāk, skatiet <ENAMEX TYPE="PRODUCT">Ubuntu Linux</ENAMEX> lekciju ierakstus.
+Serveris
+<ENAMEX TYPE="PRODUCT">Ubuntu Linux</ENAMEX> serveris nodrošina integrētu vidi biznesa risinājumu (tīmekļa rīku, dokumentu, klientu attiecību un uzņēmumu resursu pārvaldības u.c.) uzstādīšanai un darbināšanai. Visi <ENAMEX TYPE="ORGANIZATION">SIA Odo</ENAMEX> uzturētie un pārraudzītie serveri darbojas ar <ENAMEX TYPE="PRODUCT">Ubuntu Linux</ENAMEX>.
+Palīdzība
+Svarīga <ENAMEX TYPE="PRODUCT">Ubuntu</ENAMEX> ideoloģija ir lietošanas ērtums. Lai arī oficiālais <ENAMEX TYPE="PRODUCT">Ubuntu</ENAMEX> nosaukums <ENAMEX TYPE="LOCATION">Dienvidāfrikas</ENAMEX> zulu un kosa valodās nozīmē "Es esmu tas, kas es esmu, pateicoties tam, kas mēs visi esam", IT speciālistu aprindās to zobgalīgi sauc par "Neprotu uzstādīt <ENAMEX TYPE="PRODUCT">Debian</ENAMEX> ". Tieši lietošanas ērtuma dēļ <ENAMEX TYPE="PRODUCT">Ubuntu</ENAMEX> iegūst arvien lielāku popularitāti. Un ļoti daudz Jūs varat izdarīt paši saviem spēkiem. Jūs varat:
+Brīvi izmantot rīku un sistēmu uzstādīšanas instrukcijas, kas ir pieejamas nodaļā Padomi par <ENAMEX TYPE="PRODUCT">Ubuntu</ENAMEX> lietošanu,
+<ENAMEX TYPE="ORGANIZATION">SIA Odo</ENAMEX> Jums piedāvā profesionālu palīdzību , ja esat nobrieduši nopietnām pārmaiņām un uzlabojumiem risinājumu izstrādē, sistēmu integrācijā, u.c.
+Tagi:
+    

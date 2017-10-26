@@ -1,0 +1,55 @@
+﻿Kompaktdiska vai DVD diska ierakstīšana programmā <ENAMEX TYPE="PRODUCT">Windows Media Player</ENAMEX>
+<ENAMEX TYPE="PRODUCT">Windows Media Player</ENAMEX> var izmantot, lai kopētu bibliotēkā esošo mūziku, attēlus un videoklipus tukšā kompaktdiskā vai DVD diskā. Šīs process ir pazīstams kā ierakstīšana.
+Kompaktdisku ierakstīšana, izmantojot programmu <ENAMEX TYPE="PRODUCT">Windows Media Player</ENAMEX>
+Pastāv vairāki iemesli, kādēļ ieteicams izmantot programmu <ENAMEX TYPE="PRODUCT">Media Player</ENAMEX>, lai ierakstītu multivides failus vai kompaktdiskus. Piemēram, ja plānojat doties ilgstošā ceļojumā, varat bibliotēkā atlasīt populārāko dziesmu izlasi un ierakstīt to audio kompaktdiskos, lai atskaņotu automašīnā. Izvēlētās dziesmas var būt klasiskas vērtības, ko agrāk izvilkāt no savas kompaktdisku kolekcijas, vai jaunas dziesmas, kuras nesen iegādājāties interneta veikalā.
+Nākamajās sadaļās ir izklāstīts, kādu veidu diskus var izveidot programmā <ENAMEX TYPE="PRODUCT">Media Player</ENAMEX>, norādīts nepieciešamais aprīkojums un materiāli, kā arī sniegti pakāpeniski norādījumi dažādu veidu disku ierakstīšanai.
+Programmā <ENAMEX TYPE="PRODUCT">Windows Media Player</ENAMEX> var ierakstīt trīs dažādu veidu diskus: audio kompaktdiskus, datu kompaktdiskus un datu DVD diskus. Izmantojamā diska tips ir atkarīgs no tā, ko vēlaties kopēt (piemēram, tikai mūziku vai arī mūzikas, videoklipu un attēlu kombināciju), cik daudz materiāla ir jākopē (piemēram, vienu albumu vai vairākus) un kur vēlaties disku atskaņot (piemēram, datorā vai automašīnas kompaktdisku atskaņotājā).
+Disku veidi
+Saturs: tikai mūzika
+Ietilpība: <TIMEX TYPE="TIME">līdz 80 minūtēm</TIMEX>
+Datu kompaktdisks
+Teicama izvēle, ja ir jāieraksta daudz mūzikas un ir pieejams automašīnas kompaktdisku atskaņotājs, kurā var atskaņot WMA failus (mūzikas failu tips, ko izmanto lielākā daļa lietotāju savās bibliotēkās). Parocīgs arī multivides failu dublēšanai.
+Saturs: mūzika, attēli un videoklipi
+Maksimālā ietilpība: aptuveni 700 megabaiti (jeb <TIMEX TYPE="TIME">8 stundas</TIMEX> mūzikas)
+Atskaņošanas ierīce: datori un daži kompaktdisku un DVD disku atskaņotāji. Ierīcei ir jāatbalsta diskā ierakstīto tipi, piemēram, WMA, MP3, JPEG vai Windows Media Video (WMV).
+Datu DVD disks
+Ja failu apjoms pārsniedz viena datu kompaktdiska ietilpību, izmantojiet šo diska tipu tādā pašā nolūkā kā datu kompaktdisku, jo šim diskam ir lielāka ietilpība.
+Saturs: mūzika, attēli un videoklipi
+Ietilpība: aptuveni 4,7 gigabaiti (jeb <TIMEX TYPE="TIME">54 stundas</TIMEX> mūzikas)
+Atskaņošanas ierīce: datori un daži DVD atskaņotāji. Ierīcei ir jāatbalsta diskā ierakstāmo failu tipi, piemēram, WMA, MP3, JPEG vai WMV.
+Kompaktdisku vai DVD disku ierakstīšanas diskdzinis (tiek saukts arī par kompaktdisku vai DVD disku ierakstītāju).
+Gandrīz visiem jaunākajiem datoriem ir kompaktdisku rakstītājs, kas atļauj ierakstīt audio un datu kompaktdiskus. Dažiem datoriem ir kombinētais kompaktdisku/DVD disku rakstītājs, ar kuru var ierakstīt audio un datu kompaktdiskus, kā arī datu DVD diskus.
+Tukšs kompaktdisks vai DVD disks.
+Nepieciešamo tukšo disku tips ir atkarīgs no tā, kāda veida rakstītāju izmantosit un kāda veida disku vēlaties izveidot.
+Audio kompaktdiskiem piemērotāks ir CD-R formāts, jo tas ir salīdzinoši lēts un saderīgs ar dažādu veidu atskaņošanas ierīcēm.
+Ja vēlaties veidot datu kompaktdiskus, CD-R formāts ir pilnīgi pietiekams, lai apmierinātu jūsu vajadzības. Taču, ja vēlaties, lai diska saturu varētu vēlāk izdzēst un pievienot jaunus failus, izvēlieties CD-RW formātu. Atcerieties, ka tukši CD-RW diski parasti ir dārgāki nekā tukši CD-R diski un ne visos kompaktdisku atskaņotājos var atskaņot CD-RW diskus.
+Ja veidojat datu DVD disku un plānojat failus pievienot tikai vienreiz, izvēlieties DVD-R vai DVD+R formātu. Ja plānojat vēlāk izdzēst diskā esošo informāciju un pievienot jaunus failus, izvēlieties DVD-RW vai DVD+RW formātu. Ņemiet vērā, ka daži DVD disku rakstītāji atbalsta visus minētos tukšo disku veidus, bet citi — tikai noteiktus formātus. Plašāku informāciju skatiet datoram pievienotajā dokumentācijā.
+Ja jāveido standarta mūzikas kompaktdisks, ko varētu atskaņot gandrīz visos kompaktdisku atskaņotājos, izvēlieties opciju Audio kompaktdisks.
+Ierakstot audio kompaktdisku, programma <ENAMEX TYPE="PRODUCT">Windows Media Player</ENAMEX> ierakstīšanas sarakstā izveido pagaidu WMA un MP3 failu kopijas, pārvērš kopijas citā formātā (pazīstams kā PCM) un pēc tam saglabā pārvērstās kopijas diskā.
+Noklikšķiniet uz cilnes Ierakstīšana, noklikšķiniet uz bultiņas, kas atrodas zem cilnes Ierakstīšana, un pēc tam uz Audio kompaktdisks (noklusējuma izvēle).
+Audio kompaktdiska ierakstīšanas opcijas izvēle
+Ievietojiet kompaktdisku rakstītājā tukšu CD-R disku.
+Ja tiek parādīts dialoglodziņš Automātiskā atskaņošana, aizveriet to.
+Ja datoram ir divi kompaktdisku rakstītāji, noklikšķiniet uz saites Nākamais disks, lai pārslēgtos uz nepieciešamo rakstītāju.
+Ja nepieciešams, noklikšķiniet uz pogas Notīrīt saraksta rūti
+, lai iepriekšējā ierakstīšanas sarakstā noņemtu visus vienumus.
+Atrodiet bibliotēkā visus vienumus, kurus vēlaties iekopēt audio kompaktdiskā.
+Piemēram, varat meklēt konkrētu albumu, pārlūkot atsevišķas dziesmas dažādos albumos vai atrast iepriekš izveidotu atskaņošanas sarakstu.
+Lai izveidotu ierakstīšanas sarakstu, velciet vienumus no rūts Detalizēti (rūts, kas atrodas bibliotēkas vidusdaļā) uz rūti Saraksts (rūts, kas atrodas bibliotēkas labajā pusē).
+Vienumu vilkšana no bibliotēkas uz ierakstīšanas sarakstu
+Ja ierakstīšanas sarakstā vēlaties mainīt dziesmu secību, sarakstā velciet dziesmu uz augšu vai uz leju.
+Vienuma vilkšana ierakstīšanas sarakstā uz zemāku pozīciju
+Ja vēlaties izņemt dziesmu no ierakstīšanas saraksta, noklikšķiniet ar peles labo pogu uz šīs dziesmas un pēc tam uz Noņemt no saraksta.
+Neraizējieties: noņemot dziesmu no ierakstīšanas saraksta, tā netiks izdzēsta no bibliotēkas vai datora.
+Vienuma noņemšana no ierakstīšanas saraksta
+Kad esat pabeidzis saraksta veidošanu, noklikšķiniet uz Sākt ierakstīšanu.
+Diska ierakstīšana var ilgt <TIMEX TYPE="TIME">vairākas minūtes</TIMEX>.
+Ja ierakstīšanas sarakstā ir vairāk dziesmu, nekā var ietilpināt vienā audio kompaktdiskā, atlikušos vienumus var ierakstīt citā tukšā kompaktdiskā.
+Piezīme
+Programma <ENAMEX TYPE="PRODUCT">Windows Media Player</ENAMEX> neatbalsta kompaktdisku teksta standartu, tāpēc audio kompaktdiskos, kuros ierakstīsit, netiks iekļauta sākotnējo WMA vai MP3 failu multivides informācija. Tas nozīmē, ka ierakstot audio kompaktdisku, kurā ir dziesmas no vairākiem albumiem, un mēģinot atskaņot šo kompaktdisku citā datorā, šis dators, iespējams, nevarēs automātiski parādīt diskā ierakstīto dziesmu nosaukumus.
+Ja vēlaties ierakstīt <TIMEX TYPE="TIME">vairāku stundu</TIMEX> ilgu mūzikas disku (atšķirībā no audio kompaktdiska, kurā var ierakstīt tikai aptuveni <TIMEX TYPE="TIME">80 minūšu</TIMEX> ilgu mūziku), izvēlieties opciju Datu kompaktdisks vai DVD disks. Kaut arī lietotāji parasti datu kompaktdiskos un DVD diskos ieraksta mūzikas failus, datu diskiem var pievienot arī bibliotēkā esošos attēlu un video failus.
+Atšķirībā no audio kompaktdiska ierakstīšanas programma <ENAMEX TYPE="PRODUCT">Windows Media Player</ENAMEX> pirms failu saglabāšanas datu diskā nekonvertē tos citā formātā. Tā kopē failus tādus, kādi tie ir. Tā kā faili ir saspiestā stāvoklī, vienā diskā ietilpst vairāk vienumu un formāta pārvēršanas dēļ kvalitāte nepasliktinās, turklāt tiek paturēta visa multivides informācija, kas atrodas failos.
+Tomēr datu kompaktdiska vai DVD diska ierakstīšanai ir viens būtisks trūkums salīdzinājumā ar audio kompaktdiska ierakstīšanu: kompaktdisku vai DVD disku atskaņotājam, kas tiek izmantots datu kompaktdisku vai DVD disku atskaņošanai, ir jāvar atskaņot diskā ierakstīto failu veidi. Piemēram, ja visas dziesmas ir WMA formātā un automašīnas kompaktdisku atskaņotājs atbalsta tikai MP3 failus, būs jāizmanto cita programma, ar kuras palīdzību tos var konvertēt MP3 formātā; pievienojiet MP3 failus bibliotēkai un pēc tam izmantojiet programmu Media Player, lai tos ierakstītu datu kompaktdiskā. Lai atrastu audio konvertēšanas programmu, mēģiniet tīklā Web meklēt frāzi “wma mp3 failu konvertēšana”.
+Noklikšķiniet uz cilnes Ierakstīšana, noklikšķiniet uz bultiņas, kas atrodas zem cilnes Ierakstīšana, un pēc tam uz Datu kompaktdisks vai DVD disks.
+Datu kompaktdiska vai DVD diska ierakstīšanas opcijas izvēle
+Ievietojiet kompaktdisku vai DVD disku rakstītājā tukšu disku.

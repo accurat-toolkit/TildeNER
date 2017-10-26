@@ -1,0 +1,25 @@
+﻿Jahta
+
+Jahta (no nīderlandiešu - "iedzīt", "noķert") ir sportam, atpūtai vai tūrismam paredzēts kuģošanas līdzeklis ar burām vai dzinēju vai ar burām un dzinēju, ar ūdensizspaidu līdz 80 tonnām. Sākotnēji viegla un ātra buru laiva, kas bija domāta svarīgu personu ašai pārvadāšanai mazos attālumos un pasta dienestam. Vēlāk jebkurš buru vai motorkuģis, kas kas domāts sportam un atpūtai.
+
+Mūsdienās ar jēdzienu "jahta" apzīmē divu veidu peldlīdzekļus:
+
+Buru jahtas
+
+Jahtas grupē un klasificē pēc konstrukcijas, korpusa formas, takelāžas, buru izkārtojuma, buru laukuma, braukšanas rajona, izmantojuma, lieluma, iegrimes, gaitas. Pēc funkcijām buru jahtas iedala divās pamatkategorijās:
+
+Pēc korpusa uzbūves buru jahtas iedala:
+
+Atsevišķa kategorija ir t.s. daudzkorpusu jahtas: katamarani, trimarani, pat pentamarani.
+
+Interesanti fakti
+
+Pasaulē dārgākā motorjahta ir <TIMEX TYPE="DATE">2002. gadā</TIMEX> pēc šeiha <ENAMEX TYPE="PERSON">Mohameda bin Rašida</ENAMEX> pasūtījuma buvētā 158 m garā <ENAMEX TYPE="PRODUCT">Dubai</ENAMEX> - <NUMEX TYPE="MONEY">300 000 000 USD</NUMEX>.
+
+Pasaulē lielākā un ātrākā buru jahta ir <TIMEX TYPE="DATE">2006. gadā</TIMEX> būvētā <ENAMEX TYPE="PERSON">Toma Perkinsa</ENAMEX> (<ENAMEX TYPE="PERSON">Tom Perkins</ENAMEX>) 88 m garā trīsmastniece <ENAMEX TYPE="PRODUCT">Maltese Falcon</ENAMEX>, kas maksā <NUMEX TYPE="MONEY">115 000 000 USD</NUMEX>. avots
+
+Savukārt <ENAMEX TYPE="LOCATION">Latvijā</ENAMEX> 5 m garu iekšējo ūdeņu klases švertjahtu var iegādāties arī par <NUMEX TYPE="MONEY">1000 USD</NUMEX>.
+
+Attēlu galerija
+
+Attēls:Jahta_<ENAMEX TYPE="PRODUCT">Presto</ENAMEX>.jpg|RS-250 modeļa sporta jahta "<ENAMEX TYPE="PRODUCT">Presto</ENAMEX>" Attēls:Circe.JPG|Gib Sea 414 modeļa atpūtas jahta "<ENAMEX TYPE="PRODUCT">Circe</ENAMEX>"

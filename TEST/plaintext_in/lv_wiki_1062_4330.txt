@@ -1,0 +1,75 @@
+Lattelecom
+
+Lattelecom (agrāk Lattelekom) ir interneta pakalpojumu sniedzējs (IPS) un telekomunikāciju operators Latvijā.
+
+Lattelecom 51% kapitāldaļu pieder Latvijas valstij, bet atlikušie 49% - skandināvu telekomunikāciju koncernam TeliaSonera AB. Kompānijai Lattelecom, savukārt pieder 23% Latvijas mobilā operatora Latvijas Mobilais Telefons kapitāldaļu.
+
+Lattelecom vēsture
+
+Latvijas valsts telekomunikāciju uzņēmums Lattelecom (toreiz Lattelekom) tika piereģistrēts Uzņēmumu reģistrā 1992.gada 9.janvārī. Gandrīz 2 gadus vēlāk - 1993.gada 22.decembrī Latvijas Republikas Ministru kabinets apstiprina komisijas lēmumu atzīt par konkursa „Par Latvijas telekomunikāciju tīkla modernizāciju” uzvarētāju britu un somu konsorciju TILTS Communications, kas kļūst Lattelekom stratēģisko investoru. 1994. gada 14.janvārī tiek noslēgts līgums ar TILTS Communications un izveidota SIA Lattelekom.
+
+Privatizācijas rezultātā, 49% uzņēmuma kapitāldaļu iegādājās divi ārvalstu investori - Cable and Wireless un Telecom Finland, kas vēlāk kļuva par zviedru telekomunikācijas koncerna TeliaSonera AB daļu. Cable and Wireless savas daļas vēlāk pārdeva TeliaSonera, kā rezultātā šobrīd 51% uzņēmuma akciju pieder Latvijas valstij, bet 49% - TeliaSonera.
+
+Līdz 2003. gada 1. janvārim uzņēmumam Latvijā bija monopolstāvoklis fiksēto balss sakaru jomā, kā rezultātā tas ir noteicošais fiksēto telefonsakaru operators.
+
+Lattelecom grupa
+
+Lattelecom grupā ir pieci uzņēmumi: SIA Lattelecom, SIA Lattelecom BPO, SIA Citrus Solutions, SIA Lattelecom Technology un tam piederošs meitasuzņēmums SIA Baltijas Datoru Akadēmija.
+
+Lattelecom specializējas interneta, balss un televīzijas pakalpojumu jomā. Lattelecom BPO sniedz klientu apkalpošanas risinājumus un biznesa procesu ārpakalpojumus (business process outsourcing - BPO), kā arī Uzziņu dienesta 1188 informatīvos pakalpojumus. Lattelecom Technology sniedz integrētus IT risinājumus un pakalpojumus. Baltijas Datoru Akadēmija ir informācijas un komunikāciju tehnoloģiju (IKT) profesionāļu un lietotāju mācību un speciālistu sertifikācijas centrs, bet Citrus Solutions, kurš izveidots, no mātes uzņēmuma Lattelecom savulaik atdalot Tīkla uzturēšanas daļu, piedāvā integrētus risinājumus tīklu infrastruktūras un drošības sistēmu būvniecībā.
+
+Lattelecom internets
+
+Lattelecom ir valstī lielākais Interneta pakalpojumu sniedzējs.
+
+Lattelecom piedāva vairāku interneta pieslēgumu veidus - platjoslas DSL internetu, optisko internetu, kā arī bezvadu risinājumus - WiMAX un mobilo internetu, kas balstīts uz CDMA tehnoloģiju. Lielāko Latvijas pilsetu centros Lattelecom taksofonu apkārtnē ir pieejams arī Lattelecom bezvadu (Wi-Fi) internets.
+
+Optiskais internets
+
+2009.gadā Lattelecom sācis piedāvāt arī privātajiem klientiem optisko internetu ar ātrumu līdz 100 megabitiem sekundē. Par pirmo rajonu, kur kļuva pieejams Lattelecom optiskais internets, kļuva Zolitūde Rīgā (2009.gada janvārī), vēlāk - Ķengarags, Purvciems, Pļavnieki, Ziepniekkalns un citi. Par pirmo pilsētu ārpus Rīgas, kur ir pieejams optiskais internets, kļuvusi Jelgava, bet 2009.gada nogalē Lattelecom optika tika ierīkota arī tadās pilsētās kā Daugavpils, Salaspils un citās.
+
+Tas, ka optiskā interneta tīkls sākumā tiek izvērsts Rīgas un Latvijas lielāko pilsētu mikrorajonos tiek skaidrots ar to, līdzekļus, kas ieguldīti tīkla izvēršanā, ir iespējams atpelnīt tikai tādā gadījumā, ja pieslēgtajā ēkā ir vismaz 30 dzīvokļi. Pakalpojuma nodrošināšanai tiek izmantota GPON tehnoloģija, kas ļauj 100 megabitu sekundē ātrumu nodrošināt katrā pieslēgšanas vietā (dzīvoklī).
+
+2009.gada septembrī tika paziņots, ka Lattelecom palielinājis optiskā interneta ātrumu līdz 500 megabitiem sekundē.
+
+2010.gada sākumā uzņēmums paziņoja, ka Lattelecom optiskais internets pieejams 100 000 mājsaimniecībās - 88 000 no tām atrodas Rīgā, 6500 - Jelgavā, 4500 - Daugavpilī un 1000 - Salaspilī. Tiek prognozēts, ka 2010.gada laikā Lattelecom optisko internetu izmantos 40 000 mājsaimniecības. 2010.gada aprīļa sākumā Lattelecom paziņoja, ka optiskā tīkla izbūve ieguldīti 10 miljoni latu, Lattelecom optisko internetu visā Latvijā reāli lieto 19 000 klientu, bet kopumā uz doto brīdi tas pieejams jau vairāk nekā 150 000 mājokļu..
+
+Lattelecom televīzija
+
+Lattelecom piedāvā trīs veidu ciparu televīzju - Lattelecom interneta televīja, kas pieejama portālā Apollo.lv visiem Lattelecom interneta lietotājiem, Lattelecom digitālā virszemes televīzija un Lattelecom Interaktīvā televīzija, kas nodrošina iespēju klientam izvēlēties, ko un kad skatīties.
+
+Interaktīvā TV
+
+Jaunākās paaudzes televīzija, kas nodrošina interaktivitāti - iespēju klientam izvēlēties, ko un kad skatīties. Lattelecom Interaktīvā TV piedāvā virtuālo video nomu, pārraižu arhīvu (timeshift), raidījumu un filmu ieraksta funkciju un citas iespējas. Vieno no tām, piemeram, ir kanālu apraide HD (augstas izšķirtspējas) kvalitātē. Interaktīvās TV signāls tiek raidīts izmantojot platjoslas interneta pieslēgumu, kas nodrošina gan interneta, gan televīzijas pieslēgumu pa vienu vadu (tālruņa līniju). Abonentam tas nozīmē, ka mājās nav jāvelk papildu kabeļi vai pie mājas jāstiprina satelīta šķīvis.
+
+Virszemes TV
+
+Kopš 2009.gada sākuma Lattelecom, uzvarot Latvijas Republikas Satiksmes ministrijas izsludinātajā konkursā, sadarbībā ar Latvijas Valsts radio un televīzijas centru (LVRTC) realizē Latvijā pāreju no analogās uz ciparu TV apraidi. Lattelecom Digitālā Virszemes televīzija ir pa gaisu ar radio viļņiem pārraidīts signāls, kas uztverams ar istabas vai jumta antenas palīdzību. Tiem skatītājiem, kas patlaban ar istabas vai jumta antenām skatās analogo televīziju, ir jāiegādājas televizora palīgierīce - dekoders, lai turpinātu to darīt. Plānots, ka Virszemes TV bezmaksas būs skatāmi visi Latvijas nacionālie kanāli - LTV1, LTV7, LNT, TV3 un TV5 (Rīgas apraides reģionā).
+
+2009.gada nogalē Lattelecom ir bijis 55 tūkstoši televīzijas klientu - Interaktīvo TV lietojuši 43 tūkstoši cilvēku, bet Virszemes TV maksas paketes - ap 12 tūkstošiem. Kopumā 2009.gada beigās Lattelecom Virszemes TV regulāri skatijušies 20 tūkstoši mājsaimniecību. Savukārt, 2010.gada aprīļa sākumā uzņēmums informēja, ka "kopējais «Virszemes TV» skatītāju skaits šobrīd varētu būt jau ap 150 000 līdz 160 000."
+
+Lattelecom zīmols
+
+2006.gada 18.maijā Lattelecom realizēja tā saucāmo rebrendingu, nomainot veco zīmolu pret jaunu. Pārmaiņu mērķis bija uzlabot saistību starp Lattelecom zīmolu, produktiem un pakalpojumiem, panākt lielāku komunikācijas un izmaksu efektivitāti, kā arī pamatoti uzsvērt Lattelecom līderpozīcijas tirgū.
+
+Pirms 2006.gada uzņēmuma notika restrukturizācija, tika iegadāts jauns uznēmums (SIA Lattelecom Technology) un zīmola maiņa nozīmēja arī šo pārmaiņu noslēgumu — jaunais zīmols apvienoja vienā veselumā Lattelecom grupas uzņēmumus, kas tieši saistīti ar patērētāju apkalpošanu, klientu biznesa procesu ārpakalpojumu, kā arī IT&T un satura pakalpojumu jomu. SIA Lattelekom juridiskais nosaukums tika mainīts uz SIA Lattelecom. IT pakalpojumu sniedzēja SIA MicroLink Latvia nosaukums — uz Lattelecom Technology, SIA C1, kas darbojas biznesa procesu ārpakalpojumu jomā, kļuva par SIA Lattelecom BPO. Tīkla būvniecības un uzturēšanas uzņēmums SIA Citrus Solutions, ņemot vērā tā darbības specifiku, saglabāja esošo nosaukumu un ieguva arī savu grafisko identitāti, kas atšķiras no citiem grupas uzņēmumiem. Tas skaidrojams ar to, ka Citrus Solutions sneidz pakalpojumus citiem IT&T nozares uzņēmumiem, kuri ir Lattelecom grupas konkurenti.
+
+Logotips
+
+Zīmola maiņa nozīmēja ne tikai nosaukuma un struktūras maiņu, bet arī to, ka jaunu veidolu ieguva visa vizuālā un grafiskā identitāte — logotips, korporatīvās krāsas, darba apģērbs un auto marķējums.
+
+Iepriekšējais logotips tapa pēc Trešās atmodas un simbolizēja Latvijas zaļos mežus un sarkanbaltsarkano karogu, un tajā bija attēlota tālruņa ripa. Nemot vērā to, ka 2006.gadā Lattelecom vairs nebija tikai telekomunikāciju uzņēmums, vecais zīmols un arī logotips vairs neatspoguļoja uzņēmuma tagadni un tā attīstību nākotnē.
+
+Lattelecom jaunais logo sastāv no uzņēmuma nosaukuma, kurā integrēta TT zīme korporatīvajā kieģeļsarkanajā krāsā. Tēli TT simbolizē saskarsmes lomu cilvēka dzīvē — nepieciešamību kontaktēties, būt zinošam, apmainīties ar informāciju, izmantot iespējas, ko dod ātra un ērta saziņa. Logotips raksturo Lattelecom kā jaunām idejām atvērtu sistēmu un vienlaikus aicina izmantot tehnoloģijas visās jomās, kur tās var bagātināt mūsu dzīvi.
+
+Finanšu rezultāti
+
+Lattelecom grupas kopējie ieņēmumi 2008.gadā bija 160,4 miljoni latu, bet peļņa - 29,7 miljoni latu.
+
+Darbinieki
+
+Lattelecom grupā 2008.gada nogalē strādāja 2888 darbinieki.  Personāla atlases uzņēmuma SIA WorkingDay Latvia pētījumā Lattelecom tika nosaukts par trešo iekārotāko darba devēju 2009 (pirmajā vietā nokļuva SIA Latvijas Mobilais telefons, bet otrajā - airBaltic). Gadu iepriekš analoģiskajā pētījumā Lattelecom ierindojās piektajā vietā.
+
+Misija, vīzija, vērtības
+
+2009.gadā tika paziņotas jaunas Lattelecom misija, vīzija un vērtības. Par savu misiju uzņēmums atzinis nepieciešamību "Sniegt cilvēkiem plašākas iespējas informācijas laikmetā", par vīziju - "Trīs gadu laikā kļūt par labāko klientu apkalpošanas uzņēmumu Latvijā". Lattelecom tāpat ir noteiktas trīs pamavērtības - "Vērsti uz klientiem", "Uzņēmība" un "Atbildība".

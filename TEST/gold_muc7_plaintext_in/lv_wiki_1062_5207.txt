@@ -1,0 +1,3 @@
+﻿Sterliņu mārciņa
+
+Sterliņu mārciņa ir <ENAMEX TYPE="LOCATION">Lielbritānijas</ENAMEX> oficiālā valūta (apzīmējumi: GBP vai £). <NUMEX TYPE="MONEY">Viena sterliņu mārciņa</NUMEX> <TIMEX TYPE="DATE">2006. gada nogalē</TIMEX> aptuveni atbilda <NUMEX TYPE="MONEY">1,03 LVL</NUMEX>.

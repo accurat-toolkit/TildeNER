@@ -1,0 +1,72 @@
+
+useClassFeature = true
+
+noMidNGrams = true
+
+maxLeft = 2
+
+useTags = true
+
+usePrev = true
+
+useSequences = true
+
+usePrevSequences = true
+
+useNGrams = true
+
+maxNGramLeng = 6
+
+useTypeSeqs = true
+
+dehyphenateNGrams = true
+
+useWordTag = true
+
+useTaggySequences = true
+
+useTaggySequencesShapeInteraction = true
+
+useWideDisjunctive = true
+
+wideDisjunctionWidth = 2
+
+useDisjunctive = true
+
+disjunctionWidth = 2
+
+useNext = true
+
+useMorphoTags = true
+
+morphTagRange = 2
+
+lowercaseNGrams = true
+
+useGazettes = true
+
+cleanGazette = true
+
+useLemmas = true
+
+gazette = ./Sample_Data/LT_Gazetteer/LT_PERS_GAZETTEER.txt,./Sample_Data/LT_Gazetteer/LT_LOC_GAZETTEER.txt,./Sample_Data/LT_Gazetteer/LT_ORG_GAZETTEER.txt
+
+useLastRealWord = true
+
+map = word=0,tag=1,lemma=2,morphoTag=3,lineFrom=4,columnFrom=5,lineTo=6,columnTo=7
+
+printProbs = false
+
+printFirstOrderProbs = false
+
+printBestProbabs = true
+
+useObservedSequencesOnly = true
+
+saveFeatureIndexToDisk = true
+
+featureDiffThresh=0.05
+
+inferenceType = Viterbi
+
+wordShape = dan2useLC

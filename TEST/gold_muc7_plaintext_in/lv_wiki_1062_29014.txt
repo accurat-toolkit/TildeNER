@@ -1,0 +1,7 @@
+﻿<ENAMEX TYPE="ORGANIZATION">Eiropas Savienības Publikāciju birojs</ENAMEX>
+
+<ENAMEX TYPE="ORGANIZATION">Eiropas Savienības Publikāciju birojs</ENAMEX> ir starpiestāžu birojs, kura uzdevums ir izdot <ENAMEX TYPE="ORGANIZATION">Eiropas Kopienas</ENAMEX> un <ENAMEX TYPE="ORGANIZATION">Eiropas Savienības</ENAMEX> iestāžu publikācijas.
+
+<ENAMEX TYPE="ORGANIZATION">Publikāciju birojs</ENAMEX> ik dienas izdod <ENAMEX TYPE="PRODUCT">Eiropas Savienības Oficiālo Vēstnesi</ENAMEX> 22 valodās (vai 23 valodās, ja ir pieprasīts attiecīgo numuru izdot arī īru valodā). Tas ir pasaulē vienīgais laikraksts, kuru izdod tik daudzās valodās.
+
+<ENAMEX TYPE="ORGANIZATION">Publikāciju biroja</ENAMEX> darbinieki arī patstāvīgi vai sadarbībā ar citām iestādēm sagatavo publikācijas par <ENAMEX TYPE="ORGANIZATION">ES</ENAMEX> pasākumiem un politiku, kā arī piedāvā dažādus pakalpojumus, dodot brīvu piekļuvi informācijai par <ENAMEX TYPE="ORGANIZATION">ES</ENAMEX> tiesību aktiem (<ENAMEX TYPE="PRODUCT">EUR-Lex</ENAMEX>), <ENAMEX TYPE="ORGANIZATION">ES</ENAMEX> publikācijām (<ENAMEX TYPE="PRODUCT">EU Bookshop</ENAMEX>), <ENAMEX TYPE="ORGANIZATION">ES</ENAMEX> publisko iepirkumu (<ENAMEX TYPE="PRODUCT">TED</ENAMEX>) un <ENAMEX TYPE="ORGANIZATION">ES</ENAMEX> pētniecību un attīstību (<ENAMEX TYPE="PRODUCT">CORDIS</ENAMEX>).

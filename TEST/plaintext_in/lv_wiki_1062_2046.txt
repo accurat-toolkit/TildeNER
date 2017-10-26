@@ -1,0 +1,3 @@
+Universālais koordinētais laiks
+
+Universālais koordinētais laiks, biežāk pazīstams kā UTC (Universal Time Coordinated) ir starptautisks, ļoti precīzs un stabils laika noteikšanas standarts, ko izstrādājusi ASV jūras observatorija. UTC ir plašāk zināms kā abreviatūra GMT (Greenwich Meridian Time).

@@ -1,0 +1,3 @@
+﻿<ENAMEX TYPE="PERSON">D. B. Kūpers</ENAMEX>
+
+<ENAMEX TYPE="PERSON">D. B. Kūpers</ENAMEX> (<ENAMEX TYPE="PERSON">D. B. Cooper</ENAMEX>) ir piešķirtais vārds cilvēkam, kurš <TIMEX TYPE="DATE">1971. gada 24. novembrī</TIMEX> <ENAMEX TYPE="LOCATION">Amerikas Savienotajās Valstīs</ENAMEX> nolaupīja lidmašīnu <ENAMEX TYPE="PRODUCT">Boeing 727</ENAMEX>, saņēma <NUMEX TYPE="MONEY">200 000 USD</NUMEX> izpirkuma maksu un izlēca ar izpletni no tās, pazūdot bez pēdām.

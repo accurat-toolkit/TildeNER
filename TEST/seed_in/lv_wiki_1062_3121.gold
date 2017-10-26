@@ -1,0 +1,326 @@
+Revolūcija	N	revolūcija	N-fsn---------n-----------f-	0	0	0	9	O
+un	C	un	C---------------------c---l-	0	11	0	12	O
+pilsoņu	N	pilsonis	N-mpg---------n-----------l-	0	14	0	20	O
+karš	N	karš	N-msn---------n-----------l-	0	22	0	25	O
+
+
+
+
+Pirms	S	pirms	S----------------sgp------f-	2	0	2	4	O
+Oktobra	N	oktobris	N-msg---------n-----------f-	2	6	2	12	B-DATE
+revolūcijas	N	revolūcija	N-fsg---------n-----------l-	2	14	2	24	O
+Staļins	N	Staļins	N-msn---------n-----------f-	2	26	2	32	B-PERS
+bija	V	būt	Vs----3--i----------1-----l-	2	34	2	37	O
+viens	M	viens	M-msn---c-----------------l-	2	39	2	43	O
+no	S	no	S----------------sgp------l-	2	45	2	46	O
+boļševiku	N	boļševiks	N-mpg---------n-----------l-	2	48	2	56	O
+partijas	N	partija	N-fsg---------n-----------l-	2	58	2	65	O
+vadošajiem	G	vadošs	Gpmpdp-y---a--------------l-	2	67	2	76	O
+darbiniekiem	N	darbinieks	N-mpd---------n-----------l-	2	78	2	89	O
+,	T	,	T--------------------------,	2	90	2	90	O
+tomēr	C	tomēr	C-------------------------l-	2	92	2	96	O
+nespēlēja	V	nespēlēt	Vs----3--i------y---------l-	2	98	2	106	O
+galveno	A	galvenais	A-fpgp-y------------------l-	2	108	2	114	O
+lomu	N	loms	N-mpg---------n-----------l-	2	116	2	119	O
+bruņotās	A	bruņots	A-fpnp-y------------------l-	2	121	2	128	O
+sacelšanās	N	sacelšanās	N-fsn---------n-----------l-	2	130	2	139	O
+organizēšanā	N	organizēšana	N-fsl---------n-----------l-	2	141	2	152	O
+un	C	un	C---------------------c---l-	2	154	2	155	O
+vadīšanā	N	vadīšana	N-fsl---------n-----------l-	2	157	2	164	O
+,	T	,	T--------------------------,	2	165	2	165	O
+kurā	P	kurš	P-fsl-------r---------o---l-	2	167	2	170	O
+lielāka	A	liels	A-fsnc-n------------------l-	2	172	2	178	O
+nozīme	N	nozīme	N-fsn---------n-----------l-	2	180	2	185	O
+bija	V	būt	Vs----3--i----------1-----l-	2	187	2	190	O
+Ļeva	N	Ļevs	N-msg---------n-----------f-	2	192	2	195	B-PERS
+Trocka	N	Trockis	N-msg---------n-----------f-	2	197	2	202	I-PERS
+darbībai	N	darbība	N-fsd---------n-----------l-	2	204	2	211	O
+.	SENT	.	T--------------------------.	2	212	2	212	O
+Pirms	S	pirms	S----------------sgp------f-	2	214	2	218	O
+sacelšanās	N	sacelšanās	N-fsg---------n-----------l-	2	220	2	229	O
+pretēji	A	pretējs	A-mpnp-n------------------l-	2	231	2	237	O
+Ļeņinam	N	Ļeņins	N-msd---------n-----------f-	2	239	2	245	B-PERS
+uzskatīja	V	uzskatīt	Vs----3--i----------------l-	2	247	2	255	O
+,	T	,	T--------------------------,	2	256	2	256	O
+ka	C	ka	C---------------------p---l-	2	258	2	259	O
+Kerenska	-	Kerenska	----------------------------	2	261	2	268	B-PERS
+valdība	N	valdība	N-fsn---------n-----------l-	2	270	2	276	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	2	278	2	280	O
+jāgāž	V	gāzt	Vp-------c----------------l-	2	282	2	286	O
+.	SENT	.	T--------------------------.	2	287	2	287	O
+
+
+
+
+Pēc	S	pēc	S----------------sgp------f-	4	0	4	2	O
+revolūcijas	N	revolūcija	N-fsg---------n-----------l-	4	4	4	14	O
+uzvaras	N	uzvara	N-fsg---------n-----------l-	4	16	4	22	O
+Staļins	N	Staļins	N-msn---------n-----------f-	4	24	4	30	B-PERS
+tika	V	tikt	Vs----3--i----------6-----l-	4	32	4	35	O
+iecelts	G	iecelts	Gsmsnp-n---p--------------l-	4	37	4	43	O
+par	S	par	S----------------sap------l-	4	45	4	47	O
+Nacionalitāšu	N	nacionalitāte	N-fpg---------n-----------f-	4	49	4	61	O
+lietu	N	lietus	N-mpg---------n-----------l-	4	63	4	67	O
+Tautas	N	tauta	N-fsg---------n-----------f-	4	69	4	74	O
+komisāru	N	komisārs	N-msa---------n-----------l-	4	76	4	83	O
+,	T	,	T--------------------------,	4	84	4	84	O
+un	C	un	C---------------------c---l-	4	86	4	87	O
+šo	P	šis	P-msa-------d-------------l-	4	89	4	90	O
+posteni	N	postenis	N-msa---------n-----------l-	4	92	4	98	O
+ieņēma	V	ieņemt	Vs----3--i----------------l-	4	100	4	105	O
+līdz	S	līdz	S----------------pdp------l-	4	107	4	110	B-DATE
+1923	D	1923	D--p------------------------	4	112	4	115	I-DATE
+.	T	.	T--------------------------.	4	116	4	116	I-DATE
+gadam	N	gads	N-msd---------n-----------l-	4	118	4	122	I-DATE
+.	SENT	.	T--------------------------.	4	123	4	123	O
+Krievijas	N	Krievija	N-fsg---------n-----------f-	4	125	4	133	B-LOC
+Pilsoņu	N	pilsonis	N-mpg---------n-----------f-	4	135	4	141	B-DATE
+kara	N	karš	N-msg---------n-----------l-	4	143	4	146	I-DATE
+laikā	N	laiks	N-msl---------n-----------l-	4	148	4	152	O
+bija	V	būt	Vs----3--i----------7-----l-	4	154	4	157	O
+kara	N	karš	N-msg---------n-----------l-	4	159	4	162	O
+komisārs	N	komisārs	N-msn---------n-----------l-	4	164	4	171	O
+vairākās	P	vairāki	P-fpl-------i-------------l-	4	173	4	180	O
+frontēs	N	fronte	N-fpl---------n-----------l-	4	182	4	188	O
+.	SENT	.	T--------------------------.	4	189	4	189	O
+Pazīstamākā	G	pazīstams	Gpfsnc-y---p--------------f-	4	191	4	201	O
+no	S	no	S----------------pdp------l-	4	203	4	204	O
+tām	P	tas	P-fpd-------d-------------l-	4	206	4	208	O
+ir	V	būt	Vp----3--i----------7-----l-	4	210	4	211	O
+darbība	N	darbība	N-fsn---------n-----------l-	4	213	4	219	O
+Caricinas	-	Caricinas	----------------------------	4	221	4	229	B-LOC
+frontē	N	fronte	N-fsl---------n-----------l-	4	231	4	236	O
+pret	S	pret	S----------------pdp------l-	4	238	4	241	O
+Krasnova	-	Krasnova	----------------------------	4	243	4	250	B-PERS
+spēkiem	N	spēks	N-mpd---------n-----------l-	4	252	4	258	O
+.	SENT	.	T--------------------------.	4	259	4	259	O
+
+
+
+
+Staļina	N	Staļins	N-msg---------n-----------f-	6	0	6	6	B-PERS
+nāve	N	nāve	N-fsn---------n-----------l-	6	8	6	11	O
+un	C	un	C---------------------c---l-	6	13	6	14	O
+tās	P	tas	P-fsg-------d-------------l-	6	16	6	18	O
+ietekme	N	ietekme	N-fsn---------n-----------l-	6	20	6	26	O
+
+
+
+
+1953	D	1953	D--p------------------------	8	0	8	3	B-DATE
+.	T	.	T--------------------------.	8	4	8	4	I-DATE
+gada	N	gads	N-msg---------n-----------l-	8	6	8	9	I-DATE
+3	D	3	D--p------------------------	8	11	8	11	I-DATE
+.	T	.	T--------------------------.	8	12	8	12	I-DATE
+martā	N	marts	N-msl---------n-----------l-	8	14	8	18	I-DATE
+Staļina	N	Staļins	N-msg---------n-----------f-	8	20	8	26	B-PERS
+rezidencē	N	rezidence	N-fsl---------n-----------l-	8	28	8	36	O
+viņu	P	viņš	P-fsa-3-----p-------------l-	8	38	8	41	O
+uz	S	uz	S----------------sgp------l-	8	43	8	44	O
+grīdas	N	grīda	N-fsg---------n-----------l-	8	46	8	51	O
+atrada	V	atrast	Vs----3--i----------------l-	8	53	8	58	O
+apsardzes	N	apsardze	N-fsg---------n-----------l-	8	60	8	68	O
+daļas	N	daļa	N-fsg---------n-----------l-	8	70	8	74	O
+darbinieks	N	darbinieks	N-msn---------n-----------l-	8	76	8	85	O
+.	SENT	.	T--------------------------.	8	86	8	86	O
+1953	D	1953	D--p------------------------	8	88	8	91	B-DATE
+.	T	.	T--------------------------.	8	92	8	92	I-DATE
+gada	N	gads	N-msg---------n-----------l-	8	94	8	97	I-DATE
+4	D	4	D--p------------------------	8	99	8	99	I-DATE
+.	T	.	T--------------------------.	8	100	8	100	I-DATE
+martā	N	marts	N-msl---------n-----------l-	8	102	8	106	I-DATE
+vasarnīcā	N	vasarnīca	N-fsl---------n-----------l-	8	108	8	116	O
+ieradās	V	ierasties	Vs----3--i-----y----------l-	8	118	8	124	O
+ārsts	N	ārsts	N-msn---------n-----------l-	8	126	8	130	O
+un	C	un	C---------------------c---l-	8	132	8	133	O
+konstatēja	V	konstatēt	Vs----3--i----------------l-	8	135	8	144	O
+ķermeņa	N	ķermenis	N-msg---------n-----------l-	8	146	8	152	O
+labās	A	labs	A-fpnp-y------------------l-	8	154	8	158	O
+puses	N	puse	N-fsg---------n-----------l-	8	160	8	164	O
+paralīzi	N	paralīze	N-fsa---------n-----------l-	8	166	8	173	O
+.	SENT	.	T--------------------------.	8	174	8	174	O
+Nāve	N	nāve	N-fsn---------n-----------f-	8	176	8	179	O
+bija	V	būt	Vs----3--i----------1-----l-	8	181	8	184	O
+iestājusies	G	iestājies	Gsfsn--n---a---y----------l-	8	186	8	196	O
+smadzeņu	N	smadzenes	N-fpg---------n-----------l-	8	198	8	205	O
+asins	N	asins	N-fsg---------n-----------l-	8	207	8	211	O
+izplūduma	N	izplūdums	N-msg---------n-----------l-	8	213	8	221	O
+dēļ	S	dēļ	S----------------sgt------l-	8	223	8	225	O
+.	SENT	.	T--------------------------.	8	226	8	226	O
+Miris	G	miris	Gsmsn--n---a--------------f-	8	228	8	232	O
+1953	D	1953	D--p------------------------	8	234	8	237	B-DATE
+.	T	.	T--------------------------.	8	238	8	238	I-DATE
+gada	N	gads	N-msg---------n-----------l-	8	240	8	243	I-DATE
+5	D	5	D--p------------------------	8	245	8	245	I-DATE
+.	T	.	T--------------------------.	8	246	8	246	I-DATE
+martā	N	marts	N-msl---------n-----------l-	8	248	8	252	I-DATE
+.	SENT	.	T--------------------------.	8	253	8	253	O
+
+
+
+
+Staļins	N	Staļins	N-msn---------n-----------f-	10	0	10	6	B-PERS
+darbībā	N	darbība	N-fsl---------n-----------l-	10	8	10	14	O
+
+
+
+
+Staļina	N	Staļins	N-msg---------n-----------f-	12	0	12	6	B-PERS
+apstiprinājums	N	apstiprinājums	N-msn---------n-----------l-	12	8	12	21	O
+nāvessodiem	N	nāvessods	N-mpd---------n-----------l-	12	23	12	33	O
+Staļina	N	Staļins	N-msg---------n-----------f-	12	35	12	41	B-PERS
+organizētajās	G	organizēts	Gsfplp-y---p--------------l-	12	43	12	55	O
+represijās	N	represija	N-fpl---------n-----------l-	12	57	12	66	O
+bojā	N	boja	N-fsl---------n-----------l-	12	68	12	71	O
+gājuši	G	gājis	Gsmpn--n---a--------------l-	12	73	12	78	O
+apmēram	R	apmēram	R----p---------------g----l-	12	80	12	86	O
+20	D	20	D--pg-----------------------	12	88	12	89	O
+miljoni	M	miljons	M-mpn---c-----------------l-	12	91	12	97	O
+cilvēki	N	cilvēks	N-mpn---------n-----------l-	12	99	12	105	O
+.	SENT	.	T--------------------------.	12	106	12	106	O
+5	D	5	D--p------------------------	12	108	12	108	O
+miljoni	M	miljons	M-mpn---c-----------------l-	12	110	12	116	O
+,	T	,	T--------------------------,	12	117	12	117	O
+tā	R	tā	R----p--------------------l-	12	119	12	120	O
+saucamo	G	saucams	Gpmsap-y---p--------------l-	12	122	12	128	O
+"	T	"	T--------------------------"	12	130	12	130	O
+kulaku	N	kulaks	N-msa---------n-----------l-	12	131	12	136	O
+"	T	"	T--------------------------"	12	137	12	137	O
+un	C	un	C---------------------c---l-	12	139	12	140	O
+citu	P	cits	P-msa-------i-------------l-	12	142	12	145	O
+zemnieku	N	zemnieks	N-msa---------n-----------l-	12	147	12	154	O
+,	T	,	T--------------------------,	12	155	12	155	O
+kas	P	kas	P---n-------r---------x---l-	12	157	12	159	O
+nogalināti	G	nogalināts	Gsmpnp-n---p--------------l-	12	161	12	170	O
+1929-1933	-	1929-1933	----------------------------	12	172	12	180	B-DATE
+.	SENT	.	T--------------------------.	12	181	12	181	O
+5	D	5	D--p------------------------	12	183	12	183	O
+miljoni	M	miljons	M-mpn---c-----------------l-	12	185	12	191	O
+mirušo	G	miris	Gsmpg--y---a--------------l-	12	193	12	198	O
+Ukrainas	N	Ukraina	N-fsg---------n-----------f-	12	200	12	207	B-LOC
+badā	N	bads	N-msl---------n-----------l-	12	209	12	212	O
+,	T	,	T--------------------------,	12	213	12	213	O
+ko	P	kas	P---a-------r-------------l-	12	215	12	216	O
+mākslīgi	R	mākslīgi	R----p--------------------l-	12	218	12	225	O
+izraisīja	V	izraisīt	Vs----3--i----------------l-	12	227	12	235	O
+padomju	N	padome	N-fpg---------n-----------l-	12	237	12	243	O
+vara	N	varš	N-msg---------n-----------l-	12	245	12	248	O
+.	SENT	.	T--------------------------.	12	249	12	249	O
+5	D	5	D--p------------------------	12	251	12	251	O
+miljoni	M	miljons	M-mpn---c-----------------l-	12	253	12	259	O
+nošautu	V	nošaut	Vp-------s----------------l-	12	261	12	267	O
+militārpersonu	N	militārpersona	N-fsa---------n-----------l-	12	269	12	282	O
+1933	D	1933	D--p------------------------	12	284	12	287	B-DATE
+.	T	.	T--------------------------.	12	288	12	288	I-DATE
+-	T	-	T---------------------------	12	289	12	289	I-DATE
+1953	D	1953	D--p------------------------	12	290	12	293	I-DATE
+.	T	.	T--------------------------.	12	294	12	294	I-DATE
+gadam	N	gads	N-msd---------n-----------l-	12	296	12	300	I-DATE
+.	SENT	.	T--------------------------.	12	301	12	301	O
+5	D	5	D--p------------------------	12	303	12	303	O
+miljoni	M	miljons	M-mpn---c-----------------l-	12	305	12	311	O
+mirušo	G	miris	Gsmpg--y---a--------------l-	12	313	12	318	O
+GULAG	-	GULAG	----------------------------	12	320	12	324	B-ORG
+nometnēs	N	nometne	N-fpl---------n-----------l-	12	326	12	333	O
+.	SENT	.	T--------------------------.	12	334	12	334	O
+Pilnīgi	R	pilnīgi	R----p--------------------f-	12	336	12	342	O
+visi	P	viss	P-mpn-------g-------------l-	12	344	12	347	O
+Krimas	N	Krima	N-fsg---------n-----------f-	12	349	12	354	B-LOC
+tatāri	N	tatārs	N-mpn---------n-----------l-	12	356	12	361	O
+,	T	,	T--------------------------,	12	362	12	362	O
+Volgas	N	volga	N-fsg---------n-----------f-	12	364	12	369	B-LOC
+vācieši	N	vācietis	N-mpn---------n-----------l-	12	371	12	377	O
+un	C	un	C---------------------c---l-	12	379	12	380	O
+čečeni	N	čečens	N-mpn---------n-----------l-	12	382	12	387	O
+tika	V	tikt	Vs----3--i----------6-----l-	12	389	12	392	O
+izsūtīti	G	izsūtīts	Gsmpnp-n---p--------------l-	12	394	12	401	O
+uz	S	uz	S----------------sap------l-	12	403	12	404	O
+Sibīriju	N	Sibīrija	N-fsa---------n-----------f-	12	406	12	413	B-LOC
+un	C	un	C---------------------c---l-	12	415	12	416	O
+Kazahstānu	N	Kazahstāna	N-fsa---------n-----------f-	12	418	12	427	B-LOC
+.	SENT	.	T--------------------------.	12	428	12	428	O
+
+
+
+
+1937	D	1937	D--p------------------------	14	0	14	3	B-DATE
+.	T	.	T--------------------------.	14	4	14	4	I-DATE
+gadā	N	gads	N-msl---------n-----------l-	14	6	14	9	I-DATE
+Politbirojs	N	politbirojs	N-msn---------n-----------f-	14	11	14	21	B-ORG
+atļāva	V	atļaut	Vs----3--i----------------l-	14	23	14	28	O
+nopratināšanā	N	nopratināšana	N-fsl---------n-----------l-	14	30	14	42	O
+izmantot	V	izmantot	V--------n----------------l-	14	44	14	51	O
+spīdzināšanu	N	spīdzināšana	N-fsa---------n-----------l-	14	53	14	64	O
+.	SENT	.	T--------------------------.	14	65	14	65	O
+
+
+
+
+Sarkanajā	A	sarkans	A-fslp-y------------------f-	16	0	16	8	B-ORG
+armijā	N	armija	N-fsl---------n-----------l-	16	10	16	15	I-ORG
+tika	V	tikt	Vs----3--i----------6-----l-	16	17	16	20	O
+arestēti	G	arestēts	Gsmpnp-n---p--------------l-	16	22	16	29	O
+un	C	un	C---------------------c---l-	16	31	16	32	O
+nošauti	G	nošauts	Gsmpnp-n---p--------------l-	16	34	16	40	O
+3	D	3	D--p------------------------	16	42	16	42	O
+no	S	no	S----------------pdp------l-	16	44	16	45	O
+5	D	5	D--p------------------------	16	47	16	47	O
+maršaliem	N	maršals	N-mpd---------n-----------l-	16	49	16	57	O
+,	T	,	T--------------------------,	16	58	16	58	O
+13	D	13	D--pg-----------------------	16	60	16	61	O
+no	S	no	S----------------pdp------l-	16	63	16	64	O
+15	D	15	D--pg-----------------------	16	66	16	67	O
+armijas	N	armija	N-fsg---------n-----------l-	16	69	16	75	O
+ģenerāļiem	N	ģenerālis	N-mpd---------n-----------l-	16	77	16	86	O
+,	T	,	T--------------------------,	16	87	16	87	O
+8	D	8	D--p------------------------	16	89	16	89	O
+no	S	no	S----------------pdp------l-	16	91	16	92	O
+9	D	9	D--p------------------------	16	94	16	94	O
+admirāļiem	N	admirālis	N-mpd---------n-----------l-	16	96	16	105	O
+,	T	,	T--------------------------,	16	106	16	106	O
+50	D	50	D--pg-----------------------	16	108	16	109	O
+no	S	no	S----------------pdp------l-	16	111	16	112	O
+57	D	57	D--p------------------------	16	114	16	115	O
+armijas	N	armija	N-fsg---------n-----------l-	16	117	16	123	O
+korpusu	N	korpuss	N-mpg---------n-----------l-	16	125	16	131	O
+komandieriem	N	komandieris	N-mpd---------n-----------l-	16	133	16	144	O
+,	T	,	T--------------------------,	16	145	16	145	O
+154	D	154	D--p------------------------	16	147	16	149	O
+no	S	no	S----------------pdp------l-	16	151	16	152	O
+186	D	186	D--p------------------------	16	154	16	156	O
+divīziju	N	divīzija	N-fpg---------n-----------l-	16	158	16	165	O
+komandieriem	N	komandieris	N-mpd---------n-----------l-	16	167	16	178	O
+,	T	,	T--------------------------,	16	179	16	179	O
+16	D	16	D--pg-----------------------	16	181	16	182	O
+no	S	no	S----------------pdp------l-	16	184	16	185	O
+16	D	16	D--pg-----------------------	16	187	16	188	O
+armijas	N	armija	N-fsg---------n-----------l-	16	190	16	196	O
+komisāriem	N	komisārs	N-mpd---------n-----------l-	16	198	16	207	O
+,	T	,	T--------------------------,	16	208	16	208	O
+un	C	un	C---------------------c---l-	16	210	16	211	O
+25	D	25	D--p------------------------	16	213	16	214	O
+no	S	no	S----------------pdp------l-	16	216	16	217	O
+28	D	28	D--p------------------------	16	219	16	220	O
+armijas	N	armija	N-fsg---------n-----------l-	16	222	16	228	O
+korpusu	N	korpuss	N-mpg---------n-----------l-	16	230	16	236	O
+komisāriem	N	komisārs	N-mpd---------n-----------l-	16	238	16	247	O
+.	SENT	.	T--------------------------.	16	248	16	248	O
+
+
+
+
+Staļina	N	Staļins	N-msg---------n-----------f-	18	0	18	6	B-PERS
+paraksts	N	paraksts	N-msn---------n-----------l-	18	8	18	15	O
+tikai	Q	tikai	Q-------------------------l-	18	17	18	21	O
+1937-1938	-	1937-1938	----------------------------	18	23	18	31	B-DATE
+.	T	.	T--------------------------.	18	32	18	32	I-DATE
+gados	N	gads	N-mpl---------n-----------l-	18	34	18	38	I-DATE
+ir	V	būt	Vp----3--i----------7-----l-	18	40	18	41	O
+uz	S	uz	S----------------sap------l-	18	43	18	44	O
+vismaz	R	vismaz	R----p---------------g----l-	18	46	18	51	O
+681	D	681	D--s------------------------	18	53	18	55	O
+692	D	692	D--p------------------------	18	57	18	59	O
+cilvēku	N	cilvēks	N-mpg---------n-----------l-	18	61	18	67	O
+nošaušanas	N	nošaušana	N-fsg---------n-----------l-	18	69	18	78	O
+pavēlēm	N	pavēle	N-fpd---------n-----------l-	18	80	18	86	O
+.	SENT	.	T--------------------------.	18	87	18	87	O

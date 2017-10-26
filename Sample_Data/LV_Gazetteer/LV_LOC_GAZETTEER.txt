@@ -1,0 +1,8765 @@
+﻿LOC	Āķi
+LOC	Āžūknis
+LOC	Ābeļi
+LOC	Ābeļi pagasts
+LOC	Ābeļkalni
+LOC	Ābeļu pagasts
+LOC	Ābelītes
+LOC	Ābeles
+LOC	Ābelnieki
+LOC	Āboliņi
+LOC	Āboli
+LOC	Ābolnieki
+LOC	Āboltiņi
+LOC	Ābraglīkums
+LOC	Ādaži
+LOC	Ādaži novads
+LOC	Ādažu novads
+LOC	Ādams
+LOC	Ādlers
+LOC	Ādmiņu dīķis
+LOC	Ādmiņi dīķis
+LOC	Ādmiņu ezers
+LOC	Ādmiņi ezers
+LOC	Ādoliņi
+LOC	Āgenskalns
+LOC	Ālande
+LOC	Ālave
+LOC	Āmari
+LOC	Āndrupe
+LOC	Āne
+LOC	Āpši
+LOC	Āpškalni
+LOC	Āpuznieki
+LOC	Ārņi
+LOC	Āraiši
+LOC	Āraišu ezers
+LOC	Āraiši ezers
+LOC	Ārciema Ūdenskrātuve
+LOC	Ārciema ūdenskrātuve
+LOC	Ārciems ūdenskrātuve
+LOC	Ārciema Stacija
+LOC	Ārciema stacija
+LOC	Ārciems stacija
+LOC	Ārciems
+LOC	Ārdava
+LOC	Ārdavas ezers
+LOC	Ārdava ezers
+LOC	Āres
+LOC	Āriņi
+LOC	Ārlava
+LOC	Ārmaņi
+LOC	Ārstes
+LOC	Ārupīte
+LOC	Āstere
+LOC	Āsteres ezers
+LOC	Āstere ezers
+LOC	Āzišku ezers
+LOC	Āziški ezers
+LOC	Čīle
+LOC	Čīmas
+LOC	Čūdariene
+LOC	Čūksti
+LOC	Čūskumuiža
+LOC	Čači
+LOC	Čada
+LOC	Čakši
+LOC	Čakste
+LOC	Čakstes
+LOC	Čaušica
+LOC	Čaukciems
+LOC	Čaunāni
+LOC	Čaupi
+LOC	Čečava
+LOC	Čeņči
+LOC	Čehija
+LOC	Čeidānu purvs
+LOC	Čeidāni purvs
+LOC	Čempi
+LOC	Čerņavskije
+LOC	Černavu ezers
+LOC	Černavi ezers
+LOC	Černija
+LOC	Černoste
+LOC	Černostes ezers
+LOC	Černoste ezers
+LOC	Černova
+LOC	Červoniki
+LOC	Červonka
+LOC	Čeverava
+LOC	Čiekuri
+LOC	Čiekurkalns
+LOC	Čikste
+LOC	Čikstes
+LOC	Čilipīne
+LOC	Čimas
+LOC	Čivčieši
+LOC	Čivžuli
+LOC	Čolēni
+LOC	Čonkas
+LOC	Čornaja
+LOC	Čornaja pagasts
+LOC	Čornajas pagasts
+LOC	Čukuri
+LOC	Čunča
+LOC	Čunčas
+LOC	Ēģipte
+LOC	Ēķupe
+LOC	Ēda
+LOC	Ēdas
+LOC	Ēdole
+LOC	Ēdole pagasts
+LOC	Ēdoles pagasts
+LOC	Ēkinupe
+LOC	Ēnava
+LOC	Ērģeme
+LOC	Ērģeme pagasts
+LOC	Ērģemes pagasts
+LOC	Ērberģe
+LOC	Ērgļi
+LOC	Ērgļi novads
+LOC	Ērgļu novads
+LOC	Ērgļu purvs
+LOC	Ērgļi purvs
+LOC	Ērkalni
+LOC	Ērmaņi
+LOC	Ērmes
+LOC	Ērmi
+LOC	Ēvarži
+LOC	Ēvele
+LOC	Ēvele pagasts
+LOC	Ēveles pagasts
+LOC	Ģērķi
+LOC	Ģīmji
+LOC	Gaujas Nacionālais Parks
+LOC	Gauja nacionāls parks
+LOC	Ģederti
+LOC	Ģediņi
+LOC	Ģeidāni
+LOC	Ģenteles
+LOC	Ģerķišezers
+LOC	Ģerķi mežs
+LOC	Ģeri
+LOC	Ģibuļi
+LOC	Ģibuļi pagasts
+LOC	Ģibuļu pagasts
+LOC	Ģibzde
+LOC	Ģiezēni
+LOC	Ģigas
+LOC	Ģikši
+LOC	Ģipka
+LOC	Ģipteri
+LOC	Ģirupe
+LOC	Ība
+LOC	Īle
+LOC	Īle pagasts
+LOC	Īles pagasts
+LOC	Īrija
+LOC	Īslīcas
+LOC	Īslīce
+LOC	Īslīce pagasts
+LOC	Īslīces pagasts
+LOC	Īstākāja
+LOC	Īvande
+LOC	Īvande pagasts
+LOC	Īvandes
+LOC	Īvandes pagasts
+LOC	Īve
+LOC	Īve pagasts
+LOC	Īves pagasts
+LOC	Ķāķi
+LOC	Ķāvu Dzirnavu ezers
+LOC	Ķāvu dzirnavas ezers
+LOC	Ķāvas dzirnavas ezers
+LOC	Ķēķi
+LOC	Ķēniņi
+LOC	Ķīļi
+LOC	Ķīšezers
+LOC	Ķīši
+LOC	Ķīburi
+LOC	Ķīna
+LOC	Ķīna tauta republika
+LOC	Ķīnas Tautas Republika
+LOC	Ķīpeni
+LOC	Ķīpsala
+LOC	Ķīsterciems
+LOC	Ķūļciema pagasts
+LOC	Ķūļciems pagasts
+LOC	Ķauķi
+LOC	Ķauvas
+LOC	Ķeņģi
+LOC	Ķeņini
+LOC	Ķeguļrags
+LOC	Ķeguma novads
+LOC	Ķegums
+LOC	Ķegums novads
+LOC	Ķeiši
+LOC	Ķeiži
+LOC	Ķeiba
+LOC	Ķeipene
+LOC	Ķeipene pagasts
+LOC	Ķeipenes pagasts
+LOC	Ķeiri
+LOC	Ķeizaru purvs
+LOC	Ķeizari purvs
+LOC	Ķekari
+LOC	Ķekava
+LOC	Ķekava novads
+LOC	Ķekava pagasts
+LOC	Ķekavas novads
+LOC	Ķekavas pagasts
+LOC	Ķelda
+LOC	Ķelderi
+LOC	Ķelles
+LOC	Ķemere
+LOC	Ķemeri
+LOC	Ķempēni
+LOC	Ķempes
+LOC	Ķempji
+LOC	Ķepas
+LOC	Ķepova pagasts
+LOC	Ķepovas pagasts
+LOC	Ķepuri
+LOC	Ķerķeni
+LOC	Ķeri
+LOC	Ķerkliņi
+LOC	Ķerpji
+LOC	Ķesa
+LOC	Ķesterciems
+LOC	Ķesteri
+LOC	Ķetlēri
+LOC	Ķetumi
+LOC	Ķeveļi
+LOC	Ķevele
+LOC	Ķeveri
+LOC	Ķezberes
+LOC	Ķiķi
+LOC	Ķiļi
+LOC	Ķiši
+LOC	Ķiži
+LOC	Ķidēni
+LOC	Ķieģeļceplis
+LOC	Ķieģeļi
+LOC	Ķienes
+LOC	Ķiguļi
+LOC	Ķikaulis ezers
+LOC	Ķikuri
+LOC	Ķikuti
+LOC	Ķilas
+LOC	Ķilupe
+LOC	Ķilzumi
+LOC	Ķimši
+LOC	Ķimale
+LOC	Ķimstienki
+LOC	Ķinguti
+LOC	Ķipari
+LOC	Ķipatciems
+LOC	Ķipatlīkums
+LOC	Ķiplavas
+LOC	Ķiploku ezers
+LOC	Ķiršupe
+LOC	Ķiržu ezers
+LOC	Ķirži ezers
+LOC	Ķirbas Pļavas
+LOC	Ķirbas pļava
+LOC	Ķirba pļava
+LOC	Ķirbeļi
+LOC	Ķirbiži
+LOC	Ķire
+LOC	Ķirele
+LOC	Ķiri
+LOC	Ķirkuči
+LOC	Ķirkumi
+LOC	Ķirpēni
+LOC	Ķiruma ezers
+LOC	Ķirums ezers
+LOC	Ķivita
+LOC	Ķoņi
+LOC	Ķoņi pagasts
+LOC	Ķoņu pagasts
+LOC	Ķoniņciems
+LOC	Ķuķi
+LOC	Ķuļciems
+LOC	Ķudi
+LOC	Ķulme
+LOC	Ķunci
+LOC	Ķunduri
+LOC	Ķurši
+LOC	Ķurbe
+LOC	Ķurbes purvs
+LOC	Ķurbe purvs
+LOC	Ķurbju Bļodnieki
+LOC	Ķurmrags
+LOC	Ļūbasis ezers
+LOC	Ļaudaru ezers
+LOC	Ļaudari ezers
+LOC	Ļaudona
+LOC	Ļaudona pagasts
+LOC	Ļaudonas pagasts
+LOC	Ļitovskije
+LOC	Ļudi
+LOC	Ļudvikova
+LOC	Ļukas
+LOC	Ļurbava
+LOC	Ļutenāni
+LOC	Ļutovci
+LOC	Ņidrītes
+LOC	Ņivņiki
+LOC	Ņukši
+LOC	Ņukši pagasts
+LOC	Ņukšu pagasts
+LOC	Šēfera birzs
+LOC	Šēfers birzs
+LOC	Šķēde pagasts
+LOC	Šķēdes pagasts
+LOC	Šķēles
+LOC	Šķērstnieki
+LOC	Šķērvelis
+LOC	Šķīsterciems
+LOC	Šķaune
+LOC	Šķaune pagasts
+LOC	Šķaunes ezers
+LOC	Šķaune ezers
+LOC	Šķaunes pagasts
+LOC	Šķavi
+LOC	Šķedrati
+LOC	Šķeltova
+LOC	Šķeltova pagasts
+LOC	Šķeltovas pagasts
+LOC	Šķerbišķi
+LOC	Šķibe
+LOC	Šķieneri
+LOC	Šķilbēni
+LOC	Šķilbēni pagasts
+LOC	Šķilbēnu pagasts
+LOC	Šķiltas
+LOC	Šķinčeva
+LOC	Šķipi
+LOC	Šķirstiņi
+LOC	Šķudas
+LOC	Šļapatas
+LOC	Šļukums
+LOC	Šņitņiki
+LOC	Šņores
+LOC	Šahmani
+LOC	Šakiņi
+LOC	Šaki
+LOC	Šaloji
+LOC	Šapiri
+LOC	Šarlate
+LOC	Šarlote
+LOC	Šarlotes
+LOC	Šeļechovka
+LOC	Šeški
+LOC	Šedere
+LOC	Šenheida
+LOC	Šenheidas ezers
+LOC	Šenheida ezers
+LOC	Šenki
+LOC	Šikaļi
+LOC	Šilderi
+LOC	Širmeļi
+LOC	Šivikas
+LOC	Škēres
+LOC	Škrebi
+LOC	Šlakoli
+LOC	Šlapiņi
+LOC	Šlokenbekas Dzirnavu ezers
+LOC	Šlokenbeka dzirnavas ezers
+LOC	Šlokenbekas dzirnavas ezers
+LOC	Šmidre
+LOC	Šodi
+LOC	Šovītes
+LOC	Špēļi
+LOC	Špaļbūda
+LOC	Špoģi
+LOC	Šrilanka
+LOC	Štikāni
+LOC	Šuķene
+LOC	Šuņezers
+LOC	Šuškova
+LOC	Šudārgi
+LOC	Šusta
+LOC	Šusta ezers
+LOC	Šusts ezers
+LOC	Šusti
+LOC	Šuti
+LOC	Švāni
+LOC	Šveice
+LOC	Šveice konfederācija
+LOC	Šveices konfederācija
+LOC	Šventoji
+LOC	Ūķene
+LOC	Ūbēris
+LOC	Ūbeļi
+LOC	Ūbelu ezers
+LOC	Ūda
+LOC	Ūderi
+LOC	Ūdrīši pagasts
+LOC	Ūdrīšu pagasts
+LOC	Ūdrande
+LOC	Ūdre
+LOC	Ūdriņi
+LOC	Ūdri
+LOC	Ūdrini
+LOC	Ūdrupji
+LOC	Ūdzeņi
+LOC	Ūlupi
+LOC	Ūpitis
+LOC	Ūpji
+LOC	Ūsiņi
+LOC	Ūveni
+LOC	Ūzas
+LOC	Ūziņi
+LOC	Žīguri
+LOC	Žīguri pagasts
+LOC	Žīguru pagasts
+LOC	Žļudzēni
+LOC	Žabi
+LOC	Žagari
+LOC	Žagatas
+LOC	Žagatnieki
+LOC	Žankas
+LOC	Žati
+LOC	Žeļezņaki
+LOC	Žeguri
+LOC	Želvji
+LOC	Žerkļi
+LOC	Žiževa
+LOC	Žibukakts
+LOC	Židina
+LOC	Žievalti
+LOC	Žigli
+LOC	Žocene
+LOC	Žogi
+LOC	Žoglova
+LOC	Žogotas
+LOC	Žuburi
+LOC	Žuldiņi
+LOC	Žuldini purvs
+LOC	Žuldinu purvs
+LOC	Žulpas
+LOC	Žurciņas
+LOC	Žurnika
+LOC	Žvīguri
+LOC	Aģe
+LOC	Aģes ezers
+LOC	Aģes purvs
+LOC	Aķēni
+LOC	Aķi
+LOC	Aņņi
+LOC	Aņas
+LOC	Aščuki
+LOC	Ašinieku purvs
+LOC	Ašinieki purvs
+LOC	Aži
+LOC	ASV
+LOC	Abaine
+LOC	Abaruņi
+LOC	Abava
+LOC	Abeles
+LOC	Abelnieki
+LOC	Abermaņi
+LOC	Abgunste
+LOC	Abiteļu ezers
+LOC	Abiteļi ezers
+LOC	Aboldari
+LOC	Abolkalni
+LOC	Abragciems
+LOC	Abriņi
+LOC	Abricki
+LOC	Abrupe
+LOC	Abula
+LOC	Abulas
+LOC	Abza
+LOC	Adģere
+LOC	Adžūni
+LOC	Adamova
+LOC	Adamovas ezers
+LOC	Adamova ezers
+LOC	Aderkaši
+LOC	Adgoniški
+LOC	Adieņi
+LOC	Admiņani
+LOC	Aduliena
+LOC	Adumnieki
+LOC	Adzelvieši
+LOC	Adzes
+LOC	Afganistāna
+LOC	Aga
+LOC	Aglona
+LOC	Aglona novads
+LOC	Aglona pagasts
+LOC	Aglonas novads
+LOC	Aglonas pagasts
+LOC	Aičas dzirnavu ezers
+LOC	Aičas dzirnavas ezers
+LOC	Aiša
+LOC	Aijaži
+LOC	Aijažu ezers
+LOC	Ainaži
+LOC	Aistere
+LOC	Aiviekste
+LOC	Aiviekste pagasts
+LOC	Aiviekstes pagasts
+LOC	Aizdrikšņu ezers
+LOC	Aizdrikšņi ezers
+LOC	Aizdzire
+LOC	Aizgrāvji
+LOC	Aizkārkles
+LOC	Aizkalne
+LOC	Aizkalni
+LOC	Aizklaņi
+LOC	Aizkraukle
+LOC	Aizkraukle novads
+LOC	Aizkraukle rajons
+LOC	Aizkraukles purvs
+LOC	Aizkraukles Rajons
+LOC	Aizkraukles novads
+LOC	Aizkraukles rajons
+LOC	Aizkuja
+LOC	Aizpure
+LOC	Aizpuri
+LOC	Aizpurve
+LOC	Aizpurves
+LOC	Aizpurvi
+LOC	Aizpute
+LOC	Aizpute novads
+LOC	Aizpute pagasts
+LOC	Aizpute pilsēta
+LOC	Aizputes novads
+LOC	Aizputes pagasts
+LOC	Aizputes pilsēta
+LOC	Aizstrautnieki
+LOC	Aizupe
+LOC	Aizupes
+LOC	Aizupi
+LOC	Aizupieši
+LOC	Aizupji
+LOC	Aizvīķi
+LOC	Akācijas
+LOC	Akaši
+LOC	Akacis
+LOC	Akanstaka
+LOC	Akaviņa
+LOC	Akaviņas
+LOC	Aklais ezers
+LOC	Aklais purvs
+LOC	Aklaisciems
+LOC	Aklezers
+LOC	Akmeņdziras
+LOC	Akmeņi
+LOC	Akmeņkalni
+LOC	Akmeņpils
+LOC	Akmeņrūči
+LOC	Akmeņradziņu ezers
+LOC	Akmeņradziņi ezers
+LOC	Akmeņrags
+LOC	Akmenāji
+LOC	Akmene
+LOC	Akmenkroga-sila purvs
+LOC	Aknīste
+LOC	Aknīste novads
+LOC	Aknīstes novads
+LOC	Akotiņi
+LOC	Akselu mežs
+LOC	Aksels mežs
+LOC	Aksenovas ezers
+LOC	Aksenova ezers
+LOC	Alši
+LOC	Alūksnīte
+LOC	Alūksne
+LOC	Alūksne novads
+LOC	Alūksne pilsēta
+LOC	Alūksne rajons
+LOC	Alūksnes ezers
+LOC	Alūksnes Rajons
+LOC	Alūksnes novads
+LOC	Alūksnes pilsēta
+LOC	Alūksnes rajons
+LOC	Alžīrija
+LOC	Alžani
+LOC	Alženova
+LOC	Alanda
+LOC	Alande
+LOC	Alauksta ezers
+LOC	Alauksts ezers
+LOC	Albānija
+LOC	Aldauniece
+LOC	Alderi
+LOC	Aleja
+LOC	Aleksandropole
+LOC	Aleksandrovo
+LOC	Alenis
+LOC	Alinānu purvs
+LOC	Alināni purvs
+LOC	Alkšņi
+LOC	Alksnājciems
+LOC	Allaži
+LOC	Allaži mežs
+LOC	Allažu mežs
+LOC	Allaži pagasts
+LOC	Allažmuiža
+LOC	Allažu pagasts
+LOC	Almāle
+LOC	Alodzene
+LOC	Aloja
+LOC	Aloja novads
+LOC	Alojas novads
+LOC	Alokste
+LOC	Alotiņi
+LOC	Alsunga
+LOC	Alsunga pagasts
+LOC	Alsungas novads
+LOC	Alsungas pagasts
+LOC	Alsupe
+LOC	Alsviķi
+LOC	Alsviķi pagasts
+LOC	Alsviķu pagasts
+LOC	Alukalna ezers
+LOC	Alukalns ezers
+LOC	Alunāni
+LOC	Alzezere
+LOC	Amalijasmuiža
+LOC	Amardas ezers
+LOC	Amarda ezers
+LOC	Amata
+LOC	Amata novads
+LOC	Amatas novads
+LOC	Amatnieki
+LOC	Ambeļi
+LOC	Ambeļi pagasts
+LOC	Ambeļu pagasts
+LOC	Amele
+LOC	Amerika savienots valsts
+LOC	Amerikas Savienotās Valstis
+LOC	Amjūdžu Ciems
+LOC	Amjūdžu ciems
+LOC	Amjūdži ciems
+LOC	Amoliņi
+LOC	Amula
+LOC	Ančipova
+LOC	Ančkini
+LOC	Anītes
+LOC	Anūži
+LOC	Ancēnes
+LOC	Ancēni
+LOC	Ance
+LOC	Ance pagasts
+LOC	Ancelāni
+LOC	Ances pagasts
+LOC	Ancišu dīķi
+LOC	Ancišu dīķis
+LOC	Anciši dīķis
+LOC	Anckiņas
+LOC	Anckuļi
+LOC	Ancveiriņi
+LOC	Andžāni
+LOC	Andžiņi
+LOC	Andes
+LOC	Andiņi
+LOC	Andini
+LOC	Andora
+LOC	Andrāni
+LOC	Andreja sala
+LOC	Andrejs sala
+LOC	Andrejosta
+LOC	Andrejsala
+LOC	Andri
+LOC	Andricēni
+LOC	Andrupene
+LOC	Andrupene pagasts
+LOC	Andrupenes pagasts
+LOC	Andzēni
+LOC	Andzeļi
+LOC	Andzeļi pagasts
+LOC	Andzeļu pagasts
+LOC	Angola
+LOC	Anna
+LOC	Anna pagasts
+LOC	Annapole
+LOC	Annas
+LOC	Annas pagasts
+LOC	Annasbirze
+LOC	Annaskalni
+LOC	Annasmuiža
+LOC	Annenieki
+LOC	Annenieki pagasts
+LOC	Annenieku pagasts
+LOC	Anspoki
+LOC	Antāni
+LOC	Antiņciems
+LOC	Antiņi
+LOC	Antigva
+LOC	Antigva un Barbuda
+LOC	Antokoļi
+LOC	Antonīca
+LOC	Antonišķi
+LOC	Antonopole
+LOC	Antropova
+LOC	Antuži
+LOC	Antulis
+LOC	Anuži
+LOC	Anzuļi
+LOC	Apšēni
+LOC	Apšenieki
+LOC	Apši
+LOC	Apškalni
+LOC	Apšuciems
+LOC	Apšukrogs
+LOC	Apšuleja
+LOC	Apšupe
+LOC	Apūze
+LOC	Apali
+LOC	Ape
+LOC	Ape novads
+LOC	Apes novads
+LOC	Apgulde
+LOC	Apguldes Dzirnavu ezers
+LOC	Apgulde dzirnavas ezers
+LOC	Apguldes dzirnavas ezers
+LOC	Apguldes ezers
+LOC	Apgulde ezers
+LOC	Apiņi
+LOC	Apogi
+LOC	Apole
+LOC	Aponosi
+LOC	Aprāni
+LOC	Apriķi
+LOC	Apriķu mežs
+LOC	Apriķi mežs
+LOC	Apsēni
+LOC	Apsītes
+LOC	Apsalas
+LOC	Apse
+LOC	Apseni
+LOC	Apserdi
+LOC	Apses
+LOC	Apukalns
+LOC	Apvienotie Arābu Emirāti
+LOC	Arābija
+LOC	Arāji
+LOC	Arņi
+LOC	Arakste
+LOC	Aralite
+LOC	Arciems Stacija
+LOC	Arciems stacija
+LOC	Areņdole
+LOC	Argaļi
+LOC	Argentīna
+LOC	Arites ezers
+LOC	Arite ezers
+LOC	Arkamaņi
+LOC	Armēnija
+LOC	Armani
+LOC	Armuškas
+LOC	Arnicēni
+LOC	Arona
+LOC	Arona pagasts
+LOC	Aronas pagasts
+LOC	Aronieši
+LOC	Artjomovka
+LOC	Aruba
+LOC	Arupīte
+LOC	Arvelis
+LOC	Asāni
+LOC	Asīte
+LOC	Asūne
+LOC	Asūne pagasts
+LOC	Asūnes pagasts
+LOC	Asare
+LOC	Asare pagasts
+LOC	Asares pagasts
+LOC	Asari
+LOC	Asaru ezers
+LOC	Asaras ezers
+LOC	Asiki
+LOC	Asinava
+LOC	Asinici
+LOC	Aslupes
+LOC	Asmi
+LOC	Asninas
+LOC	Astašova
+LOC	Asti
+LOC	Astici
+LOC	Ataša
+LOC	Atašiene
+LOC	Atašiene pagasts
+LOC	Atašienes pagasts
+LOC	Ata ezers
+LOC	Atis ezers
+LOC	Atari
+LOC	Ataru ezers
+LOC	Atari ezers
+LOC	Ataugas
+LOC	Ate
+LOC	Ates
+LOC	Atmatas
+LOC	Atsouka
+LOC	Atteku sala
+LOC	Atteka sala
+LOC	Atvari
+LOC	Atzeļi
+LOC	Auči
+LOC	Auļi
+LOC	Auļukalns
+LOC	Auškinieki
+LOC	Aužgulēni
+LOC	Auce
+LOC	Auce novads
+LOC	Auces novads
+LOC	Auciema ezers
+LOC	Auciems ezers
+LOC	Auciems
+LOC	Aucugals
+LOC	Aucupis
+LOC	Auderi
+LOC	Audile
+LOC	Audriņi
+LOC	Audriņi pagasts
+LOC	Audriņu pagasts
+LOC	Audruve
+LOC	Augškalni
+LOC	Augšmukti
+LOC	Augdziras
+LOC	Augstari
+LOC	Augstasils
+LOC	Augstbirži
+LOC	Augstkalne
+LOC	Augstkalnieši
+LOC	Augstroze
+LOC	Augstrozes Lielezers
+LOC	Augstrozes lielezers
+LOC	Augstroze lielezers
+LOC	Augstupji
+LOC	Auguliena
+LOC	Augulienes ezers
+LOC	Auguliene ezers
+LOC	Auguste
+LOC	Augustova
+LOC	Aukštinskaja
+LOC	Aukstraupe
+LOC	Auleja
+LOC	Auleja pagasts
+LOC	Aulejas ezers
+LOC	Auleja ezers
+LOC	Aulejas pagasts
+LOC	Aumeisteri
+LOC	Aunēni
+LOC	Auniņi
+LOC	Auni
+LOC	Aunini
+LOC	Aurīši
+LOC	Aurava
+LOC	Auri
+LOC	Auri pagasts
+LOC	Aurmaņi
+LOC	Auru pagasts
+LOC	Ausātas
+LOC	Ausekļi
+LOC	Ausmas
+LOC	Ausmas dīķis
+LOC	Ausma dīķis
+LOC	Austrālija
+LOC	Austras
+LOC	Austrija
+LOC	Austrumtimora
+LOC	Aususala
+LOC	Auzani
+LOC	Auziņas
+LOC	Auziņi
+LOC	Auziņu ezers
+LOC	Auziņš ezers
+LOC	Auzi
+LOC	Auzu sala
+LOC	Auzukrogs
+LOC	Avīši
+LOC	Avīkne
+LOC	Aviekste
+LOC	Aviekstes ezers
+LOC	Aviekste ezers
+LOC	Avotiņi
+LOC	Avoti
+LOC	Avoti Stacija
+LOC	Avoti stacija
+LOC	Avotkalni
+LOC	Azanda
+LOC	Azerbaidžāna
+LOC	Azheli
+LOC	Bāžciems
+LOC	Bāžu purvs
+LOC	Bāži purvs
+LOC	Bābelītis
+LOC	Bāci
+LOC	Bākšas
+LOC	Bāliņi
+LOC	Bānūži
+LOC	Bānec-kalni
+LOC	Bānuži mežs
+LOC	Bānužu ezers
+LOC	Bānuži ezers
+LOC	Bārbaļi
+LOC	Bārbele
+LOC	Bārbele pagasts
+LOC	Bārbeles ezers
+LOC	Bārbele ezers
+LOC	Bārbeles pagasts
+LOC	Bārdas
+LOC	Bāriši
+LOC	Bāri
+LOC	Bārta
+LOC	Bārta pagasts
+LOC	Bārtas mežs
+LOC	Bārta mežs
+LOC	Bārtas pagasts
+LOC	Bārtuļi
+LOC	Bāta
+LOC	Bēķi
+LOC	Bēņas
+LOC	Bēžas
+LOC	Bēne
+LOC	Bēne pagasts
+LOC	Bēnes pagasts
+LOC	Bēnkava
+LOC	Bērnāni
+LOC	Bērstele
+LOC	Bērtinu ezers
+LOC	Bērtini ezers
+LOC	Bērtulaiši
+LOC	Bērvircava
+LOC	Bērzaiņi
+LOC	Bērzaine
+LOC	Bērzaine pagasts
+LOC	Bērzaines pagasts
+LOC	Bērzalne
+LOC	Bērzauka
+LOC	Bērzaune
+LOC	Bērzaune pagasts
+LOC	Bērzaunes pagasts
+LOC	Bērzbeķe
+LOC	Bērzciems
+LOC	Bērze
+LOC	Bērze pagasts
+LOC	Bērzene
+LOC	Bērzes pagasts
+LOC	Bērzgale
+LOC	Bērzgale pagasts
+LOC	Bērzgales pagasts
+LOC	Bērziņi
+LOC	Bērziņi pagasts
+LOC	Bērziņu karjers
+LOC	Bērziņa karjers
+LOC	Bērziņu pagasts
+LOC	Bērzi
+LOC	Bērzini
+LOC	Bērzkalne
+LOC	Bērzkalne pagasts
+LOC	Bērzkalnes pagasts
+LOC	Bērzkalni
+LOC	Bērzkrasti
+LOC	Bērzmuiža
+LOC	Bērzpils
+LOC	Bērzpils pagasts
+LOC	Bērzsīpele
+LOC	Bērzs
+LOC	Bērzuciems
+LOC	Bērzukalni
+LOC	Bērzukrogs
+LOC	Bērzupe
+LOC	Bētiņi
+LOC	Bēti
+LOC	Bīlavi
+LOC	Bīriņi
+LOC	Bīriņu dīķis
+LOC	Bīriņu ezers
+LOC	Bīriņi dīķis
+LOC	Bīriņi ezers
+LOC	Bļizņeva
+LOC	Bļodnieki
+LOC	Būšnieki
+LOC	Būšnieku Bāka
+LOC	Būšnieki bāka
+LOC	Būšnieku bāka
+LOC	Būcēni
+LOC	Būdas
+LOC	Būdele
+LOC	Būdeni
+LOC	Būdenieki
+LOC	Būdiņas
+LOC	Būdnieki
+LOC	Būmaņi
+LOC	Būtuļi
+LOC	Bačas
+LOC	Baķi
+LOC	Baļotes ezers
+LOC	Baļote ezers
+LOC	Baļucki
+LOC	Bašķi
+LOC	Baši
+LOC	Babīte
+LOC	Babīte novads
+LOC	Babīte pagasts
+LOC	Babītes ezers
+LOC	Babīte ezers
+LOC	Babītes novads
+LOC	Babītes pagasts
+LOC	Babecka
+LOC	Babi
+LOC	Babri
+LOC	Badnova
+LOC	Bagu
+LOC	Bagumi
+LOC	Bahamas
+LOC	Bahareva
+LOC	Bahreina
+LOC	Baižkalns
+LOC	Bajāri
+LOC	Bajari
+LOC	Bajerini
+LOC	Bakuži
+LOC	Bakuzas
+LOC	Balāni
+LOC	Balķitis
+LOC	Balžna
+LOC	Balabiški
+LOC	Balbieri
+LOC	Balda
+LOC	Baldone
+LOC	Baldone novads
+LOC	Baldone pilsēta
+LOC	Baldones
+LOC	Baldones novads
+LOC	Baldones pilsēta
+LOC	Baldonieki
+LOC	Balgale
+LOC	Balgale pagasts
+LOC	Balgales pagasts
+LOC	Balgalvji
+LOC	Baliņi
+LOC	Balinava
+LOC	Balkas
+LOC	Baloži
+LOC	Baloži pilsēta
+LOC	Baložu pilsēta
+LOC	Baložupe
+LOC	Baltači
+LOC	Balta ezers
+LOC	Baltais Dukstgals
+LOC	Baltais ezers
+LOC	Baltais purvs
+LOC	Baltaiskrogs
+LOC	Baltceri
+LOC	Balteņi
+LOC	Baltezers
+LOC	Baltgalvji
+LOC	Baltiņi
+LOC	Baltinava
+LOC	Baltinava pagasts
+LOC	Baltinavas novads
+LOC	Baltinavas pagasts
+LOC	Baltinupe
+LOC	Baltkaiši
+LOC	Baltkrievija
+LOC	Baltmuiža
+LOC	Baltmuižas purvs
+LOC	Baltmuiža purvs
+LOC	Baltpēteri
+LOC	Baltupes purvs
+LOC	Baltupe purvs
+LOC	Baltvilks
+LOC	Balupe
+LOC	Balvi
+LOC	Balvi novads
+LOC	Balvi pagasts
+LOC	Balvi pilsēta
+LOC	Balvi rajons
+LOC	Balvu ezers
+LOC	Balvu Rajons
+LOC	Balvu novads
+LOC	Balvu pagasts
+LOC	Balvu pilsēta
+LOC	Balvu rajons
+LOC	Balziens
+LOC	Bambali
+LOC	Banaži
+LOC	Bancānu ezers
+LOC	Bancāni ezers
+LOC	Bandenieki
+LOC	Bangas
+LOC	Bangava
+LOC	Bangladeša
+LOC	Barīsi
+LOC	Barakāni
+LOC	Barauka
+LOC	Baravaja
+LOC	Baraviki
+LOC	Barbaļi
+LOC	Barbadosa
+LOC	Barbuda
+LOC	Bardžūni
+LOC	Bariši
+LOC	Barisova
+LOC	Barkāni
+LOC	Barkava
+LOC	Barkava pagasts
+LOC	Barkavas pagasts
+LOC	Barovka
+LOC	Bartuva
+LOC	Basi
+LOC	Batari
+LOC	Bauļi
+LOC	Bauņi
+LOC	Baužas
+LOC	Baujas
+LOC	Baumaņi
+LOC	Bauri
+LOC	Bauska
+LOC	Bauska Stacija
+LOC	Bauska stacija
+LOC	Bauska novads
+LOC	Bauska pilsēta
+LOC	Bauska rajons
+LOC	Bauskas Rajons
+LOC	Bauskas novads
+LOC	Bauskas pilsēta
+LOC	Bauskas rajons
+LOC	Bauzas
+LOC	Bauzis
+LOC	Bazūnes
+LOC	Bazniekrogs
+LOC	Bečeri
+LOC	Beģi
+LOC	Beķi
+LOC	Beļģija
+LOC	Beļajeva
+LOC	Beļauski
+LOC	Beļava
+LOC	Beļava pagasts
+LOC	Beļavas kalns
+LOC	Beļava kalns
+LOC	Beļavas pagasts
+LOC	Beļevo
+LOC	Bebe
+LOC	Beberbeķi
+LOC	Bebrene
+LOC	Bebri
+LOC	Bebri pagasts
+LOC	Bebru pagasts
+LOC	Bebrupe
+LOC	Bedres
+LOC	Beibežu purvs
+LOC	Beibeži purvs
+LOC	Beika
+LOC	Beikas
+LOC	Beites
+LOC	Beja
+LOC	Bekši
+LOC	Beles
+LOC	Belina
+LOC	Beliza
+LOC	Belobabina
+LOC	Belogrudova
+LOC	Belojes ezers
+LOC	Beloje ezers
+LOC	Beltes
+LOC	Benina
+LOC	Benuži
+LOC	Berģi
+LOC	Beržtalis
+LOC	Beržu purvs
+LOC	Berži purvs
+LOC	Berezņiki
+LOC	Berezki
+LOC	Berezovka
+LOC	Bergi
+LOC	Bernāni
+LOC	Bernāti
+LOC	Bernadskaja
+LOC	Bernesti
+LOC	Bertmeji
+LOC	Berz-Sipele Stacija
+LOC	Berz-Sipele stacija
+LOC	Berzgala ezers
+LOC	Berzgalas ezers
+LOC	Berzpils purvs
+LOC	Bestes
+LOC	Beti
+LOC	Beverīnas novads
+LOC	Bezdibenis
+LOC	Bezmeri
+LOC	Bezzobi
+LOC	Bičul
+LOC	Biģi
+LOC	Biķernieki
+LOC	Biķernieki pagasts
+LOC	Biķernieku pagasts
+LOC	Biļļi
+LOC	Biļļumuiža
+LOC	Biņava
+LOC	Bižas ezers
+LOC	Biža ezers
+LOC	Biži
+LOC	Bicāni
+LOC	Bicanu ezers
+LOC	Bidāgi
+LOC	Bidzi
+LOC	Bieķengrāvis
+LOC	Bieķiņa sala
+LOC	Biedri
+LOC	Bielomoikas
+LOC	Bieranti
+LOC	Bietleri
+LOC	Bievalka
+LOC	Biezais
+LOC	Bigauņciems
+LOC	Bikari
+LOC	Bikava
+LOC	Bikova
+LOC	Biksēja
+LOC	Biksējas Cūku purvs
+LOC	Biksējas cūka purvs
+LOC	Biksēja cūka purvs
+LOC	Biksēre
+LOC	Bikses
+LOC	Biksti
+LOC	Biksti pagasts
+LOC	Bikstu pagasts
+LOC	Bikstupe
+LOC	Biletnieki
+LOC	Bille
+LOC	Bilska
+LOC	Bilska pagasts
+LOC	Bilskas pagasts
+LOC	Binderi
+LOC	Birža ezers
+LOC	birža ezers
+LOC	Birži
+LOC	Biržkalna ezers
+LOC	Biržkalns ezers
+LOC	Birkeneļi
+LOC	Birkstala
+LOC	Birma
+LOC	Birzīte
+LOC	Birzes
+LOC	Birzgaļi
+LOC	Birzgale
+LOC	Birzgale mežs
+LOC	Birzgale pagasts
+LOC	Birzgales pagasts
+LOC	Birzkalni
+LOC	Birznieki
+LOC	Birzuļi
+LOC	Bisau Gvineja
+LOC	Bisenieki
+LOC	Bitāni
+LOC	Bitēni
+LOC	Bites
+LOC	Bitiņi
+LOC	Bitnieki
+LOC	Blākaiņi
+LOC	Blāzma
+LOC	Blīdene
+LOC	Blīgzne
+LOC	Blūzņi
+LOC	Blačeni
+LOC	Blanka
+LOC	Blankenfelde
+LOC	Blankfeldes muiža
+LOC	Blankfelde muiža
+LOC	Bledeli
+LOC	Blende
+LOC	Bliežas
+LOC	Blisiņi
+LOC	Blome
+LOC	Blome pagasts
+LOC	Blomes purvs
+LOC	Blome purvs
+LOC	Blomes pagasts
+LOC	Blonti
+LOC	Blonti pagasts
+LOC	Blontu pagasts
+LOC	Blukas
+LOC	Blukas Stacija
+LOC	Bluka stacija
+LOC	Blukas stacija
+LOC	Blukaskrogs
+LOC	Boķi
+LOC	Božu Ūdenskrātuve
+LOC	Božu ūdenskrātuve
+LOC	Boži ūdenskrātuve
+LOC	Bobri
+LOC	Bodītes
+LOC	Bojāri
+LOC	Bojas
+LOC	Bojaskrogs
+LOC	Bokāni
+LOC	Bolīvija
+LOC	Bolderaja
+LOC	Bondari
+LOC	Bonitacova
+LOC	Boraukas
+LOC	Borkuici
+LOC	Bormaņi
+LOC	Borne
+LOC	Borovaja
+LOC	Borovije
+LOC	Borovka
+LOC	Borovkas
+LOC	Borovkas purvs
+LOC	Borovka purvs
+LOC	Bortņiki
+LOC	Bortnieki
+LOC	Bortniki
+LOC	Bosnija
+LOC	Bosnija un Hercogovina
+LOC	Bosti
+LOC	Botsvāna
+LOC	Brēķi
+LOC	Brēdiķi
+LOC	Brīdaga
+LOC	Brīkūzis
+LOC	Brīmaņi
+LOC	Brīsla
+LOC	Brīvzemnieki pagasts
+LOC	Brīvzemnieku pagasts
+LOC	Brūši
+LOC	Brūži
+LOC	Brūkši
+LOC	Brūklāji
+LOC	Brūkleni
+LOC	Brūnīši
+LOC	Brūnas
+LOC	Brūveļi
+LOC	Brūveri
+LOC	Brūzilas
+LOC	Bračas
+LOC	Bračkas
+LOC	Bražas
+LOC	Brakas
+LOC	Brakauski
+LOC	Braki
+LOC	Bralytys
+LOC	Bramberģe
+LOC	Bramiķi
+LOC	Branči
+LOC	Branķciems
+LOC	Branci
+LOC	Branckalns
+LOC	Brandavas
+LOC	Brandavu ezers
+LOC	Brandavas ezers
+LOC	Brandini
+LOC	Brankšas
+LOC	Brankas
+LOC	Brantēni
+LOC	Brantas
+LOC	Branti
+LOC	Branti pagasts
+LOC	Brantu pagasts
+LOC	Brasla
+LOC	Braslas Ūdenskrātuve
+LOC	Braslava
+LOC	Braslava pagasts
+LOC	Braslavas pagasts
+LOC	Brasliņi
+LOC	Brasli
+LOC	Bratova
+LOC	Brazīlija
+LOC	Brediķi
+LOC	Bregža kalns
+LOC	Bregži
+LOC	Breksina
+LOC	Brekti
+LOC	Brenči
+LOC	Brencēni
+LOC	Brendznieki
+LOC	Brenguļi
+LOC	Brenguļi novads
+LOC	Brenguļi pagasts
+LOC	Brenguļu novads
+LOC	Brenguļu pagasts
+LOC	Brenguli
+LOC	Brenti
+LOC	Briģene
+LOC	Briģenes ezers
+LOC	Briģene ezers
+LOC	Briģi
+LOC	Briģi pagasts
+LOC	Briģu Tīrelis
+LOC	Briģi tīrelis
+LOC	Briģu tīrelis
+LOC	Briģu pagasts
+LOC	Briļļi
+LOC	Briņģi
+LOC	Brišķi
+LOC	Brici
+LOC	Bridas sala
+LOC	Brida sala
+LOC	Bridišķi
+LOC	Brieževa
+LOC	Brieži
+LOC	Briežkalni
+LOC	Briežuciema pagasts
+LOC	Briežuciems
+LOC	Briežuciems pagasts
+LOC	Briedīši
+LOC	Briede
+LOC	Briedes
+LOC	Bringi
+LOC	Briniņi
+LOC	Brizule
+LOC	Brocēni
+LOC	Brocēni novads
+LOC	Brocēnu ezers
+LOC	Brocēni ezers
+LOC	Brocēnu novads
+LOC	Brodaiži
+LOC	Brodaižu ezers
+LOC	Brodaiži ezers
+LOC	Brodi
+LOC	Brokas
+LOC	Broki
+LOC	Bruči
+LOC	Bruņķitīs
+LOC	Bruņi
+LOC	Bruņinieki
+LOC	Brušvīti
+LOC	Bruci
+LOC	Brukāni
+LOC	Bruleni
+LOC	Brunči
+LOC	Brunava
+LOC	Brunava pagasts
+LOC	Brunavas pagasts
+LOC	Brunavišķi
+LOC	Bruneja
+LOC	Brunenes ezers
+LOC	Brunene ezers
+LOC	Brusovankas
+LOC	Brutuļi
+LOC	Bruzilas
+LOC	Bruzile
+LOC	Bučas
+LOC	Bučauska
+LOC	Buķeļi
+LOC	Buķi
+LOC	Buļļi
+LOC	Buļļu sala
+LOC	Buļļuciems
+LOC	Buļļugals
+LOC	Buļļupe
+LOC	Buļi
+LOC	Bušas
+LOC	Bušnieki ezers
+LOC	Bušnieku ezers
+LOC	Buži
+LOC	Buciņas
+LOC	Buculāni
+LOC	Budēļi
+LOC	Budberga
+LOC	Budenbroka
+LOC	Budiški
+LOC	Buivīši
+LOC	Buiva
+LOC	Bukšas
+LOC	Buka
+LOC	Bukaiši
+LOC	Bukas
+LOC	Bukas dīķis
+LOC	Buka dīķis
+LOC	Buki
+LOC	Buksti
+LOC	Buku purvs
+LOC	Bukuciems
+LOC	Bukulti
+LOC	Bulduri
+LOC	Bulgārija
+LOC	Buliņa ezers
+LOC	Bulkas
+LOC	Bullu Rava
+LOC	Bulmeisteri
+LOC	Bulvāni
+LOC	Bumbišķi
+LOC	Bunčeva
+LOC	Bunduli
+LOC	Bungas
+LOC	Bunka
+LOC	Bunka pagasts
+LOC	Bunkas
+LOC	Bunkas pagasts
+LOC	Buntiķi
+LOC	Buntiki
+LOC	Burchardumuiža
+LOC	Burga
+LOC	Burkinafaso
+LOC	Burtnieki
+LOC	Burtnieki ezers
+LOC	Burtnieki novads
+LOC	Burtnieki pagasts
+LOC	Burtnieku ezers
+LOC	Burtnieku karjers
+LOC	Burtnieku novads
+LOC	Burtnieku baznīca
+LOC	Burtnieku pagasts
+LOC	Burundi
+LOC	Burzova
+LOC	Busiņiški
+LOC	Butāna
+LOC	Butķēni
+LOC	Buteniški
+LOC	Butiški
+LOC	Butkāni
+LOC	Butkas
+LOC	Butnāri
+LOC	Butnari
+LOC	Buzani
+LOC	Cālīši
+LOC	Cālīšsils
+LOC	Cārmana ezers
+LOC	Cārmans ezers
+LOC	Cēļi
+LOC	Cēlāji
+LOC	Cēre
+LOC	Cērkste
+LOC	Cērkstes dzirnavas
+LOC	Cērpaine
+LOC	Cērpas
+LOC	Cērpi
+LOC	Cērpiene
+LOC	Cērtene
+LOC	Cēsis
+LOC	Cēsis pilsēta
+LOC	Cēsis rajons
+LOC	Cēsu Rajons
+LOC	Cēsu pilsēta
+LOC	Cēsu rajons
+LOC	Cīrava
+LOC	Cīrava pagasts
+LOC	Cīravas pagasts
+LOC	Cīruļi
+LOC	Cīruļu karjers
+LOC	Cīruļi karjers
+LOC	Cīruli
+LOC	Cīrulis
+LOC	Cūbas
+LOC	Cūkusala
+LOC	Cakši
+LOC	Cakuli
+LOC	Campi
+LOC	Cankas
+LOC	Carnikava
+LOC	Carnikava novads
+LOC	Carnikavas novads
+LOC	Catlakši
+LOC	Cauņi
+LOC	Caunes
+LOC	Ceļakurtiši
+LOC	Ceļarāji
+LOC	Ceļenieki
+LOC	Ceļmalītes
+LOC	Ceļmalnieki
+LOC	Cebeņi
+LOC	Cegeļna
+LOC	Ceimeri
+LOC	Cekuļi
+LOC	Cekule
+LOC	Celenski
+LOC	Celmene
+LOC	Celmenieki
+LOC	Celmiņi
+LOC	Celmi
+LOC	Celmraugciems
+LOC	Cemeri
+LOC	Cempi
+LOC	Cena
+LOC	Cenas Tīrelis
+LOC	Cenas tīrelis
+LOC	Cenkli
+LOC	Cenkoņi
+LOC	Cenkuri
+LOC	Centība
+LOC	Centrālāfrika republika
+LOC	Centrālāfrikas Republika
+LOC	Centra dīķis
+LOC	Centramuiža
+LOC	Centrs
+LOC	Centuļi
+LOC	Cepļi
+LOC	Cepšu ezers
+LOC	Cepši ezers
+LOC	Ceplīši
+LOC	Ceplenieki
+LOC	Cepliši
+LOC	Ceplis
+LOC	Cepurnieki
+LOC	Ceraukste
+LOC	Ceraukste pagasts
+LOC	Ceraukstes pagasts
+LOC	Cerešu ezers
+LOC	Cereši ezers
+LOC	Cerendas
+LOC	Ceriņi
+LOC	Cesis
+LOC	Cesvaine
+LOC	Cesvaine novads
+LOC	Cesvaines mežs
+LOC	Cesvaine mežs
+LOC	Cesvaines novads
+LOC	Cesvainieki
+LOC	Chushli
+LOC	Cibēnu ezers
+LOC	Cibēni ezers
+LOC	Cibas
+LOC	Cibla
+LOC	Cibla novads
+LOC	Ciblas novads
+LOC	Ciecere
+LOC	Cieceres ezers
+LOC	Ciecere ezers
+LOC	Cieceri
+LOC	Cielavas
+LOC	Ciemātnieki
+LOC	Ciemgaļi
+LOC	Ciemiņi
+LOC	Ciemklabi
+LOC	Cikunte
+LOC	Cildi
+LOC	Cimāles
+LOC	Cimdenieki
+LOC	Cimdiņš
+LOC	Cimelis
+LOC	Cimza
+LOC	Cinci
+LOC	Cirši
+LOC	Cirava
+LOC	Circeņi
+LOC	Cirgaļi
+LOC	Ciriss
+LOC	Cirkale
+LOC	Cirmaņi
+LOC	Cirma
+LOC	Cirma ezers
+LOC	Cirma pagasts
+LOC	Cirmas pagasts
+LOC	Cirnava
+LOC	Cirole
+LOC	Cirpnieki
+LOC	Cirsinieki
+LOC	Cirsti
+LOC	Ciruļi
+LOC	Ciskādi
+LOC	Ciskāni
+LOC	Cistigi
+LOC	Code
+LOC	Code pagasts
+LOC	Codes pagasts
+LOC	Cucuri
+LOC	Cukurene
+LOC	Cukuri
+LOC	Cunka
+LOC	Cveieri
+LOC	Dāmenezers
+LOC	Dānija
+LOC	Dārte
+LOC	Dārtiņa
+LOC	Dārtsmuiža
+LOC	Dārza ezers
+LOC	Dārzciems
+LOC	Dārziņi
+LOC	Dārzini
+LOC	Dārznieki
+LOC	Dāviņi
+LOC	Dāviņi pagasts
+LOC	Dāviņu pagasts
+LOC	Dēļas
+LOC	Dēdi
+LOC	Dēlkalni
+LOC	Dēsele
+LOC	Dīķeri
+LOC	dīķi
+LOC	Dīcmaņi
+LOC	Dīlmaņi
+LOC	Dīriņi
+LOC	Dūči
+LOC	Dūķi
+LOC	Dūķu ezers
+LOC	Dūņezers
+LOC	Dūņieris
+LOC	Dūņupe
+LOC	Dūdumi
+LOC	Dūdursala
+LOC	Dūjēni
+LOC	Dūkas
+LOC	Dūkas ezers
+LOC	Dūka ezers
+LOC	Dūki
+LOC	Dūmele
+LOC	Dūmiķi
+LOC	Dūmiņi
+LOC	Dūmiņu purvs
+LOC	Dūmiņi purvs
+LOC	Dūnas
+LOC	Dūnupe
+LOC	Dūnvalki
+LOC	Dūre
+LOC	Dūrupe
+LOC	Dūzēni
+LOC	Džūkste
+LOC	Džūkste pagasts
+LOC	Džūkstes pagasts
+LOC	Džūkstesmuiža
+LOC	Džalbi
+LOC	Džamu dīķis
+LOC	Džibuti
+LOC	Daķi
+LOC	Daļģi
+LOC	Daņķieris
+LOC	Daņumarki
+LOC	Dabāki
+LOC	Dabīši
+LOC	Dabes
+LOC	Dadži
+LOC	Dadžupe
+LOC	Dagda
+LOC	Dagda novads
+LOC	Dagda pagasts
+LOC	Dagda pilsēta
+LOC	Dagdas ezers
+LOC	Dagdas novads
+LOC	Dagdas pagasts
+LOC	Dagdas pilsēta
+LOC	Daiņas
+LOC	Daiņi
+LOC	Daibe
+LOC	Daibes purvs
+LOC	Daibe purvs
+LOC	Daigone
+LOC	Dailes
+LOC	Dakas
+LOC	Daksti
+LOC	Dakt
+LOC	Daktas
+LOC	Daktermuiža
+LOC	Dalbe
+LOC	Dambīte
+LOC	Dambari
+LOC	Dambenieks
+LOC	Dambergi
+LOC	Dambjakroga ezers
+LOC	Dambjakrogs ezers
+LOC	Dambjapurva ezers
+LOC	Dambjapurvs ezers
+LOC	Dambji
+LOC	Dambrāti
+LOC	Dampjadruva
+LOC	Damradi
+LOC	Danči
+LOC	Danderi
+LOC	Dangas
+LOC	Daniņi
+LOC	Daniševka
+LOC	Dankeri
+LOC	Dankumi
+LOC	Darbnīcu dīķis
+LOC	Dargeļeva
+LOC	Dartsmuiža
+LOC	Darziņi
+LOC	Daudzītes
+LOC	Daudzene
+LOC	Daudzese
+LOC	Daudzese pagasts
+LOC	Daudzeses pagasts
+LOC	Daudzeva
+LOC	Daudziešēni
+LOC	Daugasne
+LOC	Daugavgrīva
+LOC	Daugavpils
+LOC	Daugavpils Rajons
+LOC	Daugavpils novads
+LOC	Daugavpils rajons
+LOC	Daugmale
+LOC	Daugmale pagasts
+LOC	Daugmales pagasts
+LOC	Dauguļeva
+LOC	Dauguļi
+LOC	Daukšas
+LOC	Daukšupe
+LOC	Daukstes
+LOC	Dauksti pagasts
+LOC	Daukstu pagasts
+LOC	Daumanti
+LOC	Dauzas
+LOC	Debenieki
+LOC	Debeskrogs
+LOC	Dedziņi
+LOC	Degļi
+LOC	Degšņas
+LOC	Deglava
+LOC	Degole
+LOC	Degole pagasts
+LOC	Degoles pagasts
+LOC	Degušava
+LOC	Degumi
+LOC	Degumnieki
+LOC	Degumuiža
+LOC	Dejus
+LOC	Dekšāre pagasts
+LOC	Dekšāres
+LOC	Dekšāres pagasts
+LOC	Dekšņi
+LOC	Dekšni
+LOC	Dekšnieki
+LOC	Deksne
+LOC	Dekteri
+LOC	Delles
+LOC	Delynysh
+LOC	Demene
+LOC	Demene pagasts
+LOC	Demenes pagasts
+LOC	Demerova
+LOC	Kongo Demokrātiskā Republika
+LOC	Kongo demokrātisks republika
+LOC	Denelišķi
+LOC	Depo Zasulauks
+LOC	depo Zasulauks
+LOC	Dervaniški
+LOC	Dervaniene
+LOC	Desukrogs
+LOC	Dižģērnieki
+LOC	Diž-Gramzda
+LOC	Dižciems
+LOC	Diždama
+LOC	Dižgaiļi
+LOC	Dižgravis
+LOC	Dižieres ezers
+LOC	Dižkalni
+LOC	Dižkanķi
+LOC	Dižliepadi
+LOC	Dižmārtiņi
+LOC	Dižmeži
+LOC	Dižpurvs
+LOC	Dižrimnieki
+LOC	Dižruņķi
+LOC	Dižrungas
+LOC	Dižsēņi
+LOC	Dižstende
+LOC	Dižtērukši
+LOC	Dižvilmaņi
+LOC	Dižznotiņi
+LOC	Dibena ezers
+LOC	Dibeni
+LOC	Dicēni
+LOC	Dienvidāfrika republika
+LOC	Dienvidāfrikas Republika
+LOC	Dienvidkoreja
+LOC	Dienvidsusēja
+LOC	Dietlavi
+LOC	Dignāja
+LOC	Dignāja pagasts
+LOC	Dignājas pagasts
+LOC	Dikļi
+LOC	Dikļi mežs
+LOC	Dikļu mežs
+LOC	Dikļi pagasts
+LOC	Dikļu pagasts
+LOC	Dikmaļi
+LOC	Dilani
+LOC	Dimanti
+LOC	Dimda
+LOC	Dimperāni
+LOC	Dimzas
+LOC	Dinaborčiki
+LOC	Dindeņi
+LOC	Dingeskalni
+LOC	Dinsdurbe
+LOC	Dirveikas
+LOC	Dizķīri
+LOC	Dobēji
+LOC	Dobeļžibali
+LOC	Dobeļi
+LOC	Dobele
+LOC	Dobele novads
+LOC	Dobele pagasts
+LOC	Dobele pilsēta
+LOC	Dobele rajons
+LOC	Dobeles Rajons
+LOC	Dobeles novads
+LOC	Dobeles pagasts
+LOC	Dobeles pilsēta
+LOC	Dobeles rajons
+LOC	Dobi
+LOC	Dobkrogs
+LOC	Dobri
+LOC	Dobročina
+LOC	Dobumi
+LOC	Dokti
+LOC	Dokupe
+LOC	Dole
+LOC	Doles
+LOC	Doles sala
+LOC	Dole sala
+LOC	Dolnāja
+LOC	Domanovo
+LOC	Dominikāna
+LOC	Dominika
+LOC	Domopole
+LOC	Doredes
+LOC	Doroškeviči
+LOC	Dorotpole
+LOC	Dorotpoles ezers
+LOC	Dorotpole ezers
+LOC	Dorupe
+LOC	Doudersala
+LOC	Dovole
+LOC	Drabeši
+LOC	Drabiņu purvs
+LOC	Drabiņi purvs
+LOC	Drand
+LOC	Drandas
+LOC	Drapaņi
+LOC	Drapas
+LOC	Drapmani
+LOC	Draulis
+LOC	Dravenieki
+LOC	Draviņu-Dunduru karjers
+LOC	Dravnieki
+LOC	Dravniyeki
+LOC	Dreijas
+LOC	Dreiliņi
+LOC	Dreimaņi
+LOC	Dreimaņu dīķis
+LOC	Dreimaņi dīķis
+LOC	Dreimanu ezers
+LOC	Dreimani ezers
+LOC	Dreiski
+LOC	Dreizi
+LOC	Drejas
+LOC	Drepis
+LOC	Dreveceni
+LOC	Driškina ezers
+LOC	Dricāni pagasts
+LOC	Dricānu pagasts
+LOC	Dricēni
+LOC	Dridzu ezers
+LOC	Dridzi ezers
+LOC	Driguļi
+LOC	Driksa
+LOC	Drivas
+LOC	Drivnieki
+LOC	Drivpurvs
+LOC	Drona
+LOC	Druļļu purvs
+LOC	Druļļi purvs
+LOC	Drudži
+LOC	Drukas
+LOC	Druskas
+LOC	Drusti
+LOC	Drusti pagasts
+LOC	Drustu pagasts
+LOC	Druva
+LOC	Druvakti
+LOC	Druvas
+LOC	Druvciems
+LOC	Druve
+LOC	Druviena
+LOC	Druviena pagasts
+LOC	Druvienas pagasts
+LOC	Duķuri
+LOC	Duņķi
+LOC	Dubārnes
+LOC	Dubļeva
+LOC	Dubļukalns
+LOC	Dubeņi
+LOC	Dubena
+LOC	Dubinova
+LOC	Dubna
+LOC	Dubna pagasts
+LOC	Dubnas pagasts
+LOC	Duboviki
+LOC	Dubuļi
+LOC	Dubulti
+LOC	Ducsalas
+LOC	Dudkas
+LOC	Dukānu ezers
+LOC	Dukāni ezers
+LOC	Dukeri
+LOC	Duklāvi
+LOC	Duksis
+LOC	Dukuļava
+LOC	Dukuļi
+LOC	Duku ezers
+LOC	Dukas ezers
+LOC	Dukuliene
+LOC	Dukuri
+LOC	Dulbergs
+LOC	Dumbrauka
+LOC	Dumpiete
+LOC	Dunalka
+LOC	Dunalka pagasts
+LOC	Dunalkas pagasts
+LOC	Dunava
+LOC	Dunava pagasts
+LOC	Dunavas pagasts
+LOC	Dundaga
+LOC	Dundaga novads
+LOC	Dundaga pagasts
+LOC	Dundagas novads
+LOC	Dundagas pagasts
+LOC	Dundi
+LOC	Dunduri
+LOC	Dungas
+LOC	Dunika
+LOC	Dunika pagasts
+LOC	Dunikas pagasts
+LOC	Dunski
+LOC	Dunte
+LOC	Dupša
+LOC	Dupuri
+LOC	Durbe
+LOC	Durbe novads
+LOC	Durbes ezers
+LOC	Durbes novads
+LOC	Dure
+LOC	Dursupe
+LOC	Dutka
+LOC	Dviete
+LOC	Dviete pagasts
+LOC	Dvietes mežs
+LOC	Dviete mežs
+LOC	Dvietes pagasts
+LOC	Dvorčani
+LOC	Dvorišče
+LOC	Dzērbene
+LOC	Dzērbene pagasts
+LOC	Dzērbenes pagasts
+LOC	Dzēriņi
+LOC	Dzērumcelmi
+LOC	Dzērvēni
+LOC	Dzērve
+LOC	Dzērves
+LOC	Dzērves pļava
+LOC	Dzērves Pļava
+LOC	Dzīšļi
+LOC	Dzīrnieki
+LOC	Dzalbi
+LOC	Dzeņi
+LOC	Dzedri
+LOC	Dzedrupe
+LOC	Dzedziekstes purvs
+LOC	Dzedziekste purvs
+LOC	Dzegužkalns Pieturas Punkts
+LOC	pieturas punkts Dzegužkalns
+LOC	Dzeguzēni
+LOC	Dzeguzes
+LOC	Dzeiši
+LOC	Dzelžapurvi
+LOC	Dzelži
+LOC	Dzelžupe
+LOC	Dzelda
+LOC	Dzelme
+LOC	Dzelmes
+LOC	Dzelmes ezers
+LOC	Dzelteni
+LOC	Dzelves purvs
+LOC	Dzelve purvs
+LOC	Dzelzāmurs
+LOC	Dzelzava
+LOC	Dzelzava pagasts
+LOC	Dzelzavas pagasts
+LOC	Šķirotavas dzelzceļa stacija
+LOC	Baloži dzelzceļš stacija
+LOC	Bolderāja dzelzceļš stacija
+LOC	Cekule dzelzceļš stacija
+LOC	Iecava dzelzceļš stacija
+LOC	Jāņavārtu dzelzceļš stacija
+LOC	Jugla dzelzceļš stacija
+LOC	Jumprava dzelzceļš stacija
+LOC	Kangaris dzelzceļš stacija
+LOC	Lāčplēsis dzelzceļš stacija
+LOC	Lielvārde dzelzceļš stacija
+LOC	Lilaste dzelzceļš stacija
+LOC	Mangaļi dzelzceļš stacija
+LOC	Misa dzelzceļš stacija
+LOC	Puikule dzelzceļš stacija
+LOC	Ropaži dzelzceļš stacija
+LOC	Sarkandaugava dzelzceļš stacija
+LOC	Saulkrasti dzelzceļš stacija
+LOC	Skulte dzelzceļš stacija
+LOC	Stiene dzelzceļš stacija
+LOC	Suntaži dzelzceļš stacija
+LOC	Taurkalne dzelzceļš stacija
+LOC	Vecumnieki dzelzceļš stacija
+LOC	Zālīte dzelzceļš stacija
+LOC	Zasulauks dzelzceļš stacija
+LOC	Zemitāni dzelzceļš stacija
+LOC	Ziemeļblāzmas dzelzceļa stacija
+LOC	Vangaži dzelzceļš stacija
+LOC	Dzelzgale
+LOC	Dzelzoelnieki
+LOC	Dzementava
+LOC	Dzeni
+LOC	Dzerkaļi
+LOC	Dziļari
+LOC	Dziļezers
+LOC	Dziedakšņi
+LOC	Dziesnieki
+LOC	Dzikļi
+LOC	Dzilna
+LOC	Dzilnas
+LOC	Dzimtmisa
+LOC	Dzintari
+LOC	Dziras
+LOC	Dzirciema ezers
+LOC	Dzirciems ezers
+LOC	Dzirciems
+LOC	Dzirkaļi
+LOC	Dzirkalis
+LOC	Dzirnavas
+LOC	Dzirnavupe
+LOC	Dzirnezers
+LOC	Dzirnieki
+LOC	Dzirnkaļi
+LOC	Dzirnu purvs
+LOC	Dzirnas purvs
+LOC	Dzirtnieki
+LOC	Dzishli
+LOC	Dzolu Upīte
+LOC	Dzolu upīte
+LOC	Eķītes
+LOC	Eņģeļi
+LOC	Eņķenieki
+LOC	Eņķi
+LOC	Ežermuiža
+LOC	Ežezers
+LOC	Echi
+LOC	Egļava
+LOC	Egļeva
+LOC	Egļi
+LOC	Egļu Ciems
+LOC	Egļu ciems
+LOC	Egļupe
+LOC	Eglītes
+LOC	Egla ezers
+LOC	Eglaine
+LOC	Eglaine pagasts
+LOC	Eglaines
+LOC	Eglaines pagasts
+LOC	Egles
+LOC	Egliene
+LOC	Eglona
+LOC	Eglone
+LOC	Eglupe
+LOC	Eikaži
+LOC	Eikažu dīķis
+LOC	Eikaži dīķis
+LOC	Eipļi
+LOC	Eizbahova
+LOC	Ejuši
+LOC	Ekvadora
+LOC	Ekvatoriālā Gvineja
+LOC	Elšķene
+LOC	Eleja
+LOC	Eleja pagasts
+LOC	Elejas pagasts
+LOC	Eleonorvīla
+LOC	Elkšņava
+LOC	Elkšņi
+LOC	Elkšņi pagasts
+LOC	Elkšņu pagasts
+LOC	Elkšņukrogs
+LOC	Elka kalns
+LOC	Elkakalns
+LOC	Elki
+LOC	Elkuzeme
+LOC	Elpji
+LOC	Elste
+LOC	Elvanči
+LOC	Emarkalni
+LOC	Embūte
+LOC	Embūte pagasts
+LOC	Embūtes pagasts
+LOC	Emburga
+LOC	Endžeļi
+LOC	Endzele
+LOC	Endzeliņi
+LOC	Engūre
+LOC	Engure
+LOC	Engure stacija
+LOC	Engure novads
+LOC	Engure pagasts
+LOC	Engures ezers
+LOC	Engure ezers
+LOC	Engures novads
+LOC	Engures upe
+LOC	Engures pagasts
+LOC	Engurnieki
+LOC	Eniņi
+LOC	Ennes
+LOC	Eolaineskrogs
+LOC	Ercakrogs
+LOC	Ercogmuiža
+LOC	Ergala
+LOC	Eriņi
+LOC	Eritreja
+LOC	Ermīte
+LOC	Ernestine
+LOC	Esmiraldova
+LOC	Etiopija
+LOC	Evarši
+LOC	Evarti
+LOC	Ezēni
+LOC	Ezera Pļava
+LOC	Ezere
+LOC	Ezere pagasts
+LOC	Ezeres pagasts
+LOC	Ezergailīši
+LOC	Ezergala
+LOC	Ezeri
+LOC	Ezerini
+LOC	Ezerkalne
+LOC	Ezerkauķi
+LOC	Ezerkleišas
+LOC	Ezerkrasti
+LOC	Ezerlejas
+LOC	Ezermaļi
+LOC	Ezermala
+LOC	Ezermuiža
+LOC	Ezernieki
+LOC	Ezernieki pagasts
+LOC	Ezernieku pagasts
+LOC	Ezerplavu purvs
+LOC	Ezerplavas purvs
+LOC	Ezerpriedes
+LOC	Ezerstarpas
+LOC	Ezerstarpu ezers
+LOC	Ezerstarpas ezers
+LOC	Ezerukiņi
+LOC	Ezerupe
+LOC	Ezerzviedri
+LOC	Fabriciuss
+LOC	Fabriki
+LOC	Falcgrāve
+LOC	Falcgrāves
+LOC	Faltopa
+LOC	Fedorki
+LOC	Feimaņi
+LOC	Feimaņi pagasts
+LOC	Feimaņu ezers
+LOC	Feimaņi ezers
+LOC	Feimaņu pagasts
+LOC	Feimanka
+LOC	Felicianova
+LOC	Ferma
+LOC	Fidži
+LOC	Fiki
+LOC	Filipīnas
+LOC	Filipovs
+LOC	Filkas
+LOC	Florida
+LOC	Foļvarkova
+LOC	Foļvaroka
+LOC	Folmaņi
+LOC	Folvarcīši
+LOC	Forsteja
+LOC	Franči
+LOC	Francija
+LOC	Franciskopole
+LOC	Franopole
+LOC	Franopoles ezers
+LOC	Franopole ezers
+LOC	Freidberģi
+LOC	Friķi
+LOC	Fridrihmuiža
+LOC	Gāga purvs
+LOC	Gāgari
+LOC	Gāguļi
+LOC	Gāršas
+LOC	Gāršmuiža
+LOC	Gārsene
+LOC	Gārsene pagasts
+LOC	Gārsenes pagasts
+LOC	Gārzde
+LOC	Gātciems
+LOC	Gāte
+LOC	Gērķēni
+LOC	Gīzes
+LOC	Gņilojručeja
+LOC	Gūģeri
+LOC	Gūžas
+LOC	Gaļāni
+LOC	Gabaliņi
+LOC	Gabona
+LOC	Gabrāni
+LOC	Gadzāni
+LOC	Gaiķītis
+LOC	Gaiķi
+LOC	Gaiķi pagasts
+LOC	Gaiķu pagasts
+LOC	Gaiļezers
+LOC	Gaiļišu ezers
+LOC	Gaiļiši ezers
+LOC	Gaiļi
+LOC	Gaiļu purvs
+LOC	Gaibaci
+LOC	Gaidēni
+LOC	Gaiduļi
+LOC	Gaigalava
+LOC	Gaigalava pagasts
+LOC	Gaigalavas pagasts
+LOC	Gaigalieši
+LOC	Gailīši
+LOC	Gailīši pagasts
+LOC	Gailīšu pagasts
+LOC	Gailava
+LOC	Gailiški
+LOC	Gailumi
+LOC	Gainu purvs
+LOC	Gainas purvs
+LOC	Gaitiņi
+LOC	Gaizina kalns
+LOC	Gaiziņa kalns
+LOC	Gaiziņš kalns
+LOC	Gaiziņkalns
+LOC	Gajana
+LOC	Gajeva
+LOC	Galāti
+LOC	Galabētas
+LOC	Galamuiža
+LOC	Galauce
+LOC	Gale
+LOC	Galenieki
+LOC	Galgauska
+LOC	Galgauska pagasts
+LOC	Galgauskas ezers
+LOC	Galgauska ezers
+LOC	Galgauskas pagasts
+LOC	Gali
+LOC	Galici
+LOC	Galinis
+LOC	Galmicas
+LOC	Galtene
+LOC	Galvari
+LOC	Galzemji
+LOC	Gambija
+LOC	Gana
+LOC	Gandziras
+LOC	Garā Jura kalns
+LOC	Garāni
+LOC	Garūlis
+LOC	Garais ezers
+LOC	Garanči
+LOC	Garanskoje
+LOC	Garauši
+LOC	Garciems
+LOC	Gardene
+LOC	Gareņči
+LOC	Garezeri
+LOC	Garezers
+LOC	Garezers Stacija
+LOC	Garezers stacija
+LOC	Gargroži
+LOC	Gargrodes purvs
+LOC	Gargrode purvs
+LOC	Gariejuri
+LOC	Garkalne
+LOC	Garkalne novads
+LOC	Garkalnes novads
+LOC	Garlaku ezers
+LOC	Garlakas ezers
+LOC	Garlene
+LOC	Garmasti
+LOC	Garoza
+LOC	Garozas
+LOC	Garozas skola
+LOC	Garozas Stacija
+LOC	Garozas stacija
+LOC	Garoze
+LOC	Garsili
+LOC	Gartilti
+LOC	Garupe
+LOC	Gasuļi
+LOC	Gatarta
+LOC	Gatves
+LOC	Gauģeni
+LOC	Gauja
+LOC	Gaujaslīči
+LOC	Gaujasrēveļi
+LOC	Gaujiena
+LOC	Gaujiena pagasts
+LOC	Gaujienas pagasts
+LOC	Gaujmala
+LOC	Gauratas ezers
+LOC	Gaurata ezers
+LOC	Gauriņi
+LOC	Gausi
+LOC	Gaveiki
+LOC	Gavieze
+LOC	Gavieze pagasts
+LOC	Gaviezes pagasts
+LOC	Geibi
+LOC	Geinova
+LOC	Geitvidiški
+LOC	Gelebove
+LOC	Gerķi
+LOC	Geraņimova
+LOC	Gercāni
+LOC	Gerkāni
+LOC	Gerlaha ezers
+LOC	Gerlahs ezers
+LOC	Getliņu purvs
+LOC	Getliņi purvs
+LOC	Glāžupe
+LOC	Glāznieki
+LOC	Glāzumi
+LOC	Glīzdi
+LOC	Glūda
+LOC	Glūda pagasts
+LOC	Glūdaiņi
+LOC	Glūdas
+LOC	Glūdas pagasts
+LOC	Glaudāni
+LOC	Glazhushkyunis
+LOC	Glitenieši
+LOC	Glizdāres
+LOC	Glodu ezers
+LOC	Gluda
+LOC	Gnēžas
+LOC	Gnīdas
+LOC	Gniļnas
+LOC	Gnilki
+LOC	Gobas
+LOC	Gobziņi
+LOC	Godeli
+LOC	Goliševa
+LOC	Goliševa pagasts
+LOC	Goliševas pagasts
+LOC	Golubevi
+LOC	Gorais ezers
+LOC	Gorbunovka
+LOC	Gordevas ezers
+LOC	Gordeva ezers
+LOC	Gornica
+LOC	Goruški
+LOC	Gospori
+LOC	Gostiņi
+LOC	Gostuni
+LOC	Gosupe
+LOC	Grābēni
+LOC	Grāvendāle
+LOC	Grāvere
+LOC	Grāveri
+LOC	Grāveri pagasts
+LOC	Grāveru pagasts
+LOC	Grāviņi
+LOC	Grāviši
+LOC	Grāvis
+LOC	Grīžukrogs
+LOC	Grīžupe
+LOC	Grīdnieki
+LOC	Grīņu rezervāts
+LOC	Grīņi rezervāts
+LOC	Grīņu Rezervāts
+LOC	Grīva
+LOC	Grīvaiši
+LOC	Grīvani
+LOC	Grūži
+LOC	Grūbe
+LOC	Graši
+LOC	Grabatpurvs
+LOC	Grabi
+LOC	Gradnas
+LOC	Gramzda pagasts
+LOC	Gramzdas pagasts
+LOC	Graudiņi
+LOC	Graudi
+LOC	Graudupe
+LOC	Graudupes purvs
+LOC	Graudupe purvs
+LOC	Grauzde
+LOC	Gravāni
+LOC	Gravani
+LOC	Gravas
+LOC	Grazi
+LOC	Grebis
+LOC	Grebnava
+LOC	Grebutnieki
+LOC	Greiļu dīķis
+LOC	Greiļi dīķis
+LOC	Greiži
+LOC	Greiveri
+LOC	Greivuļi
+LOC	Grejas
+LOC	Grenči
+LOC	Grenadīnas
+LOC	Grenada
+LOC	Grenctāle
+LOC	Grendze
+LOC	Griči
+LOC	Griķi
+LOC	Griķu purvs
+LOC	Grišina
+LOC	Griškāni
+LOC	Griškāni pagasts
+LOC	Griškānu pagasts
+LOC	Gribolva
+LOC	Gribuļe
+LOC	Gribuļiški
+LOC	Gribuļi
+LOC	Gricgale
+LOC	Gridzini
+LOC	Grieķija
+LOC	Grieži
+LOC	Griestiņi
+LOC	Grieze
+LOC	Griezes
+LOC	Grigi
+LOC	Griguļi
+LOC	Grineni
+LOC	Gritani
+LOC	Grivdenieši
+LOC	Grizāni
+LOC	Grošļi
+LOC	Grobiņa
+LOC	Grobiņa novads
+LOC	Grobiņa pagasts
+LOC	Grobiņa pilsēta
+LOC	Grobiņas novads
+LOC	Grobiņas pagasts
+LOC	Grobiņas pilsēta
+LOC	Grodmaņi
+LOC	Gropiņi
+LOC	Grotuži
+LOC	Groveriški
+LOC	Grozas
+LOC	Gružņu ezers
+LOC	Gružņi ezers
+LOC	Grugules
+LOC	Grundes ezers
+LOC	Grunde ezers
+LOC	Grunduļi
+LOC	Grundzāle
+LOC	Grundzāle pagasts
+LOC	Grundzāles pagasts
+LOC	Gruziši
+LOC	Gruzija
+LOC	Guģenieki
+LOC	Guženi
+LOC	Gubāņi
+LOC	Gubeņi
+LOC	Gubina
+LOC	Gudenieki
+LOC	Gudenieki pagasts
+LOC	Gudenieku pagasts
+LOC	Gulbēre
+LOC	Gulbēris
+LOC	Gulbīši
+LOC	Gulbītis
+LOC	Gulbene
+LOC	Gulbene mežs
+LOC	Gulbene novads
+LOC	Gulbene pilsēta
+LOC	Gulbene rajons
+LOC	Gulbenes ezers
+LOC	Gulbene ezers
+LOC	Gulbenes Rajons
+LOC	Gulbenes novads
+LOC	Gulbenes pilsēta
+LOC	Gulbenes rajons
+LOC	Gulbiši
+LOC	Gulbji
+LOC	Gulbju ezers
+LOC	Gulbju sala
+LOC	Gulbjuciems
+LOC	Gulbjusalas purvs
+LOC	Gulbjusala purvs
+LOC	Guldupieši
+LOC	Gumbalnieki
+LOC	Gumenica
+LOC	Gumertgrāveri
+LOC	Gundegas
+LOC	Guriņi
+LOC	Gurna
+LOC	Gusena ezers
+LOC	Gusens ezers
+LOC	Gustapi
+LOC	Gusti
+LOC	Guta
+LOC	Gutiņi
+LOC	Guzas
+LOC	Guzenki
+LOC	Gvatemala
+LOC	Gvineja
+LOC	Haiti
+LOC	Hatki
+LOC	Hercogovina
+LOC	Hoftenberga
+LOC	Hondurasa
+LOC	Horoševa
+LOC	Horvātija
+LOC	Iča
+LOC	Iģe
+LOC	Iģene
+LOC	Iļģi
+LOC	Iļģuciems
+LOC	Iļķene
+LOC	Iļakas
+LOC	Iņķu Ezeriņi
+LOC	Iņķu ezeriņi
+LOC	Iškino
+LOC	Ižuņu ezers
+LOC	Ideņi
+LOC	Idrāni
+LOC	Idus
+LOC	Ieķi
+LOC	Iecava
+LOC	Iecava mežs
+LOC	Iecava novads
+LOC	Iecavas novads
+LOC	Iecetnieki
+LOC	Ielaiņi
+LOC	Ieras
+LOC	Ieriķi
+LOC	Ieri
+LOC	Ieruzhi
+LOC	Iesala
+LOC	Iesalnieki
+LOC	Ievade
+LOC	Ievalti
+LOC	Ievedne
+LOC	Igate
+LOC	Igauņi
+LOC	Igaunija
+LOC	Ignatava
+LOC	Igrīve
+LOC	Igrive
+LOC	Igums
+LOC	Iizine
+LOC	Ikšķile
+LOC	Ikšķile novads
+LOC	Ikšķiles novads
+LOC	Ikaiši
+LOC	Iksēni
+LOC	Ilūkstė
+LOC	Ilūkste
+LOC	Ilūkste novads
+LOC	Ilūkstes novads
+LOC	Ilgas ezers
+LOC	Iliņi
+LOC	Ilipani
+LOC	Iljuši
+LOC	Ilmaki
+LOC	Ilza
+LOC	Ilzas ezers
+LOC	Ilza ezers
+LOC	Ilze
+LOC	Ilzene
+LOC	Ilzene pagasts
+LOC	Ilzenes pagasts
+LOC	Ilzes ezers
+LOC	Ilzeskalna pagasts
+LOC	Ilzeskalns pagasts
+LOC	Ilziķu ezers
+LOC	Ilzu ezers
+LOC	Imšas
+LOC	Imanta
+LOC	Imantas
+LOC	Imantieši
+LOC	Impāni
+LOC	Impas
+LOC	Imula
+LOC	Inčārnieki
+LOC	Inčukalna novads
+LOC	Inčukalns
+LOC	Inčukalns novads
+LOC	Inci
+LOC	Inciems
+LOC	Indāni
+LOC	Indiņi
+LOC	Indija
+LOC	Indonēzija
+LOC	Indrāni
+LOC	Indrāni pagasts
+LOC	Indrānu pagasts
+LOC	Indra
+LOC	Indra pagasts
+LOC	Indras ezers
+LOC	Indra ezers
+LOC	Indras pagasts
+LOC	Indriķi
+LOC	Indrica
+LOC	Indricu ezers
+LOC	Indriču ezers
+LOC	Indriči ezers
+LOC	Indrikeni
+LOC	Induļi
+LOC	Indzeru ezers
+LOC	Indzeri ezers
+LOC	Ineši
+LOC	Ineši pagasts
+LOC	Inešu pagasts
+LOC	Inesis
+LOC	Inkužas
+LOC	Inte
+LOC	Intes
+LOC	Iolzas ezers
+LOC	Iolza ezers
+LOC	Ipiķi
+LOC	Ipiķi pagasts
+LOC	Ipiķu pagasts
+LOC	Irāka
+LOC	Irāna
+LOC	Irši
+LOC	Irši pagasts
+LOC	Iršu pagasts
+LOC	Irbēni
+LOC	Irbe
+LOC	Irbes
+LOC	Irlava
+LOC	Irlava pagasts
+LOC	Irlavas pagasts
+LOC	Irnumi
+LOC	Ishas
+LOC	Islande
+LOC	Islice Stacija
+LOC	Islice stacija
+LOC	Īslīce stacija
+LOC	Isliena
+LOC	Islitsskiy
+LOC	Ismeri
+LOC	Ismeru-Žagatu ezers
+LOC	Isnauda
+LOC	Isnauda pagasts
+LOC	Isnaudas pagasts
+LOC	Istalsna
+LOC	Istra
+LOC	Istra pagasts
+LOC	Istras ezers
+LOC	Istras pagasts
+LOC	Itālija
+LOC	Iteņa ezers
+LOC	Ivanas ezers
+LOC	Ivdri
+LOC	Ivgolova
+LOC	Iyeli
+LOC	Iyetsi
+LOC	Izabelina
+LOC	Izovas ezers
+LOC	Izraēla
+LOC	Izriede
+LOC	Iztekas
+LOC	Izvalta
+LOC	Izvalta pagasts
+LOC	Izvaltas pagasts
+LOC	Jāņa Dimzas
+LOC	Jāņdzirnavu dīķis
+LOC	Jāņknūti
+LOC	Jāņmuiža
+LOC	Jāņparks
+LOC	Jāņukrogs
+LOC	Jāņupīte
+LOC	Jāņupe
+LOC	Jādekša
+LOC	Jākšpēteri
+LOC	Jānīši
+LOC	Jānaiši
+LOC	Jānuži
+LOC	Jānuciems
+LOC	Jāsaiši
+LOC	Jātele
+LOC	Jātnieki
+LOC	Jāupe
+LOC	Jēči
+LOC	Jēčupe
+LOC	Jēkabi
+LOC	Jēkabpils
+LOC	Jēkabpils Rajons
+LOC	Jēkabpils novads
+LOC	Jēkabpils rajons
+LOC	Jēpi
+LOC	Jērcēni
+LOC	Jērcēni pagasts
+LOC	Jērcēnu pagasts
+LOC	Jērkules ezers
+LOC	Jērukrogs
+LOC	Jūdaži
+LOC	Jūdažu ezers
+LOC	Jūdinu ezers
+LOC	Jūrkalne
+LOC	Jūrkalne pagasts
+LOC	Jūrkalnes pagasts
+LOC	Jūrmaļi
+LOC	Jūrmala
+LOC	Jūrmalciems
+LOC	Jadekšas
+LOC	Jadi
+LOC	Jaglodi
+LOC	Jakuči
+LOC	Jakubina
+LOC	Jakubova
+LOC	Jalovecka
+LOC	Jamaika
+LOC	Janapole
+LOC	Janciški
+LOC	Janeikas
+LOC	Janmuiža
+LOC	Janopole
+LOC	Janovkas ezers
+LOC	Janovole
+LOC	Jansoni
+LOC	Jansons
+LOC	Japāna
+LOC	Jaroškina
+LOC	Jaseņeca
+LOC	Jasenci
+LOC	Jauči
+LOC	Jaudzumi
+LOC	Jaujas
+LOC	Jauki
+LOC	Jaunā māja
+LOC	Jaunāmuiža
+LOC	Jaunās Mājas
+LOC	Jaunāzes
+LOC	Jaunģikši
+LOC	Jaunķemeri
+LOC	Jaunķempji
+LOC	Jaunšķērpiņi
+LOC	Jaunžeikari
+LOC	Jauna
+LOC	Jaunadži
+LOC	Jaunaglona
+LOC	Jaunaičas
+LOC	Jaunalūksne
+LOC	Jaunalūksne pagasts
+LOC	Jaunalūksnes pagasts
+LOC	Jaunamuiža
+LOC	Jaunanna
+LOC	Jaunanna pagasts
+LOC	Jaunannas pagasts
+LOC	Jaunarāji
+LOC	Jaunatas
+LOC	Jaunate
+LOC	Jaunauči
+LOC	Jaunauce
+LOC	Jaunauce pagasts
+LOC	Jaunauces pagasts
+LOC	Jaunavoti
+LOC	Jaunbērze
+LOC	Jaunbērze pagasts
+LOC	Jaunbērzes pagasts
+LOC	Jaunbūņas
+LOC	Jaunbakāni
+LOC	Jaunbebe
+LOC	Jaunbebri
+LOC	Jaunbilska
+LOC	Jaunbirzaki
+LOC	Jaunbirzemnieki
+LOC	Jaunbirznieki
+LOC	Jaunborna
+LOC	Jaunbozava
+LOC	Jaunburtnieki
+LOC	Jaunciems
+LOC	Jaundari
+LOC	Jaundiļķi
+LOC	Jaundome
+LOC	Jaundrusti
+LOC	Jaundubulti
+LOC	Jaundumpi
+LOC	Jaundundaga
+LOC	Jaundziras
+LOC	Jaunenieki
+LOC	Jaungailumi
+LOC	Jaungulbene
+LOC	Jaungulbene pagasts
+LOC	Jaungulbenes pagasts
+LOC	Jaungulbji
+LOC	Jaunjērcēni
+LOC	Jaunjelgava
+LOC	Jaunjelgavas novads
+LOC	Jaunjetes
+LOC	Jaunkalēji
+LOC	Jaunkalniņi
+LOC	Jaunkalsnava
+LOC	Jaunklidzis
+LOC	Jaunklintis
+LOC	Jaunkrimulda
+LOC	Jaunlāči
+LOC	Jaunlēķi
+LOC	Jaunlaicene
+LOC	Jaunlaicene pagasts
+LOC	Jaunlaicenes pagasts
+LOC	Jaunlazdona
+LOC	Jaunlestene
+LOC	Jaunlietņi
+LOC	Jaunlubāna
+LOC	Jaunlutriņi
+LOC	Jaunlutriņi pagasts
+LOC	Jaunlutriņu pagasts
+LOC	Jaunmājas
+LOC	Jaunmārupe
+LOC	Jaunmīlgrāvis
+LOC	Jaunmakši
+LOC	Jaunmedņi
+LOC	Jaunmokas
+LOC	Jaunmoku Dzirnavu ezers
+LOC	Jaunmoku Pils
+LOC	Jaunmuiža
+LOC	Jaunmuižnieki
+LOC	Jaunoļļas
+LOC	Jaunokra
+LOC	Jaunokte
+LOC	Jaunolaine
+LOC	Jaunozoli
+LOC	Jaunpērles
+LOC	Jaunpēternieki
+LOC	Jaunpļavas
+LOC	Jaunpagasts
+LOC	Jaunpelce
+LOC	Jaunpiebalga
+LOC	Jaunpiebalga novads
+LOC	Jaunpiebalga pagasts
+LOC	Jaunpiebalgas novads
+LOC	Jaunpiebalgas pagasts
+LOC	Jaunpilkas
+LOC	Jaunpils
+LOC	Jaunpils Dzirnavu ezers
+LOC	Jaunpils novads
+LOC	Jaunpils pagasts
+LOC	Jaunplatone
+LOC	Jaunplatone Stacija
+LOC	Jaunrūķeļi
+LOC	Jaunrūsiņi
+LOC	Jaunračina
+LOC	Jaunrauna
+LOC	Jaunrikava
+LOC	Jaunroči
+LOC	Jaunroze
+LOC	Jaunružina
+LOC	Jaunrudzgaiļi
+LOC	Jaunsāti
+LOC	Jaunsāti pagasts
+LOC	Jaunsātu pagasts
+LOC	Jaunsēži
+LOC	Jaunsētas
+LOC	Jaunsauka
+LOC	Jaunsaule
+LOC	Jaunsesava
+LOC	Jaunsilava
+LOC	Jaunsilenieki
+LOC	Jaunsilkalēji
+LOC	Jaunskujene
+LOC	Jaunslobodka
+LOC	Jaunsmiltene
+LOC	Jaunsostu dīķi
+LOC	Jaunsvente
+LOC	Jaunsvirlauka
+LOC	Jaunsvirlauka pagasts
+LOC	Jaunsvirlaukas pagasts
+LOC	Jauntīreļi
+LOC	Jauntokari
+LOC	Jauntukums
+LOC	Jaunušāni
+LOC	Jaunupe
+LOC	Jaunupes
+LOC	Jaunvāle
+LOC	Jaunvēveri
+LOC	Jaunvalki
+LOC	Jaunvanagi
+LOC	Jaunvarieba
+LOC	Jaunvegi
+LOC	Jaunvilciņi
+LOC	Jaunvirpes
+LOC	Jaunzēlande
+LOC	Jaunzemi
+LOC	Jaunzemji
+LOC	Jaunzemjputriņas
+LOC	Jaunzvārde
+LOC	Jauvaraji
+LOC	Javenieki
+LOC	Jazinkas ezers
+LOC	Jelgava
+LOC	Jelgava Tervete
+LOC	Jelgava novads
+LOC	Jelgava rajons
+LOC	Jelgavas Rajons
+LOC	Jelgavas novads
+LOC	Jelgavas rajons
+LOC	Jelgavkrasti
+LOC	Jemena
+LOC	Jerēni
+LOC	Jeri
+LOC	Jeri pagasts
+LOC	Jermaki
+LOC	Jersika
+LOC	Jersika pagasts
+LOC	Jersikas pagasts
+LOC	Jeruži
+LOC	Jeru pagasts
+LOC	Jerupīte
+LOC	Jevenieki
+LOC	Jodava
+LOC	Jogla
+LOC	Joksti
+LOC	Jonini
+LOC	Jopas
+LOC	Jope
+LOC	Jorģi
+LOC	Jordānija
+LOC	Jorniņi
+LOC	Jostaji
+LOC	Josti
+LOC	Jostnieki
+LOC	Jozupupe
+LOC	Jučeva
+LOC	Juči
+LOC	Juchniški
+LOC	Judovka
+LOC	Jugla
+LOC	Juglas
+LOC	Juglas ezers
+LOC	Juglas mežs
+LOC	Juisenu Exers
+LOC	Jukāni
+LOC	Jukšas
+LOC	Juknišķi
+LOC	Jukumi
+LOC	Juldurga
+LOC	Jumara
+LOC	Jumprava
+LOC	Jumprava pagasts
+LOC	Jumpravas ezers
+LOC	Jumpravas pagasts
+LOC	Jumpravieši
+LOC	Jumpravmuiža
+LOC	Jumurda
+LOC	Jumurdas ezers
+LOC	Juodupis
+LOC	Jurģi
+LOC	Jurģumuiža
+LOC	Jurģupe
+LOC	Jurenski
+LOC	Jurgīši
+LOC	Juri
+LOC	Jurjāni
+LOC	Jurkas
+LOC	Jurmači
+LOC	Justi
+LOC	Juveris
+LOC	Juzes
+LOC	Kāķīši
+LOC	Kāķišķe
+LOC	Kāžupe
+LOC	Kākciems
+LOC	Kālezers
+LOC	Kālviņi
+LOC	Kānkuļi
+LOC	Kāpas
+LOC	Kāpenes
+LOC	Kāpessils
+LOC	Kāpostini
+LOC	Kārķi
+LOC	Kārķi pagasts
+LOC	Kārķu pagasts
+LOC	Kārļi
+LOC	Kārļmuiža
+LOC	Kāres
+LOC	Kārkļi
+LOC	Kārkliņi
+LOC	Kārkli
+LOC	Kārklinieki
+LOC	Kārlēni
+LOC	Kārniņi
+LOC	Kārniņu Bedres
+LOC	Kārone
+LOC	Kārsava
+LOC	Kārsava novads
+LOC	Kārsava pilsēta
+LOC	Kārsavas novads
+LOC	Kārsavas pilsēta
+LOC	Kārtiņi
+LOC	Kārtuži
+LOC	Kārzdaba
+LOC	Kāvužas
+LOC	Kēkuru purvs
+LOC	Kīši
+LOC	Kļaivisa
+LOC	Kļaustes
+LOC	Kļavāni
+LOC	Kļaviņi
+LOC	Kļavkalni
+LOC	Kļavusalas
+LOC	Kļešniki
+LOC	Kščava
+LOC	Kūļi
+LOC	Kūļukrogs
+LOC	Kūdra
+LOC	Kūduma ezers
+LOC	Kūdums
+LOC	Kūdupe
+LOC	Kūjiņas
+LOC	Kūkas
+LOC	Kūkas pagasts
+LOC	Kūkoji
+LOC	Kūku pagasts
+LOC	Kūkusiliņi
+LOC	Kūlas
+LOC	Kūles
+LOC	Kūnavi
+LOC	Kūpeņi
+LOC	Kūpes
+LOC	Kūpiņas
+LOC	Kūrēni
+LOC	Kūrini
+LOC	Kūteri
+LOC	Kačas
+LOC	Kačori
+LOC	Kačoru purvs
+LOC	Kačupe
+LOC	Kaģeni
+LOC	Kaģes
+LOC	Kaģis
+LOC	Kaģumciems
+LOC	Kaķāši
+LOC	Kaķīši
+LOC	Kaķalici
+LOC	Kaķenieki
+LOC	Kaļķi
+LOC	Kaļķis
+LOC	Kaļandri
+LOC	Kaņepēnu ezers
+LOC	Kaņepi
+LOC	Kaņiši
+LOC	Kaņieris
+LOC	Kaņupe
+LOC	Kaša ezers
+LOC	Kašatņiki
+LOC	Kažemaki
+LOC	Kaženci
+LOC	Kaži
+LOC	Kažociņi
+LOC	Kažoki
+LOC	Kažoku karjers
+LOC	Kažu ezers
+LOC	Kabes
+LOC	Kabile
+LOC	Kabile pagasts
+LOC	Kabiles pagasts
+LOC	Kaboverde
+LOC	Kadaga
+LOC	Kadagas ezers
+LOC	Kadiķi
+LOC	Kadišava
+LOC	Kaibala
+LOC	Kaibenes
+LOC	Kaiberis
+LOC	Kaiguciems
+LOC	Kaijas
+LOC	Kaijciems
+LOC	Kaikaži
+LOC	Kaipi
+LOC	Kairīši
+LOC	Kairišu ezers
+LOC	Kaitras ezers
+LOC	Kaive
+LOC	Kaive pagasts
+LOC	Kaives pagasts
+LOC	Kajagi
+LOC	Kajaki
+LOC	Kaktiņi
+LOC	Kakuči
+LOC	Kakuži
+LOC	Kalēji
+LOC	Kalēti
+LOC	Kalēti pagasts
+LOC	Kalētu Pusmuiža
+LOC	Kalētu pagasts
+LOC	Kalšu ezers
+LOC	Kalabi
+LOC	Kalacis
+LOC	Kaldabruņa
+LOC	Kaleši
+LOC	Kaliti
+LOC	Kalkūne
+LOC	Kalkūne pagasts
+LOC	Kalkūnes purvs
+LOC	Kalkūnes pagasts
+LOC	Kalmaņi
+LOC	Kalnāji
+LOC	Kalnēji
+LOC	Kalnačimas
+LOC	Kalna Baļčiņi
+LOC	Kalna Ulmaņa sala
+LOC	Kalna pagasts
+LOC	Kalna-Sluķi
+LOC	Kalnadzirkaļi
+LOC	Kalnagals
+LOC	Kalnagobziņi
+LOC	Kalnaiši
+LOC	Kalnaine
+LOC	Kalnakangari
+LOC	Kalnakrogs
+LOC	Kalnalaņģi
+LOC	Kalnamuiža
+LOC	Kalnanši
+LOC	Kalnansi
+LOC	Kalnapededze
+LOC	Kalnarāji
+LOC	Kalnasati
+LOC	Kalnauliņi
+LOC	Kalnavērpji
+LOC	Kalnazāģeru dīķi
+LOC	Kalnbirze
+LOC	Kalncempji
+LOC	Kalncempji pagasts
+LOC	Kalncempju pagasts
+LOC	Kalnciema Dolomīta karjers
+LOC	Kalnciema Mālu karjers
+LOC	Kalnciema Masīvs
+LOC	Kalnciemi
+LOC	Kalnciemmuiza
+LOC	Kalnciems
+LOC	Kalnernestiņi
+LOC	Kalnezers
+LOC	Kalngale
+LOC	Kalngali
+LOC	Kalniņi
+LOC	Kalnišķi
+LOC	Kalniški
+LOC	kalni
+LOC	Kalnieši
+LOC	Kalnieši pagasts
+LOC	Kalniešu pagasts
+LOC	Kalnieki
+LOC	Kalniena
+LOC	Kalnjāņi
+LOC	Kalnkrustceļi
+LOC	Kalnmārtini
+LOC	Kalnmuiža
+LOC	Kalnsētas
+LOC	Kalnu ezers
+LOC	Kalnupe
+LOC	Kalnvirsa
+LOC	Kalpaki
+LOC	Kalsnava
+LOC	Kalsnava pagasts
+LOC	Kalsnavas mežs
+LOC	Kalsnavas pagasts
+LOC	Kaltene
+LOC	Kaltiķi
+LOC	Kalupa ezers
+LOC	Kalupe
+LOC	Kalupe pagasts
+LOC	Kalupes ezers
+LOC	Kalupes pagasts
+LOC	Kalvāni
+LOC	Kalva
+LOC	Kalvas
+LOC	Kalvene
+LOC	Kalvene pagasts
+LOC	Kalvenes ezers
+LOC	Kalvenes pagasts
+LOC	Kalves
+LOC	Kalviņi
+LOC	Kalvji
+LOC	Kamalda
+LOC	Kamatauskas
+LOC	Kambodža
+LOC	Kamerūna
+LOC	Kaminča
+LOC	Kaminčas ezers
+LOC	Kampas
+LOC	Kampišķi
+LOC	Kampis
+LOC	Kanāda
+LOC	Kanči
+LOC	Kandava
+LOC	Kandava novads
+LOC	Kandavas novads
+LOC	Kanduri
+LOC	Kangari
+LOC	Kangaru ezers
+LOC	Kankari
+LOC	Kannenieki
+LOC	Kannova
+LOC	Kantinieki
+LOC	Kantinieki pagasts
+LOC	Kantinieku pagasts
+LOC	Kapēni
+LOC	Kapši
+LOC	Kapūna
+LOC	Kapūne
+LOC	Kaparamaru ezers
+LOC	Kapeles
+LOC	Kapiņi
+LOC	Kaplava
+LOC	Kaplava pagasts
+LOC	Kaplavas
+LOC	Kaplavas pagasts
+LOC	Kapsēde
+LOC	Kapteines
+LOC	Kapuži
+LOC	Kapukrogi
+LOC	Kara Osta
+LOC	Karaukrogs
+LOC	Kareļi
+LOC	Kariņi
+LOC	Karigova
+LOC	Karogi
+LOC	Karotnieki
+LOC	Karpene
+LOC	Karva
+LOC	Kastire
+LOC	Kastrāne
+LOC	Kastuļina pagasts
+LOC	Kastuļinas pagasts
+LOC	Katara
+LOC	Kategrade
+LOC	Katekalni
+LOC	Katishi
+LOC	Katlakalns
+LOC	Katleši
+LOC	Katolova
+LOC	Katrīna
+LOC	Katriņas
+LOC	Katriņukrogs
+LOC	Katvari
+LOC	Katvari pagasts
+LOC	Katvaru ezers
+LOC	Katvaru pagasts
+LOC	Kaučers
+LOC	Kauģeri
+LOC	Kauļi
+LOC	Kauša
+LOC	Kaušeliški
+LOC	Kaugari
+LOC	Kaugaru Bedres
+LOC	Kaugurciems
+LOC	Kauguri
+LOC	Kauguri Stacija
+LOC	Kauguri pagasts
+LOC	Kaugurieši
+LOC	Kauguru pagasts
+LOC	Kaukuri
+LOC	Kaulači
+LOC	Kaulacu ezers
+LOC	Kauldeģi
+LOC	Kauliņi
+LOC	Kauliņu ezers
+LOC	Kauli
+LOC	Kaulina
+LOC	Kaunata
+LOC	Kaunata pagasts
+LOC	Kaunatas pagasts
+LOC	Kaupeni
+LOC	Kaupiņi
+LOC	Kaupiški
+LOC	Kaupi
+LOC	Kaupuži
+LOC	Kausakalmi
+LOC	Kausiņš
+LOC	Kausinieki
+LOC	Kausupīte
+LOC	Kauvužas
+LOC	Kavari
+LOC	Kazāki
+LOC	Kazahstāna
+LOC	Kazari
+LOC	Kazbari
+LOC	Kazdanga
+LOC	Kazdanga pagasts
+LOC	Kazdangas kapi
+LOC	Kazdangas pagasts
+LOC	Kazenieki
+LOC	Kazimirova
+LOC	Kazinči
+LOC	Kazinova
+LOC	Kazliški
+LOC	Kazradzi
+LOC	Kazukalns
+LOC	Kazupe
+LOC	Keikas
+LOC	Kenģi
+LOC	Kenci
+LOC	Kenija
+LOC	Kerkavas
+LOC	Keselu-Ramatas purvs
+LOC	Kibji
+LOC	Kimšu Ūdenskrātuve
+LOC	Kinderēni
+LOC	Kinkas
+LOC	Kipati Stacija
+LOC	Kipra
+LOC	Kipsti
+LOC	Kirķi
+LOC	Kirgizstāna
+LOC	Kiriļi
+LOC	Kiribati
+LOC	Kirupe
+LOC	Kishi
+LOC	Kitaiši
+LOC	Kivė
+LOC	Kivļini
+LOC	Kivdolica
+LOC	Kivene
+LOC	Kivki
+LOC	Kivuļi
+LOC	Klāšķinu purvs
+LOC	Klāni
+LOC	Klāras
+LOC	Klāvi
+LOC	Klētnieki
+LOC	Klētnieks
+LOC	Klēts kalns
+LOC	Klīversala
+LOC	Klīvji
+LOC	Klīvmuiža
+LOC	Klūga
+LOC	Klaņģi
+LOC	Klaņu ezers
+LOC	Klabati
+LOC	Klabes
+LOC	Klajumi
+LOC	Klampji
+LOC	Klapari
+LOC	Klapi
+LOC	Klapkalnciems
+LOC	Klauģi
+LOC	Klaucāni
+LOC	Klaucanu ezers
+LOC	Klauce
+LOC	Klaudži
+LOC	Klavnieķi
+LOC	Kleķeri
+LOC	Klešova
+LOC	Kleinas
+LOC	Kleivēni
+LOC	Kleivas
+LOC	Kliģene
+LOC	Kliģu ezers
+LOC	Kliši
+LOC	Kliškova
+LOC	Klidziņi
+LOC	Klieņi
+LOC	Klimēni
+LOC	Klinči
+LOC	Klinķi
+LOC	Klintaine pagasts
+LOC	Klintaines pagasts
+LOC	Klinti
+LOC	Klintis
+LOC	Kliperi
+LOC	Klismeti
+LOC	Kločki
+LOC	Klostere
+LOC	Kloviņi
+LOC	Kluči
+LOC	Klucis
+LOC	Knāteri
+LOC	Knāviņi
+LOC	Knīderi
+LOC	Knīderu Dzirnavu ezers
+LOC	Knīstrauti
+LOC	Knīveri
+LOC	Knaģi
+LOC	Knape
+LOC	Knavu purvs
+LOC	Knipis
+LOC	Knubi
+LOC	Knutova
+LOC	Koņecpole
+LOC	Koņeva
+LOC	Koņina
+LOC	Košķele
+LOC	Koškūļi
+LOC	Koškina
+LOC	Košrags
+LOC	Kožas
+LOC	Kocēni
+LOC	Kocēni pagasts
+LOC	Kocēnu novads
+LOC	Kocēnu pagasts
+LOC	Kodajpurvs
+LOC	Kodari
+LOC	Koderi
+LOC	Koja
+LOC	Kojusalas Grāvis
+LOC	Kokari
+LOC	Koki
+LOC	Kokmuiža
+LOC	Koknese
+LOC	Koknese novads
+LOC	Koknese pagasts
+LOC	Kokneses novads
+LOC	Kokneses pagasts
+LOC	Kokorieši
+LOC	Kokorvieši
+LOC	Kola
+LOC	Kolberģi
+LOC	Kolka
+LOC	Kolka pagasts
+LOC	Kolkas pagasts
+LOC	Kolkasrags
+LOC	Koltanava
+LOC	Kolumbija
+LOC	Komariški
+LOC	Kombuļi
+LOC	Kombuļi pagasts
+LOC	Kombuļu pagasts
+LOC	Komoru sala
+LOC	Komoru salas
+LOC	Konani
+LOC	Kondrašova
+LOC	Kongo
+LOC	Konogolci
+LOC	Konradi
+LOC	Konstantinova
+LOC	Konstantinova pagasts
+LOC	Konstantinovas pagasts
+LOC	Kopdaros
+LOC	Korģeļciems
+LOC	Korģe
+LOC	Korģene
+LOC	Korļi
+LOC	Koršas
+LOC	Korši
+LOC	Koršupleva
+LOC	Korbiņi
+LOC	Kordona
+LOC	Koreja republika
+LOC	Koreja tauta demokrātiskd republika
+LOC	Korejas Republika
+LOC	Korejas Tautas Demokrātiskā Republika
+LOC	Kori
+LOC	Kormaņi
+LOC	Korneti
+LOC	Koroļevščina
+LOC	Korsakova
+LOC	Korvalki
+LOC	Kosa
+LOC	Kosmačevka
+LOC	Kostarika
+LOC	Kostjugovka
+LOC	Kotdivuāra
+LOC	Kotoļnieki
+LOC	Kovališki
+LOC	Kozīne
+LOC	Kozirači
+LOC	Kozlova
+LOC	Kozuļi
+LOC	Krāņi
+LOC	Krāckalnu ezers
+LOC	Krāmi
+LOC	Krāslava
+LOC	Krāslava novads
+LOC	Krāslava rajons
+LOC	Krāslavas Rajons
+LOC	Krāslavas novads
+LOC	Krāslavas rajons
+LOC	Krēķi
+LOC	Krīči
+LOC	Krīķi
+LOC	Krīgānu ezers
+LOC	Krīgaļi
+LOC	Krīvāni
+LOC	Krīvi
+LOC	Krūškalne
+LOC	Krūmeši
+LOC	Krūmiņi
+LOC	Krūsāri
+LOC	Krūtaiņu ezers
+LOC	Krūtava
+LOC	Krūte
+LOC	Krūzas
+LOC	Krūze
+LOC	Krūzes
+LOC	Krūzgali
+LOC	Krūziņi
+LOC	Kraķi
+LOC	Krampiņi
+LOC	Krampji
+LOC	Krampuļi
+LOC	Krankaļi
+LOC	Krapa
+LOC	Krape
+LOC	Krape pagasts
+LOC	Krapes pagasts
+LOC	Krasnoļenka
+LOC	Krasnopole
+LOC	Krastaciems
+LOC	Krastciems
+LOC	Krastiņi
+LOC	Krasti
+LOC	Krastnieki
+LOC	Krauči
+LOC	Krauļi
+LOC	Kraujas
+LOC	Kraukļeva
+LOC	Kraukļi
+LOC	Kraukļu purvs
+LOC	Krauka
+LOC	Kraukas
+LOC	Kravaļi
+LOC	Kreģi
+LOC	Kreiču purvs
+LOC	Kreiļu ezers
+LOC	Kreici
+LOC	Kreijas
+LOC	Krejēni
+LOC	Krekeliški
+LOC	Krekli
+LOC	Krenavas purvs
+LOC	Krepliņi
+LOC	Kriķi
+LOC	Krišjāņi pagasts
+LOC	Krišjāņu pagasts
+LOC	Krišjāni
+LOC	Kriškanāni
+LOC	Križi
+LOC	Križutu ezers
+LOC	Kriauna
+LOC	Krievciems
+LOC	Krievgaļi
+LOC	Krieviņi
+LOC	Krievi
+LOC	Krievija
+LOC	Krievkalni
+LOC	Krievlauki
+LOC	Krievragciems
+LOC	Krievu sala
+LOC	Krievu-Jersikas purvs
+LOC	Krievupe
+LOC	Krimūnas
+LOC	Krimūni pagasts
+LOC	Krimūnu pagasts
+LOC	Krimelde
+LOC	Krimpji
+LOC	Krimulda
+LOC	Krimulda novads
+LOC	Krimulda pagasts
+LOC	Krimuldas novads
+LOC	Krimuldas pagasts
+LOC	Kriskani
+LOC	Kristceles
+LOC	Kristinki
+LOC	Krivāni
+LOC	Krivanda
+LOC	Krivošejeva
+LOC	Krivojes ezers
+LOC	Krivoseļci
+LOC	Kroģeļi
+LOC	Kroķi
+LOC	Kroņauce
+LOC	Kroņauces Dzirnavu ezers
+LOC	Kroņmuiža
+LOC	Kroņrenda
+LOC	Krodziņi
+LOC	Krogsēta
+LOC	Krogzemji
+LOC	Krogzemnieki
+LOC	Kroja
+LOC	Kroju
+LOC	Krontals
+LOC	Kropmuiža
+LOC	Krote
+LOC	Kručkas
+LOC	Krujēla
+LOC	Kruki
+LOC	Krumani
+LOC	Krumini
+LOC	Krumuļi
+LOC	Krupīši
+LOC	Krupi
+LOC	Krusāri
+LOC	Krusāti
+LOC	Krusas
+LOC	Krustacelms
+LOC	Krustakmeni
+LOC	Krustakrogi
+LOC	Krustalice
+LOC	Krustceļi
+LOC	Krustiņi
+LOC	Krustkalnu Rezervāts
+LOC	Krustpils
+LOC	Krustpils novads
+LOC	Krustpils pagasts
+LOC	Krustuļi
+LOC	Kruti
+LOC	Kuģi
+LOC	Kuļķi
+LOC	Kuļu ezers
+LOC	Kušaiņi
+LOC	Kušneri
+LOC	Kuba
+LOC	Kubuļi
+LOC	Kubuļi pagasts
+LOC	Kubuļu pagasts
+LOC	Kucini
+LOC	Kudeiki
+LOC	Kudinava
+LOC	Kudraši
+LOC	Kudrava
+LOC	Kugrēni
+LOC	Kugrainis
+LOC	Kugras
+LOC	Kuiki
+LOC	Kuilēni
+LOC	Kuiviži
+LOC	Kuja
+LOC	Kukša
+LOC	Kukšas
+LOC	Kukše
+LOC	Kukru ezers
+LOC	Kukuči
+LOC	Kuldīga
+LOC	Kuldīga novads
+LOC	Kuldīga pilsēta
+LOC	Kuldīga rajons
+LOC	Kuldīgas Rajons
+LOC	Kuldīgas novads
+LOC	Kuldīgas pilsēta
+LOC	Kuldīgas rajons
+LOC	Kulenieki
+LOC	Kulpines ezers
+LOC	Kulvēni
+LOC	Kumbri
+LOC	Kumbules ezers
+LOC	Kumbuli
+LOC	Kumpis
+LOC	Kumpota
+LOC	Kunči
+LOC	Kunaiši
+LOC	Kunarāji
+LOC	Kunci
+LOC	Kundi
+LOC	Kunduma ezers
+LOC	Kunduri
+LOC	Kundzīņu ezers
+LOC	Kundziņi
+LOC	Kundziņsala
+LOC	Kundzi
+LOC	Kundzinisķi
+LOC	Kunkuļi
+LOC	Kupļi
+LOC	Kuplāji
+LOC	Kuprīši
+LOC	Kuprava
+LOC	Kuprava pagasts
+LOC	Kupravas pagasts
+LOC	Kurāni
+LOC	Kurēlis
+LOC	Kurciņi
+LOC	Kurcina
+LOC	Kureļi
+LOC	Kurijānovas ezers
+LOC	Kurliņupe
+LOC	Kurmāle
+LOC	Kurmāle pagasts
+LOC	Kurmāles pagasts
+LOC	Kurmēni
+LOC	Kurma
+LOC	Kurmene
+LOC	Kurmene pagasts
+LOC	Kurmenes pagasts
+LOC	Kurmi
+LOC	Kurmis
+LOC	Kurmji
+LOC	Kurna
+LOC	Kurpiņiki
+LOC	Kurpnieki
+LOC	Kurpnieku sala
+LOC	Kursīši
+LOC	Kursīši pagasts
+LOC	Kursīšu mežs
+LOC	Kursīšu pagasts
+LOC	Kursakas
+LOC	Kursiši
+LOC	Kursieši
+LOC	Kurtavas ezers
+LOC	Kurti
+LOC	Kurzeme
+LOC	Kurzemskaya Vozvyshennost’
+LOC	Kusa
+LOC	Kusiņi
+LOC	Kuveita
+LOC	Kuzņecava
+LOC	Kuzulini
+LOC	Kvēpji
+LOC	Lāči
+LOC	Lāčkalni
+LOC	Lāčplēsis
+LOC	Lāču purvs
+LOC	Lāčukrogs
+LOC	Lāčupe
+LOC	Lāčupite
+LOC	Lāde
+LOC	Lādes ezers
+LOC	Lādeskroga dīķi
+LOC	Lādezers
+LOC	Lādzēnu Tīrelis
+LOC	Lādzere
+LOC	Lāri
+LOC	Lāvenieki
+LOC	Lāzberģi
+LOC	Lēči
+LOC	Lēģernieki
+LOC	Lēdas
+LOC	Lēdmane
+LOC	Lēdmane pagasts
+LOC	Lēdmanes pagasts
+LOC	Lēdurga
+LOC	Lēdurga pagasts
+LOC	Lēdurgas pagasts
+LOC	Lēdzemji
+LOC	Lējējupe
+LOC	Lēlicani
+LOC	Lēnas
+LOC	Lēpes
+LOC	Lēpicas
+LOC	Lētīža
+LOC	Līči
+LOC	Līčupe
+LOC	Līčupes
+LOC	Līčupji
+LOC	Līņezers
+LOC	Līņi
+LOC	Lībagi
+LOC	Lībagi pagasts
+LOC	Lībagu pagasts
+LOC	Lībciems
+LOC	Lībe
+LOC	Lībieši
+LOC	Lībija
+LOC	Līcīši
+LOC	Līcnieki
+LOC	Līdūkšņa
+LOC	Līdūkšnas ezers
+LOC	Līdere
+LOC	Līdumnieki
+LOC	Līgate
+LOC	Līgatne
+LOC	Līgatne novads
+LOC	Līgatne pagasts
+LOC	Līgatne pilsēta
+LOC	Līgatnes novads
+LOC	Līgatnes pagasts
+LOC	Līgatnes pilsēta
+LOC	Līgciems
+LOC	Līgo
+LOC	Līgo pagasts
+LOC	Līgotnas
+LOC	Līgupe
+LOC	Līguti
+LOC	Līkaiņu ezers
+LOC	Līkais
+LOC	Līksna
+LOC	Līksna pagasts
+LOC	Līksnas pagasts
+LOC	Līkumciems
+LOC	Līkumi
+LOC	Līkupe
+LOC	Līvāni
+LOC	Līvāni novads
+LOC	Līvānu novads
+LOC	Līvbērze
+LOC	Līvbērze pagasts
+LOC	Līvbērzes Stacija
+LOC	Līvbērzes pagasts
+LOC	Līveni
+LOC	Līves
+LOC	Līvesmuiža
+LOC	Līvi
+LOC	Līzes
+LOC	Līzespasts
+LOC	Lūķi
+LOC	Lūšakrogs
+LOC	Lūši
+LOC	Lūšu ezers
+LOC	Lūšupīte
+LOC	Lūžņas
+LOC	Lūžņas purvs
+LOC	Lūžnieki
+LOC	Lūdani
+LOC	Lūkumītis
+LOC	Lūmāni
+LOC	Lūrmaņi
+LOC	Lūza
+LOC	Lūznava
+LOC	Lūznava pagasts
+LOC	Lūznavas pagasts
+LOC	Laķši
+LOC	Laķi
+LOC	Laņi
+LOC	Laši
+LOC	Laški
+LOC	Lašupe
+LOC	Laža
+LOC	Laža pagasts
+LOC	Lažas pagasts
+LOC	Laži
+LOC	Labecki
+LOC	Labrags
+LOC	Labrenči
+LOC	Labvārži
+LOC	Lachi
+LOC	Lacplesis mežs
+LOC	Ladziņas
+LOC	Lafonteine
+LOC	Lagaste Stacija
+LOC	Lagazu-Snitku purvs
+LOC	Lagzdas
+LOC	Lagzdiņi
+LOC	Lagzdiena
+LOC	Lagzdini
+LOC	Laidi
+LOC	Laidi pagasts
+LOC	Laidu pagasts
+LOC	Laidze
+LOC	Laidze pagasts
+LOC	Laidzes ezers
+LOC	Laidzes pagasts
+LOC	Laigalava
+LOC	Laikupe
+LOC	Laipgali
+LOC	Laizāni
+LOC	Laizani
+LOC	Lakāji
+LOC	Lakši
+LOC	Lakšu ezers
+LOC	Lakauski
+LOC	Lakstene
+LOC	Lakstigala
+LOC	Lakstigalas
+LOC	Laktas
+LOC	Lamaņi
+LOC	Lambārte
+LOC	Lamberti
+LOC	Lamiņi
+LOC	Lampari
+LOC	Lamsteri
+LOC	Lancenieki
+LOC	Lancenieku Dzirnavu ezers
+LOC	Landskorona
+LOC	Landzāni
+LOC	Landze
+LOC	Langseži
+LOC	Langstiņi
+LOC	Langstiņu ezers
+LOC	Lanka
+LOC	Lankas
+LOC	Lankupe
+LOC	Lanupe
+LOC	Lanyu
+LOC	Laosa
+LOC	Lapaiņi
+LOC	Lapainis
+LOC	Lapas
+LOC	Lapati
+LOC	Lapeni
+LOC	Lapiņi
+LOC	Lapmežciema novads
+LOC	Lapmežciems
+LOC	Lapmežciems novads
+LOC	Lapsēni
+LOC	Lapsaiši
+LOC	Lapsas
+LOC	Lapsiņas
+LOC	Laptava
+LOC	Laskutauka
+LOC	Lasmaņi
+LOC	Latgale
+LOC	Latiņi
+LOC	Latišonki
+LOC	Latsitys
+LOC	Latvases
+LOC	Latviešu Stiglava
+LOC	Latvija
+LOC	Latvija Republika
+LOC	Latvija republika
+LOC	Latvju Sloboda
+LOC	Lauči
+LOC	Lauļi
+LOC	Laužnu purvs
+LOC	Lauberģi
+LOC	Laubere
+LOC	Laubere pagasts
+LOC	Lauberes pagasts
+LOC	Lauce
+LOC	Laucesa pagasts
+LOC	Laucesas pagasts
+LOC	Lauciņi
+LOC	Lauciene
+LOC	Lauciene pagasts
+LOC	Laucienes pagasts
+LOC	Laucinieki
+LOC	Laucnieki
+LOC	Lauderi
+LOC	Lauderi pagasts
+LOC	Lauderu pagasts
+LOC	Laugaļi
+LOC	Laugas purvs
+LOC	Laukavilki
+LOC	Laukesa
+LOC	Laukesas
+LOC	Laukgaļi
+LOC	Laukgravas
+LOC	Lauki
+LOC	Laukindiņi
+LOC	Lauknamiķi
+LOC	Laukrugāji
+LOC	Lauksargi
+LOC	Lauktehnika
+LOC	Lauku ezers
+LOC	Laukupīte
+LOC	Lauleny
+LOC	Launkalne
+LOC	Launkalne pagasts
+LOC	Launkalnes pagasts
+LOC	Launkalns
+LOC	Laurīši
+LOC	Lauragali
+LOC	Lauri
+LOC	Lausti
+LOC	Lautere
+LOC	Lauvas
+LOC	Lauvenieki
+LOC	Lauzi
+LOC	Lauzina
+LOC	Laveri
+LOC	Laveru ezers
+LOC	Lavide
+LOC	Lazareva
+LOC	Lazdāni
+LOC	Lazdiņi
+LOC	Lazdogas ezers
+LOC	Lazdona
+LOC	Lazdona pagasts
+LOC	Lazdonas ezers
+LOC	Lazdonas pagasts
+LOC	Lazdukalna pagasts
+LOC	Lazdukalns
+LOC	Lazdukalns pagasts
+LOC	Lazduleja pagasts
+LOC	Lazdulejas pagasts
+LOC	Lazdupji
+LOC	Lazovskaja
+LOC	Leķi
+LOC	Leķupe
+LOC	Leļi
+LOC	Leščinski
+LOC	Lešķi
+LOC	Ledaiņi
+LOC	Ledermaņi
+LOC	Lediņi
+LOC	Ledikas
+LOC	Legiņi
+LOC	Legzdiņi
+LOC	Leišani
+LOC	Leiši
+LOC	Leibiņas
+LOC	Leibi
+LOC	Leikas
+LOC	Leilleitāni
+LOC	Leilpava
+LOC	Leimaņi
+LOC	Leimaņi pagasts
+LOC	Leimaņu pagasts
+LOC	Leimane
+LOC	Leimaniški
+LOC	Leimani
+LOC	Leinakalns
+LOC	Leinertu dīķis
+LOC	Leitāni
+LOC	Leiteni
+LOC	Lejasčankas
+LOC	Lejasģēģeri
+LOC	Lejas
+LOC	Lejas ezers
+LOC	Lejas Līplanti
+LOC	Lejas Podnieki
+LOC	Lejas-Podrags
+LOC	Lejasciema pagasts
+LOC	Lejasciems
+LOC	Lejasciems pagasts
+LOC	Lejasezers
+LOC	Lejasinnuži
+LOC	Lejaskrogs
+LOC	Lejaskuzmas
+LOC	Lejaslāči
+LOC	Lejasmucenieki
+LOC	Lejasmuiža
+LOC	Lejasplāteri
+LOC	Lejasramatas
+LOC	Lejasrunči
+LOC	Lejasstradi
+LOC	Lejasstrazdi
+LOC	Lejastilikas
+LOC	Lejiņi
+LOC	Lejnieki
+LOC	Lejsētas
+LOC	Lekuti
+LOC	Leli
+LOC	Lemķiņi
+LOC	Lemškalni
+LOC	Lembis
+LOC	Lembuži
+LOC	Lemešava
+LOC	Lemzere
+LOC	Lemzeri
+LOC	Lenči
+LOC	Lenčupe
+LOC	Lencīši
+LOC	Lendži
+LOC	Lendži pagasts
+LOC	Lendžu pagasts
+LOC	Lendza
+LOC	Lepšas
+LOC	Lepenieki
+LOC	Lepji
+LOC	Lepste
+LOC	Lesoto
+LOC	Lestene
+LOC	Lestene pagasts
+LOC	Lestenes purvs
+LOC	Lestenes pagasts
+LOC	Letes
+LOC	Leveste
+LOC	Levizeri
+LOC	Liči
+LOC	Ličupe
+LOC	Liņģi
+LOC	Liņu ezers
+LOC	Libāna
+LOC	Libērija
+LOC	Libe
+LOC	Lichi
+LOC	Liduki
+LOC	Lidumnieki
+LOC	Lieģi
+LOC	Liede
+LOC	Liedulielis
+LOC	Liekņi
+LOC	Liekarnieki
+LOC	Liekna
+LOC	Lieknas
+LOC	Lielāžogotova
+LOC	Lielā Alkšņu sala
+LOC	Lielā Gārša
+LOC	Lielā Iļķeniešu sala
+LOC	Lielā Jugla
+LOC	Lielā Pikova
+LOC	Lielā Puderova
+LOC	Lielā sala
+LOC	Lielā Zirgu sala
+LOC	Lielāmuiža
+LOC	Lielģenģeri
+LOC	Lielšķindeļi
+LOC	Lieladži
+LOC	Lielais Ķemeru Tīrelis
+LOC	Lielais Ausekļu dīķis
+LOC	Lielais Baltezers
+LOC	Lielais Jūgezers
+LOC	Lielais Kūriņa ezers
+LOC	Lielais Kangaru purvs
+LOC	Lielais Līdēris
+LOC	Lielais Ludzas ezers
+LOC	Lielais Mūrmasts
+LOC	Lielais purvs
+LOC	Lielaisciems
+LOC	Lielaiskrogs
+LOC	Lielalksnīts sala
+LOC	Lielandžāni
+LOC	Lielansi
+LOC	Lielapaļi
+LOC	Lielapsauju ezers
+LOC	Lielauči
+LOC	Lielauce
+LOC	Lielauce pagasts
+LOC	Lielauces ezers
+LOC	Lielauces pagasts
+LOC	Lielbērstele
+LOC	Lielbērze
+LOC	Lielblīdene
+LOC	Lielborna
+LOC	Lielbritānija
+LOC	Lielbritānija un Ziemeļīrija karaliste
+LOC	Lielbritānijas un Ziemeļīrijas Karaliste
+LOC	Lielciecere
+LOC	Lielciems
+LOC	Lieldaiķi
+LOC	Lieldegaiņi
+LOC	Lieldroga
+LOC	Lieldupļi
+LOC	Lieldzelda
+LOC	Lielgarbas
+LOC	Lielie Žurili
+LOC	Lielie Trūpi
+LOC	Lielie Unguri
+LOC	Lielindrica
+LOC	Lielirbe
+LOC	Lieljukši
+LOC	Lielkangari
+LOC	Lielkokini
+LOC	Lielkrīviņi
+LOC	Lielkursīši
+LOC	Liellankas
+LOC	Lielmāņi
+LOC	Lielmēmele
+LOC	Lielmeži
+LOC	Lielmežnieki
+LOC	Lielmediševa
+LOC	Lielmeiši
+LOC	Lielnabes ezers
+LOC	Lielnieki
+LOC	Lielpāvuļi
+LOC	Lielplatone
+LOC	Lielplatone pagasts
+LOC	Lielplatones pagasts
+LOC	Lielplepļi
+LOC	Lielpurvi
+LOC	Lielpurvs
+LOC	Lielrubēns
+LOC	Lielsātiķi
+LOC	Lielsalas
+LOC	Lielsalas purvs
+LOC	Lielsesava
+LOC	Lielsillāči
+LOC	Lielslokas
+LOC	Lielstrodi
+LOC	Lieltaucēni
+LOC	Lieltilža
+LOC	Lieltirševa
+LOC	Lieltirumi
+LOC	Lieltruļi
+LOC	Lieluikas ezers
+LOC	Lielupe
+LOC	Lielupis
+LOC	Lielurga
+LOC	Lielvārži
+LOC	Lielvārde
+LOC	Lielvārde novads
+LOC	Lielvārdes novads
+LOC	Lielvaicēni
+LOC	Lielveģi
+LOC	Lielvirbi
+LOC	Lielvircava
+LOC	Lielzalve
+LOC	Lielzelčeva
+LOC	Liepāja
+LOC	Liepāja rajons
+LOC	Liepājas ezers
+LOC	Liepājas Rajons
+LOC	Liepājas rajons
+LOC	Liepēni
+LOC	Liepa
+LOC	Liepa mežs
+LOC	Liepa pagasts
+LOC	Liepaja East
+LOC	Lieparāji
+LOC	Liepare
+LOC	Liepari
+LOC	Liepas
+LOC	Liepas pagasts
+LOC	Liepasmuiža
+LOC	Liepati
+LOC	Liepene
+LOC	Liepenieki
+LOC	Liepiņi
+LOC	Liepkalni
+LOC	Liepkalns
+LOC	Lieplejas
+LOC	Liepmuiža
+LOC	Liepna
+LOC	Liepna pagasts
+LOC	Liepnas pagasts
+LOC	Liepnieki
+LOC	Lieporas
+LOC	Liepsalas
+LOC	Liepsalas ezers
+LOC	Liepu sala
+LOC	Liepu-Sūnākļu purvs
+LOC	Liepupe
+LOC	Liepupe pagasts
+LOC	Liepupes pagasts
+LOC	Liesupes
+LOC	Lietuva
+LOC	Liezēre
+LOC	Liezēre pagasts
+LOC	Liezēres ezers
+LOC	Liezēres pagasts
+LOC	Ligokšņi
+LOC	Lihtenšteina
+LOC	Likši
+LOC	Liksņanka
+LOC	Liksnanka
+LOC	Liksnas mežs
+LOC	Likverteni
+LOC	Lilaste
+LOC	Lilastes ezers
+LOC	Liliju ezers
+LOC	Limšēni
+LOC	Limbūži
+LOC	Limbaži
+LOC	Limbaži novads
+LOC	Limbaži pagasts
+LOC	Limbaži pilsēta
+LOC	Limbaži rajons
+LOC	Limbažu Lielezers
+LOC	Limbažu Rajons
+LOC	Limbažu novads
+LOC	Limbažu pagasts
+LOC	Limbažu pilsēta
+LOC	Limbažu rajons
+LOC	Limbuži
+LOC	Lindes
+LOC	Linezers
+LOC	Linkuļi
+LOC	Linopoliški
+LOC	Lipši
+LOC	Lipenecas ezers
+LOC	Lipiniški
+LOC	Lipsa
+LOC	Lipste
+LOC	Lipsti
+LOC	Lipuški
+LOC	Lisa
+LOC	Lisiņš
+LOC	Lisiņa
+LOC	Listaki
+LOC	Litavnieki
+LOC	Litene
+LOC	Litene pagasts
+LOC	Litenes pagasts
+LOC	Livža
+LOC	Livžanka
+LOC	Live
+LOC	Livmaņi
+LOC	Livzi
+LOC	Lizdēni
+LOC	Lizdole
+LOC	Lizdoles ezers
+LOC	Lizuma pagasts
+LOC	Lizums
+LOC	Lizums pagasts
+LOC	Loši
+LOC	Lošupe
+LOC	Loža
+LOC	Lobērģi
+LOC	Lobe
+LOC	Lobes ezers
+LOC	Lobeskrogs
+LOC	Locglovo
+LOC	Lode
+LOC	Lode pagasts
+LOC	Lodes
+LOC	Lodes ezers
+LOC	Lodes Taurenes ezers
+LOC	Lodes pagasts
+LOC	Lodiņi
+LOC	Lodumi
+LOC	Logini
+LOC	Loja
+LOC	Lokmene
+LOC	Lomi
+LOC	Lonaste
+LOC	Lone
+LOC	Lopatiški
+LOC	Lopatinski
+LOC	Lopsti
+LOC	Lorumi
+LOC	Losi
+LOC	Loskutovka
+LOC	Lotsiki
+LOC	Lovuški
+LOC	Luļļas
+LOC	Luņi
+LOC	Lužnieki
+LOC	Lubāņi
+LOC	Lubāna
+LOC	Lubāna novads
+LOC	Lubāna pilsēta
+LOC	Lubānas novads
+LOC	Lubānas purvs
+LOC	Lubānas pilsēta
+LOC	Lubānieši
+LOC	Lubāns
+LOC	Lubas
+LOC	Lube
+LOC	Lube pagasts
+LOC	Lubeja
+LOC	Lubes pagasts
+LOC	Lubezere
+LOC	Lubezers
+LOC	Lubgāna
+LOC	Lubiņas
+LOC	Lubija
+LOC	Lucas purvs
+LOC	Lucavsala
+LOC	Luckņu ezers
+LOC	Ludžinieki
+LOC	Ludini
+LOC	Ludzēns
+LOC	Ludza
+LOC	Ludza ezers
+LOC	Ludza novads
+LOC	Ludza pilsēta
+LOC	Ludza rajons
+LOC	Ludzas Rajons
+LOC	Ludzas novads
+LOC	Ludzas pilsēta
+LOC	Ludzas rajons
+LOC	Ludze
+LOC	Lugaži
+LOC	Lugi
+LOC	Luide
+LOC	Luikas
+LOC	Lukševa
+LOC	Lukaža ezers
+LOC	Lukas
+LOC	Luki
+LOC	Lukiniški
+LOC	Lukna
+LOC	Luknas ezers
+LOC	Lukne
+LOC	Luksemburga
+LOC	Lukstani
+LOC	Lukstinu Lavas
+LOC	Lukstu ezers
+LOC	Lukuži
+LOC	Lulišķi
+LOC	Luntas
+LOC	Lupandi
+LOC	Luste
+LOC	Lustes Pilsdrupas
+LOC	Luterbozes
+LOC	Luteri
+LOC	Lutriņi
+LOC	Lutriņi pagasts
+LOC	Lutriņu pagasts
+LOC	Luushi
+LOC	Luzinieki
+LOC	Lychagals
+LOC	Lyuteny
+LOC	Māļi
+LOC	Mācītajmuiža
+LOC	Mākoņkalna pagasts
+LOC	Mākoņkalns pagasts
+LOC	Mālagals
+LOC	Mālakalns
+LOC	Māleji
+LOC	Mālezers
+LOC	Māliņi
+LOC	Māliši
+LOC	Mālkalne
+LOC	Mālkalni
+LOC	Mālmuiža
+LOC	Mālnieki
+LOC	Mālpils
+LOC	Mālpils novads
+LOC	Mālpils pagasts
+LOC	Mālukalni
+LOC	Mālupe
+LOC	Mālupe pagasts
+LOC	Mālupes pagasts
+LOC	Māršalu Salas
+LOC	Māras
+LOC	Māras dīķis
+LOC	Mārciena
+LOC	Mārciena pagasts
+LOC	Mārcienas pagasts
+LOC	Māriņkalns
+LOC	Mārkalne
+LOC	Mārkalne pagasts
+LOC	Mārkalnes pagasts
+LOC	Mārkciems
+LOC	Mārsnēni
+LOC	Mārsnēni pagasts
+LOC	Mārsnēnu purvs
+LOC	Mārsnēnu pagasts
+LOC	Mārupe
+LOC	Mārupe novads
+LOC	Mārupe pagasts
+LOC	Mārupes novads
+LOC	Mārupes pagasts
+LOC	Mārzemnieki
+LOC	Māteri
+LOC	Mātras
+LOC	Māzvane
+LOC	Mēķinieks
+LOC	Mēdzula
+LOC	Mērdzene
+LOC	Mērdzene pagasts
+LOC	Mērdzenes pagasts
+LOC	Mērgava
+LOC	Mēri
+LOC	Mērnieki
+LOC	Mērsala
+LOC	Mērsraga Bāka
+LOC	Mērsraga Kanāls
+LOC	Mērsraga Osta
+LOC	Mērsraga pagasts
+LOC	Mērsrags
+LOC	Mērsrags pagasts
+LOC	Mētriena
+LOC	Mētriena pagasts
+LOC	Mētrienas pagasts
+LOC	Mīštēļi
+LOC	Mīlīte
+LOC	Mīlakšas
+LOC	Mīlas
+LOC	Mīlestības saliņa
+LOC	Mīlgrāvis
+LOC	Mīnes
+LOC	Mūku sala
+LOC	Mūri
+LOC	Mūrmuiža
+LOC	Mūrnieki
+LOC	Mūrvidiņi
+LOC	Mūsa
+LOC	Mačas
+LOC	Mačenkrogs
+LOC	Maķedonija
+LOC	Maļļi
+LOC	Maļinauka
+LOC	Maļinova pagasts
+LOC	Maļinovas pagasts
+LOC	Maļinovka
+LOC	Mašēnu ezers
+LOC	Mašas
+LOC	Mašmeles
+LOC	Mažņēni
+LOC	Macāni
+LOC	Mackas
+LOC	Madagaskara
+LOC	Madiešēnu purvs
+LOC	Madliena
+LOC	Madliena pagasts
+LOC	Madlienas pagasts
+LOC	Madona
+LOC	Madona novads
+LOC	Madona pilsēta
+LOC	Madona rajons
+LOC	Madonas mežs
+LOC	Madonas Rajons
+LOC	Madonas novads
+LOC	Madonas pilsēta
+LOC	Madonas rajons
+LOC	Magones
+LOC	Maiķi
+LOC	Maiciņu ezers
+LOC	Mailupes
+LOC	Maisēļi
+LOC	Maizezers
+LOC	Majori
+LOC	Makši
+LOC	Makšinova
+LOC	Makareneti
+LOC	Makeši
+LOC	Maksimovas ezers
+LOC	Makuži
+LOC	Maku ezers
+LOC	Malaizija
+LOC	Malavi
+LOC	Maldīva
+LOC	Mali
+LOC	Maliena
+LOC	Maliena pagasts
+LOC	Malienas pagasts
+LOC	Malkalna dīķis
+LOC	Malmatis-Zamuru purvs
+LOC	Malmute
+LOC	Malnava
+LOC	Malnava pagasts
+LOC	Malnavas pagasts
+LOC	Malnieki
+LOC	Malta
+LOC	Malta pagasts
+LOC	Maltas pagasts
+LOC	Maltastrūpi
+LOC	Malvīnes
+LOC	Malveši
+LOC	Mamoni
+LOC	Mamonova
+LOC	Manģene
+LOC	Manalki
+LOC	Mandagas
+LOC	Mangaļi
+LOC	Mangaļsala
+LOC	Mangaļu Pussala
+LOC	Mantiņi
+LOC	Marēni
+LOC	Mara
+LOC	Mareņi
+LOC	Marenči
+LOC	Marguži
+LOC	Mariņi
+LOC	Mariņmuiža
+LOC	Mariņmuižas
+LOC	Mariņmuižas dīķis
+LOC	Mariampole
+LOC	Marientāle
+LOC	Marijas
+LOC	Marindzes ezers
+LOC	Marinpole
+LOC	Marinzeja
+LOC	Markitanti
+LOC	Maroka
+LOC	Martiši
+LOC	Martuzāni
+LOC	Maruška
+LOC	Masalnieki
+LOC	Masanpurvi
+LOC	Maskovska
+LOC	Maskvina
+LOC	Maslava
+LOC	Mastarīga
+LOC	Mastauka
+LOC	Mastiķi
+LOC	Matīši
+LOC	Matšati
+LOC	Materi
+LOC	Matiņu ezers
+LOC	Matiseni
+LOC	Matisenki
+LOC	Matkule
+LOC	Matrina
+LOC	Matuļiški
+LOC	Matuļi
+LOC	Maučuve
+LOC	Maurāni
+LOC	Maurēni
+LOC	Maurīcija
+LOC	Maurciems
+LOC	Mauriņi
+LOC	Mauri
+LOC	Maurici
+LOC	Mauritānija
+LOC	Mazāžogotova
+LOC	Mazā Daugava
+LOC	Mazā Jugla
+LOC	Mazā sala
+LOC	Mazā Vējzaķu sala
+LOC	Mazā Zirgu sala
+LOC	Mazģērnieki
+LOC	Mazģenģeri
+LOC	Mazīvande
+LOC	Mazķētelu Ērberģis
+LOC	Mazžurile
+LOC	Mazais Baltezers
+LOC	Mazais Bauzis
+LOC	Mazais Jūgezers
+LOC	Mazais Stropu ezers
+LOC	Mazais Vipēdis
+LOC	Mazalksnīts sala
+LOC	Mazandinava
+LOC	Mazauči
+LOC	Mazbērstele
+LOC	Mazbērze
+LOC	Mazbērzemnieki
+LOC	Mazbītes
+LOC	Mazbelti
+LOC	Mazbernāni
+LOC	Mazbites
+LOC	Mazblīdene
+LOC	Mazboja
+LOC	Mazbrenguļi
+LOC	Mazbriede
+LOC	Mazcelmi
+LOC	Mazcena
+LOC	Mazciecere
+LOC	Mazdūru Pusmuiža
+LOC	Mazdrogas
+LOC	Mazdupļe
+LOC	Mazdzelda
+LOC	Mazdzerkaļi
+LOC	Mazezers
+LOC	Mazgramzda
+LOC	Maziča
+LOC	Mazie-Kusiņi
+LOC	Mazilmāja
+LOC	Mazindrica
+LOC	Mazirbe
+LOC	Mazjāņi
+LOC	Mazkalnieki
+LOC	Mazkokini
+LOC	Mazkusiņi
+LOC	Mazlāles
+LOC	Mazlauki
+LOC	Mazleitāni
+LOC	Mazliepadi
+LOC	Mazmaltuves
+LOC	Mazmediševa
+LOC	Maznabes ezers
+LOC	Mazozoli
+LOC	Mazozoli pagasts
+LOC	Mazozolu pagasts
+LOC	Mazpikava
+LOC	Mazplāņi
+LOC	Mazplēpļi
+LOC	Mazpreci
+LOC	Mazpuļķi
+LOC	Mazpuderi
+LOC	Mazpurgali
+LOC	Mazrenda
+LOC	Mazrimnieki
+LOC	Mazrozeni
+LOC	Mazruņķi
+LOC	Mazsalaca
+LOC	Mazsalaca novads
+LOC	Mazsalaca pilsēta
+LOC	Mazsalacas novads
+LOC	Mazsalacas pilsēta
+LOC	Mazsesava
+LOC	Mazsiliši
+LOC	Mazskola
+LOC	Mazspāre
+LOC	Mazspurģi
+LOC	Mazstraupe
+LOC	Mazstrodi
+LOC	Mazsunākstes ezers
+LOC	Maztērukši
+LOC	Maztīrelis
+LOC	Maztende
+LOC	Maztirševa
+LOC	Mazuši
+LOC	Mazuikas ezers
+LOC	Mazums ezers
+LOC	Mazupīte
+LOC	Mazupe
+LOC	Mazurga
+LOC	Mazuri
+LOC	Mazvārve
+LOC	Mazveģi
+LOC	Mazvilce
+LOC	Mazvilmaņi
+LOC	Mazvirbi
+LOC	Mazzalve pagasts
+LOC	Mazzalves pagasts
+LOC	Mazzante
+LOC	Mazzeļčava
+LOC	Meļķi
+LOC	Meļļi
+LOC	Meļļu purvs
+LOC	Meļnica
+LOC	Meņģele
+LOC	Meņģele pagasts
+LOC	Meņģeles pagasts
+LOC	Mežāki
+LOC	Mežāre
+LOC	Mežāre pagasts
+LOC	Mežāres
+LOC	Mežāres pagasts
+LOC	Mežēkas
+LOC	Mežērmaņi
+LOC	Mežītes ezers
+LOC	Meža Trūpi
+LOC	Mežabuļļi
+LOC	Mežadoski
+LOC	Mežaeriņi
+LOC	Mežagobziņi
+LOC	Mežagrumuži
+LOC	Mežaki
+LOC	Mežaleiši
+LOC	Mežamuiža
+LOC	Mežancāni
+LOC	Mežaparks
+LOC	Mežarasas
+LOC	Mežaraupi
+LOC	Mežares
+LOC	Mežarijas
+LOC	Mežastrodi
+LOC	Mežavekteri
+LOC	Mežciemi
+LOC	Mežciems
+LOC	Meždruvas
+LOC	Mežernieki
+LOC	Mežgaļi
+LOC	Mežgaiļi
+LOC	Mežgali
+LOC	Mežgalu skola
+LOC	Meži
+LOC	Mežinčuki
+LOC	Mežinieki
+LOC	Mežkadaga Stacija
+LOC	Mežklabji
+LOC	Mežkleivas
+LOC	Mežlīgavas
+LOC	Mežlode
+LOC	Mežmaļi
+LOC	Mežmuiža
+LOC	Mežoki
+LOC	Mežotne
+LOC	Mežotne Stacija
+LOC	Mežotne pagasts
+LOC	Mežotnes pagasts
+LOC	Mežpēri
+LOC	Mežpili
+LOC	Mežprūsīši
+LOC	Mežratites
+LOC	Mežrijas
+LOC	Mežulis
+LOC	Mežupe
+LOC	Mežvalde
+LOC	Mežvidi
+LOC	Mežvidi I
+LOC	Mežvidi II
+LOC	Mežvidi pagasts
+LOC	Mežvidu pagasts
+LOC	Mežvistas
+LOC	Mežzara Upīte
+LOC	Medīlas
+LOC	Medņeva
+LOC	Medņeva pagasts
+LOC	Medņevas pagasts
+LOC	Medņi
+LOC	Medeņi
+LOC	Medema purvs
+LOC	Medemciems
+LOC	Mederkalni
+LOC	Mediševa
+LOC	Medinieku ezers
+LOC	Mednava
+LOC	Medne
+LOC	Mednieki
+LOC	Mednu purvs
+LOC	Medulāji
+LOC	Meduma ezers
+LOC	Medumi
+LOC	Medumi pagasts
+LOC	Medumu pagasts
+LOC	Medustiltiņi
+LOC	Medvecki
+LOC	Medze
+LOC	Medze pagasts
+LOC	Medzes pagasts
+LOC	Megģenes
+LOC	Meijas
+LOC	Meikšāni
+LOC	Meikaļi
+LOC	Meiniķi
+LOC	Meirāni
+LOC	Meirānu Kanāls
+LOC	Meirēni
+LOC	Meirani
+LOC	Meiranu ezers
+LOC	Meiri
+LOC	Meistariņi
+LOC	Mekes ezers
+LOC	Meksika
+LOC	Melbārži
+LOC	Melbārz
+LOC	Melderi
+LOC	Meldernieki
+LOC	Meldiņi
+LOC	Meldzere
+LOC	Melkas
+LOC	Mellezers
+LOC	Mellizeris
+LOC	Melluži
+LOC	Mellumezers
+LOC	Mellupe
+LOC	Mellupi
+LOC	Melnais Dūkstigals
+LOC	Melnezers
+LOC	Melnkalne
+LOC	Melnsils
+LOC	Melnsilupe
+LOC	Melnupīte
+LOC	Melnupe
+LOC	Melnupes
+LOC	Melnupite
+LOC	Meltne
+LOC	Melturi
+LOC	Melupji
+LOC	Merķeļi
+LOC	Merževo
+LOC	Mercendarbe
+LOC	Mergupe
+LOC	Mesteriņi
+LOC	Mesteri
+LOC	Mezhvidi
+LOC	Mezishi
+LOC	Mičuli
+LOC	Mičuniški
+LOC	Miķeļciems
+LOC	Miķeļtornis
+LOC	Miķelāni
+LOC	Miķelkalns
+LOC	Mišķi
+LOC	Miškiņeva
+LOC	Micāni
+LOC	Mices
+LOC	Michailova sēklis
+LOC	Michalava
+LOC	Micini
+LOC	Midzeņi
+LOC	Miegaiņi
+LOC	Miegupe
+LOC	Miegupes purvs
+LOC	Mieriņi
+LOC	Mierkalns
+LOC	Mierlauki
+LOC	Mietnieki
+LOC	Mietragi
+LOC	Mieupis
+LOC	Miezāji
+LOC	Miezīši
+LOC	Miezītes
+LOC	Miglāči
+LOC	Miglāni
+LOC	Miglinieki
+LOC	Mihalki
+LOC	Mihalova
+LOC	Mikas
+LOC	Mikeliši
+LOC	Mikeliški
+LOC	Mikova
+LOC	Mikronēzija federatīvs štats
+LOC	Mikronēzijas Federatīvie Štati
+LOC	Mildas
+LOC	Miltiņi
+LOC	Milzgrāvis
+LOC	Milzkalne
+LOC	Milzukalns
+LOC	Minči
+LOC	Mindenieki
+LOC	Minina
+LOC	Minsteri
+LOC	Mirkļi
+LOC	Mirnija
+LOC	Mironi
+LOC	Misa
+LOC	Misca mežs
+LOC	Misjunci
+LOC	Misteri
+LOC	Mituļi
+LOC	Mizaiši
+LOC	Mjanma
+LOC	Moži
+LOC	Modes
+LOC	Modri
+LOC	Moldova
+LOC	Molvejas ezers
+LOC	Monako
+LOC	Mongolija
+LOC	Morančiki
+LOC	Mordanga
+LOC	Mordangas ezers
+LOC	More
+LOC	Moriči
+LOC	Moricsala
+LOC	Moricsalas Rezervāts
+LOC	Moricupe
+LOC	Morozovo
+LOC	Mortiņi
+LOC	Mortiški
+LOC	Mozambika
+LOC	Mozinki
+LOC	Muņi
+LOC	Mucenieki
+LOC	Mucnieki
+LOC	Muculi
+LOC	Mudaža
+LOC	Mugurāji
+LOC	muiža Divi
+LOC	Muižas sala
+LOC	Muižciems
+LOC	Muižkalni
+LOC	Muižnieka ezers
+LOC	Muižnieki
+LOC	Muižnieks
+LOC	Muižzemnieki
+LOC	Muizemnieki
+LOC	Mujāni
+LOC	Mukes
+LOC	Mukoševa
+LOC	Muktupāveļi
+LOC	Mulces
+LOC	Munde
+LOC	Muranišķi
+LOC	Murauka
+LOC	Murishi
+LOC	Murjāņi
+LOC	Murkuži
+LOC	Murmastiene
+LOC	Murmastiene pagasts
+LOC	Murmastienes pagasts
+LOC	Murmuiža
+LOC	Murnieki
+LOC	Mustera ezers
+LOC	Mustkalni
+LOC	Mutulīte
+LOC	Muzejs Sprīdīši
+LOC	Myza Aazhi
+LOC	Myza Seli
+LOC	Myza Shtede
+LOC	Myza Techi
+LOC	Myza Tinuzhi
+LOC	Myza Viti
+LOC	Nāgeļmuiža
+LOC	Nāgeles
+LOC	Nākotne
+LOC	Nārīši
+LOC	Nārtas Stalīdzāni
+LOC	Nātiņi
+LOC	Nātrene
+LOC	Nāves sala
+LOC	Nāzupi
+LOC	Nēķens
+LOC	Nēķini
+LOC	Nīca
+LOC	Nīca novads
+LOC	Nīca pagasts
+LOC	Nīcas novads
+LOC	Nīcas pagasts
+LOC	Nīcgale
+LOC	Nīcgale pagasts
+LOC	Nīcgales mežs
+LOC	Nīcgales pagasts
+LOC	Nīderkūni
+LOC	Nīderlande
+LOC	Nīdermuiža
+LOC	Nīgrande
+LOC	Nīgrande pagasts
+LOC	Nīgrandes pagasts
+LOC	Nīkrāce
+LOC	Nīkrāce pagasts
+LOC	Nīkrāces pagasts
+LOC	Nītaure
+LOC	Nītaure pagasts
+LOC	Nītaures pagasts
+LOC	Nīzere
+LOC	Nūraugi
+LOC	Nabali
+LOC	Nabas Ezeri
+LOC	Nabe
+LOC	Nagļi
+LOC	Nagļi pagasts
+LOC	Nagļu pagasts
+LOC	Naglāni
+LOC	Naglīši
+LOC	Naglene
+LOC	Nagliņi
+LOC	Nagli
+LOC	Namībija
+LOC	Namdari
+LOC	Nametkalns
+LOC	Namiķi
+LOC	Namiķu dīķis
+LOC	Namkalns
+LOC	Namsadi
+LOC	Nareta
+LOC	Nariņciems
+LOC	Nartiši
+LOC	Nastrovas ezers
+LOC	Nauči
+LOC	Naužens
+LOC	Nauži
+LOC	Naucis
+LOC	Naucu ezers
+LOC	Naudīte
+LOC	Naudīte pagasts
+LOC	Naudītes dīķis
+LOC	Naudītes pagasts
+LOC	Naudaskalns
+LOC	Naudiši
+LOC	Naujene pagasts
+LOC	Naujenes pagasts
+LOC	Naukšēni
+LOC	Naukšēni pagasts
+LOC	Naukšēnu novads
+LOC	Naukšēnu pagasts
+LOC	Naumki
+LOC	Naurėni
+LOC	Nauru
+LOC	Nautrēni pagasts
+LOC	Nautrēnu pagasts
+LOC	Navaseļje
+LOC	Neļaukas
+LOC	Nelupji
+LOC	Nepala
+LOC	Nereta
+LOC	Nereta novads
+LOC	Nereta pagasts
+LOC	Neretas novads
+LOC	Neretas pagasts
+LOC	Nesaules ezers
+LOC	Nesava
+LOC	Nesteri
+LOC	Neveja
+LOC	Nevisa
+LOC	Nida
+LOC	Niecenieki
+LOC	Niedoli
+LOC	Niedraju-Pilkas purvs
+LOC	Niedras
+LOC	Niedres
+LOC	Niedrupe
+LOC	Nigēra
+LOC	Nigērija
+LOC	Nigales
+LOC	Nigra
+LOC	Nikšas
+LOC	Nikaragva
+LOC	Nikas
+LOC	Nikolajeva
+LOC	Nikolajevska
+LOC	Nikuži
+LOC	Nikuce
+LOC	Niperava
+LOC	Niperi
+LOC	Nirza
+LOC	Nirza pagasts
+LOC	Nirzas ezers
+LOC	Nirzas pagasts
+LOC	Nitaure mežs
+LOC	Nivu ezers
+LOC	Nobele
+LOC	Nogale
+LOC	Nomanu purvs
+LOC	Nomavas ezers
+LOC	Noras
+LOC	Nordāni
+LOC	Noriņi
+LOC	Norvēģija
+LOC	Notri
+LOC	Novadnieki
+LOC	Novadnieki pagasts
+LOC	Novadnieku pagasts
+LOC	Noviki
+LOC	Novinje
+LOC	Novoselci
+LOC	Novosilki
+LOC	Nuķi
+LOC	Nuķis
+LOC	Nukas
+LOC	Numerne
+LOC	Numernes ezers
+LOC	Nurmenes mežs
+LOC	Nurmiži
+LOC	Nurmi
+LOC	Nurmuiža
+LOC	Oļa
+LOC	Oļgina
+LOC	Oļi
+LOC	Ošāni
+LOC	Ošenieki
+LOC	Oši
+LOC	Ošleja
+LOC	Ošlejas
+LOC	Ošupe
+LOC	Ošupe pagasts
+LOC	Ošupes pagasts
+LOC	Ožinīki
+LOC	Obeļeva
+LOC	Odiņi
+LOC	Odiņu pārceltuve
+LOC	Odigāni
+LOC	Odre
+LOC	Odumi
+LOC	Odzēņu ezers
+LOC	Odze
+LOC	Odzes ezers
+LOC	Odziena
+LOC	Odzienas ezers
+LOC	Ogas
+LOC	Oglaine
+LOC	Oglenis
+LOC	Ogre
+LOC	Ogre novads
+LOC	Ogre rajons
+LOC	Ogres Rajons
+LOC	Ogres novads
+LOC	Ogres rajons
+LOC	Ogresgals
+LOC	Ogresmuiža
+LOC	Ogriņi
+LOC	Ogureckaja
+LOC	Oksle
+LOC	Okte
+LOC	Olaine
+LOC	Olaine novads
+LOC	Olaine pagasts
+LOC	Olaine pilsēta
+LOC	Olaines novads
+LOC	Olaines pagasts
+LOC	Olaines pilsēta
+LOC	Olainite
+LOC	Olderi
+LOC	Oleri
+LOC	Oleru purvs
+LOC	Olgassili
+LOC	Oliņas
+LOC	Oliņi
+LOC	Olieni
+LOC	Omāna
+LOC	Omuļi
+LOC	Ondzuļi
+LOC	Oparnieki
+LOC	Opoli
+LOC	Opolie
+LOC	Orīši
+LOC	Orlavas ezers
+LOC	Orlavas purvs
+LOC	Orlova
+LOC	Ormejas ezers
+LOC	Ornicāni
+LOC	Osagals
+LOC	Osinauka
+LOC	Osinovka
+LOC	Oste
+LOC	Ostnieki
+LOC	Ostrāni
+LOC	Ostravieši
+LOC	Ostrovnas ezers
+LOC	Ostupe
+LOC	Ostupes
+LOC	Osva
+LOC	Osvas ezers
+LOC	Osvova
+LOC	Otaņķe
+LOC	Otaņķi
+LOC	Otaņķi pagasts
+LOC	Otaņķu mežs
+LOC	Otaņķu pagasts
+LOC	Otkari
+LOC	Ovīši
+LOC	Ovīšrags
+LOC	Ovīšu sēklis
+LOC	Ozolaine
+LOC	Ozolaine pagasts
+LOC	Ozolaines dīķis
+LOC	Ozolaines pagasts
+LOC	Ozoleni
+LOC	Ozoliņi
+LOC	Ozoli
+LOC	Ozoli Stacija
+LOC	Ozolkalni
+LOC	Ozolkalns
+LOC	Ozollejas
+LOC	Ozolmuiža
+LOC	Ozolmuiža pagasts
+LOC	Ozolmuižas pagasts
+LOC	Ozolnieki
+LOC	Ozolnieki novads
+LOC	Ozolnieku dīķis
+LOC	Ozolnieku novads
+LOC	Ozolpļavas
+LOC	Ozolpils
+LOC	Ozolu purvs
+LOC	Ozosala
+LOC	Ozupine
+LOC	Pāļi
+LOC	Pāņi
+LOC	Pāce
+LOC	Pāces ezers
+LOC	Pālēni
+LOC	Pālansu ezers
+LOC	Pāle
+LOC	Pāle pagasts
+LOC	Pāles pagasts
+LOC	Pāmeri
+LOC	Pāniši
+LOC	Pārgauja novads
+LOC	Pārgaujas novads
+LOC	Pārtavas ezers
+LOC	Pārtomi
+LOC	Pārupe
+LOC	Pārupes
+LOC	Pārventa
+LOC	Pāviļi
+LOC	Pāvilosta
+LOC	Pāvilosta novads
+LOC	Pāvilostas novads
+LOC	Pāvuļi
+LOC	Pēkša ezers
+LOC	Pēpas
+LOC	Pērļupe
+LOC	Pērbone
+LOC	Pērkoņi
+LOC	Pērkoņu ezers
+LOC	Pērkone
+LOC	Pērkoni
+LOC	Pērlis
+LOC	Pērlupe
+LOC	Pērnciems
+LOC	Pērse
+LOC	Pērssala
+LOC	Pēterīši
+LOC	Pēteri
+LOC	Pēterlauki
+LOC	Pētermači
+LOC	Pētermuiža
+LOC	Pētermuižas purvs
+LOC	Pēternieki
+LOC	Pētertāle
+LOC	Pēterupe
+LOC	Pēterupes purvs
+LOC	Pīļu ezers
+LOC	Pīlāgi
+LOC	Pīles
+LOC	Pīpiķi
+LOC	Pīpiņi
+LOC	Pīpji
+LOC	Pļaviņas
+LOC	Pļaviņas novads
+LOC	Pļaviņas pilsēta
+LOC	Pļaviņi
+LOC	Pļaviņu novads
+LOC	Pļaviņu pilsēta
+LOC	Pļavmuiža
+LOC	Pļavnieki
+LOC	Pļavniekkalns
+LOC	Pļavsargi
+LOC	Pūņa
+LOC	Pūņas
+LOC	Pūņu purvs
+LOC	Pūšļeva
+LOC	Pūces
+LOC	Pūci
+LOC	Pūgas
+LOC	Pūjalgi
+LOC	Pūni
+LOC	Pūpji
+LOC	Pūpoli
+LOC	Pūre
+LOC	Pūre pagasts
+LOC	Pūres pagasts
+LOC	Pūresupe
+LOC	Pūri
+LOC	Pūricu ezers
+LOC	Pūteļi
+LOC	Paķules
+LOC	Paļakas
+LOC	Paņi
+LOC	Pabēži
+LOC	Pabaži
+LOC	Pabažu ezers
+LOC	Packules Ciems
+LOC	Paderiša purvs
+LOC	Padole
+LOC	Padoms
+LOC	Padone
+LOC	Padupne
+LOC	Padure
+LOC	Padure pagasts
+LOC	Padures pagasts
+LOC	Padvareci
+LOC	Paegļi
+LOC	Pagasti
+LOC	Pagrabiņi
+LOC	Paiķēni
+LOC	Paideri
+LOC	Paijas
+LOC	Painītes purvs
+LOC	Paipala
+LOC	Paipusti
+LOC	Paisas
+LOC	Paiseļi
+LOC	Pakšēnu ezers
+LOC	Pakistāna
+LOC	Pakrāce
+LOC	Pakrata
+LOC	Pakratiņa
+LOC	Paksīte
+LOC	Pakuļezers
+LOC	Pakuļi
+LOC	Pakuļu Ūdenskrātuve
+LOC	Pakuli
+LOC	Palīce
+LOC	Palaipi
+LOC	Palau
+LOC	Paldažu dīķi
+LOC	Pale Stacija
+LOC	Palejas
+LOC	Palestīna
+LOC	Palini
+LOC	Palsa
+LOC	Palsas
+LOC	Palsmane
+LOC	Palsmane pagasts
+LOC	Palsmanes pagasts
+LOC	Pamati
+LOC	Pampāļi
+LOC	Pampāļi pagasts
+LOC	Pampāļu pagasts
+LOC	Panama
+LOC	Pankopi
+LOC	Pansionāts Zemgale
+LOC	Panteliški
+LOC	Pantene
+LOC	Paparze
+LOC	Pape
+LOC	Papes ezers
+LOC	Paplaka
+LOC	Papua - Jaungvineja
+LOC	Papua Jaungvineja
+LOC	Paragvaja
+LOC	Pargize
+LOC	Parnati
+LOC	Paruži
+LOC	Parumba
+LOC	Pasiene
+LOC	Pasiene pagasts
+LOC	Pasienes pagasts
+LOC	Pasilciems
+LOC	Pastališķi
+LOC	Pastamuiža
+LOC	Pastari
+LOC	Pastende
+LOC	Pastnieki
+LOC	Patērvetes
+LOC	Paternieki
+LOC	Patkule
+LOC	Patmaļnieki
+LOC	Patmalnieki
+LOC	Pauči
+LOC	Pauļi
+LOC	Pauļukalns
+LOC	Paužezers
+LOC	Paugas
+LOC	Paukas
+LOC	Paukle
+LOC	Paulāni
+LOC	Paulinava
+LOC	Paulinesmuiža
+LOC	Paulini
+LOC	Paulsberģi
+LOC	Pauniņas
+LOC	Paupi
+LOC	Pauri
+LOC	Paurupji
+LOC	Pavāri
+LOC	Pavari Stacija
+LOC	Pavasari
+LOC	Paventi
+LOC	Pavlova
+LOC	Pazauki
+LOC	Pazhi
+LOC	Pazlauka
+LOC	Pečoras ezers
+LOC	Pečoras purvs
+LOC	Peļņi
+LOC	Peļni
+LOC	Pešuciems
+LOC	Pežgģeni
+LOC	Pededze
+LOC	Pededze pagasts
+LOC	Pededzes
+LOC	Pededzes pagasts
+LOC	Pededznieki
+LOC	Pedele
+LOC	Pedeleva
+LOC	Peickova
+LOC	Peilēni
+LOC	Peipiņi
+LOC	Peizes
+LOC	Pekeļciems
+LOC	Pekrags
+LOC	Pelči
+LOC	Pelči pagasts
+LOC	Pelču pagasts
+LOC	Pelčupe
+LOC	Pelēči pagasts
+LOC	Pelēču pagasts
+LOC	Pelēdas ezers
+LOC	Peldu sala
+LOC	Pelečāres ezers
+LOC	Pelečanka
+LOC	Peleču ezers
+LOC	Pelnēni
+LOC	Pelnupe
+LOC	Peltes
+LOC	Pelve
+LOC	Pemmas purvs
+LOC	Penderi
+LOC	Peniņi
+LOC	Penkule
+LOC	Penkule pagasts
+LOC	Penkules pagasts
+LOC	Pepeni
+LOC	Pepiņi
+LOC	Pepji-Upes
+LOC	Perķi
+LOC	Perdeļi
+LOC	Pernītes
+LOC	Pernovka
+LOC	Peru
+LOC	Peski
+LOC	Pesteļi
+LOC	Pestile
+LOC	Peterkalni
+LOC	Peti
+LOC	Petrauka
+LOC	Petrovka
+LOC	Petručenki
+LOC	Piģele
+LOC	Piķēni
+LOC	Piķi
+LOC	Piņķi
+LOC	Pidole
+LOC	Pidriķis
+LOC	Pidulis
+LOC	Pieči
+LOC	Piebalga
+LOC	Piedruja
+LOC	Piedruja pagasts
+LOC	Piedrujas pagasts
+LOC	Piejūti
+LOC	Piekveni
+LOC	Pienava
+LOC	Pieneņi
+LOC	Piepeni
+LOC	Piesi
+LOC	Pieslaita ezers
+LOC	Piestiņa
+LOC	Pietiņi
+LOC	Pietnieki
+LOC	Pietrēni
+LOC	Pieturas Punkts Ķegums
+LOC	Pieturas Punkts Ķivuļis
+LOC	Pieturas Punkts 56 km
+LOC	Pieturas Punkts Acones
+LOC	Pieturas Punkts Apšupe
+LOC	Pieturas Punkts Asari
+LOC	Pieturas Punkts Augšciems
+LOC	Pieturas Punkts Auri
+LOC	Pieturas Punkts Auseklis
+LOC	Pieturas Punkts Babīte
+LOC	Pieturas Punkts Baltezers
+LOC	Pieturas Punkts Birzes
+LOC	Pieturas Punkts Brakšķi
+LOC	Pieturas Punkts Brasa
+LOC	Pieturas Punkts Brieži
+LOC	Pieturas Punkts Bulduri
+LOC	Pieturas Punkts Ciemupe
+LOC	Pieturas Punkts Cukurfabrika
+LOC	Pieturas Punkts Džūkste
+LOC	Pieturas Punkts Dalbe
+LOC	Pieturas Punkts Dorupe
+LOC	Pieturas Punkts Dzintari
+LOC	Pieturas Punkts Garupe
+LOC	Pieturas Punkts Gobas
+LOC	Pieturas Punkts Iģe
+LOC	Pieturas Punkts Inčupe
+LOC	Pieturas Punkts Inte
+LOC	Pieturas Punkts Jaundubulti
+LOC	Pieturas Punkts Jaunogre
+LOC	Pieturas Punkts Kūdra
+LOC	Pieturas Punkts Kalngale
+LOC	Pieturas Punkts Katvari
+LOC	Pieturas Punkts Krimūnas
+LOC	Pieturas Punkts Lāči
+LOC	Pieturas Punkts Lāde
+LOC	Pieturas Punkts Lielezers
+LOC	Pieturas Punkts Lielupe
+LOC	Pieturas Punkts Majori
+LOC	Pieturas Punkts Mazelēja
+LOC	Pieturas Punkts Melluži
+LOC	Pieturas Punkts Neiķene
+LOC	Pieturas Punkts Ozolnieki
+LOC	Pieturas Punkts Pārogre
+LOC	Pieturas Punkts Penkule
+LOC	Pieturas Punkts Pociems
+LOC	Pieturas Punkts Pumpuri
+LOC	Pieturas Punkts Purezers
+LOC	Pieturas Punkts Remīnes
+LOC	Pieturas Punkts Rumbula
+LOC	Pieturas Punkts Sidgundas
+LOC	Pieturas Punkts Silciems
+LOC	Pieturas Punkts Upšas
+LOC	Pieturas Punkts Vēžukrogs
+LOC	Pieturas Punkts Vaivari
+LOC	Pieturas Punkts Viesturi
+LOC	Pieturas Punkts Ziediņi
+LOC	Pieturas Punkts Zvejniekciems
+LOC	Pievika
+LOC	Pigas
+LOC	Pikāti
+LOC	Pikšas
+LOC	Piksāri
+LOC	Pikstere
+LOC	Piksteres ezers
+LOC	Pikuļi
+LOC	Pilāti
+LOC	Pilcene
+LOC	Pilda
+LOC	Pilda pagasts
+LOC	Pildas ezers
+LOC	Pildas pagasts
+LOC	Piliški
+LOC	Pilsētas ezers
+LOC	Pilsberģi
+LOC	Pilsblīdene
+LOC	Pilskalne
+LOC	Pilskalne pagasts
+LOC	Pilskalnes pagasts
+LOC	Pilskalni
+LOC	Pilskalns
+LOC	Pilsnieki
+LOC	Pilsrundāle
+LOC	Pilsupe
+LOC	Piltene
+LOC	Piltene pilsēta
+LOC	Piltenes purvs
+LOC	Piltenes pilsēta
+LOC	Pilupe
+LOC	Pinčupes
+LOC	Pinķi
+LOC	Pindari
+LOC	Pinderes
+LOC	Pinkas
+LOC	Pinku ezers
+LOC	Pintāni
+LOC	Pinteļu ezers
+LOC	Pinti
+LOC	Pipari
+LOC	Pirdova
+LOC	Pirtnieki
+LOC	Pirtsgari
+LOC	Piskalns
+LOC	Pitelis
+LOC	Pitrags
+LOC	Pitragupe
+LOC	Pizāni
+LOC	Pizuļi
+LOC	Plāņi
+LOC	Plāņi pagasts
+LOC	Plāņu pagasts
+LOC	Plācis
+LOC	Plānupe
+LOC	Plātava
+LOC	Plātere
+LOC	Plēpļi
+LOC	Plītāva
+LOC	Plītinava
+LOC	Plūči
+LOC	Plakanciems
+LOC	Planči
+LOC	Planīca
+LOC	Plankukalni
+LOC	Plaskinas ezers
+LOC	Platači
+LOC	Platauši
+LOC	Platene
+LOC	Platkāji
+LOC	Platmaņu purvs
+LOC	Platone
+LOC	Platone pagasts
+LOC	Platones
+LOC	Platones pagasts
+LOC	Platonis
+LOC	Plaužu ezers
+LOC	Plaudīši
+LOC	Plaukti
+LOC	Plavnieki
+LOC	Plešaunieki
+LOC	Plešava
+LOC	Pleces purvs
+LOC	Plegznas
+LOC	Pleiki
+LOC	Plekšņi
+LOC	Plekstes
+LOC	Plenčeva
+LOC	Plepji
+LOC	Plesņeva
+LOC	Pliķi
+LOC	Plieņciems
+LOC	Plieņi
+LOC	Plintes
+LOC	Plintiņi
+LOC	Ploči
+LOC	Plošķenas ezers
+LOC	Ploce
+LOC	Plodzas
+LOC	Plonė
+LOC	Ploski
+LOC	Plostakrogs
+LOC	Plostkrogs
+LOC	Plostnieķi
+LOC	Pluču Tīrelis
+LOC	Plugi Stacija
+LOC	Plumpi
+LOC	Plunču ezers
+LOC	Plusons
+LOC	Poči
+LOC	Poģi
+LOC	Poķi
+LOC	Poļakas
+LOC	Poļanka
+LOC	Poļas
+LOC	Poļi
+LOC	Poļu Gorbuni
+LOC	Pobuži
+LOC	Pociems
+LOC	Podkrižna
+LOC	Podnieki
+LOC	Podrags
+LOC	Podvāze
+LOC	Podzenes
+LOC	Pogas
+LOC	Pogas ezers
+LOC	Poguļanovka
+LOC	Pogulanka
+LOC	Pogupe
+LOC	Pokāni
+LOC	Pokaiņi
+LOC	Pokas
+LOC	Pokuļleva
+LOC	Pokuļlevas ezers
+LOC	Pokumina
+LOC	Polačenki
+LOC	Poli Stacija
+LOC	Polija
+LOC	Polkaronas
+LOC	Polkas
+LOC	Polkorona
+LOC	Polvarka
+LOC	Pommi
+LOC	Ponakste
+LOC	Ponkuļi
+LOC	Pontagi
+LOC	Pope
+LOC	Pope pagasts
+LOC	Popervāle
+LOC	Popes pagasts
+LOC	Poprags
+LOC	Popsuiki
+LOC	Populis
+LOC	Pordari
+LOC	Poriņi
+LOC	Pori
+LOC	Porkaļu ezers
+LOC	Pormaļi
+LOC	Portugāle
+LOC	Poteņi
+LOC	Potrašu ezers
+LOC	Pozņakova
+LOC	Pozi
+LOC	Prīviņi
+LOC	Prūšeni
+LOC	Prūši
+LOC	Prūšukrogs
+LOC	Prūsīši
+LOC	Prauliņi
+LOC	Prauliena
+LOC	Prauliena pagasts
+LOC	Praulienas pagasts
+LOC	Praviņi
+LOC	Preiļi
+LOC	Preiļi novads
+LOC	Preiļi rajons
+LOC	Preiļu Rajons
+LOC	Preiļu novads
+LOC	Preiļu rajons
+LOC	Preiļupe
+LOC	Prekuli
+LOC	Pretīči
+LOC	Pretiči
+LOC	Prezma
+LOC	Priēdeli
+LOC	Pricimova
+LOC	Priežbogi
+LOC	Priežciems
+LOC	Prieži
+LOC	Priežkalni
+LOC	Priežmale
+LOC	Priežu sala
+LOC	Priežukalns
+LOC	Priedaiņi
+LOC	Priedaiši
+LOC	Priedaine
+LOC	Priedes
+LOC	Priedesgals
+LOC	Priedite
+LOC	Priedkalne
+LOC	Priedkalni
+LOC	Priednieki
+LOC	Priedrieki
+LOC	Prieduļi
+LOC	Priedula
+LOC	Priekšani
+LOC	Priekuļi
+LOC	Priekuļi novads
+LOC	Priekuļi pagasts
+LOC	Priekuļu novads
+LOC	Priekuļu pagasts
+LOC	Priekule
+LOC	Priekule novads
+LOC	Priekule pagasts
+LOC	Priekule pilsēta
+LOC	Priekulenu ezers
+LOC	Priekules novads
+LOC	Priekules pagasts
+LOC	Priekules pilsēta
+LOC	Prieturas Punkts Praviņi
+LOC	Prikuļi
+LOC	Prikulis
+LOC	Prinči
+LOC	Prinkas
+LOC	Prinsipi
+LOC	Pritika
+LOC	Promi
+LOC	Promulti
+LOC	Pruļi
+LOC	Pruņķēni
+LOC	Prudeniški
+LOC	Prusaki
+LOC	Pučas
+LOC	Pučurga
+LOC	Puķulapas
+LOC	Puļķkalni
+LOC	Puņķi
+LOC	Pušča
+LOC	Puščas
+LOC	Puša
+LOC	Puša pagasts
+LOC	Pušas ezers
+LOC	Pušas pagasts
+LOC	Pušmucova
+LOC	Pušmucova pagasts
+LOC	Pušmucovas pagasts
+LOC	Pubuļi
+LOC	Pudāni
+LOC	Pudinava
+LOC	Puijas
+LOC	Puikule
+LOC	Puikules Stacija
+LOC	Pujāti
+LOC	Pukšas
+LOC	Pukas
+LOC	Pulgosnis
+LOC	Pulksteņezers
+LOC	Pullēni
+LOC	Pullanu ezers
+LOC	Pumpēni
+LOC	Pumperi
+LOC	Pumpuri
+LOC	Puncilava
+LOC	Puncuļeva
+LOC	Puncuļi
+LOC	Punduri
+LOC	Punga
+LOC	Punišči
+LOC	Puni
+LOC	Puntes
+LOC	Puntuži
+LOC	Pupāji
+LOC	Pupiķi
+LOC	Puršēni
+LOC	Puršēnupe
+LOC	Puradzegūzes
+LOC	Purciems
+LOC	Pureņi pagasts
+LOC	Pureņu pagasts
+LOC	Pureni
+LOC	Purezers
+LOC	Purgaļi
+LOC	Purgaiļu purvs
+LOC	Purgaiļu ezers
+LOC	Purgali
+LOC	Puriņi
+LOC	Purlīdumi
+LOC	Purlava
+LOC	Purmaļi
+LOC	Purmsāti
+LOC	Purmuižas purvs
+LOC	Purnava
+LOC	Purniņi
+LOC	Purva ezers
+LOC	Purvakalves
+LOC	Purvciems
+LOC	Purviņi
+LOC	Purvmaļi
+LOC	Puska
+LOC	Pusstarpas
+LOC	Pusstorpas
+LOC	Pustinka
+LOC	Putāni
+LOC	Putānu Upīte
+LOC	Puteri
+LOC	Puteru ezers
+LOC	Putnene
+LOC	Putnezers
+LOC	Putniņi
+LOC	Putniņu
+LOC	Putni
+LOC	Putnu sala
+LOC	Putrāni
+LOC	Putras
+LOC	Puze
+LOC	Puze pagasts
+LOC	Puzenieki
+LOC	Puzes ezers
+LOC	Puzes pagasts
+LOC	Puzesmuiža
+LOC	Rāceņi
+LOC	Rāgazas
+LOC	Rāmava
+LOC	Rāmnieki
+LOC	Rāmuļi
+LOC	Rātnieki
+LOC	Rāva
+LOC	Rāzna ezers
+LOC	Rāznas ezers
+LOC	Rēķi
+LOC	Rēžu karjers
+LOC	Rētes
+LOC	Rēveļi
+LOC	Rēzaka
+LOC	Rēzekne
+LOC	Rēzekne novads
+LOC	Rēzekne rajons
+LOC	Rēzeknes Rajons
+LOC	Rēzeknes novads
+LOC	Rēzeknes rajons
+LOC	Rēzesciems
+LOC	Rīdzene
+LOC	Rīdznieki
+LOC	Rīga
+LOC	Rīga rajons
+LOC	Rīgas Ūdenskrātuve
+LOC	Rīgas Rajons
+LOC	Rīgas centrālā dzelzceļa stacija
+LOC	Rīgas rajons
+LOC	Rīteri
+LOC	Rītiņas
+LOC	Rīva
+LOC	Rūķēnu Ūdenskrātuve
+LOC	Rūķīši
+LOC	Rūķi
+LOC	Rūcupe
+LOC	Rūdēkas
+LOC	Rūdupe
+LOC	Rūja
+LOC	Rūjas
+LOC	Rūjas purvs
+LOC	Rūjiena
+LOC	Rūjiena novads
+LOC	Rūjiena pilsēta
+LOC	Rūjienas novads
+LOC	Rūjienas pilsēta
+LOC	Rūju dīķi
+LOC	Rūju dīķis
+LOC	Rūkas
+LOC	Rūki
+LOC	Rūmene
+LOC	Rūnēni
+LOC	Rūnas
+LOC	Rūpjupe
+LOC	Rūpnieki
+LOC	Rūsas
+LOC	Rūsiņi
+LOC	Rūstuži
+LOC	Rūte
+LOC	Rūtes
+LOC	Rūtiņi
+LOC	Rūzari
+LOC	Račeva
+LOC	Raģeļi
+LOC	Raķis
+LOC	Raķupe
+LOC	Raņķi
+LOC	Raņķi pagasts
+LOC	Raņķu pagasts
+LOC	Rabova
+LOC	Rabskaja
+LOC	Racenu ezers
+LOC	Radiki
+LOC	Radopole
+LOC	Radziņciems
+LOC	Radziņi
+LOC	Ragačovka
+LOC	Ragaciems
+LOC	Ragaiža
+LOC	Ragana
+LOC	Ragi
+LOC	Raginski
+LOC	Raguļiški
+LOC	Raiņi
+LOC	Raibāju mežs
+LOC	Raibenes
+LOC	Raibulis
+LOC	Raicene
+LOC	Raicenes ezers
+LOC	Raikas
+LOC	Raipala ezers
+LOC	Raipole
+LOC	Raiskuma ezers
+LOC	Raiskuma pagasts
+LOC	Raiskums
+LOC	Raiskums pagasts
+LOC	Rakšina
+LOC	Raksala
+LOC	Raksti
+LOC	Rakuci
+LOC	Ramata
+LOC	Ramata pagasts
+LOC	Ramatas Lielezers
+LOC	Ramatas pagasts
+LOC	Rampāni
+LOC	Rampas purvs
+LOC	Ranči
+LOC	Ranķi
+LOC	Rancāni
+LOC	Ranguči
+LOC	Ranka
+LOC	Ranka pagasts
+LOC	Rankas pagasts
+LOC	Rapši
+LOC	Rapšu ezers
+LOC	Rapas
+LOC	Rapiki
+LOC	Rasas
+LOC	Rasica
+LOC	Rasnupļi
+LOC	Ratītes
+LOC	Ratenieki
+LOC	Ratenieki Piņķi
+LOC	Ratnicēni
+LOC	Ratnieki
+LOC	Ratnieku ezers
+LOC	Raušeni
+LOC	Rauši
+LOC	Rauda
+LOC	Raudas
+LOC	Raudene
+LOC	Raudovka
+LOC	Raudziņi
+LOC	Raukupe
+LOC	Rauna
+LOC	Rauna pagasts
+LOC	Raunas ezers
+LOC	Raunas novads
+LOC	Raunas pagasts
+LOC	Raunieši
+LOC	Raunis
+LOC	Rauza
+LOC	Rauziņa
+LOC	Razsieki
+LOC	Razuvaji
+LOC	Rečņija
+LOC	Reči
+LOC	Reģe
+LOC	Reķi
+LOC	Reņģe
+LOC	Rešentnieku ezers
+LOC	Reža
+LOC	Regži
+LOC	Reiņi
+LOC	Reiņiki
+LOC	Reiņugals
+LOC	Reiki
+LOC	Reikuļi
+LOC	Reimaņi
+LOC	Reinas
+LOC	Reinati
+LOC	Reinieki
+LOC	Reizes
+LOC	Rejeva
+LOC	Reka Kizhupe
+LOC	Reka Luzhnya
+LOC	Reka Muzha
+LOC	Reka Shtede
+LOC	Rekava
+LOC	Rembate
+LOC	Rembates skola
+LOC	Remdoti
+LOC	Remeši
+LOC	Remesi
+LOC	Rempji
+LOC	Remte
+LOC	Remtes ezers
+LOC	Rencēni
+LOC	Rencēni pagasts
+LOC	Rencēnmuiža
+LOC	Rencēnu kapi
+LOC	Rencēnu pagasts
+LOC	Renceles
+LOC	Renda
+LOC	Renda pagasts
+LOC	Rendas pagasts
+LOC	Rendenieki
+LOC	Renkavičeuka
+LOC	Repšas
+LOC	Repši
+LOC	Repjakalns
+LOC	Republic of Latvia
+LOC	Republika Dominikana
+LOC	Resetnieki
+LOC	Rezekne/Grivuli
+LOC	Riču ezers
+LOC	Ribene
+LOC	Rideļi
+LOC	Rideļu Dzirnavu ezers
+LOC	Ridzene
+LOC	Riežupe
+LOC	Rieba
+LOC	Riebezers
+LOC	Riebiķi
+LOC	Riebiņas novads
+LOC	Riebiņi
+LOC	Riebiņi novads
+LOC	Riebiņu ezers
+LOC	Riebiņu novads
+LOC	Riekstenieki
+LOC	Riekstusala
+LOC	Riekte
+LOC	Riemeri
+LOC	Riepaldi
+LOC	Riepji
+LOC	Riesti
+LOC	Rietumsahāra
+LOC	Rieviņas
+LOC	Riga
+LOC	Riga Central
+LOC	Rumbula
+LOC	Riguļu karjers
+LOC	Rigzemji
+LOC	Rijnieki
+LOC	Rika
+LOC	Rikanda
+LOC	Rikava
+LOC	Rikava pagasts
+LOC	Rikavas pagasts
+LOC	Rikopole
+LOC	Rikumi
+LOC	Rimšāni
+LOC	Rimšēni
+LOC	Rimšani
+LOC	Rimši
+LOC	Rimeikas
+LOC	Rimicāni
+LOC	Rimstavas
+LOC	Rimzāti
+LOC	Rinģis
+LOC	Rinda
+LOC	Rindzele
+LOC	Rindzeles ezers
+LOC	Rinkule
+LOC	Rinuzhi
+LOC	Riteņi
+LOC	Rite
+LOC	Rite pagasts
+LOC	Riteniški
+LOC	Rites pagasts
+LOC	Riva
+LOC	Rjabova
+LOC	Ročāni
+LOC	Roči
+LOC	Roķi
+LOC	Roļi
+LOC	Roņi
+LOC	Rožanova
+LOC	Roži
+LOC	Rožkalni
+LOC	Rožu purvs
+LOC	Rožukalni
+LOC	Rožupe
+LOC	Robalts
+LOC	Robeži
+LOC	Robežkrogs
+LOC	Robežnīca
+LOC	Robežnieki
+LOC	Robežnieki pagasts
+LOC	Robežnieku pagasts
+LOC	Robezhu
+LOC	Roceži
+LOC	Rociņas
+LOC	Roci
+LOC	Rocova
+LOC	Rodžupe
+LOC	Rodavuciems
+LOC	Rodzēni
+LOC	Rogaļi
+LOC	Rogaižu ezers
+LOC	Rogoviki
+LOC	Rogovka
+LOC	Roja
+LOC	Roja novads
+LOC	Roja pagasts
+LOC	Rojas novads
+LOC	Rojas pagasts
+LOC	Rojnieki
+LOC	Rokaiži
+LOC	Rokasbirze
+LOC	Rokuļi
+LOC	Rolava
+LOC	Romeškalns
+LOC	Romuļi
+LOC	Romulīši
+LOC	Roni
+LOC	Ropaži
+LOC	Ropaži novads
+LOC	Ropažu mežs
+LOC	Ropažu novads
+LOC	Ropažu sala
+LOC	Roperbeķi
+LOC	Roplaine
+LOC	Ropmaļi
+LOC	Rosiba
+LOC	Rosica
+LOC	Rosme
+LOC	Rozēni
+LOC	Rozalina
+LOC	Rozas
+LOC	Rozenmuiža
+LOC	Rozentova
+LOC	Rozes
+LOC	Roznieki
+LOC	Rozula
+LOC	Ruģeļi
+LOC	Ruķi
+LOC	Ruļļu karjers
+LOC	Ruļeva
+LOC	Ruļuki
+LOC	Ruņģi
+LOC	Ruņa
+LOC	Rušenīca
+LOC	Ruški
+LOC	Rušona
+LOC	Rušons
+LOC	Ružas
+LOC	Ružciems
+LOC	Ruži
+LOC	Ružina
+LOC	Ružu karjers
+LOC	Ruanda
+LOC	Rubāni
+LOC	Ruba
+LOC	Ruba pagasts
+LOC	Rubas skola
+LOC	Rubas pagasts
+LOC	Rubeņi
+LOC	Rubeņsala
+LOC	Rubeži
+LOC	Rubene
+LOC	Rubene pagasts
+LOC	Rubenes pagasts
+LOC	Rubeniški
+LOC	Rubenieki
+LOC	Rubuļi
+LOC	Rucava
+LOC	Rucava novads
+LOC	Rucava pagasts
+LOC	Rucavas mežs
+LOC	Rucavas novads
+LOC	Rucavas pagasts
+LOC	Rucka
+LOC	Ruckas ezers
+LOC	Rudņa
+LOC	Rudaci
+LOC	Rudani
+LOC	Rudbārži
+LOC	Rudbārži pagasts
+LOC	Rudbāržu pagasts
+LOC	Rudbaržo mežs
+LOC	Rude
+LOC	Rudenieki
+LOC	Rudgalvji
+LOC	Rudiņeva
+LOC	Rudiņi
+LOC	Rudki
+LOC	Rudnieki
+LOC	Ruduļciems
+LOC	Ruduški
+LOC	Ruduli
+LOC	Rudzāti
+LOC	Rudzāti pagasts
+LOC	Rudzātu pagasts
+LOC	Rudzīši
+LOC	Rudziši
+LOC	Rugāji
+LOC	Rugāji pagasts
+LOC	Rugāju novads
+LOC	Rugāju pagasts
+LOC	Rugalnieku ezers
+LOC	Rukši
+LOC	Rukšu purvs
+LOC	Rukis
+LOC	Rukmaņi
+LOC	Rukstuļi
+LOC	Rumānija
+LOC	Rumba pagasts
+LOC	Rumbas
+LOC	Rumbas pagasts
+LOC	Rumbenieki
+LOC	Rumbi
+LOC	Rumnieki
+LOC	Rumpāni
+LOC	Rumpa
+LOC	Rumpju dīķis
+LOC	Runči
+LOC	Runģi
+LOC	Runci
+LOC	Rundāle
+LOC	Rundāle pagasts
+LOC	Rundāles novads
+LOC	Rundāles pagasts
+LOC	Rundēni
+LOC	Rundēni pagasts
+LOC	Rundēnu pagasts
+LOC	Rundale
+LOC	Rundanki
+LOC	Runtes
+LOC	Rupeikas
+LOC	Rupsalas
+LOC	Rupuļi
+LOC	Ruskulova
+LOC	Rusteiki
+LOC	Ruteņi
+LOC	Ruti
+LOC	Rutis
+LOC	Rutki
+LOC	Sākova
+LOC	Sāles purvs
+LOC	Sāliņi
+LOC	Sārāji
+LOC	Sārcene
+LOC	Sāreji
+LOC	Sārnate
+LOC	Sārnates purvs
+LOC	Sāruma ezers
+LOC	Sātiņi
+LOC	Sāti
+LOC	Sātikas
+LOC	Sāvāni
+LOC	Sāviena
+LOC	Sāvienas ezers
+LOC	Sēļi
+LOC	Sēļi pagasts
+LOC	Sēļu pagasts
+LOC	Sējējciems
+LOC	Sēja
+LOC	Sēja novads
+LOC	Sējas novads
+LOC	Sējatas
+LOC	Sēkas
+LOC	Sēlpils
+LOC	Sēlpils pagasts
+LOC	Sēme
+LOC	Sēme pagasts
+LOC	Sēmes ezers
+LOC	Sēmes purvs
+LOC	Sēmes pagasts
+LOC	Sērene
+LOC	Sērene pagasts
+LOC	Sērenes pagasts
+LOC	Sērmuļi
+LOC	Sērmukši
+LOC	Sētas ezers
+LOC	Sīļezers
+LOC	Sīļi
+LOC	Sīļu purvs
+LOC	Sīļupīte
+LOC	Sīkrags
+LOC	Sīkuļi
+LOC	Sīlapičas
+LOC	Sīltene
+LOC	Sīlu ezers
+LOC	Sīlukalns
+LOC	Sīpele
+LOC	Sīpoli
+LOC	Sīrija
+LOC	Sīrupi
+LOC	Sīveci
+LOC	Sīvers
+LOC	Sļaukas
+LOC	Sūbri
+LOC	Sūcu ezers
+LOC	Sūde
+LOC	Sūkava
+LOC	Sūnas
+LOC	Sūnauši
+LOC	Sūnupļava
+LOC	Sūrītes
+LOC	Saķukrogs
+LOC	Saūda Arābija
+LOC	Saamishi
+LOC	Sabdagas
+LOC	Sabile
+LOC	Sabile novads
+LOC	Sabiles novads
+LOC	Sabolinskoje
+LOC	Safari
+LOC	Safranava
+LOC	Sahāra arābs demokrātisks republika
+LOC	Sahāras Arābu Demokrātiskā Republika
+LOC	Sahalīnes dīķis
+LOC	Saides
+LOC	Saikava
+LOC	Saikavas mežs
+LOC	Saipīte
+LOC	Sakārņi
+LOC	Saka
+LOC	Saka novads
+LOC	Sakainis
+LOC	Sakas novads
+LOC	Saksmale
+LOC	Saksonija
+LOC	Sakstagala pagasts
+LOC	Sakstagals
+LOC	Sakstagals pagasts
+LOC	Salājs
+LOC	Salānieši
+LOC	Salāte
+LOC	sala
+LOC	sala novads
+LOC	sala pagasts
+LOC	Salaca
+LOC	Salaca Stacija
+LOC	Salacgrīva
+LOC	Salacgrīva novads
+LOC	Salacgrīvas novads
+LOC	Salainis
+LOC	Salas
+LOC	Salas ezers
+LOC	Salas novads
+LOC	Salas purvs
+LOC	Salas pagasts
+LOC	Salaspils
+LOC	Salaspils novads
+LOC	Salatu ezers
+LOC	Saldenieki
+LOC	Saldi
+LOC	Saldus
+LOC	Saldus Rajons
+LOC	Saldus novads
+LOC	Saldus pagasts
+LOC	Saldus pilsēta
+LOC	Saldus rajons
+LOC	Salenieki
+LOC	Saliena
+LOC	Saliena pagasts
+LOC	Salienas pagasts
+LOC	Salinieki
+LOC	Salmarāji
+LOC	Salmejs
+LOC	Salmiņi
+LOC	Salnava
+LOC	Salnava pagasts
+LOC	Salnavas pagasts
+LOC	Saloši
+LOC	Salvadora
+LOC	Samagals
+LOC	Samani
+LOC	Samiņi
+LOC	Samoa
+LOC	Sankaļi
+LOC	Sanmarino
+LOC	Santome
+LOC	Santome un Prinsipi
+LOC	Sapraša
+LOC	Sapuļi
+LOC	Saraiķi
+LOC	Sargailiški
+LOC	Sarkaņi
+LOC	Sarkaņi pagasts
+LOC	Sarkaņu pagasts
+LOC	Sarkanīte
+LOC	Sarkandaugava
+LOC	Sarkaste
+LOC	Sarnates ezers
+LOC	Sartis
+LOC	Saslauka
+LOC	Saslaukas purvs
+LOC	Sasmakas ezers
+LOC	Satiķi
+LOC	Sauļi
+LOC	Sauka
+LOC	Sauka pagasts
+LOC	Saukanti
+LOC	Saukas ezers
+LOC	Saukas pagasts
+LOC	Saulītes
+LOC	Saulaine
+LOC	Saule
+LOC	Saules purvs
+LOC	Sauleskalns
+LOC	Saulezdārzi
+LOC	Saulgoši
+LOC	Saulgrieži
+LOC	Saulkalne
+LOC	Saulkalne Stacija
+LOC	Saulkrasti
+LOC	Saulkrasti novads
+LOC	Saulkrasti pilsēta
+LOC	Saulkrastu novads
+LOC	Saulkrastu pilsēta
+LOC	Sauna
+LOC	Sauna pagasts
+LOC	Saunags
+LOC	Saunas pagasts
+LOC	Saune
+LOC	Saurieši
+LOC	Sausā Daugava
+LOC	Sausnēja
+LOC	Sausnieki
+LOC	Sausupe
+LOC	Sautīsu purvs
+LOC	Sautiņš
+LOC	Sautiņi
+LOC	Savīte
+LOC	Sava
+LOC	Savanka
+LOC	Savelenki
+LOC	Savenieki
+LOC	Saves ezers
+LOC	Seķu purvs
+LOC	Sebeži
+LOC	Sece
+LOC	Sece pagasts
+LOC	Seces pagasts
+LOC	Seda
+LOC	Seda pilsēta
+LOC	Sedas
+LOC	Sedas Tīrelis
+LOC	Sedas ezers
+LOC	Sedas pilsēta
+LOC	Sedaskalni
+LOC	Sedvini
+LOC	Segļi
+LOC	Segliņu ezers
+LOC	Segunta
+LOC	Seiļi
+LOC	Seišelu sala
+LOC	Seišelu salas
+LOC	Seimuškas
+LOC	Sekšu ezers
+LOC	Seklais ezers
+LOC	Seklis
+LOC	Seksti
+LOC	Selēku ezers
+LOC	Selamiski
+LOC	Selderiņi
+LOC	Selgas
+LOC	Selishi
+LOC	Sellīte
+LOC	Semeški
+LOC	Senegāla
+LOC	Sentkitsa
+LOC	Sentkitsa un Nevisa
+LOC	Sentlūsija
+LOC	Sentvinsenta
+LOC	Sentvinsenta un Grenadīnas
+LOC	Sepeņi
+LOC	Sepene
+LOC	Sepka
+LOC	Sepsņi
+LOC	Serbija
+LOC	Serbija un Melnkalne savienība
+LOC	Serbijas un Melnkalnes savienība
+LOC	Sermite
+LOC	Sesīle
+LOC	Sesava
+LOC	Sesava pagasts
+LOC	Sesavas ezers
+LOC	Sesavas pagasts
+LOC	Sezēres ezers
+LOC	Shenyni
+LOC	Shkede
+LOC	Shkepeli
+LOC	Shkinke
+LOC	Shteltni
+LOC	Shtibie
+LOC	Sibiļina
+LOC	Sidabra
+LOC	Sidgunda
+LOC	Sidrabe
+LOC	Sidrabene pagasts
+LOC	Sidrabenes pagasts
+LOC	Siecenieks
+LOC	Sieksāte
+LOC	Sienapurva upīte
+LOC	Siera muiža
+LOC	Sieri
+LOC	Sietiņi
+LOC	Sietnieku ezers
+LOC	Siguļi
+LOC	Sigulda
+LOC	Sigulda novads
+LOC	Siguldas ezers
+LOC	Siguldas novads
+LOC	Sikšņi
+LOC	Sikši
+LOC	Sikanči
+LOC	Sikle
+LOC	Siksala
+LOC	Silābelnieki
+LOC	Silķes
+LOC	Silaņģis
+LOC	Sila ezers
+LOC	Sila-Ūdenāni
+LOC	Silabriči
+LOC	Silabrieži
+LOC	Silaciems
+LOC	Silagals
+LOC	Silaiņi
+LOC	Silajāni
+LOC	Silakrogs
+LOC	Silamala
+LOC	Silapeteri
+LOC	Silarāji
+LOC	Silaratnieki
+LOC	Silardji
+LOC	Silavēveri
+LOC	Silavas
+LOC	Silavs
+LOC	Silazemnieki
+LOC	Silbateri
+LOC	Sildruva
+LOC	Silene
+LOC	Silenes mežs
+LOC	Silenieki
+LOC	Silenieks
+LOC	Sileskrogs
+LOC	Silgaiķi
+LOC	Silgali
+LOC	Siliņi
+LOC	Sili
+LOC	Siljāņi
+LOC	Silkāji
+LOC	Silkalēju ezers
+LOC	Silkalni
+LOC	Silkrogs
+LOC	Sillauki
+LOC	Silmači
+LOC	Silmaņi
+LOC	Silmala
+LOC	Silmala pagasts
+LOC	Silmalas
+LOC	Silmalas pagasts
+LOC	Silmuiža
+LOC	Silnieki
+LOC	Silprūši
+LOC	Sils
+LOC	Siltāji
+LOC	Silupe
+LOC	Silva
+LOC	Silvidi
+LOC	Silyni
+LOC	Simaitiški
+LOC	Simatu purvs
+LOC	Singapūra
+LOC	Sinole
+LOC	Sipji
+LOC	Sipki
+LOC	Sipoli
+LOC	Sirgumi
+LOC	Sirmie
+LOC	Siruteva
+LOC	Sise
+LOC	Siseni
+LOC	Sita
+LOC	Sivēnu ezers
+LOC	Sjerraleone
+LOC	Skārduciems
+LOC	Skērstani
+LOC	Skaņkalne
+LOC	Skaņkalne pagasts
+LOC	Skaņkalnes pagasts
+LOC	Skadeņi
+LOC	Skaidrēji
+LOC	Skaista
+LOC	Skaistas pagasts
+LOC	Skaistkalne
+LOC	Skaistkalne pagasts
+LOC	Skaistkalnes pagasts
+LOC	Skalda
+LOC	Skalde
+LOC	Skale
+LOC	Skalupes
+LOC	Skamestes
+LOC	Skandīne
+LOC	Skangaļi
+LOC	Skanuļi
+LOC	Skapsti
+LOC	Skares
+LOC	Skirnas
+LOC	Skirpan
+LOC	Sknābe
+LOC	Skoliņas
+LOC	Skrīdi
+LOC	Skrīveri
+LOC	Skrīveri pagasts
+LOC	Skrīveru novads
+LOC	Skrīveru pagasts
+LOC	Skradaļi
+LOC	Skradeļi
+LOC	Skramāni
+LOC	Skrastiņi
+LOC	Skrebeļu-Skrūzmaņu purvs
+LOC	Skreijas
+LOC	Skriča
+LOC	Skriņi
+LOC	Skribi
+LOC	Skrimbas
+LOC	Skripčina
+LOC	Skripsti
+LOC	Skrivelis
+LOC	Skrudaļiena
+LOC	Skrudaliena pagasts
+LOC	Skrudalienas pagasts
+LOC	Skrunda
+LOC	Skrunda novads
+LOC	Skrundas novads
+LOC	Skrundeniekuciems
+LOC	Skuškava
+LOC	Skubiņi
+LOC	Skudnovka
+LOC	Skudras
+LOC	Skudres
+LOC	Skujaine
+LOC	Skujas
+LOC	Skujas ezers
+LOC	Skujene
+LOC	Skujene pagasts
+LOC	Skujenes pagasts
+LOC	Skujetnieki
+LOC	Skuji
+LOC	Skuki
+LOC	Skultaromji
+LOC	Skulte
+LOC	Skulte pagasts
+LOC	Skultes
+LOC	Skultes pagasts
+LOC	Skultesmuiža
+LOC	Skundrikis
+LOC	Skurbas
+LOC	Skursteņi
+LOC	Skutāni
+LOC	Skuteļi
+LOC	Skutiņi
+LOC	Skutuļi
+LOC	Skutulas
+LOC	Slāte
+LOC	Slēperi
+LOC	Slīpači
+LOC	Slīpe
+LOC	Slītere
+LOC	Slīteri
+LOC	Slūķi
+LOC	Slūgas
+LOC	Slabada
+LOC	Slagūne
+LOC	Slakteri
+LOC	Slampe
+LOC	Slampe pagasts
+LOC	Slampes pagasts
+LOC	Slamste
+LOC	Slapjuma kalns
+LOC	Slapkina
+LOC	Slapsiles
+LOC	Slastavka
+LOC	Slaune
+LOC	Slavēka
+LOC	Slavītes
+LOC	Slavieši
+LOC	Slavites
+LOC	Sleķi
+LOC	Sleiķi
+LOC	Sleižu purvs
+LOC	Slepuri
+LOC	Sliņķi
+LOC	Sliseri
+LOC	Slobo
+LOC	Sloboda
+LOC	Slocene
+LOC	Sloka
+LOC	Slokas ezers
+LOC	Sloklejas
+LOC	Slotukalns
+LOC	Slovākija
+LOC	Slovēnija
+LOC	Sluķi
+LOC	Slujas
+LOC	Slujas ezers
+LOC	Slutiški
+LOC	Sluturi
+LOC	Smārde
+LOC	Smārde pagasts
+LOC	Smārdes Krogs
+LOC	Smārdes pagasts
+LOC	Smēdēni
+LOC	Smakupe
+LOC	Smaltāni
+LOC	Smati
+LOC	Smelcēja
+LOC	Smelteri
+LOC	Smilķi
+LOC	Smilšarāji
+LOC	Smilškrogi
+LOC	Smilšnieki
+LOC	Smilgas
+LOC	Smillaines
+LOC	Smiltene
+LOC	Smiltene novads
+LOC	Smiltene pagasts
+LOC	Smiltene pilsēta
+LOC	Smiltenes muiža
+LOC	Smiltenes novads
+LOC	Smiltenes pagasts
+LOC	Smiltenes pilsēta
+LOC	Smiltiņi
+LOC	Smiltnieki
+LOC	Smilts karjers
+LOC	Smirdgrāvis
+LOC	Smitiņi
+LOC	Smuģi
+LOC	Snēpele
+LOC	Snēpele pagasts
+LOC	Snēpeles pagasts
+LOC	Snapji
+LOC	Sniķere
+LOC	Sniķeri
+LOC	Sniedze
+LOC	Snitniki
+LOC	Sobari
+LOC	Soboļevka
+LOC	Sodenieki
+LOC	Sofikalns
+LOC	Sokas ezers
+LOC	Sokliņi
+LOC	Sokoli
+LOC	Sokolki pagasts
+LOC	Sokolku pagasts
+LOC	Sola
+LOC	Soldenieki
+LOC	Soldoni
+LOC	Sološu ezers
+LOC	Solodi
+LOC	Solominka
+LOC	Somālija
+LOC	Somersēta
+LOC	Somija
+LOC	Sonavnieki
+LOC	Sondori
+LOC	Sosnica
+LOC	Sotagu purvs
+LOC	Sovāni
+LOC	Spānija
+LOC	Spārņa ezers
+LOC	Spāre
+LOC	Spāres
+LOC	Spāres ezers
+LOC	Spēlēni
+LOC	Spēles-Ķeiri
+LOC	Spaģi
+LOC	Spaļvi
+LOC	Spaiļi
+LOC	Spailes
+LOC	Speķakrogs
+LOC	Speļģi
+LOC	Speltes
+LOC	Spiceles
+LOC	Spilvi
+LOC	Spinnis
+LOC	Spirgus
+LOC	Spisiera ezers
+LOC	Spivakiški
+LOC	Spolēni
+LOC	Spori
+LOC	Spričvecumi
+LOC	Spriņģi
+LOC	Sprices
+LOC	Spridzēni
+LOC	Sprincupe
+LOC	Sprindži
+LOC	Sprivuļu ezers
+LOC	Sproģi
+LOC	Sproģis
+LOC	Sproģu ezers
+LOC	Sprogēni
+LOC	Sprogas
+LOC	Spruževa
+LOC	Sprukuļi
+LOC	Spuņģēni
+LOC	Spuņņi
+LOC	Spuņņupe
+LOC	Spuņciems
+LOC	Spudas
+LOC	Spulģis
+LOC	Spuldzēni
+LOC	Spuldznieki purvs
+LOC	Spulgas
+LOC	Spurģi
+LOC	Spuras
+LOC	Stāķi
+LOC	Stābeģi
+LOC	Stākas
+LOC	Stāle
+LOC	Stāmeriena
+LOC	Stāmeriena pagasts
+LOC	Stāmerienas ezers
+LOC	Stāmerienas pagasts
+LOC	Stārķi
+LOC	Stērķi
+LOC	Stīgas
+LOC	Stīveri
+LOC	Stūniši
+LOC	Stūrīši
+LOC	Stūraiši
+LOC	Stūraišu kalns
+LOC	Stūriši
+LOC	Stūri
+LOC	Stūrmežs
+LOC	Stŭrišu ezers
+LOC	Staļģene
+LOC	Staļi
+LOC	Staņķu ezers
+LOC	Staņas
+LOC	Stabrauka
+LOC	Stabukrogi
+LOC	Stabulnieki
+LOC	Staburaga pagasts
+LOC	Staburags
+LOC	Staburags pagasts
+LOC	Stacija Ārdava
+LOC	Stacija Ērģeme
+LOC	Stacija Ērgļi
+LOC	Stacija Ērmīte
+LOC	Stacija Ģeidāni
+LOC	Stacija Ķeipene
+LOC	Stacija Ķemeri
+LOC	Stacija Šlītere
+LOC	Stacija Žīguri
+LOC	Stacija Aglona
+LOC	Stacija Airīte
+LOC	Stacija Aiviekste
+LOC	Stacija Aizkraukle
+LOC	Stacija Aizputes
+LOC	Stacija Akmeņdziras
+LOC	Stacija Aknīste
+LOC	Stacija Aldaune
+LOC	Stacija Almale
+LOC	Stacija Alsunga
+LOC	Stacija Amata
+LOC	Stacija Andžani
+LOC	Stacija Anuži
+LOC	Stacija Apūle
+LOC	Stacija Apgulde
+LOC	Stacija Araiši
+LOC	Stacija Atašiene
+LOC	Stacija Avikne
+LOC	Stacija Bāle
+LOC	Stacija Bārta
+LOC	Stacija Bēne
+LOC	Stacija Bērstele
+LOC	Stacija Bērzgale
+LOC	Stacija Bērzupe
+LOC	Stacija Baltava
+LOC	Stacija Balvi
+LOC	Stacija Berzini
+LOC	Stacija Biksēja
+LOC	Stacija Biksti
+LOC	Stacija Blīdene
+LOC	Stacija Brenguļi
+LOC	Stacija Brigi
+LOC	Stacija Brocēni
+LOC	Stacija Cīruļi
+LOC	Stacija Cempi
+LOC	Stacija Cena
+LOC	Stacija Cesvaine
+LOC	Stacija Cietoksnis
+LOC	Stacija Cirma
+LOC	Stacija Daudzeva
+LOC	Stacija Daugava
+LOC	Stacija Dauguļi
+LOC	Stacija Degas
+LOC	Stacija Dimzas
+LOC	Stacija Drusti
+LOC	Stacija Dubeņi
+LOC	Stacija Dubulti
+LOC	Stacija Dunalka
+LOC	Stacija Durbe
+LOC	Stacija Dzērbene
+LOC	Stacija Dzērvīte
+LOC	Stacija Dzērve
+LOC	Stacija Dzelzava
+LOC	Stacija Eglaine
+LOC	Stacija Elšķene
+LOC	Stacija Elkuzeme
+LOC	Stacija Elste
+LOC	Stacija Gaigala
+LOC	Stacija Galvari
+LOC	Stacija Gardene
+LOC	Stacija Garoza
+LOC	Stacija Gavieze
+LOC	Stacija Glūda
+LOC	Stacija Iča
+LOC	Stacija Idus
+LOC	Stacija Ilūkste
+LOC	Stacija Ilmāja
+LOC	Stacija Ilzēni
+LOC	Stacija Imante
+LOC	Stacija Indiņi
+LOC	Stacija Ipiķi
+LOC	Stacija Istalsna
+LOC	Stacija Ivande
+LOC	Stacija Izvalda
+LOC	Stacija Jāņaparks
+LOC	Stacija Jāņukrogs
+LOC	Stacija Jēči
+LOC	Stacija Jaungulbene
+LOC	Stacija Jaunkalsnava
+LOC	Stacija Jaunvāle
+LOC	Stacija Jodeļi
+LOC	Stacija Josta
+LOC	Stacija Kārpa
+LOC	Stacija Kārsava
+LOC	Stacija Kūkas
+LOC	Stacija Kaleti
+LOC	Stacija Kalniena
+LOC	Stacija Kalsnava
+LOC	Stacija Kalvene
+LOC	Stacija Kamalda
+LOC	Stacija Kandava
+LOC	Stacija Kapsēde
+LOC	Stacija Kapune
+LOC	Stacija Kastrāne
+LOC	Stacija Kazbari
+LOC	Stacija Kocēni
+LOC	Stacija Krāce
+LOC	Stacija Krāslava
+LOC	Stacija Krogzemji
+LOC	Stacija Kurči
+LOC	Stacija Kurcums
+LOC	Stacija Kursa
+LOC	Stacija Lāčkalns
+LOC	Stacija Līči
+LOC	Stacija Līčupe
+LOC	Stacija Līgciems
+LOC	Stacija Līvbērze
+LOC	Stacija Lašupe
+LOC	Stacija Laidze
+LOC	Stacija Lazdukalns
+LOC	Stacija Litene
+LOC	Stacija Lizums
+LOC	Stacija Lode
+LOC	Stacija Lonaste
+LOC	Stacija Lone
+LOC	Stacija Luba
+LOC	Stacija Lugaži
+LOC	Stacija Lutriņi
+LOC	Stacija Mālukrogs
+LOC	Stacija Māteri
+LOC	Stacija Malnava
+LOC	Stacija Malta
+LOC	Stacija Mauri
+LOC	Stacija Meļļi
+LOC	Stacija Mežāre
+LOC	Stacija Mežaine
+LOC	Stacija Mežapostenis
+LOC	Stacija Mežgravas
+LOC	Stacija Medupe
+LOC	Stacija Medze
+LOC	Stacija Meirāni
+LOC	Stacija Meitene
+LOC	Stacija Melnupe
+LOC	Stacija Narvaiši
+LOC	Stacija Naujene
+LOC	Stacija Naukšēni
+LOC	Stacija Nirza
+LOC	Stacija Nometne
+LOC	Stacija Nora
+LOC	Stacija Ogsils
+LOC	Stacija Olaine
+LOC	Stacija Omuļi
+LOC	Stacija Ozolsala
+LOC	Stacija Pāce
+LOC	Stacija Pļava
+LOC	Stacija Pūpoli
+LOC	Stacija Pūre
+LOC	Stacija Padone
+LOC	Stacija Padure
+LOC	Stacija Pakalnieši
+LOC	Stacija Paparde
+LOC	Stacija Paplaka
+LOC	Stacija Pastende
+LOC	Stacija Pedele
+LOC	Stacija Pendiga
+LOC	Stacija Piebalga
+LOC	Stacija Piksari
+LOC	Stacija Plātere
+LOC	Stacija Platone
+LOC	Stacija Plintiņi
+LOC	Stacija Pope
+LOC	Stacija Popvāle
+LOC	Stacija Prauliena
+LOC	Stacija Priedaine
+LOC	Stacija Priekule
+LOC	Stacija Pureņi
+LOC	Stacija Puze
+LOC	Stacija Rāmuli
+LOC	Stacija Rāva
+LOC	Stacija Rēzekne Otrā
+LOC	Stacija Rēzekne Pirmā
+LOC	Stacija Rīva
+LOC	Stacija Rūjiena
+LOC	Stacija Radze
+LOC	Stacija Ranka
+LOC	Stacija Reņģe
+LOC	Stacija Rempi
+LOC	Stacija Rimšani
+LOC	Stacija Rinda
+LOC	Stacija Roja
+LOC	Stacija Roplaiņi
+LOC	Stacija Rudbārži
+LOC	Stacija Rudiķi
+LOC	Stacija Sārcene
+LOC	Stacija Sēlpils
+LOC	Stacija Sīkrags
+LOC	Stacija Sabile
+LOC	Stacija Saka
+LOC	Stacija Salas
+LOC	Stacija Saldus
+LOC	Stacija Sauka
+LOC	Stacija Saule
+LOC	Stacija Sece
+LOC	Stacija Seda
+LOC	Stacija Sergunta
+LOC	Stacija Sesava
+LOC	Stacija Sieksāte
+LOC	Stacija Siliņi
+LOC	Stacija Sita
+LOC	Stacija Slāte
+LOC	Stacija Slampe
+LOC	Stacija Sloka
+LOC	Stacija Smārde
+LOC	Stacija Spāre
+LOC	Stacija Spīgana
+LOC	Stacija Staldzene
+LOC	Stacija Stariņi
+LOC	Stacija Stende
+LOC	Stacija Stirna
+LOC	Stacija Stirniene
+LOC	Stacija Strazdiņi
+LOC	Stacija Stružāni
+LOC	Stacija Sunākste
+LOC	Stacija Susēja
+LOC	Stacija Susta
+LOC	Stacija Sventa
+LOC	Stacija Tadaiķi
+LOC	Stacija Taurupe
+LOC	Stacija Tirza
+LOC	Stacija Tore
+LOC	Stacija Tosmare
+LOC	Stacija Trepe
+LOC	Stacija Tukums Otrais
+LOC	Stacija Tukums Pirmais
+LOC	Stacija Užava
+LOC	Stacija Ubeja
+LOC	Stacija Umernieki
+LOC	Stacija Upenieki
+LOC	Stacija Uriekste
+LOC	Stacija Usma
+LOC	Stacija Vārnava
+LOC	Stacija Vārtāja
+LOC	Stacija Vērgale
+LOC	Stacija Vīksna
+LOC	Stacija Vabole
+LOC	Stacija Vadakste
+LOC	Stacija Vaidava
+LOC	Stacija Vainode
+LOC	Stacija Vandzene
+LOC	Stacija Varakļāni
+LOC	Stacija Varve
+LOC	Stacija Vatrāne
+LOC	Stacija Vecumi
+LOC	Stacija Ventspils Otrais
+LOC	Stacija Višķi
+LOC	Stacija Vidsala
+LOC	Stacija Viganti
+LOC	Stacija Virķēni
+LOC	Stacija Visgaļi
+LOC	Stacija Zūras
+LOC	Stacija Zaķi
+LOC	Stacija Zaļumi
+LOC	Stacija Zilaiskalns
+LOC	Stacija Zvāre
+LOC	Stadelnieki
+LOC	Stagari
+LOC	Staicele
+LOC	Stakles purvs
+LOC	Stalānā Liepāni
+LOC	Stalīdzāni
+LOC	Stalbe
+LOC	Stalbe pagasts
+LOC	Stalbes pagasts
+LOC	Staldzene
+LOC	Stalidzāni
+LOC	Stalis
+LOC	Staltaiskrogs
+LOC	Stalti
+LOC	Stampaku purvs
+LOC	Stampupe
+LOC	Stanģi
+LOC	Stankeviči
+LOC	Staprāni
+LOC	Stari
+LOC	Staroščiki
+LOC	Starpiņas
+LOC	Stars
+LOC	Starti
+LOC	Startukrogs
+LOC	Stautiņi
+LOC	Steķi
+LOC	Steķinava
+LOC	Steinfelde
+LOC	Stelpe
+LOC	Stelpe pagasts
+LOC	Stelpes pagasts
+LOC	Stenģi
+LOC	Stende
+LOC	Stende pilsēta
+LOC	Stendes pilsēta
+LOC	Steperu purvs
+LOC	Stepiņi
+LOC	Stepji
+LOC	Stiebri
+LOC	Stiene
+LOC	Stierķi
+LOC	Stikani
+LOC	Stikli
+LOC	Stilbs
+LOC	Stilmji
+LOC	Stimbināja
+LOC	Stipas
+LOC	Stirna
+LOC	Stirnas
+LOC	Stirnas ezers
+LOC	Stirnezers
+LOC	Stirniene
+LOC	Stirnu purvs
+LOC	Stirnurags
+LOC	Stoļerova
+LOC	Stoļerova pagasts
+LOC	Stoļerovas pagasts
+LOC	Stokas
+LOC	Stoki
+LOC	Stolbovi
+LOC	Stoli
+LOC	Stopēni
+LOC	Stopiņi
+LOC	Stopiņi novads
+LOC	Stopiņu novads
+LOC	Stoponi
+LOC	Strāļas
+LOC	Strēļi
+LOC	Strēbeles
+LOC	Strēli
+LOC	Strēlnieki
+LOC	Strēlnieks
+LOC	Strīķi
+LOC	Strīķupe
+LOC	Strīki
+LOC	Strīkupe
+LOC	Strūdzinieki
+LOC	Stražnieki
+LOC	Strabakas
+LOC	Stradži
+LOC	Stradiški
+LOC	Stradi
+LOC	Stradi pagasts
+LOC	Stradu pagasts
+LOC	Strakši
+LOC	Stranta
+LOC	Strante
+LOC	Strauja
+LOC	Straujupes
+LOC	Straumēni
+LOC	Straume
+LOC	Straumes
+LOC	Straupciema kakts
+LOC	Straupciems
+LOC	Straupe
+LOC	Straupe pagasts
+LOC	Straupes pagasts
+LOC	Strautiķi
+LOC	Strautiņi
+LOC	Strauti
+LOC	Strautini
+LOC	Strautkalni
+LOC	Strautnieki
+LOC	Strazde
+LOC	Strazde pagasts
+LOC	Strazdes pagasts
+LOC	Strazdiņi
+LOC	Strazdi
+LOC	Strazdini
+LOC	Strazdumuiža
+LOC	Streijas
+LOC	Strenči
+LOC	Strenči novads
+LOC	Strenči pilsēta
+LOC	Strenču novads
+LOC	Strenču pilsēta
+LOC	Strenci mežs
+LOC	Striķi
+LOC	Strikaiši
+LOC	Strikeles
+LOC	Stroķi
+LOC	Strobi
+LOC	Strodi
+LOC	Strojas-Aizupji
+LOC	Strojas-Andersoni
+LOC	Stroles
+LOC	Stropi
+LOC	Stropu ezers
+LOC	Struņķi
+LOC	Stružāni
+LOC	Stružāni pagasts
+LOC	Stružānu pagasts
+LOC	Struki
+LOC	Strumpi
+LOC	Strupiķi
+LOC	Strutele
+LOC	Stuķi
+LOC	Stuļģi
+LOC	Stubas
+LOC	Stuborova
+LOC	Stukmaņi
+LOC	Stukmani
+LOC	Stulvju purvs
+LOC	Stundas
+LOC	Stunguri
+LOC	Stupes
+LOC	Sturišķi
+LOC	Sturi
+LOC	Sturishi
+LOC	Sturmani
+LOC	Stutki
+LOC	Suļagoļa purvs
+LOC	Suņustepi
+LOC	Sušķi
+LOC	Suži
+LOC	Subatas ezers
+LOC	Subate
+LOC	Subinaite
+LOC	Subji
+LOC	Suces
+LOC	Sudāna
+LOC	Suda
+LOC	Sudala ezers
+LOC	Sudaliņa
+LOC	Sudarbe
+LOC	Sudas purvs
+LOC	Sudmaļi
+LOC	Sudmalkalni
+LOC	Sudmalkrogs
+LOC	Sudrabezers
+LOC	Sudrabkalni
+LOC	Sudrabkalns
+LOC	Sukteri
+LOC	Sukturi
+LOC	Sukurs
+LOC	Sumanka
+LOC	Sumeinieki
+LOC	Sumkova
+LOC	Sumragi
+LOC	Sumulda
+LOC	Sunākste
+LOC	Sunākste pagasts
+LOC	Sunākstes pagasts
+LOC	Sunīši
+LOC	Sunīte
+LOC	Suniši
+LOC	Sunišu ezers
+LOC	Suntaži
+LOC	Suntaži pagasts
+LOC	Suntažu pagasts
+LOC	Supenka
+LOC	Superdente
+LOC	Surbel
+LOC	Surikava
+LOC	Surikova
+LOC	Surinama
+LOC	Susāji
+LOC	Susāji pagasts
+LOC	Susāju pagasts
+LOC	Susēja
+LOC	Susejas
+LOC	Susekļi
+LOC	Susta
+LOC	Suste
+LOC	Sustenieki
+LOC	Suti
+LOC	Sutri
+LOC	Sutri pagasts
+LOC	Sutru pagasts
+LOC	Suvainiškio Pelkė
+LOC	Svātavas ezers
+LOC	Svātova
+LOC	Svēpaine
+LOC	Svētaine
+LOC	Svētciems
+LOC	Svēte
+LOC	Svēte pagasts
+LOC	Svētes
+LOC	Svētes ezers
+LOC	Svētes pagasts
+LOC	Svētiņi
+LOC	Svētunes ezers
+LOC	Svētupe
+LOC	Svīķi
+LOC	Svītes
+LOC	Svaki
+LOC	Svarīte
+LOC	Svariņi pagasts
+LOC	Svariņu pagasts
+LOC	Svari
+LOC	Svarinci
+LOC	Svataune
+LOC	Svazilenda
+LOC	Sveķi
+LOC	Svehte
+LOC	Svenči
+LOC	Svente pagasts
+LOC	Sventes
+LOC	Sventes ezers
+LOC	Sventes mežs
+LOC	Sventes pagasts
+LOC	Sventi
+LOC	Svete Stacija
+LOC	Sveteny
+LOC	Svetlica
+LOC	Sviļi
+LOC	Sviļu ezers
+LOC	Sviestiņi
+LOC	Svika
+LOC	Svileva
+LOC	Svilpava
+LOC	Svilpova
+LOC	Sviriņi
+LOC	Svirkale
+LOC	Svitene
+LOC	Svitene pagasts
+LOC	Svitenes pagasts
+LOC	Tāši
+LOC	Tāšu ezers
+LOC	Tāšu-Padure
+LOC	Tābori
+LOC	Tālavieši
+LOC	Tāleji
+LOC	Tālzemji
+LOC	Tārgale
+LOC	Tārgale pagasts
+LOC	Tārgales pagasts
+LOC	Tārgaleskrogs
+LOC	Tēranda
+LOC	Tēraudi
+LOC	Tērpes ezers
+LOC	Tērvete
+LOC	Tērvete novads
+LOC	Tērvetes novads
+LOC	Tētītes
+LOC	Tēveņi
+LOC	Tīdas
+LOC	Tīle
+LOC	Tīls
+LOC	Tīmaņi
+LOC	Tīraine
+LOC	Tīrais purvs
+LOC	Tīreļa purvs
+LOC	Tīreļi
+LOC	Tīriņi
+LOC	Tīrpurs
+LOC	Tīrukšu ezers
+LOC	Tīrumbaltgalvji
+LOC	Tīsas
+LOC	Tūļi
+LOC	Tūjāni
+LOC	Tūja
+LOC	Tūjas ezers
+LOC	Tūjasmuiža
+LOC	Tūkumi
+LOC	Tūmuži
+LOC	Taču Ezeri
+LOC	Tašķēni
+LOC	Tabore
+LOC	Tabore pagasts
+LOC	Tabores pagasts
+LOC	Tadžikistāna
+LOC	Tadaiķi
+LOC	Tadaines mežs
+LOC	Tadenava
+LOC	Taivāna
+LOC	Taizeme
+LOC	Taizeme karaliste
+LOC	Taizemes Karaliste
+LOC	Talči
+LOC	Talejas ezers
+LOC	Talsciems
+LOC	Talsi
+LOC	Talsi novads
+LOC	Talsi pilsēta
+LOC	Talsi rajons
+LOC	Talsnieki
+LOC	Talsu Rajons
+LOC	Talsu novads
+LOC	Talsu pilsēta
+LOC	Talsu rajons
+LOC	Tanzānija
+LOC	Taperi
+LOC	Tarčilova
+LOC	Taržeķi
+LOC	Tartaka
+LOC	Tartaki
+LOC	Tarupe
+LOC	Tastumi
+LOC	Tauņu ezers
+LOC	Tauši
+LOC	Taudejāņi
+LOC	Taukuļi
+LOC	Taunaga
+LOC	Taunaga-Strūžānu purvs
+LOC	Taurene
+LOC	Taurene pagasts
+LOC	Taurenes pagasts
+LOC	Taures purvs
+LOC	Taureskalns
+LOC	Tauriņu ezers
+LOC	Taurkalne
+LOC	Taurkalni
+LOC	Taurupe
+LOC	Taurupe pagasts
+LOC	Taurupes pagasts
+LOC	Taurupi
+LOC	Teņņi
+LOC	Teņi
+LOC	Tebra
+LOC	Tebras
+LOC	Tecēni
+LOC	Teiči
+LOC	Teiļi
+LOC	Teicija
+LOC	Teilāni
+LOC	Teimas
+LOC	Teitupīte
+LOC	Teitupnieki
+LOC	Tekuši
+LOC	Teležņiki
+LOC	Telvieši
+LOC	Tempji
+LOC	Tempkalns
+LOC	Tepenīca
+LOC	Tepenīcas ezers
+LOC	Tereški
+LOC	Tereškova
+LOC	Terechova
+LOC	Terehova
+LOC	Tereki
+LOC	Terende
+LOC	Tervidāni
+LOC	Tetele
+LOC	Tetele Stacija
+LOC	Teter-Liekņi
+LOC	Teteri
+LOC	Teterkalna-Mucenieku purvs
+LOC	Teterupe
+LOC	Teveņāni
+LOC	Tiļi
+LOC	Tiņģere
+LOC	Tidas
+LOC	Tiegaži
+LOC	Tiepele
+LOC	Tierķi
+LOC	Tigas
+LOC	Tikaiņi
+LOC	Tikmani
+LOC	Tilāni
+LOC	Tilža
+LOC	Tilža pagasts
+LOC	Tilžas ezers
+LOC	Tilžas pagasts
+LOC	Tilgaļi
+LOC	Tilgaiļi
+LOC	Tili
+LOC	Tilika-Tecēnu purvs
+LOC	Tilkas
+LOC	Tilleri
+LOC	Tilmaņi
+LOC	Tiltagals
+LOC	Tiltakrogs
+LOC	Tiltarāji
+LOC	Tiltiņi
+LOC	Tilti
+LOC	Tiltova
+LOC	Tiltusloboda
+LOC	Timšāni
+LOC	Timašiški
+LOC	Timbas ezers
+LOC	Timbri
+LOC	Timmaji
+LOC	Timmas
+LOC	Tirais purvs
+LOC	Tiras purvs
+LOC	Tiruļi
+LOC	Tirumskanuļi
+LOC	Tirza
+LOC	Tirza pagasts
+LOC	Tirzas pagasts
+LOC	Tirziņa
+LOC	Tirzieši
+LOC	Tirznieki
+LOC	Tisas
+LOC	Tishe
+LOC	Tishi
+LOC	Tiskādi
+LOC	Tiskade
+LOC	Tiskatu ezers
+LOC	Titi
+LOC	Titova
+LOC	Tivlevi
+LOC	Tjapši
+LOC	Tožas
+LOC	Tožiņi
+LOC	Tobago
+LOC	Toce
+LOC	Togo
+LOC	Tojātkalni
+LOC	Tolka
+LOC	Tomaņi
+LOC	Tomaiši
+LOC	Tome
+LOC	Tomiņi
+LOC	Tomi
+LOC	Tompēteris
+LOC	Tomu-Lāmas
+LOC	Tones
+LOC	Tonga
+LOC	Tonga karaliste
+LOC	Tongas Karaliste
+LOC	Topciems
+LOC	Torņakalns
+LOC	Torfa purvs
+LOC	Torkova
+LOC	Torpāni
+LOC	Tosele
+LOC	Tosmares ezers
+LOC	Trīsciems
+LOC	Trakši
+LOC	Trakshi
+LOC	Tranava
+LOC	Trapene
+LOC	Trapene pagasts
+LOC	Trapenes pagasts
+LOC	Treidas
+LOC	Treiji
+LOC	Trenči
+LOC	Treuhi
+LOC	Trikāta
+LOC	Trikāta pagasts
+LOC	Trikātas pagasts
+LOC	Trikopci
+LOC	Trinidada
+LOC	Trinidada un Tobago
+LOC	Trizelnieki
+LOC	Troškas
+LOC	Troški
+LOC	Trokšņi
+LOC	Tronišhi
+LOC	Tropmači
+LOC	Trušļi
+LOC	Trulis
+LOC	Trumpe
+LOC	Trumpji
+LOC	Truseni
+LOC	Tseyedi
+LOC	Tuči
+LOC	Tušķi
+LOC	Tuchi
+LOC	Tukuma Dīķsaimniecības Komplekss
+LOC	Tukuma Rajons
+LOC	Tukuma novads
+LOC	Tukuma pilsēta
+LOC	Tukuma rajons
+LOC	Tukums
+LOC	Tukums novads
+LOC	Tukums pilsēta
+LOC	Tukums rajons
+LOC	Tulči
+LOC	Tulija
+LOC	Tulivka
+LOC	Tumši
+LOC	Tumšupe
+LOC	Tume
+LOC	Tume Stacija
+LOC	Tume pagasts
+LOC	Tumes
+LOC	Tumes pagasts
+LOC	Tunisija
+LOC	Tupetāji
+LOC	Tupiešēni
+LOC	Tupuļi
+LOC	Turšino
+LOC	Turaida
+LOC	Turaidas skola
+LOC	Turcija
+LOC	Turkalne
+LOC	Turki
+LOC	Turkmenistāna
+LOC	Turkmuiža
+LOC	Turlava
+LOC	Turlava pagasts
+LOC	Turlavas pagasts
+LOC	Turna
+LOC	Tutiķi
+LOC	Tutinava
+LOC	Tuvalu
+LOC	Uķenieki
+LOC	Uļitas
+LOC	Uļjanova
+LOC	Ušāni
+LOC	Uša
+LOC	Ušiņu kakts
+LOC	Uši
+LOC	Ušpeli
+LOC	Ušurs
+LOC	Ušurupe
+LOC	Užava
+LOC	Užava Pļava
+LOC	Užava pagasts
+LOC	Užavas pagasts
+LOC	Užuna ezers
+LOC	Ubagava
+LOC	Udrani
+LOC	Udri
+LOC	Udrila
+LOC	Udze
+LOC	Ugāle
+LOC	Ugāle pagasts
+LOC	Ugāles pagasts
+LOC	Uganda
+LOC	Uguņi
+LOC	Uguņu ezers
+LOC	Ugunu Gatviņi
+LOC	Ukraina
+LOC	Ukri
+LOC	Ukri pagasts
+LOC	Ukru pagasts
+LOC	Ulbroka
+LOC	Ules
+LOC	Ulmale
+LOC	Umernieki
+LOC	Ummis
+LOC	Ummuru ezers
+LOC	Umurga
+LOC	Umurga pagasts
+LOC	Umurgas pagasts
+LOC	Unģenurga
+LOC	Ungārija
+LOC	Ungēni
+LOC	Ungura ezers
+LOC	Unguriņi
+LOC	Unguri
+LOC	Ungurpils
+LOC	Ungurpils Dvirnavezers
+LOC	Unguru purvs
+LOC	Unturi
+LOC	Upēni
+LOC	Upēsmuiža
+LOC	Upīši
+LOC	Upītes
+LOC	Upatnieki
+LOC	Upatu purvs
+LOC	Upenieki
+LOC	Upes Plūģi
+LOC	Upesbērģi
+LOC	Upesciems
+LOC	Upesgrīva
+LOC	Upesjāņi
+LOC	Upeslejas
+LOC	Upesmuiža
+LOC	Upji
+LOC	Upmaļciems
+LOC	Upmaļi
+LOC	Upmala
+LOC	Upmalas
+LOC	Upnieki
+LOC	Urļi
+LOC	Urga
+LOC	Uriekste
+LOC	Urkernieki
+LOC	Urugvaja
+LOC	Usaiķukrogs
+LOC	Usaru ezers
+LOC	Usma
+LOC	Usma pagasts
+LOC	Usmas ezers
+LOC	Usmas pagasts
+LOC	Usmenieki
+LOC	Ustauleas ezers
+LOC	Ustinova
+LOC	Ustje
+LOC	Ustroni
+LOC	Uzbāži
+LOC	Uzbekistāna
+LOC	Uzdari
+LOC	Uziņi
+LOC	Uzuru
+LOC	Vāģi
+LOC	Vāņi
+LOC	Vācieši
+LOC	Vācija
+LOC	Vācukalni
+LOC	Vādzeres
+LOC	Vākšēni
+LOC	Vāle
+LOC	Vālodzes
+LOC	Vāne
+LOC	Vāne pagasts
+LOC	Vānes pagasts
+LOC	Vārdupes
+LOC	Vārkava
+LOC	Vārkava novads
+LOC	Vārkava pagasts
+LOC	Vārkavas novads
+LOC	Vārkavas pagasts
+LOC	Vārme
+LOC	Vārme pagasts
+LOC	Vārmes pagasts
+LOC	Vārnas
+LOC	Vārnava
+LOC	Vārniņi
+LOC	Vārniene
+LOC	Vārnu Krogs
+LOC	Vārpa
+LOC	Vārpani
+LOC	Vārpas
+LOC	Vārpiņi
+LOC	Vārtāja
+LOC	Vārve
+LOC	Vārve pagasts
+LOC	Vārves pagasts
+LOC	Vārzas
+LOC	Vārzgūnes ezers
+LOC	Vāveres ezers
+LOC	Vāveri
+LOC	Vāverkrogs
+LOC	Vēciņi
+LOC	Vēdas
+LOC	Vēderiņi
+LOC	Vēderis
+LOC	Vēdes
+LOC	Vēdzele
+LOC	Vēga
+LOC	Vēiži
+LOC	Vējava
+LOC	Vējiņi
+LOC	Vēji
+LOC	Vējstūri
+LOC	Vējzaķa sala
+LOC	Vēkas
+LOC	Vērēmi
+LOC	Vērēmi pagasts
+LOC	Vērēmu pagasts
+LOC	Vērģupe
+LOC	Vērši
+LOC	Vēršupīte
+LOC	Vērdiņi
+LOC	Vērene
+LOC	Vērene purvs
+LOC	Vērenes purvs
+LOC	Vērgale
+LOC	Vērgale pagasts
+LOC	Vērgales pagasts
+LOC	Vēri
+LOC	Vērpji
+LOC	Vērsīši
+LOC	Vērsis
+LOC	Vērteža
+LOC	Vētraine
+LOC	Vētras
+LOC	Vēveri
+LOC	Vīķi ezers
+LOC	Vīķu ezers
+LOC	Vībiņi
+LOC	Vīburi
+LOC	Vīdale
+LOC	Vīgante
+LOC	Vīganti
+LOC	Vīgas
+LOC	Vīkšņi
+LOC	Vīksele
+LOC	Vīkseles
+LOC	Vīkslas ezers
+LOC	Vīksna
+LOC	Vīksna pagasts
+LOC	Vīksnas
+LOC	Vīksnas pagasts
+LOC	Vīksnes
+LOC	Vīlande
+LOC	Vīndedži
+LOC	Vīnkalni
+LOC	Vīntapu Ezeri
+LOC	Vīpe
+LOC	Vīpe pagasts
+LOC	Vīpes pagasts
+LOC	Vīrdangas
+LOC	Vītiņi
+LOC	Vītiņi pagasts
+LOC	Vītiņu pagasts
+LOC	Vītoļi
+LOC	Vītoliņi
+LOC	Vītoli
+LOC	Vīzenti
+LOC	VEF-Skulte
+LOC	Vaņķi
+LOC	Vašlejas purvs
+LOC	Vabole
+LOC	Vabole pagasts
+LOC	Vaboles pagasts
+LOC	Vadži
+LOC	Vadainis
+LOC	Vadakste
+LOC	Vadakste pagasts
+LOC	Vadakstes pagasts
+LOC	Vadakstis
+LOC	Vadiņas
+LOC	Vagaļi
+LOC	Vaglāni
+LOC	Vaguļu ezers
+LOC	Vagulāni
+LOC	Vaiņode
+LOC	Vaiņode novads
+LOC	Vaiņode pagasts
+LOC	Vaiņodes muiža
+LOC	Vaiņodes novads
+LOC	Vaiņodes pagasts
+LOC	Vaišļi
+LOC	Vaicļujeva
+LOC	Vaidava
+LOC	Vaidava pagasts
+LOC	Vaidavas ezers
+LOC	Vaidavas pagasts
+LOC	Vaide
+LOC	Vaideri
+LOC	Vaiki
+LOC	Vaikulāni
+LOC	Vainagi
+LOC	Vainas
+LOC	Vainiži
+LOC	Vainižu dīķi
+LOC	Vainode
+LOC	Vainova
+LOC	Vairogi
+LOC	Vaiteļeva
+LOC	Vaivari
+LOC	Vaive
+LOC	Vaive pagasts
+LOC	Vaives
+LOC	Vaives pagasts
+LOC	Vaivodi
+LOC	Valāta
+LOC	Valšķi
+LOC	Valža ezers
+LOC	Valaki
+LOC	Valda
+LOC	Valdeķi
+LOC	Valde
+LOC	Valdeikas
+LOC	Valdemārpils
+LOC	Valdemārpils pilsēta
+LOC	Valdenburga
+LOC	Valdgale
+LOC	Valdgale pagasts
+LOC	Valdgales pagasts
+LOC	Valenburga
+LOC	Valevas mežs
+LOC	Valgalciems
+LOC	Valgale
+LOC	Valguma ezers
+LOC	Valgunde
+LOC	Valgunde novads
+LOC	Valgundes Ciems
+LOC	Valgundes Klosteris
+LOC	Valgundes novads
+LOC	Valka
+LOC	Valka novads
+LOC	Valka pagasts
+LOC	Valka pilsēta
+LOC	Valka rajons
+LOC	Valkas Rajons
+LOC	Valkas novads
+LOC	Valkas pagasts
+LOC	Valkas pilsēta
+LOC	Valkas rajons
+LOC	Valki
+LOC	Valle
+LOC	Valle pagasts
+LOC	Valles pagasts
+LOC	Valmiera
+LOC	Valmiera novads
+LOC	Valmiera pagasts
+LOC	Valmiera rajons
+LOC	Valmieras Rajons
+LOC	Valmieras novads
+LOC	Valmieras pagasts
+LOC	Valmieras rajons
+LOC	Valmierkrogs
+LOC	Valmiermuiža
+LOC	Valodina
+LOC	Valola
+LOC	Valpene
+LOC	Valtaiķi
+LOC	Valteķi
+LOC	Valteri
+LOC	Vanadziņi
+LOC	Vanagi
+LOC	Vanagpurvs
+LOC	Vanagu purvs
+LOC	Vandāni
+LOC	Vandzene
+LOC	Vandzene pagasts
+LOC	Vandzenes pagasts
+LOC	Vangaži
+LOC	Vangaži pilsēta
+LOC	Vangažu pilsēta
+LOC	Vanga
+LOC	Vangstrēbēji
+LOC	Vanka
+LOC	Vanuatu
+LOC	Varči
+LOC	Varķi
+LOC	Varšava
+LOC	Varakļāni
+LOC	Varakļāni novads
+LOC	Varakļāni pagasts
+LOC	Varakļāni pilsēta
+LOC	Varakļānu novads
+LOC	Varakļānu pagasts
+LOC	Varakļānu pilsēta
+LOC	Vareiki
+LOC	Variņi
+LOC	Variņi pagasts
+LOC	Variņu pagasts
+LOC	Varieši
+LOC	Varieši pagasts
+LOC	Variešu pagasts
+LOC	Varieba
+LOC	Varkaļi
+LOC	Varkava
+LOC	Varnaviči
+LOC	Varnaviču ezers
+LOC	Varobka
+LOC	Vartulova
+LOC	Varusha
+LOC	Vasaraja ezers
+LOC	Vasenieku purvs
+LOC	Vaskaris
+LOC	Vaski
+LOC	Vatikāns
+LOC	Vatrāne
+LOC	Vaureji
+LOC	Vauznieki
+LOC	Veģeri
+LOC	Veģeris
+LOC	Veģi
+LOC	Veģu dīķi
+LOC	Veģupīte
+LOC	Veļķi
+LOC	Veļas
+LOC	Veļi
+LOC	Veženķi
+LOC	Vecāķi
+LOC	Vecāmuiža
+LOC	Vecķeipene
+LOC	Vecšķērpiņi
+LOC	Vec-Liepāja
+LOC	Vecaduliena
+LOC	Vecaičas
+LOC	Vecanna
+LOC	Vecannahitte
+LOC	Vecapsītes
+LOC	Vecapsalas
+LOC	Vecaraji
+LOC	Vecate
+LOC	Vecauce
+LOC	Vecbāta
+LOC	Vecbērģi
+LOC	Vecbērze
+LOC	Vecbebri
+LOC	Vecbirzaki
+LOC	Vecborisova
+LOC	Vecborna
+LOC	Vecbrodi
+LOC	Vecceplīši
+LOC	Vecciems
+LOC	Vecdēles
+LOC	Vecdaugava
+LOC	Vecdoles
+LOC	Vecdome
+LOC	Vecdori
+LOC	Vecdzegūzes
+LOC	Veceļi
+LOC	Vecezers
+LOC	Vecgaiķi
+LOC	Vecgailumi
+LOC	Vecieres
+LOC	Vecjāņi
+LOC	Vecjēreni
+LOC	Vecjetes
+LOC	Vecjunkuri
+LOC	Veckārķi
+LOC	Veckalēji
+LOC	Veckalsnava
+LOC	Vecklintis
+LOC	Veckroģeļi
+LOC	Veckrogi
+LOC	Veckrogzemnieki
+LOC	Veckušķi
+LOC	Veckuprava
+LOC	Veclīkupēni
+LOC	Veclaicene
+LOC	Veclaicene pagasts
+LOC	Veclaicenes pagasts
+LOC	Veclucas
+LOC	Vecmāči
+LOC	Vecmājas
+LOC	Vecmārtiņi
+LOC	Vecmēmele
+LOC	Vecmīlgrāvis
+LOC	Vecmeķeli
+LOC	Vecmiķeļi
+LOC	Vecmokas
+LOC	Vecmuiža
+LOC	Vecokra
+LOC	Vecozoliņi
+LOC	Vecozoli
+LOC	Vecpalsa
+LOC	Vecpauļi
+LOC	Vecpelce
+LOC	Vecpeteri
+LOC	Vecpiebalga
+LOC	Vecpiebalga novads
+LOC	Vecpiebalga pagasts
+LOC	Vecpiebalgas novads
+LOC	Vecpiebalgas pagasts
+LOC	Vecpils
+LOC	Vecpils pagasts
+LOC	Vecpoļi
+LOC	Vecpriekuļi
+LOC	Vecrīga
+LOC	Vecroči
+LOC	Vecrozes
+LOC	Vecsāti
+LOC	Vecsaikava
+LOC	Vecsalaca
+LOC	Vecsaliena
+LOC	Vecsaliena pagasts
+LOC	Vecsalienas pagasts
+LOC	Vecsaule
+LOC	Vecsaule pagasts
+LOC	Vecsaules pagasts
+LOC	Vecsinepes
+LOC	Vecskanuļi
+LOC	Vecslabada
+LOC	Vecslampe
+LOC	Vecslavēkas
+LOC	Vecsniķere
+LOC	Vecstāmeriena
+LOC	Vecstumburi
+LOC	Vecsvirlauka
+LOC	Vectīreļi
+LOC	Vectilža
+LOC	Vectilža pagasts
+LOC	Vectilžas pagasts
+LOC	Vectokari
+LOC	Vecumi
+LOC	Vecumi pagasts
+LOC	Vecumnieki
+LOC	Vecumnieki novads
+LOC	Vecumnieki pagasts
+LOC	Vecumnieku novads
+LOC	Vecumnieku pagasts
+LOC	Vecumu pagasts
+LOC	Vecupji
+LOC	Vecvāle
+LOC	Vecvārkava
+LOC	Vecvagares
+LOC	Vecvagari
+LOC	Vecviekšķele
+LOC	Veczāmeļi
+LOC	Veczeltiņi
+LOC	Veczosna
+LOC	Veczvārde
+LOC	Vede
+LOC	Vedenieši
+LOC	Vedze
+LOC	Vegales
+LOC	Vegri
+LOC	Veiķenieku purvs
+LOC	Veibeni
+LOC	Veideļi
+LOC	Veiguri
+LOC	Veikenieku ezers
+LOC	Veiklīši
+LOC	Veipi
+LOC	Veismaņi
+LOC	Veizeniški
+LOC	Vekši
+LOC	Velēna
+LOC	Velbēni
+LOC	Veldze
+LOC	Velinakrogs
+LOC	Velkuma Pļava
+LOC	Velmeri
+LOC	Velna dīķis
+LOC	Velnezers
+LOC	Veltiņi
+LOC	Venči
+LOC	Vendes
+LOC	Vendzavas
+LOC	Venecuēla
+LOC	Venta
+LOC	Ventava
+LOC	Ventenieki
+LOC	Venteri
+LOC	Ventspils
+LOC	Ventspils Osta
+LOC	Ventspils Rajons
+LOC	Ventspils novads
+LOC	Ventspils osta
+LOC	Ventspils rajons
+LOC	Ventuļi
+LOC	Vepri
+LOC	Vergale mežs
+LOC	Vergales mežs
+LOC	Verni
+LOC	Versaliena purvs
+LOC	Versalienas purvs
+LOC	Vertēžnieki
+LOC	Vertūkšņa
+LOC	Vertukšņa ezers
+LOC	Vertukšņas ezers
+LOC	Verumi
+LOC	Verveļi
+LOC	Veselēni
+LOC	Veselava
+LOC	Veselava pagasts
+LOC	Veselavas pagasts
+LOC	Veseta
+LOC	Vesetnieki
+LOC	Vestiena
+LOC	Vestiena pagasts
+LOC	Vestienas pagasts
+LOC	Veterauki
+LOC	Veterovka
+LOC	Vevervežes
+LOC	Vezhi
+LOC	Vičāki
+LOC	Viļāni
+LOC	Viļāni novads
+LOC	Viļāni pagasts
+LOC	Viļāni pilsēta
+LOC	Viļānu novads
+LOC	Viļānu pagasts
+LOC	Viļānu pilsēta
+LOC	Viļčāni
+LOC	Viļķene
+LOC	Viļķene pagasts
+LOC	Viļķenes dīķi
+LOC	Viļķenes pagasts
+LOC	Viļņi
+LOC	Viļaka
+LOC	Viļaka ezers
+LOC	Viļaka novads
+LOC	Viļaka pilsēta
+LOC	Viļakas ezers
+LOC	Viļakas novads
+LOC	Viļakas pilsēta
+LOC	Viļenieki
+LOC	Viļi
+LOC	Viļums
+LOC	Viņķelmaņi
+LOC	Viņķi
+LOC	Viņauka ezers
+LOC	Viņaukas ezers
+LOC	Višķeri
+LOC	Višķi
+LOC	Višķi ezers
+LOC	Višķi pagasts
+LOC	Višķu ezers
+LOC	Višķu pagasts
+LOC	Višļi
+LOC	Višezers
+LOC	Viši
+LOC	Viškeri
+LOC	Viškuļi
+LOC	Vibas
+LOC	Vibroka
+LOC	Viceži
+LOC	Vidaga
+LOC	Vidriži
+LOC	Vidriži gārša
+LOC	Vidriži pagasts
+LOC	Vidrižu Gārša
+LOC	Vidrižu gārša
+LOC	Vidrižu pagasts
+LOC	Vidsala
+LOC	Vidsmeži
+LOC	Vidsmuiža
+LOC	Viduči
+LOC	Vidus ezers
+LOC	Vidusmuiža
+LOC	Viduspoguļanka
+LOC	Vidussala
+LOC	Vidusupe
+LOC	Vidvide
+LOC	Vidzeme
+LOC	Vidzeme centrāls augstiene
+LOC	Vidzemes Centrālā Augstiene
+LOC	Vidzeti
+LOC	Vieķi
+LOC	Viešūrs
+LOC	Viešas
+LOC	Viešupe
+LOC	Viecītes
+LOC	Viekaži
+LOC	Vienība
+LOC	Vierpes
+LOC	Viesīte
+LOC	Viesīte ezers
+LOC	Viesīte novads
+LOC	Viesītes
+LOC	Viesītes ezers
+LOC	Viesītes novads
+LOC	Viesalgas
+LOC	Viesata
+LOC	Viesati
+LOC	Viesati pagasts
+LOC	Viesatu pagasts
+LOC	Viesiena
+LOC	Viesites
+LOC	Viestura laukums
+LOC	Viesturi
+LOC	Viesturi pagasts
+LOC	Viesturs laukums
+LOC	Viesturu pagasts
+LOC	Viesunēni
+LOC	Vieta
+LOC	Vietalva
+LOC	Vietalva pagasts
+LOC	Vietalvas pagasts
+LOC	Vietulnieki
+LOC	Vigale
+LOC	Vigkale
+LOC	Vigodas
+LOC	Viguliīca
+LOC	Vija
+LOC	Vijciema pagasts
+LOC	Vijciems
+LOC	Vijciems pagasts
+LOC	Vikani
+LOC	Vikstene Stacija
+LOC	Vikstene stacija
+LOC	Vikstrauti
+LOC	Vilītes
+LOC	Vilķeļi
+LOC	Vilķi ezers
+LOC	Vilķu ezers
+LOC	Vilaune
+LOC	Vilcāni
+LOC	Vilce
+LOC	Vilce pagasts
+LOC	Vilces pagasts
+LOC	Vilciņi
+LOC	Vildaņi
+LOC	Vildiņi
+LOC	Vildoga
+LOC	Vildoga Stacija
+LOC	Vildoga stacija
+LOC	Vileši purvs
+LOC	Vilešu purvs
+LOC	Vilgale ezers
+LOC	Vilgales ezers
+LOC	Viljete
+LOC	Vilkāja
+LOC	Vilkāji
+LOC	Vilkaruči
+LOC	Vilkava
+LOC	Vilki
+LOC	Vilkija
+LOC	Vilkrāgģi
+LOC	Vilksala
+LOC	Vilktaures
+LOC	Vilkupe
+LOC	Villēnes
+LOC	Villas
+LOC	Villasmuiža
+LOC	Vilneķi
+LOC	Vilpulka
+LOC	Vilpulkas pagasts
+LOC	Viluši
+LOC	Vilupji
+LOC	Vilzēni purvs
+LOC	Vilzēnmuiža
+LOC	Vilzēnu purvs
+LOC	Vilzeno mežs
+LOC	Vimbas
+LOC	Vindedži
+LOC	Vindoļi
+LOC	Vindriži
+LOC	Vipēdis
+LOC	Vipulka
+LOC	Virānīte
+LOC	Virāne
+LOC	Virāne ezers
+LOC	Virānes Ezeri
+LOC	Virānes ezers
+LOC	Virķēni
+LOC	Viršu Karjersu dīķi
+LOC	Viršukalns
+LOC	Viršytis
+LOC	Viragna ezers
+LOC	Viragnas ezers
+LOC	Virauda ezers
+LOC	Viraudas ezers
+LOC	Virbi
+LOC	Virbi pagasts
+LOC	Virbu pagasts
+LOC	Virbupe
+LOC	Vircava
+LOC	Vircava pagasts
+LOC	Vircavas pagasts
+LOC	Virdzes
+LOC	Vireši
+LOC	Vireši pagasts
+LOC	Virešu pagasts
+LOC	Virga
+LOC	Virga pagasts
+LOC	Virgas pagasts
+LOC	Virgulitsa
+LOC	Virica
+LOC	Virkusmuiža
+LOC	Virpe
+LOC	Virpes-Adži
+LOC	Virpes-Valki
+LOC	Virsīte
+LOC	Virziķi
+LOC	Visaudas ezers
+LOC	Viseļovo
+LOC	Visikums
+LOC	Viskūži
+LOC	Viskūži sala
+LOC	Viskūžu sala
+LOC	Viskale
+LOC	Viskalni
+LOC	Vistusala
+LOC	Vite
+LOC	Viteikas
+LOC	Vitiņi
+LOC	Vitkuški
+LOC	Vitrupas
+LOC	Vitrupe
+LOC	Vitzēni
+LOC	Vizēni
+LOC	Vizbuli
+LOC	Vizdarbi
+LOC	Vizla
+LOC	Vizuļi
+LOC	Vjetnama
+LOC	Vociši
+LOC	Voiti
+LOC	Volčica
+LOC	Volgači
+LOC	Volkarezi
+LOC	Volkova
+LOC	Voloveca ezers
+LOC	Volovecas ezers
+LOC	Vonogi
+LOC	Vorņevka
+LOC	Vorkali
+LOC	Vosi
+LOC	Voveri
+LOC	Vucini
+LOC	Vutnēni
+LOC	Yaachi
+LOC	Yasha
+LOC	Yenys
+LOC	Yslikis
+LOC	Yulesmuyzha
+LOC	Zāģernieki
+LOC	Zāģkalni
+LOC	Zābaki
+LOC	Zābaku purvs
+LOC	Zābri
+LOC	Zādzene
+LOC	Zālīte
+LOC	Zālītes
+LOC	Zālamans sala
+LOC	Zālamanu salas
+LOC	Zāliši
+LOC	Zēniņi
+LOC	Zīžas
+LOC	Zīdėņi
+LOC	Zīdeņi
+LOC	Zīlāni
+LOC	Zīlīte
+LOC	Zīle
+LOC	Zīles
+LOC	Zīliņi
+LOC	Zīvas
+LOC	Zīzeļi
+LOC	Zūras
+LOC	Zaķīši
+LOC	Zaķi
+LOC	Zaķirbji
+LOC	Zaķumuiža
+LOC	Zaķusala
+LOC	Zaļači
+LOC	Zaļais purvs
+LOC	Zaļenieki
+LOC	Zaļenieki pagasts
+LOC	Zaļenieku pagasts
+LOC	Zaļesje
+LOC	Zaļie
+LOC	Zaļmeži
+LOC	Zaļmežnieki
+LOC	Zaļmuguri
+LOC	Zaļmuiža
+LOC	Zaļumi
+LOC	Zaļzelti
+LOC	Zaņa
+LOC	Zaņa pagasts
+LOC	Zaņas pagasts
+LOC	Zabaki
+LOC	Zabalotje
+LOC	Zabi
+LOC	Zabludniķi
+LOC	Zaboloski
+LOC	Zabolotje
+LOC	Zabolotje purvs
+LOC	Zabolotjes purvs
+LOC	Zabolova
+LOC	Zaborie
+LOC	Zaborovje
+LOC	Zadināni
+LOC	Zagarje
+LOC	Zagorskija
+LOC	Zahari
+LOC	Zaharova
+LOC	Zaiceva
+LOC	Zaku mežs
+LOC	Zalaņi
+LOC	Zalaki
+LOC	Zaldiņi
+LOC	Zalenis
+LOC	Zalsteri
+LOC	Zalukšni
+LOC	Zalve
+LOC	Zalve mežs
+LOC	Zalve pagasts
+LOC	Zalves pagasts
+LOC	Zalvu ezers
+LOC	Zamšoviki
+LOC	Zambe upīte
+LOC	Zambes Upīte
+LOC	Zambes upīte
+LOC	Zambija
+LOC	Zameži
+LOC	Zamoste
+LOC	Zanderi
+LOC	Zanenieki
+LOC	Zante
+LOC	Zante pagasts
+LOC	Zantes pagasts
+LOC	Zapadnaya Dvina
+LOC	Zapulu ezers
+LOC	Zarečje
+LOC	Zariņi
+LOC	Zarinki
+LOC	Zasa
+LOC	Zasa pagasts
+LOC	Zasalu purvs
+LOC	Zasas pagasts
+LOC	Zastenski
+LOC	Zastjenki
+LOC	Zatiški
+LOC	Zaube
+LOC	Zaube pagasts
+LOC	Zaubes pagasts
+LOC	Zeķes
+LOC	Zeļčava
+LOC	Zeļenpole
+LOC	Zebras muiža
+LOC	Zebrene
+LOC	Zebrene pagasts
+LOC	Zebrenes pagasts
+LOC	Zebrus
+LOC	Zeiļeva
+LOC	Zeikari
+LOC	Zelevci
+LOC	Zelgauska
+LOC	Zelkalis
+LOC	Zelmeņi
+LOC	Zeltaleja
+LOC	Zeltapses
+LOC	Zeltas
+LOC	Zelteņ
+LOC	Zeltiņi
+LOC	Zeltiņi pagasts
+LOC	Zeltiņu pagasts
+LOC	Zeltišķi
+LOC	Zelti
+LOC	Zeltzaki
+LOC	Zemīši
+LOC	Zemīte
+LOC	Zemītes
+LOC	Zemdegas
+LOC	Zemdegas strauts
+LOC	Zemdegu Strauts
+LOC	Zemdegu strauts
+LOC	Zemgaļi
+LOC	Zemgale
+LOC	Zemiņi
+LOC	Zemkas
+LOC	Zemliči
+LOC	Zentene
+LOC	Zentene pagasts
+LOC	Zentenes pagasts
+LOC	Zepi
+LOC	Zeti
+LOC	Zever-Oganas
+LOC	Zezuļeva
+LOC	Zhuri
+LOC	Zibergova
+LOC	Ziede
+LOC	Ziediņi
+LOC	Ziedi
+LOC	Ziedkalne
+LOC	Ziedkalni
+LOC	Ziedoņi
+LOC	Ziemas Osta
+LOC	Ziemciems
+LOC	Ziemeļīrija
+LOC	Ziemeļi
+LOC	Ziemeļkoreja
+LOC	Ziemelciems
+LOC	Ziemera pagasts
+LOC	Ziemeris
+LOC	Ziemers pagasts
+LOC	Ziemulis
+LOC	Ziemupe
+LOC	Ziemupe mežs
+LOC	Zilākalna pagasts
+LOC	Zilāni
+LOC	Zilaiskalns
+LOC	Zilaiskalns pagasts
+LOC	Ziles
+LOC	Zilezers
+LOC	Zilgalvji
+LOC	Ziliņi
+LOC	Zilie kalni
+LOC	Zilupe
+LOC	Zilupe novads
+LOC	Zilupes novads
+LOC	Zimbabve
+LOC	Zirņi
+LOC	Zirņi pagasts
+LOC	Zirņu pagasts
+LOC	Ziras
+LOC	Zirgi
+LOC	Zirgu ezers
+LOC	Zirgu sala
+LOC	Zirgu Salas
+LOC	Zirguvolka
+LOC	Ziri pagasts
+LOC	Zirnaites
+LOC	Ziru pagasts
+LOC	Zizma
+LOC	Zlēkas pagasts
+LOC	Zlēku pagasts
+LOC	Zlekas
+LOC	Znotiņi
+LOC	Zoķi
+LOC	Zobi
+LOC	Zobuļi ezers
+LOC	Zobuļu ezers
+LOC	Zolitūde
+LOC	Zonepe
+LOC	Zonepe Stacija
+LOC	Zonepe stacija
+LOC	Zosēni
+LOC	Zosēni pagasts
+LOC	Zosēnu pagasts
+LOC	Zosna
+LOC	Zosna ezers
+LOC	Zosnas ezers
+LOC	Zosuļi
+LOC	Zuši
+LOC	Zuji
+LOC	Zulši
+LOC	Zulleni
+LOC	Zundāni
+LOC	Zundi
+LOC	Zurzy ezers
+LOC	Zutēni
+LOC	Zuteņi ezers
+LOC	Zuteņu ezers
+LOC	Zvārde pagasts
+LOC	Zvārdes pagasts
+LOC	Zvāre
+LOC	Zvārtava
+LOC	Zvārtava pagasts
+LOC	Zvārtavas pagasts
+LOC	Zvārte
+LOC	Zvaguļi
+LOC	Zvaguļi purvs
+LOC	Zvaguļu purvs
+LOC	Zvagvēveri
+LOC	Zvaiņi
+LOC	Zvaigznītes
+LOC	Zvaigzne
+LOC	Zvaigznes
+LOC	Zvani
+LOC	Zvarāti
+LOC	Zvarīte
+LOC	Zveji
+LOC	Zvejniekciems
+LOC	Zvejnieki
+LOC	Zvendeniški
+LOC	Zverzdovo
+LOC	Zvidze
+LOC	Zvidze purvs
+LOC	Zvidzes purvs
+LOC	Zvidziena
+LOC	Zvidzienas Kanālas
+LOC	Zviede
+LOC	Zviedri
+LOC	Zviedrija
+LOC	Zvirbuļi
+LOC	Zvirgzde
+LOC	Zvirgzdene
+LOC	Zvirgzdene pagasts
+LOC	Zvirgzdenes pagasts
+LOC	Zvirgzdiņu
+LOC	Zvirgzdi ezers
+LOC	Zvirgzdi pussala
+LOC	Zvirgzdine ezers
+LOC	Zvirgzdines ezers
+LOC	Zvirgzdu ezers
+LOC	Zvirgzdu Pussala
+LOC	apvienots arābs emirāts
+LOC	demokrātisks republika Kongo
+LOC	dzelzceļš stacija Zālītes
+LOC	dzelzceļš stacija Zasulauks
+LOC	dzelzceļš stacija Zemitāni
+LOC	dzelzceļš stacija ziemeļblāzma
+LOC	ekvatoriāls Gvineja
+LOC	pietura punkts Vēžukrogs
+LOC	pietura punkts Viesturi
+LOC	pietura punkts Viesturs
+LOC	pietura punkts Zvejniekciems
+LOC	pietura punkts ziediņš
+LOC	republika Dominikana
+LOC	stacija Žīguri
+LOC	stacija Vīksna
+LOC	stacija Višķi
+LOC	stacija Vidsala
+LOC	stacija Viganti
+LOC	stacija Virķēni
+LOC	stacija Visgaļi
+LOC	stacija Zūras
+LOC	stacija Zaķi
+LOC	stacija Zaļumi
+LOC	stacija Zilaiskalns

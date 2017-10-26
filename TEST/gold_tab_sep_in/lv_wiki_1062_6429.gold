@@ -1,0 +1,209 @@
+Koraļļu	N	korallis	N-mpg---------n-----------f-	0	0	0	6	B-LOC
+jūra	N	jūra	N-fsn---------n-----------l-	0	8	0	11	I-LOC
+
+
+
+
+Liela	A	liels	A-msgp-n------------------f-	2	0	2	4	O
+jūra	N	jūra	N-fsn---------n-----------l-	2	6	2	9	O
+ar	S	ar	S----------------sap------l-	2	11	2	12	O
+daudzveidīgu	A	daudzveidīgs	A-msap-n------------------l-	2	14	2	25	O
+gultnes	N	gultne	N-fsg---------n-----------l-	2	27	2	33	O
+reljefu	N	reljefs	N-msa---------n-----------l-	2	35	2	41	O
+.	SENT	.	T--------------------------.	2	42	2	42	O
+Austrumu	N	austrumi	N-mpg---------n-----------f-	2	44	2	51	O
+daļā	N	daļa	N-fsl---------n-----------l-	2	53	2	56	O
+pie	S	pie	S----------------sgp------l-	2	58	2	60	O
+Santakrusas	N	Santakrusa	N-fsg---------n-----------f-	2	62	2	72	B-LOC
+salām	N	sala	N-fpd---------n-----------l-	2	74	2	78	I-LOC
+atrodas	V	atrasties	Vp----3--i-----y----------l-	2	80	2	86	O
+Torresa	-	Torresa	----------------------------	2	88	2	94	B-LOC
+dziļvaga	-	dziļvaga	----------------------------	2	96	2	103	I-LOC
+,	T	,	T--------------------------,	2	104	2	104	O
+kur	R	kur	R----p----------------f---l-	2	106	2	108	O
+jūras	N	jūra	N-fsg---------n-----------l-	2	110	2	114	O
+dziļums	N	dziļums	N-msn---------n-----------l-	2	116	2	122	O
+sasniedz	V	sasnigt	Vp-s--2--i----------------l-	2	124	2	131	O
+9	D	9	D--p------------------------	2	133	2	133	O
+175	D	175	D--p------------------------	2	135	2	137	O
+metrus	N	metrs	N-mpa---------n-----------l-	2	139	2	144	O
+.	SENT	.	T--------------------------.	2	145	2	145	O
+Ūdens	N	ūdens	N-msg---------n-----------f-	2	147	2	151	O
+virsējā	A	virsējs	A-msgp-y------------------l-	2	153	2	159	O
+slāņa	N	slānis	N-msg---------n-----------l-	2	161	2	165	O
+sāļums	N	sāļums	N-msn---------n-----------l-	2	167	2	172	O
+ir	V	būt	Vp----3--i----------7-----l-	2	174	2	175	O
+34-35	-	34-35	----------------------------	2	177	2	181	O
+‰	-	‰	----------------------------	2	182	2	182	O
+.	SENT	.	T--------------------------.	2	183	2	183	O
+Ārkārtīgi	R	ārkārtīgi	R----p--------------------f-	2	185	2	193	O
+augsta	A	augsts	A-fsnp-n------------------l-	2	195	2	200	O
+bioloģiskā	A	bioloģisks	A-fsnp-y------------------l-	2	202	2	211	O
+daudzveidība	N	daudzveidība	N-fsn---------n-----------l-	2	213	2	224	O
+.	SENT	.	T--------------------------.	2	225	2	225	O
+
+
+
+
+Koraļļu	N	korallis	N-mpg---------n-----------f-	4	0	4	6	B-LOC
+jūra	N	jūra	N-fsn---------n-----------l-	4	8	4	11	I-LOC
+ir	V	būt	Vp----3--i----------7-----l-	4	13	4	14	O
+slavena	A	slavens	A-fsnp-n------------------l-	4	16	4	22	O
+ar	S	ar	S----------------sap------l-	4	24	4	25	O
+to	P	tas	P-fsa-------d-------------l-	4	27	4	28	O
+,	T	,	T--------------------------,	4	29	4	29	O
+ka	C	ka	C---------------------p---l-	4	31	4	32	O
+tajā	P	tas	P-fsl-------d-------------l-	4	34	4	37	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	4	39	4	45	O
+pasaulē	N	pasaule	N-fsl---------n-----------l-	4	47	4	53	O
+lielākais	A	liels	A-msnc-y------------------l-	4	55	4	63	O
+koraļļu	N	korallis	N-mpg---------n-----------l-	4	65	4	71	O
+rifs	N	rifs	N-msn---------n-----------l-	4	73	4	76	O
+-	T	-	T---------------------------	4	78	4	78	O
+Lielais	A	liels	A-msnp-y------------------f-	4	80	4	86	B-LOC
+Barjeru	N	barjera	N-fpg---------n-----------f-	4	88	4	94	I-LOC
+rifs	N	rifs	N-msn---------n-----------l-	4	96	4	99	I-LOC
+.	SENT	.	T--------------------------.	4	100	4	100	O
+Lielākā	A	liels	A-fsnc-y------------------f-	4	102	4	108	O
+daļa	N	daļa	N-fsn---------n-----------l-	4	110	4	113	O
+jūras	N	jūra	N-fpn---------n-----------l-	4	115	4	119	O
+ir	V	būt	Vp----3--i----------7-----l-	4	121	4	122	O
+Austrālijas	N	Austrālija	N-fsg---------n-----------f-	4	124	4	134	B-LOC
+teritorijā	N	teritorija	N-fsl---------n-----------l-	4	136	4	145	O
+.	SENT	.	T--------------------------.	4	146	4	146	O
+Jūrā	N	jūra	N-fsl---------n-----------f-	4	148	4	151	O
+ļoti	R	ļoti	R----p---------------g----l-	4	153	4	156	O
+daudz	R	daudz	R----p---------------g----l-	4	158	4	162	O
+koraļļu	N	korallis	N-mpg---------n-----------l-	4	164	4	170	O
+salu	N	sals	N-msa---------n-----------l-	4	172	4	175	O
+,	T	,	T--------------------------,	4	176	4	176	O
+lielākā	A	liels	A-fsnc-y------------------l-	4	178	4	184	O
+daļa	N	daļa	N-fsn---------n-----------l-	4	186	4	189	O
+no	S	no	S----------------sgp------l-	4	191	4	192	O
+tām	P	tas	P-fpd-------d-------------l-	4	194	4	196	O
+neapdzīvotas	G	neapdzīvots	Gsfsgp-n---p----y---------l-	4	198	4	209	O
+.	SENT	.	T--------------------------.	4	210	4	210	O
+Vietām	R	vietām	R----p--------------------f-	4	212	4	217	O
+salas	N	sala	N-fsg---------n-----------l-	4	219	4	223	O
+veido	V	veidot	Vp----3--i----------------l-	4	225	4	229	O
+savdabīgu	A	savdabīgs	A-msap-n------------------l-	4	231	4	239	O
+milzu	N	milzu	N-mpg---------n-----------l-	4	241	4	245	O
+labirintu	N	labirints	N-msa---------n-----------l-	4	247	4	255	O
+.	SENT	.	T--------------------------.	4	256	4	256	O
+Koraļļu	N	korallis	N-mpg---------n-----------f-	4	258	4	264	B-LOC
+jūrā	N	jūra	N-fsl---------n-----------l-	4	266	4	269	I-LOC
+atrodas	V	atrasties	Vp----3--i-----y----------l-	4	271	4	277	O
+arī	Q	arī	Q-------------------------l-	4	279	4	281	O
+Lihū	-	Lihū	----------------------------	4	283	4	286	B-LOC
+rifs	N	rifs	N-msv---------n-----------l-	4	288	4	291	I-LOC
+-	T	-	T---------------------------	4	293	4	293	O
+viens	M	viens	M-msn---c-----------------l-	4	295	4	299	O
+no	S	no	S----------------pdp------l-	4	301	4	302	O
+pasaulē	N	pasaule	N-fsl---------n-----------l-	4	304	4	310	O
+lielākajiem	A	liels	A-mpdc-y------------------l-	4	312	4	322	O
+atoliem	N	atols	N-mpd---------n-----------l-	4	324	4	330	O
+,	T	,	T--------------------------,	4	331	4	331	O
+šī	P	šis	P-msg-------d-------------l-	4	333	4	334	O
+atola	N	atols	N-msg---------n-----------l-	4	336	4	340	O
+lagūnas	N	lagūna	N-fsg---------n-----------l-	4	342	4	348	O
+platība	N	platība	N-fsn---------n-----------l-	4	350	4	356	O
+ap	S	ap	S----------------sap------l-	4	358	4	359	O
+2	D	2	D--p------------------------	4	361	4	361	O
+500	D	500	D--pg-----------------------	4	363	4	365	O
+km	Y	km	Y-------------------------l-	4	367	4	368	O
+²	-	²	----------------------------	4	369	4	369	O
+,	T	,	T--------------------------,	4	370	4	370	O
+bet	C	bet	C---------------------c---l-	4	372	4	374	O
+atola	N	atols	N-msg---------n-----------l-	4	376	4	380	O
+sauszemes	N	sauszeme	N-fsg---------n-----------l-	4	382	4	390	O
+platība	N	platība	N-fsn---------n-----------l-	4	392	4	398	O
+tikai	Q	tikai	Q-------------------------l-	4	400	4	404	O
+0,91	D	0,91	D--s------------------------	4	406	4	409	O
+km	Y	km	Y-------------------------l-	4	411	4	412	O
+²	-	²	----------------------------	4	413	4	413	O
+.	SENT	.	T--------------------------.	4	414	4	414	O
+
+
+
+
+1942	D	1942	D--p------------------------	6	0	6	3	B-DATE
+.	T	.	T--------------------------.	6	4	6	4	I-DATE
+gada	N	gads	N-msg---------n-----------l-	6	6	6	9	I-DATE
+7	D	7	D--p------------------------	6	11	6	11	I-DATE
+-	T	-	T---------------------------	6	13	6	13	I-DATE
+8	D	8	D--p------------------------	6	15	6	15	I-DATE
+.	T	.	T--------------------------.	6	16	6	16	I-DATE
+maijā	N	maijs	N-msl---------n-----------l-	6	18	6	22	I-DATE
+Koraļļu	N	korallis	N-mpg---------n-----------f-	6	24	6	30	B-LOC
+jūrā	N	jūra	N-fsl---------n-----------l-	6	32	6	35	I-LOC
+notika	V	notikt	Vs----3--i----------------l-	6	37	6	42	O
+kauja	N	kauja	N-fsn---------n-----------l-	6	44	6	48	O
+starp	S	starp	S----------------pdp------l-	6	50	6	54	O
+japāņiem	N	japānis	N-mpd---------n-----------l-	6	56	6	63	O
+un	C	un	C---------------------c---l-	6	65	6	66	O
+sabiedrotajiem	G	sabiedrots	Gsmpdp-y---p--------------l-	6	68	6	81	O
+,	T	,	T--------------------------,	6	82	6	82	O
+kas	P	kas	P---n-------r---------x---l-	6	84	6	86	O
+novērsa	V	novērst	Vs----3--i----------------l-	6	88	6	94	O
+Portmorsbi	-	Portmorsbi	----------------------------	6	96	6	105	B-LOC
+okupāciju	N	okupācija	N-fsa---------n-----------l-	6	107	6	115	O
+.	SENT	.	T--------------------------.	6	116	6	116	O
+
+
+
+
+Robežas	N	robeža	N-fpn---------n-----------f-	8	0	8	6	O
+
+
+
+
+Ziemeļos	N	ziemelis	N-mpl---------n-----------f-	10	0	10	7	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	10	9	10	15	O
+Jaungvineja	N	Jaungvineja	N-fsn---------n-----------f-	10	17	10	27	B-LOC
+,	T	,	T--------------------------,	10	28	10	28	O
+Zālamana	N	Zālamans	N-msg---------n-----------f-	10	30	10	37	B-LOC
+jūra	N	jūra	N-fsn---------n-----------l-	10	39	10	42	I-LOC
+un	C	un	C---------------------c---l-	10	44	10	45	O
+Zālamana	N	Zālamans	N-msg---------n-----------f-	10	47	10	54	B-LOC
+salas	N	sala	N-fsg---------n-----------l-	10	56	10	60	I-LOC
+,	T	,	T--------------------------,	10	61	10	61	O
+austrumos	N	austrumi	N-mpl---------n-----------l-	10	63	10	71	O
+-	T	-	T---------------------------	10	73	10	73	O
+Santakrusas	N	Santakrusa	N-fsg---------n-----------f-	10	75	10	85	B-LOC
+salas	N	sala	N-fsg---------n-----------l-	10	87	10	91	I-LOC
+un	C	un	C---------------------c---l-	10	93	10	94	O
+Vanuatu	N	Vanuatu	N-mpn---------n-----------f-	10	96	10	102	B-LOC
+,	T	,	T--------------------------,	10	103	10	103	O
+dienvidaustrumos	N	dienvidaustrumi	N-mpl---------n-----------l-	10	105	10	120	O
+-	T	-	T---------------------------	10	122	10	122	O
+Jaunkaledonija	N	Jaunkaledonija	N-fsn---------n-----------f-	10	124	10	137	B-LOC
+un	C	un	C---------------------c---l-	10	139	10	140	O
+Fidži	N	Fidži	N-msl---------n-----------f-	10	142	10	146	B-LOC
+jūra	N	jūra	N-fsn---------n-----------l-	10	148	10	151	I-LOC
+.	SENT	.	T--------------------------.	10	152	10	152	O
+Dienvidos	N	dienvidus	N-mpl---------n-----------f-	10	154	10	162	O
+pāriet	V	pāriet	Vp----3--i----------------l-	10	164	10	169	O
+Tasmāna	-	Tasmāna	----------------------------	10	171	10	177	B-LOC
+jūrā	N	jūra	N-fsl---------n-----------l-	10	179	10	182	I-LOC
+-	T	-	T---------------------------	10	184	10	184	O
+par	S	par	S----------------sap------l-	10	186	10	188	O
+robežu	N	robeža	N-fsa---------n-----------l-	10	190	10	195	O
+starp	S	starp	S----------------pdp------l-	10	197	10	201	O
+abām	P	abi	P-fpd-------i-------------l-	10	203	10	206	O
+jūrām	N	jūra	N-fpd---------n-----------l-	10	208	10	212	O
+kalpo	V	kalpot	Vp----3--i----------------l-	10	214	10	218	O
+Kvīnslendas	N	Kvīnslenda	N-fsg---------n-----------f-	10	220	10	230	B-LOC
+un	C	un	C---------------------c---l-	10	232	10	233	I-LOC
+Jaundienvidvelsas	N	Jaundienvidvelsa	N-fsg---------n-----------f-	10	235	10	251	I-LOC
+štatu	N	štats	N-mpg---------n-----------l-	10	253	10	257	I-LOC
+robežas	N	robeža	N-fsg---------n-----------l-	10	259	10	265	O
+pagarinājums	N	pagarinājums	N-msn---------n-----------l-	10	267	10	278	O
+jūrā	N	jūra	N-fsl---------n-----------l-	10	280	10	283	O
+.	SENT	.	T--------------------------.	10	284	10	284	O
+Rietumos	N	rietumi	N-mpl---------n-----------f-	10	286	10	293	O
+-	T	-	T---------------------------	10	295	10	295	O
+Austrālija	N	Austrālija	N-fsn---------n-----------f-	10	297	10	306	B-LOC
+,	T	,	T--------------------------,	10	307	10	307	O
+Kvīnslendas	N	Kvīnslenda	N-fsg---------n-----------f-	10	309	10	319	B-LOC
+štats	N	štats	N-msn---------n-----------l-	10	321	10	325	I-LOC
+.	SENT	.	T--------------------------.	10	326	10	326	O

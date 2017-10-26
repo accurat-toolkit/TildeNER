@@ -1,0 +1,772 @@
+﻿ORG	5. ietvara programma
+ORG	A.C.B.
+ORG	Abb
+ORG	Accenture
+ORG	Acer
+ORG	Acot Technologies
+ORG	Adam Auto
+ORG	Aetna
+ORG	Agalas
+ORG	AGM Agro Eksports
+ORG	Agrārās ekonomikas institūts
+ORG	Aile
+ORG	Air Baltic
+ORG	Air Baltic Corporation
+ORG	Air France-KLM Group
+ORG	Airbus
+ORG	Aizkraukles banka
+ORG	Aizkraukles dome
+ORG	Aizkraukles pilsētas dome
+ORG	Aizkraukles rajona padome
+ORG	Aizsardzības akadēmija
+ORG	Aizsardzības ministrija
+ORG	Akadēmisko programmu aģentūra
+ORG	Albika
+ORG	Alcatel Baltics
+ORG	Alcatel-Lucent
+ORG	Alco
+ORG	Aldaris
+ORG	Alianse 2
+ORG	Allažu pagasta padome
+ORG	Alpa Centrums
+ORG	Alpha Osta
+ORG	Amazon
+ORG	Amazon.com
+ORG	American Express
+ORG	Amserv Motors
+ORG	ANO
+ORG	Antaris
+ORG	Apple
+ORG	Apvienoto Nāciju organizācija
+ORG	Astarte-Nafta
+ORG	Astramar
+ORG	AT&T
+ORG	Auces dome
+ORG	Auces pilsētas dome
+ORG	Augstceltne
+ORG	Augstkalnes pagasta padome
+ORG	Auto grupa TBF
+ORG	Auto Halle
+ORG	Auto Rīga
+ORG	Auto Statuss
+ORG	Auto Torino
+ORG	Avers Centrs
+ORG	AXA
+ORG	Ārlietu ministrija
+ORG	B.L.B. Baltijas Termināls
+ORG	Bal Lukss
+ORG	Baltbana LD
+ORG	Baltfor
+ORG	Baltic Car Import
+ORG	Baltic Energy Services Limited
+ORG	Baltic Marine Fishing Company
+ORG	Baltic Motors
+ORG	Baltic Transshipment Center
+ORG	Balticovo
+ORG	Baltijas Degviela
+ORG	Baltijas jūras valstu padome
+ORG	Baltijas Krievu institūts
+ORG	Baltijas Krievu koledža
+ORG	Baltijas Paletes
+ORG	Baltijas sporta auto
+ORG	Baltijas Starptautiskā banka
+ORG	Baltijas Tranzītu Banka
+ORG	Baltikums
+ORG	Baltimar VT
+ORG	Balvu dome
+ORG	Balvu pilsētas dome
+ORG	Banalat
+ORG	Bank of Nova Scotia
+ORG	Bankserviss
+ORG	Banku augstskola
+ORG	Banku servisa centrs
+ORG	Barclays
+ORG	Berģu Nams
+ORG	Biko-Lat
+ORG	Biznesa augstskola Turība
+ORG	Biznesa institūts RIMPAK Livonija
+ORG	BMGS
+ORG	BMW
+ORG	Boeing
+ORG	Bolderāja
+ORG	Bombardier
+ORG	BP
+ORG	Bravo
+ORG	Bridgestone
+ORG	Bristol-Myers Squibb
+ORG	British American Tobacco
+ORG	Briz
+ORG	Brīvais Vilnis
+ORG	Brocēni
+ORG	BT Group
+ORG	BTB
+ORG	Calcex
+ORG	Canon
+ORG	Capital
+ORG	Ceļu Pārvalde
+ORG	Ceļu Satiksmes Drošības Direkcija
+ORG	Centrālā dzīvojamo māju privatizācijas komisija
+ORG	Centrālā statistikas pārvalde
+ORG	Centrālā vēlēšanu komisija
+ORG	Cēsu dome
+ORG	Cēsu pilsētas dome
+ORG	Cēsu rajona padome
+ORG	Chevron
+ORG	Cido
+ORG	Cido Logistika
+ORG	Cido Pārtikas Grupa
+ORG	Citigroup
+ORG	Cobold
+ORG	Coca-Cola
+ORG	Coca-Cola Dzērieni
+ORG	Coca-Cola Enterprises
+ORG	Colgate-Palmolive
+ORG	Comcast
+ORG	Commerzbank
+ORG	Continental
+ORG	Cord
+ORG	CSDD
+ORG	Daimler
+ORG	Daivs
+ORG	Dambis
+ORG	Danone
+ORG	Danske Bank
+ORG	Danske Bank Group
+ORG	Dati
+ORG	Datorprogrammu Apgāds
+ORG	Datorzinību Centrs
+ORG	Daugavas Slimokase
+ORG	Daugavpils dome
+ORG	Daugavpils Pedagoģiskā universitāte
+ORG	Daugavpils pilsētas dome
+ORG	Daugavpils Siltumtīkli
+ORG	Delfa
+ORG	Delta Air Lines
+ORG	Denso
+ORG	Deutsche Post
+ORG	Deutsche Telekom
+ORG	DHL
+ORG	Diena
+ORG	Dinaz
+ORG	Dinaz Group
+ORG	Ditton
+ORG	Ditton Pievadķēžu Rūpnīca
+ORG	DNB Nord
+ORG	Dnb Nord
+ORG	Dobeles dome
+ORG	Dobeles Dzirnavnieks
+ORG	Dobeles pilsētas dome
+ORG	Domenikss
+ORG	DPA
+ORG	DPU
+ORG	Dresdner Bank AG
+ORG	Drogas
+ORG	DZ Bank
+ORG	DZC
+ORG	E.ON
+ORG	Eiropas Integrācijas birojs
+ORG	Eiropas Komisijas delegācija
+ORG	Ekonomikas ministrija
+ORG	Ekonomikas un kultūras augstskola
+ORG	Elama B
+ORG	Elbi
+ORG	Electrolux
+ORG	Electrolux Latvia
+ORG	Elko Grupa
+ORG	Energoapgādes regulēšanas padome
+ORG	Energoceltnieks
+ORG	Engures pagasta padome
+ORG	Erste Group Bank
+ORG	Eugesta un Partneri
+ORG	Euro auto
+ORG	Exigen
+ORG	Exigen Services
+ORG	Exxon Mobil
+ORG	Fanaal
+ORG	Farma Balt
+ORG	Farmserviss
+ORG	FedEx
+ORG	Fiat
+ORG	Finansu ministrija
+ORG	Finansu un kapitāla tirgus komisija
+ORG	Fingraht
+ORG	Fingraht Latvia
+ORG	Firma Madara 89
+ORG	Ford
+ORG	Ford Motor
+ORG	Fortech
+ORG	Fujifilm
+ORG	Fujifilm Holdings
+ORG	Gaiļezers
+ORG	Gamma-A
+ORG	Gazprom
+ORG	General Dynamics
+ORG	General Electric
+ORG	General Motors
+ORG	GM
+ORG	GNT
+ORG	GNT Latvia
+ORG	Gobest Baltija Internacionāls
+ORG	Google
+ORG	Greis
+ORG	Grigs
+ORG	Grindeks
+ORG	Grodi
+ORG	Gutta
+ORG	Hansa auto
+ORG	Hansa Pharma Balticum
+ORG	Hansabanka
+ORG	Hanza Jūras Aģentūra
+ORG	Hanza Līzings
+ORG	Hanzas Maiznīca
+ORG	Heineken Holding
+ORG	Henkel
+ORG	Hewlett-Packard
+ORG	Hitachi
+ORG	Holdinga Kompānija Felix
+ORG	Honda
+ORG	Honda Motor
+ORG	House Of Prince
+ORG	HP
+ORG	Huawei
+ORG	Huawei Technologies
+ORG	Humana
+ORG	Humanitārais institūts
+ORG	Hyundai
+ORG	Hyundai Heavy Industries
+ORG	Hyundai Motor
+ORG	IBM
+ORG	Iekšlietu ministrija
+ORG	Igaunijas Ārlietu ministrija
+ORG	Igaunijas Republikas Ārlietu ministrija
+ORG	Imperial Tobacco Group
+ORG	Inčukalns Timber
+ORG	Infleks
+ORG	Informācijas sistēmu menedžmenta augstskola
+ORG	Ingrid A
+ORG	Inka AS
+ORG	Inserviss Group
+ORG	Intel
+ORG	International Business Machines
+ORG	Intertrans
+ORG	Itera
+ORG	Itera Latvija
+ORG	Iveco
+ORG	IVECO autokoncerna pārstāvniecība
+ORG	Izglītības un zinātnes ministrija
+ORG	Īpašu uzdevumu ministra sadarbībai ar starptautiskajām finansu institūcijām sekretariāts
+ORG	Īpašu uzdevumu ministra valsts reformu lietās sekretariāts
+ORG	J.Vītola Latvijas Mūzikas akadēmija
+ORG	Jauda
+ORG	Jaunatnes programmu aģentūra
+ORG	Jelgavas Cukurfabrika
+ORG	Jelgavas dome
+ORG	Jelgavas pilsētas dome
+ORG	Jelgavas rajona padome
+ORG	Joker
+ORG	JTI Marketing and Sales
+ORG	Juglas Manufaktūra
+ORG	Jūras akadēmija
+ORG	Jūraslīcis
+ORG	Jūrmalas dome
+ORG	Jūrmalas pilsētas dome
+ORG	Kaija
+ORG	Kalnozols
+ORG	Kalnozols Celtniecība
+ORG	Karsten
+ORG	Karsten Latvian
+ORG	Kālija Parks
+ORG	Kemira
+ORG	Kemira Agro Latvija
+ORG	Klīniskā Slimnīca "Gaiļezers"
+ORG	Knauf
+ORG	Knauf Marketing Riga
+ORG	Komerccentrs Dati Grupa
+ORG	Konig Eirotrans
+ORG	Krājbanka
+ORG	Krāsainie Lējumi
+ORG	Kristīgā akadēmija
+ORG	Kuģniecība
+ORG	Kuldīgas dome
+ORG	Kuldīgas padome
+ORG	Kuldīgas pilsētas dome
+ORG	Kuldīgas rajona padome
+ORG	Kultūras akadēmija
+ORG	Kultūras ministrija
+ORG	Kultūrkapitāla fonds
+ORG	Kurekss
+ORG	Kurzemes Degviela
+ORG	Kurzemes Nami
+ORG	Kvadra Pak
+ORG	Ķekavas Broileri
+ORG	L.I.O.N.
+ORG	L.I.O.N. & Ko
+ORG	LAA
+ORG	Labklājības ministrija
+ORG	Laiko
+ORG	Laima
+ORG	Langa
+ORG	Laskana
+ORG	Lateko Banka
+ORG	Latgales Apvienotā Slimokase
+ORG	Latgales reģiona attīstības aģentūra
+ORG	LatLADA
+ORG	Latrostrans
+ORG	Latsin
+ORG	Lattelecom
+ORG	Lattelekom
+ORG	Lattransrail
+ORG	Latvenergo
+ORG	Latvija Statoil
+ORG	Latvijas Attīstības aģentūra
+ORG	Latvijas Balzams
+ORG	Latvijas Banka
+ORG	Latvijas Biznesa banka
+ORG	Latvijas Centrālais depozitārijs
+ORG	Latvijas Dzelzceļš
+ORG	Latvijas Ekonomiskā komercbanka
+ORG	Latvijas Energoceltnieks
+ORG	Latvijas Evanģēliski Luteriskā kristīgā akadēmija
+ORG	Latvijas Finieris
+ORG	Latvijas Gaisa Satiksme
+ORG	Latvijas Gāze
+ORG	Latvijas Hipotēku un zemes banka
+ORG	Latvijas institūts
+ORG	Latvijas Jaunatnes Padome
+ORG	Latvijas Jūras Administrācija
+ORG	Latvijas Jūras akadēmija
+ORG	Latvijas Komercbanku asociācija
+ORG	Latvijas Krājbanka
+ORG	Latvijas Kuģniecība
+ORG	Latvijas Kultūras akadēmija
+ORG	Latvijas Lauksaimniecības konsultāciju centrs
+ORG	Latvijas Lauksaimniecības universitāte
+ORG	Latvijas Mākslas akadēmija
+ORG	Latvijas Medicīnas akadēmija
+ORG	Latvijas Mobilais Telefons
+ORG	Latvijas Nacionālā aizsardzības akadēmija
+ORG	Latvijas Nafta
+ORG	Latvijas Naturalizācijas pārvalde
+ORG	Latvijas Pasts
+ORG	Latvijas Pašvaldību savienība
+ORG	Latvijas Policijas Akadēmija
+ORG	Latvijas Republikas Ministru Kabinets
+ORG	Latvijas Republikas Saeima
+ORG	Latvijas Republikas Satversmes tiesa
+ORG	Latvijas Republikas Valsts kontrole
+ORG	Latvijas Sporta pedagoģijas akadēmija
+ORG	Latvijas Televīzija
+ORG	Latvijas Tirdzniecības banka
+ORG	Latvijas Unibanka
+ORG	Latvijas Universitāte
+ORG	Latvijas valsts Agrārās ekonomikas institūts
+ORG	Latvijas Valsts Meži
+ORG	Latvijas-Rietumu Termināls
+ORG	Lauksaimniecības konsultāciju centrs
+ORG	Lauma
+ORG	Lauva Auto
+ORG	LDV
+ORG	L-Ekspresis
+ORG	Lex-U
+ORG	LG
+ORG	Lido
+ORG	Lido Nafta
+ORG	Lielvārdes dome
+ORG	Lielvārdes pilsētas dome
+ORG	Liepājas Cukurfabrika
+ORG	Liepājas dome
+ORG	Liepājas Metalurgs
+ORG	Liepājas Patērētāju Biedrība
+ORG	Liepājas Pedagoģijas akadēmija
+ORG	Liepājas pilsētas dome
+ORG	Liepājas Siltums
+ORG	Liepiņš
+ORG	Lietuvas Ārlietu ministrija
+ORG	Lietuvas Republikas Ārlietu ministrija
+ORG	Limbažu Piens
+ORG	Lloyds
+ORG	Lloyds Banking Group
+ORG	LLTT
+ORG	LLU
+ORG	LMA Sabiedrības veselības skola
+ORG	LMT
+ORG	LOGIN projekta galvenā lapa
+ORG	Lokomotīve
+ORG	L'Oreal
+ORG	L'Oréal
+ORG	LR Saeimas informācijas centrs
+ORG	LTV
+ORG	LU
+ORG	LU Rīgas Humanitārais Institūts
+ORG	Ludzas rajona padome
+ORG	Lufthansa
+ORG	Lufthansa Group
+ORG	Lukoil
+ORG	Lukoil Serviss
+ORG	Lukoil-Baltija R
+ORG	Lutera akadēmija
+ORG	LVM
+ORG	M - Motors
+ORG	M.T.Z.-Serviss
+ORG	Madonas rajona padome
+ORG	Magnāts
+ORG	MAN
+ORG	MAN Group
+ORG	Man-Tess
+ORG	MAP
+ORG	MAP Latvia
+ORG	Max Schon
+ORG	Maxima
+ORG	MAXIMA
+ORG	Mazda
+ORG	Mazda Motor
+ORG	Mākslas akadēmija
+ORG	Māras banka
+ORG	Mārupes pagasta padome
+ORG	McDonald's
+ORG	MDL Motors
+ORG	Medicīnas akadēmija
+ORG	Mego
+ORG	Merks
+ORG	Metro
+ORG	Metsaliitto
+ORG	Metsaliitto Latvia
+ORG	Michelin
+ORG	Microsoft
+ORG	Mikas
+ORG	Ministru kabinets
+ORG	Mitsubishi
+ORG	Mitsubishi Chemical Holdings
+ORG	Mitsubishi Electric
+ORG	Mitsubishi Heavy Industries
+ORG	Mobil Plus Adv
+ORG	MONO
+ORG	Morgan Stanley
+ORG	Motorola
+ORG	MTC
+ORG	Multibanka
+ORG	Multikoms
+ORG	Mūsa Motors Rīga
+ORG	Mūsu Māja
+ORG	Mūzikas akadēmija
+ORG	Narvesen
+ORG	Narvesen Baltija
+ORG	Naturalizācijas pārvalde
+ORG	Nelda
+ORG	Nelss
+ORG	Nemo
+ORG	Nemo Holdings
+ORG	Neste
+ORG	Neste Latvija
+ORG	Nestlé
+ORG	Nevalstisko organizāciju centrs
+ORG	News Corp.
+ORG	Nike
+ORG	Nissan
+ORG	Nissan Motor
+ORG	Nodarbinātības Valsts Dienests
+ORG	Nokia
+ORG	Nokia Latvija
+ORG	Nord LB
+ORG	Norddeutsche Landesbank
+ORG	Nordea
+ORG	Nordea Bank
+ORG	Nordea Bank Finland Plc Latvijas Filiāle
+ORG	O.W. Rīga Bunkering
+ORG	Ogre
+ORG	Ogres dome
+ORG	Ogres komercbanka
+ORG	Ogres pilsētas dome
+ORG	Ogres rajona padome
+ORG	Oilands
+ORG	Olaines Ķīmiski-Farmaceitiskā Rūpnīca
+ORG	Olimps
+ORG	Oracle
+ORG	Oriola
+ORG	Oriola Rīga
+ORG	Ostas Flote
+ORG	OVI
+ORG	P.Stradiņa Klīniskā Universitātes Slimnīca
+ORG	Panasonic
+ORG	Parekss
+ORG	Parekss Banka
+ORG	Paritāte
+ORG	Partner - Motors
+ORG	Pašvaldību lietu pārvalde
+ORG	Pašvaldību savienība
+ORG	PBLC
+ORG	Pemex
+ORG	Penkules pagasta padome
+ORG	Peugeot
+ORG	Phare Access
+ORG	Phare Access programma Latvijā
+ORG	Philips
+ORG	Philips Latvia
+ORG	Phillips
+ORG	Pilsonības un migrācijas lietu pārvade
+ORG	Pirmā banka
+ORG	Plaša Patēriņa Preču Tirdzniecības Apvienība
+ORG	Polap
+ORG	Polar Bek Daugava
+ORG	Policijas akadēmija
+ORG	Poligrāfijas Apgāds
+ORG	Polimer R
+ORG	Polyplast
+ORG	POSCO
+ORG	Preses Apvienība
+ORG	Preses Nams
+ORG	Prezidenta kanceleja
+ORG	Privatizācijas Aģentūra
+ORG	Procter & Gamble
+ORG	Procter & Gamble Marketing Latvia
+ORG	Procter&Gamble
+ORG	Profesionālās izglītības programmu aģentūra
+ORG	Prudential
+ORG	Putnu Fabrika Ķekava
+ORG	Quanta Computer
+ORG	Rabobank
+ORG	Rannila
+ORG	Rannila Steel Latvia
+ORG	RBI
+ORG	RBS Skals
+ORG	RD Elektroniks
+ORG	Re & Re
+ORG	Re&Re
+ORG	Reaton
+ORG	Rebir
+ORG	Recipe Plus
+ORG	Reģionālās attīstības departaments
+ORG	Remus
+ORG	Rēzeknes augstskola
+ORG	Rēzeknes dome
+ORG	Rēzeknes Piena Konservu Kombināts
+ORG	Rēzeknes pilsētas dome
+ORG	Rēzeknes rajona padome
+ORG	Rialat
+ORG	Ricoh
+ORG	Rietumu banka
+ORG	Rietumu Nafta
+ORG	Rimako
+ORG	Rimi
+ORG	RIMI
+ORG	Rimi Baltija
+ORG	Rimi Latvia
+ORG	Rimi Latvija
+ORG	RIMPAK Livonija
+ORG	Rita
+ORG	Rix Technologies
+ORG	Rix Tehnoloģijas
+ORG	Rīgas Aeronavigācijas institūts
+ORG	Rīgas Centrāltirgus
+ORG	Rīgas dome
+ORG	Rīgas Dzirnavnieks
+ORG	Rīgas Ekonomikas augstskola
+ORG	Rīgas Elektromašīnbūves Rūpnīca
+ORG	Rīgas Finieru Rūpnīca
+ORG	Rīgas Juridiskā augstskola
+ORG	Rīgas Kuģu Būvētava
+ORG	Rīgas Miesnieks
+ORG	Rīgas Novada Slimokase
+ORG	Rīgas Pedagoģijas un izglītības vadības augstskola
+ORG	Rīgas Piena Kombināts
+ORG	Rīgas Piensaimnieks
+ORG	Rīgas pilsētas dome
+ORG	Rīgas rajona padome
+ORG	Rīgas reģiona attīstības padome
+ORG	Rīgas Siltums
+ORG	Rīgas Starptautiskā ekonomikas un biznesa administrācijas augstskola
+ORG	Rīgas Tehniskā universitāte
+ORG	Rīgas Tirdzniecības Osta
+ORG	Rīgas Ūdens
+ORG	Robert Bosch
+ORG	Rosneft
+ORG	Rosneft Oil
+ORG	Rottneros
+ORG	Rottneros Baltic
+ORG	Royal Dutch Shell
+ORG	Royal Philips Electronics
+ORG	RTU
+ORG	RTU Rīgas Biznesa institūts
+ORG	Sabiedriskās politikas forums
+ORG	Saeima
+ORG	Saimnieks-Serviss
+ORG	Sainsbury
+ORG	Samsung
+ORG	Samsung Electronics
+ORG	Sanyo
+ORG	Sanyo Electric
+ORG	Satiksmes ministrija
+ORG	Satversmes tiesa
+ORG	Sberbank
+ORG	SBRE
+ORG	Scania
+ORG	Scania Latvia
+ORG	SEB
+ORG	Seko
+ORG	Sel-II
+ORG	Severstaļlat
+ORG	Sharp
+ORG	Shell
+ORG	Shell Latvia
+ORG	Siemens
+ORG	Silva
+ORG	Simeks
+ORG	Sirowa
+ORG	Sirowa Rīga
+ORG	Skai Baltija
+ORG	Skandi Auto
+ORG	Skandi Motors
+ORG	Skanska
+ORG	Skanska Konstrukcija
+ORG	Skonto
+ORG	Skonto Būve
+ORG	Snickers Production
+ORG	Sociālā darba un sociālās pedagoģijas augstskola ATTĪSTĪBA
+ORG	Sociālo tehnoloģiju augstskola
+ORG	Softbank
+ORG	Sony
+ORG	Sony Baltic
+ORG	Sorosa fonds
+ORG	Sorosa fonds Latvijā
+ORG	Sparta pedagoģijas akadēmija
+ORG	Spilva
+ORG	Sprint
+ORG	Sprint Nextel
+ORG	SSEBAA
+ORG	Staburadze
+ORG	Stalkers
+ORG	Stalkers D
+ORG	Staļi
+ORG	Starptautiskais praktiskās psiholoģijas institūts
+ORG	Starptautiskā Lidosta "Rīga"
+ORG	Statoil
+ORG	Stora Enso
+ORG	Stora Enso Packaging
+ORG	Strabag
+ORG	Suzuki
+ORG	Suzuki Motor
+ORG	Swedbank
+ORG	Swedwood
+ORG	Swedwood Latvia
+ORG	SWH
+ORG	Tabakas Nams
+ORG	Tabakas Nams Grupa
+ORG	Tamro
+ORG	Tapeks
+ORG	Tata Motors
+ORG	TC Motors
+ORG	Tech Data
+ORG	Tech Data Latvia
+ORG	Tele2
+ORG	Teritorijas attīstības plānošanas centrs
+ORG	Terrabalt
+ORG	Tesco
+ORG	Tieslietu ministrija
+ORG	Tilde
+ORG	Time Warner
+ORG	Time Warner Cable
+ORG	Tipeks
+ORG	TLA Balttrading
+ORG	TNT
+ORG	Toshiba
+ORG	Toyota
+ORG	Toyota Baltic
+ORG	Toyota Motor
+ORG	Tramvaju un Trolejbusu Pārvalde
+ORG	Transko
+ORG	Transporta un sakaru institūts
+ORG	Trasta komercbanka
+ORG	Triāls
+ORG	TTC
+ORG	TTP
+ORG	TUI
+ORG	Tukuma dome
+ORG	Tukuma Piens
+ORG	Tukuma pilsētas dome
+ORG	Tulkošanas un terminoloģijas centrs
+ORG	U.Pīlēna Birojs
+ORG	U.S. Postal Service
+ORG	Unibanka
+ORG	Unifeks
+ORG	Unilever
+ORG	Unilever Baltic LLC
+ORG	Unison Trading
+ORG	Universitātes slimnīca
+ORG	Upsejas
+ORG	USPS
+ORG	V Degviela
+ORG	Valmieras dome
+ORG	Valmieras pilsētas dome
+ORG	Valmieras Stikla Šķiedra
+ORG	Valsts Administrācijas skola
+ORG	Valsts civildienesta pārvalde
+ORG	Valsts ieņēmumu dienests
+ORG	Valsts informācijas tīkla aģentūra
+ORG	Valsts Kase
+ORG	Valsts kontrole
+ORG	Valsts Nekustamā Īpašuma Aģentūra
+ORG	Valsts Prezidenta kanceleja
+ORG	Valsts Sociālās Apdrošināšanas Aģentūra
+ORG	Valsts Zemes dienests
+ORG	Vangažu dome
+ORG	Vangažu pilsētas dome
+ORG	VARAM
+ORG	Varner
+ORG	Varner Baltija
+ORG	Vārmes padome
+ORG	Vārmes pagasta padome
+ORG	VEF Banka
+ORG	Velve
+ORG	Venceb
+ORG	Ventamonjaks
+ORG	Ventbunkers
+ORG	Ventspils Augstskola
+ORG	Ventspils dome
+ORG	Ventspils Ekspedīcija
+ORG	Ventspils Nafta
+ORG	Ventspils pilsētas dome
+ORG	Ventspils Tirdzniecības Osta
+ORG	Vereinsbank
+ORG	Vereinsbank Riga
+ORG	Verizon
+ORG	Verizon Communications
+ORG	Vestienas pagasta padome
+ORG	Viada
+ORG	Vial
+ORG	VID
+ORG	Vides aizsardzības un reģionālās attīstības ministrija
+ORG	Vidzemes attīstības aģentūra
+ORG	Vidzemes augstskola
+ORG	Vidzemes Piens
+ORG	Vika Wood
+ORG	Vikars un Ko
+ORG	Vincents
+ORG	Virši-A
+ORG	VITA
+ORG	Vivacolor
+ORG	VNĪA
+ORG	Vodafone
+ORG	Voer
+ORG	Voldemārs
+ORG	Volkswagen
+ORG	Volkswagen centrs Rīga
+ORG	Volvo
+ORG	Volvo Truck Latvia
+ORG	VSSA
+ORG	VSŠ
+ORG	VZD
+ORG	Wal-Mart
+ORG	Weeluk
+ORG	Weeluk Baltic
+ORG	Wess
+ORG	WESS Motors
+ORG	Whirlpool
+ORG	Zemgales attīstības aģentūra
+ORG	Zemkopības ministrija
+ORG	Ziemeļaustrumu Slimokase
+ORG	Ziemeļu Ministru padome
+ORG	Ziemeļu Ministru padomes Rīgas informācijas birojs
+ORG	Ziemeļu Nafta
+ORG	Ziemeļu Padome un Ziemeļu Ministru padome
+ORG	Zilupes dome
+ORG	Zilupes pilsētas dome

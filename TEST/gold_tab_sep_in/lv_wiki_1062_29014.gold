@@ -1,0 +1,132 @@
+Eiropas	N	Eiropa	N-fsg---------n-----------f-	0	0	0	6	B-ORG
+Savienības	N	savienība	N-fsg---------n-----------f-	0	8	0	17	I-ORG
+Publikāciju	N	publikācija	N-fpg---------n-----------f-	0	19	0	29	I-ORG
+birojs	N	birojs	N-msn---------n-----------l-	0	31	0	36	I-ORG
+
+
+
+
+Eiropas	N	Eiropa	N-fsg---------n-----------f-	2	0	2	6	B-ORG
+Savienības	N	savienība	N-fsg---------n-----------f-	2	8	2	17	I-ORG
+Publikāciju	N	publikācija	N-fpg---------n-----------f-	2	19	2	29	I-ORG
+birojs	N	birojs	N-msn---------n-----------l-	2	31	2	36	I-ORG
+ir	V	būt	Vp----3--i----------7-----l-	2	38	2	39	O
+starpiestāžu	N	starpiestāžu	N-fpg---------n-----------l-	2	41	2	52	O
+birojs	N	birojs	N-msn---------n-----------l-	2	54	2	59	O
+,	T	,	T--------------------------,	2	60	2	60	O
+kura	P	kurš	P-msg-------r---------a---l-	2	62	2	65	O
+uzdevums	N	uzdevums	N-msn---------n-----------l-	2	67	2	74	O
+ir	V	būt	Vp----3--i----------7-----l-	2	76	2	77	O
+izdot	V	izdot	V--------n----------------l-	2	79	2	83	O
+Eiropas	N	Eiropa	N-fsg---------n-----------f-	2	85	2	91	B-ORG
+Kopienas	N	kopiena	N-fsg---------n-----------f-	2	93	2	100	I-ORG
+un	C	un	C---------------------c---l-	2	102	2	103	O
+Eiropas	N	Eiropa	N-fsg---------n-----------f-	2	105	2	111	B-ORG
+Savienības	N	savienība	N-fsg---------n-----------f-	2	113	2	122	I-ORG
+iestāžu	N	iestāde	N-fpg---------n-----------l-	2	124	2	130	O
+publikācijas	N	publikācija	N-fsg---------n-----------l-	2	132	2	143	O
+.	SENT	.	T--------------------------.	2	144	2	144	O
+
+
+
+
+Publikāciju	N	publikācija	N-fpg---------n-----------f-	4	0	4	10	B-ORG
+birojs	N	birojs	N-msn---------n-----------l-	4	12	4	17	I-ORG
+ik	Q	ik	Q-------------------------l-	4	19	4	20	O
+dienas	N	diena	N-fsg---------n-----------l-	4	22	4	27	O
+izdod	V	izdot	Vp----3--i----------------l-	4	29	4	33	O
+Eiropas	N	Eiropa	N-fsg---------n-----------f-	4	35	4	41	B-PROD
+Savienības	N	savienība	N-fsg---------n-----------f-	4	43	4	52	I-PROD
+Oficiālo	A	oficiāls	A-fsap-y------------------f-	4	54	4	61	I-PROD
+Vēstnesi	N	vēstnese	N-fsa---------n-----------f-	4	63	4	70	I-PROD
+22	D	22	D--p------------------------	4	72	4	73	O
+valodās	N	valoda	N-fpl---------n-----------l-	4	75	4	81	O
+(	T	(	T--------------------------(	4	83	4	83	O
+vai	C	vai	C---------------------c---l-	4	84	4	86	O
+23	D	23	D--p------------------------	4	88	4	89	O
+valodās	N	valoda	N-fpl---------n-----------l-	4	91	4	97	O
+,	T	,	T--------------------------,	4	98	4	98	O
+ja	C	ja	C---------------------d---l-	4	100	4	101	O
+ir	V	būt	Vp----3--i----------7-----l-	4	103	4	104	O
+pieprasīts	G	pieprasīts	Gsmsnp-n---p--------------l-	4	106	4	115	O
+attiecīgo	A	attiecīgs	A-mpgp-y------------------l-	4	117	4	125	O
+numuru	N	numurs	N-msa---------n-----------l-	4	127	4	132	O
+izdot	V	izdot	V--------n----------------l-	4	134	4	138	O
+arī	Q	arī	Q-------------------------l-	4	140	4	142	O
+īru	N	īrs	N-mpg---------n-----------l-	4	144	4	146	O
+valodā	N	valoda	N-fsl---------n-----------l-	4	148	4	153	O
+)	T	)	T--------------------------)	4	154	4	154	O
+.	SENT	.	T--------------------------.	4	155	4	155	O
+Tas	P	tas	P-msn-------d-------------f-	4	157	4	159	O
+ir	V	būt	Vp----3--i----------7-----l-	4	161	4	162	O
+pasaulē	N	pasaule	N-fsl---------n-----------l-	4	164	4	170	O
+vienīgais	A	vienīgs	A-msnp-y------------------l-	4	172	4	180	O
+laikraksts	N	laikraksts	N-msn---------n-----------l-	4	182	4	191	O
+,	T	,	T--------------------------,	4	192	4	192	O
+kuru	P	kurš	P-fsa-------r---------f---l-	4	194	4	197	O
+izdod	V	izdot	Vp----3--i----------------l-	4	199	4	203	O
+tik	Q	tik	Q-------------------------l-	4	205	4	207	O
+daudzās	M	daudzi	M-fpl---c-----------------l-	4	209	4	215	O
+valodās	N	valoda	N-fpl---------n-----------l-	4	217	4	223	O
+.	SENT	.	T--------------------------.	4	224	4	224	O
+
+
+
+
+Publikāciju	N	publikācija	N-fpg---------n-----------f-	6	0	6	10	B-ORG
+biroja	N	birojs	N-msg---------n-----------l-	6	12	6	17	I-ORG
+darbinieki	N	darbinieks	N-mpn---------n-----------l-	6	19	6	28	O
+arī	Q	arī	Q-------------------------l-	6	30	6	32	O
+patstāvīgi	A	patstāvīgs	A-mpnp-n------------------l-	6	34	6	43	O
+vai	C	vai	C---------------------c---l-	6	45	6	47	O
+sadarbībā	N	sadarbība	N-fsl---------n-----------l-	6	49	6	57	O
+ar	S	ar	S----------------pdp------l-	6	59	6	60	O
+citām	P	cits	P-fpd-------i-------------l-	6	62	6	66	O
+iestādēm	N	iestāde	N-fpd---------n-----------l-	6	68	6	75	O
+sagatavo	V	sagatavot	Vp----3--i----------------l-	6	77	6	84	O
+publikācijas	N	publikācija	N-fpn---------n-----------l-	6	86	6	97	O
+par	S	par	S----------------pdp------l-	6	99	6	101	O
+ES	Y	ES	Y-------------------------u-	6	103	6	104	B-ORG
+pasākumiem	N	pasākums	N-mpd---------n-----------l-	6	106	6	115	O
+un	C	un	C---------------------c---l-	6	117	6	118	O
+politiku	N	politika	N-fsa---------n-----------l-	6	120	6	127	O
+,	T	,	T--------------------------,	6	128	6	128	O
+kā arī	C	kā_arī	C---------------------c---l-	6	130	6	135	O
+piedāvā	V	piedāvāt	Vp----3--i----------------l-	6	137	6	143	O
+dažādus	A	dažāds	A-mpap-n------------------l-	6	145	6	151	O
+pakalpojumus	N	pakalpojums	N-mpa---------n-----------l-	6	153	6	164	O
+,	T	,	T--------------------------,	6	165	6	165	O
+dodot	G	dodot	G----------a-n------------l-	6	167	6	171	O
+brīvu	A	brīvs	A-fsap-n------------------l-	6	173	6	177	O
+piekļuvi	N	piekļuve	N-fsa---------n-----------l-	6	179	6	186	O
+informācijai	N	informācija	N-fsd---------n-----------l-	6	188	6	199	O
+par	S	par	S----------------sap------l-	6	201	6	203	O
+ES	Y	ES	Y-------------------------u-	6	205	6	206	B-ORG
+tiesību	N	tiesība	N-fsa---------n-----------l-	6	208	6	214	O
+aktiem	N	akts	N-mpd---------n-----------l-	6	216	6	221	O
+(	T	(	T--------------------------(	6	223	6	223	O
+EUR-Lex	-	EUR-Lex	----------------------------	6	224	6	230	B-PROD
+)	T	)	T--------------------------)	6	231	6	231	O
+,	T	,	T--------------------------,	6	232	6	232	O
+ES	Y	ES	Y-------------------------u-	6	234	6	235	B-ORG
+publikācijām	N	publikācija	N-fpd---------n-----------l-	6	237	6	248	O
+(	T	(	T--------------------------(	6	250	6	250	O
+EU	Y	EU	Y-------------------------u-	6	251	6	252	B-PROD
+Bookshop	-	Bookshop	----------------------------	6	254	6	261	I-PROD
+)	T	)	T--------------------------)	6	262	6	262	O
+,	T	,	T--------------------------,	6	263	6	263	O
+ES	Y	ES	Y-------------------------u-	6	265	6	266	B-ORG
+publisko	V	publiskot	Vp----3--i----------------l-	6	268	6	275	O
+iepirkumu	N	iepirkums	N-msa---------n-----------l-	6	277	6	285	O
+(	T	(	T--------------------------(	6	287	6	287	O
+TED	-	TED	----------------------------	6	288	6	290	B-PROD
+)	T	)	T--------------------------)	6	291	6	291	O
+un	C	un	C---------------------c---l-	6	293	6	294	O
+ES	Y	ES	Y-------------------------u-	6	296	6	297	B-ORG
+pētniecību	N	pētniecība	N-fsa---------n-----------l-	6	299	6	308	O
+un	C	un	C---------------------c---l-	6	310	6	311	O
+attīstību	N	attīstība	N-fsa---------n-----------l-	6	313	6	321	O
+(	T	(	T--------------------------(	6	323	6	323	O
+CORDIS	-	CORDIS	----------------------------	6	324	6	329	B-PROD
+)	T	)	T--------------------------)	6	330	6	330	O
+.	SENT	.	T--------------------------.	6	331	6	331	O

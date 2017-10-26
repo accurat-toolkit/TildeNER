@@ -1,0 +1,236 @@
+Ņemot	G	ņemot	G----------a-n------------f-	0	0	0	4	O
+vērā	R	vērā	R----p--------------------l-	0	6	0	9	O
+Romas	N	Roma	N-msg---------n-----------f-	0	11	0	15	B-LOC
+līgumu	N	līgums	N-mpg---------n-----------l-	0	17	0	22	O
+piecdesmitās	M	piecdesmitais	M-fsg---o-----------------l-	0	24	0	35	B-DATE
+gadadienas	N	gadadiena	N-fsg---------n-----------l-	0	37	0	46	I-DATE
+svinības	N	svinības	N-fpn---------n-----------l-	0	48	0	55	O
+,	T	,	T--------------------------,	0	56	0	56	O
+kas	P	kas	P---n-------r---------x---l-	0	58	0	60	O
+paredzētas	G	paredzēts	Gsfpnp-n---p--------------l-	0	62	0	71	O
+2007	D	2007	D--p------------------------	0	73	0	76	B-DATE
+.	T	.	T--------------------------.	0	77	0	77	I-DATE
+ gada	-	 gada	----------------------------	0	78	0	82	I-DATE
+25	D	25	D--p------------------------	0	84	0	85	I-DATE
+.	T	.	T--------------------------.	0	86	0	86	I-DATE
+ martā	-	 martā	----------------------------	0	87	0	92	I-DATE
+,	T	,	T--------------------------,	0	93	0	93	O
+Padome	N	padome	N-fsn---------n-----------f-	0	95	0	100	B-ORG
+izteica	V	izteikt	Vs----3--i----------------l-	0	102	0	108	O
+vēlēšanos	N	vēlēšanās	N-fsa---------n-----------l-	0	110	0	118	O
+laist	V	laist	V--------n----------------l-	0	120	0	124	O
+apgrozībā	N	apgrozība	N-fsl---------n-----------l-	0	126	0	134	O
+piemiņas	N	piemiņa	N-fsg---------n-----------l-	0	136	0	143	O
+divu	M	divi	M-fpg---c-----------------l-	0	145	0	148	B-MON
+euro	-	euro	----------------------------	0	150	0	153	I-MON
+monētu	N	monēta	N-fsa---------n-----------l-	0	155	0	160	O
+ar	S	ar	S----------------sap------l-	0	162	0	163	O
+vienotu	A	vienots	A-msap-n------------------l-	0	165	0	171	O
+attēlu	N	attēls	N-msa---------n-----------l-	0	173	0	178	O
+valsts	N	valsts	N-fsg---------n-----------l-	0	180	0	185	O
+pusē	N	puse	N-fsl---------n-----------l-	0	187	0	190	O
+.	SENT	.	T--------------------------.	0	191	0	191	O
+
+
+Pamatojoties	G	pamatojoties	G----------a-n-y----------f-	1	0	1	11	O
+uz	S	uz	S----------------pdp------l-	1	13	1	14	O
+Eiropas	N	Eiropa	N-fsg---------n-----------f-	1	16	1	22	B-ORG
+Centrālās	A	centrāls	A-fsgp-y------------------f-	1	24	1	32	I-ORG
+bankas	N	banka	N-fsg---------n-----------l-	1	34	1	39	I-ORG
+ziņojumu	N	ziņojums	N-msa---------n-----------l-	1	41	1	48	O
+un	C	un	C---------------------c---l-	1	50	1	51	O
+Komisijas	N	komisija	N-fsg---------n-----------f-	1	53	1	61	B-ORG
+2006	D	2006	D--p------------------------	1	63	1	66	B-DATE
+.	T	.	T--------------------------.	1	67	1	67	I-DATE
+ gada	-	 gada	----------------------------	1	68	1	72	I-DATE
+Konverģences	N	konverģence	N-fsg---------n-----------f-	1	74	1	85	O
+ziņojumu	N	ziņojums	N-msa---------n-----------l-	1	87	1	94	O
+par	S	par	S----------------sap------l-	1	96	1	98	O
+Slovēniju	N	Slovēnija	N-fsa---------n-----------f-	1	100	1	108	B-LOC
+ (	-	 (	----------------------------	1	109	1	110	O
+12	D	12	D--pg-----------------------	1	112	1	113	O
+)	T	)	T--------------------------)	1	115	1	115	O
+,	T	,	T--------------------------,	1	116	1	116	O
+Komisija	N	komisija	N-fsn---------n-----------f-	1	118	1	125	B-ORG
+iesniedza	V	iesniegt	Vs----3--i----------------l-	1	127	1	135	O
+priekšlikumu	N	priekšlikums	N-mpg---------n-----------l-	1	137	1	148	O
+lēmumam	N	lēmums	N-msd---------n-----------l-	1	150	1	156	O
+par	S	par	S----------------sap------l-	1	158	1	160	O
+euro	-	euro	----------------------------	1	162	1	165	O
+ieviešanu	N	ieviešana	N-fsa---------n-----------l-	1	167	1	175	O
+šajā	P	šis	P-fsl-------d-------------l-	1	177	1	180	O
+valstī	N	valsts	N-fsl---------n-----------l-	1	182	1	187	O
+.	SENT	.	T--------------------------.	1	188	1	188	O
+Jūnija	N	jūnijs	N-msg---------n-----------f-	1	190	1	195	B-DATE
+sesijā	N	sesija	N-fsl---------n-----------l-	1	197	1	202	O
+Eiropadome	N	Eiropadome	N-fsn---------n-----------f-	1	204	1	213	B-ORG
+pozitīvi	N	pozitīvs	N-mpn---------n-----------l-	1	215	1	222	O
+novērtēja	V	novērtēt	Vs----3--i----------------l-	1	224	1	232	O
+šo	P	šis	P-msa-------d-------------l-	1	234	1	235	O
+priekšlikumu	N	priekšlikums	N-msa---------n-----------l-	1	237	1	248	O
+;	T	;	T--------------------------;	1	249	1	249	O
+pēc	S	pēc	S----------------pdp------l-	1	251	1	253	O
+Eiropas	N	Eiropa	N-fsg---------n-----------f-	1	255	1	261	B-ORG
+Parlamenta	N	parlaments	N-msg---------n-----------f-	1	263	1	272	I-ORG
+labvēlīga	A	labvēlīgs	A-msgp-n------------------l-	1	274	1	282	O
+atzinuma	N	atzinums	N-msg---------n-----------l-	1	284	1	291	O
+saņemšanas	N	saņemšana	N-fsg---------n-----------l-	1	293	1	302	O
+Padome	N	padome	N-fsn---------n-----------f-	1	304	1	309	B-ORG
+to	P	tas	P-msa-------d-------------l-	1	311	1	312	O
+pieņēma	V	pieņemt	Vs----3--i----------------l-	1	314	1	320	O
+11	D	11	D--pg-----------------------	1	322	1	323	B-DATE
+.	T	.	T--------------------------.	1	324	1	324	I-DATE
+ jūlijā	-	 jūlijā	----------------------------	1	325	1	331	I-DATE
+,	T	,	T--------------------------,	1	332	1	332	O
+un	C	un	C---------------------c---l-	1	334	1	335	O
+tas	P	tas	P-msn-------d-------------l-	1	337	1	339	O
+stājās	V	stāties	Vs----3--i-----y----------l-	1	341	1	346	O
+spēkā	N	spēks	N-msl---------n-----------l-	1	348	1	352	O
+2007	D	2007	D--p------------------------	1	354	1	357	B-DATE
+.	T	.	T--------------------------.	1	358	1	358	I-DATE
+ gada	-	 gada	----------------------------	1	359	1	363	I-DATE
+1	D	1	D--s------------------------	1	365	1	365	I-DATE
+.	T	.	T--------------------------.	1	366	1	366	I-DATE
+ janvārī	-	 janvārī	----------------------------	1	367	1	374	I-DATE
+ (	-	 (	----------------------------	1	375	1	376	O
+13	D	13	D--pg-----------------------	1	378	1	379	O
+)	T	)	T--------------------------)	1	381	1	381	O
+.	SENT	.	T--------------------------.	1	382	1	382	O
+Tādējādi	R	tādējādi	R----p--------------------f-	1	384	1	391	O
+no	S	no	S----------------pdp------l-	1	393	1	394	O
+desmit	M	desmit	M-fpn---c-----------------l-	1	396	1	401	O
+dalībvalstīm	N	dalībvalsts	N-fpd---------n-----------l-	1	403	1	414	O
+,	T	,	T--------------------------,	1	415	1	415	O
+kuras	P	kurš	P-fpa-------r---------a---l-	1	417	1	421	O
+pievienojās	V	pievienoties	Vs----3--i-----y----------l-	1	423	1	433	O
+Eiropas	N	Eiropa	N-fsg---------n-----------f-	1	435	1	441	B-ORG
+Savienībai	N	savienība	N-fsd---------n-----------f-	1	443	1	452	I-ORG
+2004	D	2004	D--p------------------------	1	454	1	457	B-DATE
+.	T	.	T--------------------------.	1	458	1	458	I-DATE
+ gadā	-	 gadā	----------------------------	1	459	1	463	I-DATE
+,	T	,	T--------------------------,	1	464	1	464	O
+Slovēnija	N	Slovēnija	N-fsn---------n-----------f-	1	466	1	474	B-LOC
+ir	V	būt	Vp----3--i----------7-----l-	1	476	1	477	O
+pirmā	M	pirmais	M-msg---o-----------------l-	1	479	1	483	O
+valsts	N	valsts	N-fsn---------n-----------l-	1	485	1	490	O
+,	T	,	T--------------------------,	1	491	1	491	O
+kas	P	kas	P---n-------r---------x---l-	1	493	1	495	O
+ir	V	būt	Vp----3--i----------7-----l-	1	497	1	498	O
+pievienojusies	G	pievienojies	Gsfsn--n---a---y----------l-	1	500	1	513	O
+eurozonai	-	eurozonai	----------------------------	1	515	1	523	O
+.	SENT	.	T--------------------------.	1	524	1	524	O
+Turklāt	R	turklāt	R----p----------------x---f-	1	526	1	532	O
+Komisija	N	komisija	N-fsv---------n-----------f-	1	534	1	541	B-ORG
+pieņēmusi	G	pieņēmis	Gsfsn--n---a--------------l-	1	543	1	551	O
+trešo	M	trešais	M-msa---o-----------------l-	1	553	1	557	O
+ziņojumu	N	ziņojums	N-mpg---------n-----------l-	1	559	1	566	O
+(	T	(	T--------------------------(	1	568	1	568	O
+22	D	22	D--p------------------------	1	569	1	570	B-DATE
+.	T	.	T--------------------------.	1	571	1	571	I-DATE
+ jūnijā	-	 jūnijā	----------------------------	1	572	1	578	I-DATE
+)	T	)	T--------------------------)	1	579	1	579	O
+ (	-	 (	----------------------------	1	580	1	581	O
+14	D	14	D--pg-----------------------	1	583	1	584	O
+)	T	)	T--------------------------)	1	586	1	586	O
+un	C	un	C---------------------c---l-	1	588	1	589	O
+ceturto	M	ceturtais	M-mpg---o-----------------l-	1	591	1	597	O
+ziņojumu	N	ziņojums	N-mpg---------n-----------l-	1	599	1	606	O
+(	T	(	T--------------------------(	1	608	1	608	O
+10	D	10	D--pg-----------------------	1	609	1	610	B-DATE
+.	T	.	T--------------------------.	1	611	1	611	I-DATE
+ novembrī	-	 novembrī	----------------------------	1	612	1	620	I-DATE
+)	T	)	T--------------------------)	1	621	1	621	O
+ (	-	 (	----------------------------	1	622	1	623	O
+15	D	15	D--pg-----------------------	1	625	1	626	O
+)	T	)	T--------------------------)	1	628	1	628	O
+par	S	par	S----------------pdp------l-	1	630	1	632	O
+praktiskajiem	A	praktisks	A-mpdp-y------------------l-	1	634	1	646	O
+sagatavošanās	N	sagatavošanās	N-fsg---------n-----------l-	1	648	1	660	O
+pasākumiem	N	pasākums	N-mpd---------n-----------l-	1	662	1	671	O
+eurozonas	-	eurozonas	----------------------------	1	673	1	681	O
+turpmākai	A	turpmāks	A-fsdp-n------------------l-	1	683	1	691	O
+paplašināšanai	N	paplašināšana	N-fsd---------n-----------l-	1	693	1	706	O
+.	SENT	.	T--------------------------.	1	707	1	707	O
+Šajos	P	šis	P-mpl-------d-------------f-	1	709	1	713	O
+ziņojumos	N	ziņojums	N-mpl---------n-----------l-	1	715	1	723	O
+ir	V	būt	Vp----3--i----------7-----l-	1	725	1	726	O
+aplūkota	G	aplūkots	Gsfsnp-n---p--------------l-	1	728	1	735	O
+situācija	N	situācija	N-fsn---------n-----------l-	1	737	1	745	O
+Slovēnijā	N	Slovēnija	N-fsl---------n-----------f-	1	747	1	755	B-LOC
+,	T	,	T--------------------------,	1	756	1	756	O
+kā	C	kā	C---------------------f---l-	1	758	1	759	O
+minēts	G	minēts	Gsmsnp-n---p--------------l-	1	761	1	766	O
+iepriekš	R	iepriekš	R----p--------------------l-	1	768	1	775	O
+,	T	,	T--------------------------,	1	776	1	776	O
+kā arī	C	kā_arī	C---------------------c---l-	1	778	1	783	O
+situācija	N	situācija	N-fsn---------n-----------l-	1	785	1	793	O
+Kiprā	N	Kipra	N-fsl---------n-----------f-	1	795	1	799	B-LOC
+un	C	un	C---------------------c---l-	1	801	1	802	O
+Maltā	G	malts	Gsmsgp-y---p--------------f-	1	804	1	808	B-LOC
+,	T	,	T--------------------------,	1	809	1	809	O
+kas	P	kas	P---n-------r---------x---l-	1	811	1	813	O
+abas	P	abi	P-fpn-------i-------------l-	1	815	1	818	O
+ir	V	būt	Vp----3--i----------7-----l-	1	820	1	821	O
+noteikušas	G	noteicis	Gsfpn--n---a--------------l-	1	823	1	832	O
+2008	D	2008	D--p------------------------	1	834	1	837	B-DATE
+.	T	.	T--------------------------.	1	838	1	838	I-DATE
+ gada	-	 gada	----------------------------	1	839	1	843	I-DATE
+1	D	1	D--s------------------------	1	845	1	845	I-DATE
+.	T	.	T--------------------------.	1	846	1	846	I-DATE
+ janvāri	-	 janvāri	----------------------------	1	847	1	854	I-DATE
+kā	C	kā	C---------------------f---l-	1	856	1	857	O
+vienotās	G	vienots	Gsfsgp-y---p--------------l-	1	859	1	866	O
+valūtas	N	valūta	N-fsg---------n-----------l-	1	868	1	874	O
+ieviešanas	N	ieviešana	N-fsg---------n-----------l-	1	876	1	885	O
+dienu	N	diena	N-fsa---------n-----------l-	1	887	1	891	O
+.	SENT	.	T--------------------------.	1	892	1	892	O
+
+
+Eiropas	N	Eiropa	N-fsg---------n-----------f-	2	0	2	6	B-ORG
+Centrālās	A	centrāls	A-fsgp-y------------------f-	2	8	2	16	I-ORG
+bankas	N	banka	N-fsg---------n-----------l-	2	18	2	23	I-ORG
+(	T	(	T--------------------------(	2	25	2	25	O
+ECB	-	ECB	----------------------------	2	26	2	28	B-ORG
+)	T	)	T--------------------------)	2	29	2	29	O
+darbība	N	darbība	N-fsn---------n-----------l-	2	31	2	37	O
+ir	V	būt	Vp----3--i----------7-----l-	2	39	2	40	O
+iztirzāta	G	iztirzāts	Gsfsnp-n---p--------------l-	2	42	2	50	O
+šā	P	šis	P-msg-------d-------------l-	2	52	2	53	O
+pārskata	V	pārskatīt	Vp----3--i----------------l-	2	55	2	62	O
+VI	-	VI	----------------------------	2	64	2	65	O
+ nodaļā	-	 nodaļā	----------------------------	2	66	2	72	O
+.	SENT	.	T--------------------------.	2	73	2	73	O
+
+
+22	D	22	D--p------------------------	3	0	3	1	B-DATE
+.	T	.	T--------------------------.	3	2	3	2	I-DATE
+ novembrī	-	 novembrī	----------------------------	3	3	3	11	I-DATE
+Komisija	N	komisija	N-fsn---------n-----------f-	3	13	3	20	B-ORG
+pieņēma	V	pieņemt	Vs----3--i----------------l-	3	22	3	28	O
+paziņojumu	N	paziņojums	N-msa---------n-----------l-	3	30	3	39	O
+,	T	,	T--------------------------,	3	40	3	40	O
+kurā	P	kurš	P-fsl-------r---------a---l-	3	42	3	45	O
+tā	P	tas	P-msg-------d-------------l-	3	47	3	48	O
+sniedz	V	sniegt	Vp----3--i----------------l-	3	50	3	55	O
+pārskatu	N	pārskats	N-msa---------n-----------l-	3	57	3	64	O
+par	S	par	S----------------sap------l-	3	66	3	68	O
+Eiropas	N	Eiropa	N-fsg---------n-----------f-	3	70	3	76	B-ORG
+Savienības	N	savienība	N-fsg---------n-----------f-	3	78	3	87	I-ORG
+ekonomikas	N	ekonomika	N-fsg---------n-----------l-	3	89	3	98	O
+rādītājiem	N	rādītājs	N-mpd---------n-----------l-	3	100	3	109	O
+2006	D	2006	D--p------------------------	3	111	3	114	B-DATE
+.	T	.	T--------------------------.	3	115	3	115	I-DATE
+ gadā	-	 gadā	----------------------------	3	116	3	120	I-DATE
+ (	-	 (	----------------------------	3	121	3	122	O
+16	D	16	D--pg-----------------------	3	124	3	125	O
+)	T	)	T--------------------------)	3	127	3	127	O
+.	SENT	.	T--------------------------.	3	128	3	128	O
+Minētajā	G	minēts	Gsmslp-y---p--------------f-	3	130	3	137	O
+paziņojumā	N	paziņojums	N-msl---------n-----------l-	3	139	3	148	O
+definētas	G	definēts	Gsfpnp-n---p--------------l-	3	150	3	158	O
+politikas	N	politika	N-fpn---------n-----------l-	3	160	3	168	O
+galvenās	A	galvenais	A-fsgp-y------------------l-	3	170	3	177	O
+prioritātes	N	prioritāte	N-fpn---------n-----------l-	3	179	3	189	O
+eurozonas	-	eurozonas	----------------------------	3	191	3	199	O
+stiprināšanai	N	stiprināšana	N-fsd---------n-----------l-	3	201	3	213	O
+.	SENT	.	T--------------------------.	3	214	3	214	O

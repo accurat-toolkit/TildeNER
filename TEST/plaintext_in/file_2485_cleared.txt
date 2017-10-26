@@ -1,0 +1,72 @@
+Windows sānjosla un sīkrīki (pārskats)
+Windows sānjosla ir gara, vertikāla josla darbvirsmas malā. Tā ietver nelielas, par sīkrīkiem sauktas programmas, kas piedāvā uzskatāmu informāciju un nodrošina vieglu piekļuvi bieži lietotiem rīkiem. Piemēram, sīkrīkus var izmantot, lai rādītu attēlu slaidrādi, skatītu pastāvīgi atjauninātus virsrakstus vai meklētu kontaktpersonas.
+Sānjosla un sīkrīki
+Kāpēc jālieto sānjosla?
+Sānjoslā ietvertā informācija un rīki ir viegli pieejami lietošanai. Piemēram, ziņu virsrakstus var parādīt tieši blakus atvērtajām programmām. Tādējādi, lai darba laikā sekotu līdzi ziņām un pārslēgtos uz ziņu vietni, nav jāpārtrauc iesāktais.
+Lietojot sānjoslu, var izmantot plūsmu virsrakstu sīkrīku, kas parāda jaunāko ziņu virsrakstus izvēlētajos avotos. Darbs ar dokumentu nav jāpārtrauc, jo ziņu virsraksti vienmēr ir redzami. Ja ekrāna sānā redzat ziņu virsrakstu, kas jūs interesē, varat uz tā noklikšķināt, un Web pārlūkprogramma atvērs vajadzīgo materiālu.
+Lai atvērtu sānjoslu
+, pēc tam uz Visas programmas, uz Piederumi un uz Windows sānjosla.
+Lai sānjosla vienmēr būtu redzama, tā ir jāiestata, lai citi logi to neaizsegtu. Sānjoslas platums ir fiksēts lielums.
+Lai panāktu, ka logi neaizsedz sānjoslu
+Tā kā sānjoslai ir nepieciešama vieta, efektīvāk šī opcija darbojas lielā, platekrāna monitorā vai vairākos monitoros.
+Atveriet Windows sānjoslas rekvizītus, noklikšķinot uz pogas Sākt
+, uz Vadības panelis, Izskats un personalizācija un pēc tam uz Windows sānjoslas rekvizīti.
+Atzīmējiet izvēles rūtiņu Sānjosla vienmēr virs citiem logiem.
+Noklikšķiniet uz Labi.
+Darba sākšana ar sīkrīkiem
+Sistēmai Windows ir neliela sīkrīku kolekcija, tomēr tikai dažas no tām parādās sānjoslā pēc noklusējuma. Lai saprastu, kā lietot sīkrīkus, izpētīsim trīs sīkrīkus, kas redzami sānjoslā, pirmo reizi startējot sistēmu Windows: pulksteni, slaidrādi un plūsmu virsrakstus.
+Kā darbojas pulkstenis?
+Kad norādāt uz pulksteņa sīkrīku, netālu no tā augšējā labā stūra tiek parādītas divas pogas: augšpusē — Aizvērt un Opcijas.
+Pulkstenis
+Noklikšķinot uz pogas Aizvērt, pulkstenis no sānjoslas tiek noņemts. Poga, kas atrodas zem aizvēršanas pogas, parāda pulksteņa nosaukuma, laika zonas maiņas un sekunžu rādītāja opciju.
+Piezīme.
+Kā darbojas slaidrāde?
+Slaidrāde
+Kad norādāt uz slaidrādi, netālu no sīkrīka augšējā labā stūra tiek parādīta poga Aizvērt un Opcijas.
+Noklikšķinot uz pogas Opcijas, var izvēlēties attēlus, kuri jāparāda slaidrādē, vadīt slaidrādes demonstrēšanas ātrumu un mainīt attēlu pārejas efektu.
+Norādiet uz slaidrādes un, kad parādās poga Opcijas, noklikšķiniet uz tās.
+Lodziņā Mape atlasiet parādāmo attēlu vietu.
+Noklikšķiniet uz Labi.
+Sarakstā Rādīt katru attēlu atlasiet, cik sekunžu katrs attēls jārāda.
+Sarakstā Pāreja starp attēliem atlasiet vēlamo pāreju.
+Noklikšķiniet uz Labi.
+Kā darbojas plūsmu virsraksti?
+Plūsmu virsraksti var parādīt bieži atjauninātus virsrakstus no vietnes, kas piegādā plūsmas, pazīstamas arī kā RSS plūsmas, XML plūsmas, sindikātsaturs un Web plūsmas. Vietnēs bieži tiek izmantotas plūsmas, lai izplatītu jaunākās ziņas un emuārus. Lai saņemtu plūsmas, jāizveido savienojums ar internetu. Pēc noklusējuma plūsmu virsraksti nerāda nevienu virsrakstu. Lai sāktu rādīt nelielu iepriekš atlasītu virsrakstu kopu, noklikšķiniet uz Skatīt virsrakstus.
+Plūsmu virsraksti
+Kad norādāt uz plūsmu virsrakstiem, netālu no sīkrīka augšējā labā stūra tiek parādīta poga Aizvērt un Opcijas. Noklikšķinot uz pogas Opcijas, pieejamo plūsmu sarakstā var izvēlēties plūsmu. Sarakstam var pievienot plūsmas, izvēloties tās no tīkla Web.
+Atveriet Internet Explorer, noklikšķinot uz pogas Sākt
+un pēc tam uz Internet Explorer.
+Dodieties uz Web lapu, kurā ir plūsmas.
+(Kad Internet Explorer atrod pieejamās plūsmas, pogai Plūsmas
+, kas atrodas programmas Internet Explorer rīkjoslā, mainās krāsa — no pelēkas uz oranžu.)
+Noklikšķiniet uz bultiņas blakus pogai Plūsmas un pēc tam sarakstā uz vajadzīgās plūsmas.
+Parādītajā Web lapā noklikšķiniet uz Abonēt šo plūsmu.
+Piedāvātajā dialoglodziņā noklikšķiniet uz Abonēt.
+Tagad plūsmai ir jābūt pieejamai plūsmu virsrakstos. Lai plūsma tiktu parādīta plūsmu virsrakstos, skatiet tālāk norādīto procedūru.
+Sarakstā Rādīt šo plūsmu noklikšķiniet uz plūsmas, ko vēlaties redzēt.
+Noklikšķiniet uz Labi.
+Piezīme.
+Lai ritinātu virsrakstus, norādiet uz plūsmu virsrakstiem un pēc tam noklikšķiniet uz lejupvērstās bultiņas ekrāna apakšējā malā.
+Pirms sīkrīka pievienošanas sānjoslai tai ir jābūt instalētai datorā. Lai apskatītu, kādi sīkrīki ir instalēti datorā:
+Sānjoslas augšdaļā noklikšķiniet uz pluszīmes (+),  lai atvērtu sīkrīku galeriju.
+Poga Pievienot sīkrīkus
+Lai apskatītu visus sīkrīkus, noklikšķiniet uz ritpogām.
+Lai skatītu informāciju par sīkrīku dialoglodziņa apakšdaļā, noklikšķiniet uz sīkrīka un pēc tam uz Rādīt detaļas.
+Sīkrīku galerija
+Sīkrīku pievienošana un noņemšana
+Sānjoslai var pievienot jebkuru datorā instalēto sīkrīku. Pēc vēlēšanās var pievienot vairākas sīkrīka instances. Piemēram, ja sekojat laikam divās laika zonās, var pievienot divas pulksteņa sīkrīka instances un katrai no tām atbilstoši iestatīt laiku.
+Poga Pievienot sīkrīkus
+Visus sīkrīkus var pastāvīgi pievienot sānjoslai.
+Sānjoslā var mainīt sīkrīku parādīšanas secību. Lai to izdarītu, velciet sīkrīku uz jaunu atrašanās vietu.
+Dažus sīkrīkus var pastāvīgi pievienot sānjoslai, bet dažus novietot darbvirsmā.
+Visus sīkrīkus var noņemt no sānjoslas un novietot darbvirsmā. Ja sīkrīkus organizējat šādā veidā, sānjoslu var aizvērt.
+Visus sīkrīkus no sānjoslas var noņemt un novietot jebkurā darbvirsmas vietā.
+Lai noņemtu sīkrīku no sānjoslas, velciet to uz darbvirsmu. Lai sīkrīku pievienotu no jauna, velciet to uz jebkuru sānjoslas daļu.
+Padoms
+Ja ir problēmas ar sīkrīka vilkšanu, iespējams, ir jāvelk no citas sīkrīka daļas, piemēram, malas vai stūra.
+Ar peles labo pogu noklikšķiniet uz sānjoslas un pēc tam uz Aizvērt sānjoslu. Lai atkal atvērtu sānjoslu,
+uzdevumjoslas paziņojumu apgabalā ar peles labo pogu noklikšķiniet uz sānjoslas ikonas un pēc tam uz Atvērt.
+Plašāku informāciju par sānjoslas pielāgošanu skatiet sadaļā Windows sānjoslas pielāgošana .
+Paldies!
+Paldies! Jūsu atsauksmes palīdz mums pastāvīgi uzlabot saturu.
+1200 400 Kā padarīt šo informāciju vēl noderīgāku? Iesniegt Izlaist Vai vēlaties vēl kaut ko pievienot? Iesniegt Nē, paldies

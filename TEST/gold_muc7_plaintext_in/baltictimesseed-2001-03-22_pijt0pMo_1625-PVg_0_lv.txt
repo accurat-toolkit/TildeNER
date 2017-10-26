@@ -1,0 +1,26 @@
+﻿<TIMEX TYPE="DATE">2005. gadā</TIMEX> <ENAMEX TYPE="ORGANIZATION">Lietuvas Komunistiskās partijas Centrālkomitejas</ENAMEX> pirmais sekretārs
+Amatā <TIMEX TYPE="DATE">1988. gada 29. oktobris – 1989. gada 19. decembris</TIMEX>
+Priekštecis <ENAMEX TYPE="PERSON">Ringauds Songails</ENAMEX>
+Pēctecis <ENAMEX TYPE="PERSON">Mikolas Burokevičus</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Lietuvas PSR Augstākās padomes Prezidija</ENAMEX> priekšsēdētājs
+Amatā <TIMEX TYPE="DATE">1990. gada 15. janvāris – 1990. gada 11. marts</TIMEX>
+Priekštecis <ENAMEX TYPE="PERSON">Vītauts Astrausks</ENAMEX>
+Pēctecis <ENAMEX TYPE="PERSON">Vītauts Landsberģis</ENAMEX> (kā <ENAMEX TYPE="ORGANIZATION">Augstākās padomes</ENAMEX> priekšsēdētājs)
+<ENAMEX TYPE="LOCATION">Lietuvas</ENAMEX> prezidents
+Amatā <TIMEX TYPE="DATE">1992. gada 25. novembris – 1998. gada 25. februāris</TIMEX>
+Priekštecis <ENAMEX TYPE="PERSON">Vītauts Landsberģis</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">Seima</ENAMEX> priekšsēdētājs, de facto <ENAMEX TYPE="LOCATION">Lietuvas</ENAMEX> prezidents)
+Pēctecis <ENAMEX TYPE="PERSON">Valds Adamkus</ENAMEX>
+<ENAMEX TYPE="LOCATION">Lietuvas</ENAMEX> premjerministrs
+Amatā <TIMEX TYPE="DATE">2001. gada 29. jūnijs – 2006. gada 1. jūnijs</TIMEX>
+Priekštecis <ENAMEX TYPE="PERSON">Jevgenijus Gentvils</ENAMEX>
+Pēctecis <ENAMEX TYPE="PERSON">Zigmants Balčitis</ENAMEX>
+Dzimš. dati
+<TIMEX TYPE="DATE">1932. gada 22. septembris</TIMEX> <ENAMEX TYPE="LOCATION">Rokišķi</ENAMEX>, <ENAMEX TYPE="LOCATION">Lietuva</ENAMEX>
+Mirš. dati
+<TIMEX TYPE="DATE">2010. gada 26. jūnijs</TIMEX> <ENAMEX TYPE="LOCATION">Viļņa</ENAMEX>, <ENAMEX TYPE="LOCATION">Lietuva</ENAMEX>
+Tautība - lietuvietis
+Politiskā partija <ENAMEX TYPE="ORGANIZATION">LKP LSP</ENAMEX>
+Bērni - 2 meitas (no pirmās laulības)
+Profesija - Inženieris, politiķis.
+Alma mater <ENAMEX TYPE="ORGANIZATION">Kauņas Politehniskais institūts</ENAMEX>
+<ENAMEX TYPE="PERSON">Aļģirds Brazausks</ENAMEX> (lietuviešu: <ENAMEX TYPE="PERSON">Algirdas Brazauskas</ENAMEX>; <TIMEX TYPE="DATE">1932. gada 22. septembris — 2010. gada 26. jūnijs</TIMEX>) bija pirmais <ENAMEX TYPE="LOCATION">Lietuvas</ENAMEX> prezidents (<TIMEX TYPE="DATE">1993 — 1998</TIMEX>) pēc <ENAMEX TYPE="LOCATION">Lietuvas</ENAMEX> valstiskuma atjaunošanas un <ENAMEX TYPE="LOCATION">Lietuvas</ENAMEX> premjerministrs <TIMEX TYPE="DATE">no 2001. līdz 2006. gadam</TIMEX>. Šis raksts ir ļoti īss un nepilnīgs. Jūs varat dot savu ieguldījumu <ENAMEX TYPE="PRODUCT">Vikipēdijā</ENAMEX>, papildinot to. Šis ar <ENAMEX TYPE="LOCATION">Lietuvu</ENAMEX> saistītais raksts ir nepilnīgs. Jūs varat dot savu ieguldījumu <ENAMEX TYPE="PRODUCT">Vikipēdijā</ENAMEX>, papildinot to. Saturs iegūts no "http://lv.wikipedia.org/wiki/A%C4%BC%C4%A3irds_Brazausks" Kategorijas: Sevišķi īsi raksti | Nepabeigti raksti par <ENAMEX TYPE="LOCATION">Lietuvu</ENAMEX> | <TIMEX TYPE="DATE">1932. gadā</TIMEX> dzimušie | <TIMEX TYPE="DATE">2010. gadā</TIMEX> mirušie | <ENAMEX TYPE="LOCATION">Lietuvas</ENAMEX> prezidenti | <ENAMEX TYPE="LOCATION">Lietuvas</ENAMEX> premjerministri | <ENAMEX TYPE="PRODUCT">Triju Zvaigžņu ordeņa</ENAMEX> kavalieri

@@ -1,0 +1,1084 @@
+Bruneja	N	Bruneja	N-fsn---------n-----------f-	0	0	0	6	B-LOC
+
+
+
+
+Attēls	N	attēls	N-msn---------n-----------f-	2	0	2	5	O
+:	T	:	T--------------------------:	2	6	2	6	O
+Bruneja	N	Bruneja	N-fsn---------n-----------f-	2	7	2	13	B-LOC
+vieta.png	-	vieta.png	----------------------------	2	15	2	23	O
+Valsts	N	valsts	N-fsg---------n-----------f-	2	25	2	30	O
+valoda	N	valoda	N-fsn---------n-----------l-	2	32	2	37	O
+malajiešu	N	malajiete	N-fpg---------n-----------l-	2	39	2	47	O
+valoda	N	valoda	N-fsn---------n-----------l-	2	49	2	54	O
+GalvaspilsētaBandarseribegavana	-	GalvaspilsētaBandarseribegavana	----------------------------	2	56	2	86	O
+Lielākās	A	liels	A-fpac-y------------------f-	2	88	2	95	O
+pilsētasBandarseribegavana	-	pilsētasBandarseribegavana	----------------------------	2	97	2	122	O
+
+
+
+
+MonarhsHasanals	-	MonarhsHasanals	----------------------------	4	0	4	14	O
+Bolkiahs	-	Bolkiahs	----------------------------	4	16	4	23	B-PERS
+Platība5770	-	Platība5770	----------------------------	4	25	4	35	O
+km	Y	km	Y-------------------------l-	4	37	4	38	O
+²	-	²	----------------------------	4	39	4	39	O
+Iedzīvotāju	N	iedzīvotājs	N-mpg---------n-----------f-	4	41	4	51	O
+skaits	N	skaits	N-msn---------n-----------l-	4	53	4	58	O
+
+
+
+
+371	D	371	D--s------------------------	6	0	6	2	O
+100	D	100	D--pg-----------------------	6	4	6	6	O
+61	D	61	D--s------------------------	6	8	6	9	O
+/	T	/	T--------------------------/	6	10	6	10	O
+km&sup2	-	km&sup2	----------------------------	6	11	6	17	O
+;	T	;	T--------------------------;	6	18	6	18	O
+NeatkarībaNo	-	NeatkarībaNo	----------------------------	6	21	6	32	O
+Lielbritānijas	N	Lielbritānija	N-fsg---------n-----------f-	6	34	6	47	B-LOC
+1984	D	1984	D--p------------------------	6	49	6	52	B-DATE
+.	T	.	T--------------------------.	6	53	6	53	I-DATE
+gada	N	gads	N-msg---------n-----------l-	6	55	6	58	I-DATE
+1	D	1	D--s------------------------	6	60	6	60	I-DATE
+.	T	.	T--------------------------.	6	61	6	61	I-DATE
+janvārī	N	janvāris	N-msl---------n-----------l-	6	62	6	68	I-DATE
+Valūta	N	valūta	N-fsn---------n-----------f-	6	70	6	75	O
+Brunejas	N	Bruneja	N-fsg---------n-----------f-	6	77	6	84	B-LOC
+dolārs	N	dolārs	N-msn---------n-----------l-	6	86	6	91	O
+/	T	/	T--------------------------/	6	92	6	92	O
+BND	-	BND	----------------------------	6	93	6	95	O
+Laika	N	laiks	N-msg---------n-----------f-	6	97	6	101	O
+zona	N	zona	N-fsn---------n-----------l-	6	103	6	106	O
+UTC	-	UTC	----------------------------	6	108	6	110	O
++	T	+	T--------------------------+	6	112	6	112	O
+8	D	8	D--p------------------------	6	113	6	113	O
+Valsts	N	valsts	N-fsg---------n-----------f-	6	115	6	120	O
+himnaYa	-	himnaYa	----------------------------	6	122	6	128	O
+Allah	-	Allah	----------------------------	6	130	6	134	O
+lanjutkan	-	lanjutkan	----------------------------	6	136	6	144	O
+la	N	la	N-msg---------n-----------l-	6	146	6	147	O
+usia	-	usia	----------------------------	6	149	6	152	O
+Duli	-	Duli	----------------------------	6	154	6	157	O
+tuanku	-	tuanku	----------------------------	6	159	6	164	O
+Interneta	N	internets	N-msg---------n-----------f-	6	166	6	174	O
+domēns.bn	-	domēns.bn	----------------------------	6	176	6	184	O
+Starptautiskais	A	starptautisks	A-msnp-y------------------f-	6	186	6	200	O
+tālsarunu	N	tālsaruna	N-fpg---------n-----------l-	6	202	6	210	O
+kods	N	kods	N-msn---------n-----------l-	6	212	6	215	O
++	T	+	T--------------------------+	6	216	6	216	O
+673	D	673	D--p------------------------	6	217	6	219	O
+
+
+
+
+Bruneja	N	Bruneja	N-fsn---------n-----------f-	8	0	8	6	B-LOC
+ir	V	būt	Vp----3--i----------7-----l-	8	8	8	9	O
+sultanāts	N	sultanāts	N-msn---------n-----------l-	8	11	8	19	O
+Āzijas	N	Āzija	N-fsg---------n-----------f-	8	21	8	26	B-LOC
+dienvidos	N	dienvidus	N-mpl---------n-----------l-	8	28	8	36	O
+Borneo	N	Borneo	N-mpl---------n-----------f-	8	38	8	43	B-LOC
+salas	N	sala	N-fsg---------n-----------l-	8	45	8	49	I-LOC
+ziemeļrietumu	N	ziemeļrietumi	N-mpg---------n-----------l-	8	51	8	63	O
+daļā	N	daļa	N-fsl---------n-----------l-	8	65	8	68	O
+.	SENT	.	T--------------------------.	8	69	8	69	O
+Dienvidos	N	dienvidus	N-mpl---------n-----------f-	8	71	8	79	O
+Brunejai	N	Bruneja	N-fsd---------n-----------f-	8	81	8	88	B-LOC
+ir	V	būt	Vp----3--i----------7-----l-	8	90	8	91	O
+sauszemes	N	sauszeme	N-fsg---------n-----------l-	8	93	8	101	O
+robeža	N	robeža	N-fsn---------n-----------l-	8	103	8	108	O
+ar	S	ar	S----------------sap------l-	8	110	8	111	O
+Malaiziju	N	Malaizija	N-fsa---------n-----------f-	8	113	8	121	B-LOC
+,	T	,	T--------------------------,	8	122	8	122	O
+bet	C	bet	C---------------------c---l-	8	124	8	126	O
+valsts	N	valsts	N-fsg---------n-----------l-	8	128	8	133	O
+ziemeļu	N	ziemelis	N-mpg---------n-----------l-	8	135	8	141	O
+robežu	N	robeža	N-fsa---------n-----------l-	8	143	8	148	O
+apskalo	V	apskalot	Vp----3--i----------------l-	8	150	8	156	O
+Dienvidķīnas	N	Dienvidķīna	N-fsg---------n-----------f-	8	158	8	169	B-LOC
+jūra	N	jūra	N-fsn---------n-----------l-	8	171	8	174	I-LOC
+.	SENT	.	T--------------------------.	8	175	8	175	O
+Bruneja	N	Bruneja	N-fsn---------n-----------f-	8	177	8	183	B-LOC
+sastāv	V	sastāvēt	Vp----3--i----------------l-	8	185	8	190	O
+no	S	no	S----------------pdp------l-	8	192	8	193	O
+2	D	2	D--p------------------------	8	195	8	195	O
+nošķirtiem	G	nošķirts	Gsmpdp-n---p--------------l-	8	197	8	206	O
+apgabaliem	N	apgabals	N-mpd---------n-----------l-	8	208	8	217	O
+,	T	,	T--------------------------,	8	218	8	218	O
+kas	P	kas	P---n-------r---------x---l-	8	220	8	222	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	8	224	8	230	O
+aptuveni	R	aptuveni	R----p--------------------l-	8	232	8	239	O
+30	D	30	D--pg-----------------------	8	241	8	242	O
+km	Y	km	Y-------------------------l-	8	244	8	245	O
+attālumā	N	attālums	N-msl---------n-----------l-	8	247	8	254	O
+viens	M	viens	M-msn---c-----------------l-	8	256	8	260	O
+no	S	no	S----------------sgp------l-	8	262	8	263	O
+otra	M	otrs	M-msg---c-----------------l-	8	265	8	268	O
+.	SENT	.	T--------------------------.	8	269	8	269	O
+
+
+
+
+Platība	N	platība	N-fsn---------n-----------f-	10	0	10	6	O
+:	T	:	T--------------------------:	10	7	10	7	O
+
+
+
+
+5770	D	5770	D--pg-----------------------	12	0	12	3	O
+km2	-	km2	----------------------------	12	5	12	7	O
+Iedzīvotāju	N	iedzīvotājs	N-mpg---------n-----------f-	12	10	12	20	O
+skaits	N	skaits	N-msn---------n-----------l-	12	22	12	27	O
+:	T	:	T--------------------------:	12	28	12	28	O
+365,2	D	365,2	D--p------------------------	12	30	12	34	O
+tūkst.	Y	tūkst.	Y-------------------------l-	12	36	12	41	O
+Valsts	N	valsts	N-fsn---------n-----------f-	12	44	12	49	O
+iekārta	N	iekārta	N-fsn---------n-----------l-	12	51	12	57	O
+:	T	:	T--------------------------:	12	58	12	58	O
+konstitucionāla	A	konstitucionāls	A-fsnp-n------------------l-	12	60	12	74	O
+monarhija	N	monarhija	N-fsn---------n-----------l-	12	76	12	84	O
+—	T	—	T--------------------------—	12	86	12	86	O
+sultanāts	N	sultanāts	N-msn---------n-----------l-	12	88	12	96	O
+,	T	,	T--------------------------,	12	97	12	97	O
+valsts	N	valsts	N-fsg---------n-----------l-	12	99	12	104	O
+vadītājs	N	vadītājs	N-msn---------n-----------l-	12	106	12	113	O
+ir	V	būt	Vp----3--i----------7-----l-	12	115	12	116	O
+viens	M	viens	M-msn---c-----------------l-	12	118	12	122	O
+no	S	no	S----------------pdp------l-	12	124	12	125	O
+bagātākajiem	A	bagāts	A-mpdc-y------------------l-	12	127	12	138	O
+cilvēkiem	N	cilvēks	N-mpd---------n-----------l-	12	140	12	148	O
+pasaulē	N	pasaule	N-fsl---------n-----------l-	12	150	12	156	O
+-	T	-	T---------------------------	12	158	12	158	O
+Sultāns	N	sultāns	N-msn---------n-----------f-	12	160	12	166	O
+Hassanal	-	Hassanal	----------------------------	12	168	12	175	B-PERS
+Bolkiah	-	Bolkiah	----------------------------	12	177	12	183	I-PERS
+
+
+
+
+Galvaspilsēta	N	galvaspilsēta	N-fsn---------n-----------f-	14	0	14	12	O
+:	T	:	T--------------------------:	14	13	14	13	O
+
+
+
+
+Lielākās	A	liels	A-fpnc-y------------------f-	16	0	16	7	O
+pilsētas	N	pilsēta	N-fpn---------n-----------l-	16	9	16	16	O
+:	T	:	T--------------------------:	16	17	16	17	O
+Bandarseribegavana	N	Bandarseribegavana	N-fsn---------n-----------f-	16	19	16	36	B-LOC
+,	T	,	T--------------------------,	16	37	16	37	O
+Tutonga	-	Tutonga	----------------------------	16	39	16	45	B-LOC
+,	T	,	T--------------------------,	16	46	16	46	O
+Bangara	-	Bangara	----------------------------	16	48	16	54	B-LOC
+,	T	,	T--------------------------,	16	55	16	55	O
+Jerudonga	-	Jerudonga	----------------------------	16	57	16	65	B-LOC
+,	T	,	T--------------------------,	16	66	16	66	O
+Sukanga	-	Sukanga	----------------------------	16	68	16	74	B-LOC
+.	SENT	.	T--------------------------.	16	75	16	75	O
+
+
+
+
+Oficiālā	A	oficiāls	A-fsnp-y------------------f-	18	0	18	7	O
+valoda	N	valoda	N-fsn---------n-----------l-	18	9	18	14	O
+:	T	:	T--------------------------:	18	15	18	15	O
+
+
+
+
+malajiešu	N	malajietis	N-mpg---------n-----------l-	20	0	20	8	O
+,	T	,	T--------------------------,	20	9	20	9	O
+angļu	N	anglis	N-mpg---------n-----------l-	20	11	20	15	O
+,	T	,	T--------------------------,	20	16	20	16	O
+ķīniešu	N	ķīniete	N-fpg---------n-----------l-	20	18	20	24	O
+Reliģija	N	reliģija	N-fsn---------n-----------f-	20	26	20	33	O
+:	T	:	T--------------------------:	20	34	20	34	O
+67	D	67	D--p------------------------	20	36	20	37	O
+%	T	%	T--------------------------%	20	39	20	39	O
+islāms	N	islāms	N-msn---------n-----------l-	20	41	20	46	O
+;	T	;	T--------------------------;	20	47	20	47	O
+13	D	13	D--pg-----------------------	20	49	20	50	O
+%	T	%	T--------------------------%	20	52	20	52	O
+budisms	N	budisms	N-msn---------n-----------l-	20	54	20	60	O
+;	T	;	T--------------------------;	20	61	20	61	O
+10	D	10	D--pg-----------------------	20	63	20	64	O
+%	T	%	T--------------------------%	20	66	20	66	O
+kristietība	N	kristietība	N-fsn---------n-----------l-	20	68	20	78	O
+;	T	;	T--------------------------;	20	79	20	79	O
+10	D	10	D--pg-----------------------	20	81	20	82	O
+%	T	%	T--------------------------%	20	84	20	84	O
+pamatiedzīvotāju	N	pamatiedzīvotājs	N-mpg---------n-----------l-	20	86	20	101	O
+pagāniskās	A	pagānisks	A-fsgp-y------------------l-	20	103	20	112	O
+ticības	N	ticība	N-fpn---------n-----------l-	20	114	20	120	O
+.	SENT	.	T--------------------------.	20	121	20	121	O
+
+
+
+
+Klimats	N	klimats	N-msn---------n-----------f-	22	0	22	6	O
+:	T	:	T--------------------------:	22	7	22	7	O
+
+
+
+
+Bruneja	N	Bruneja	N-fsn---------n-----------f-	24	0	24	6	B-LOC
+atrodas	V	atrasties	Vp----3--i-----y----------l-	24	8	24	14	O
+ekvatoriālajā	A	ekvatoriāls	A-fslp-y------------------l-	24	16	24	28	O
+klimata	N	klimats	N-msg---------n-----------l-	24	30	24	36	O
+joslā	N	josla	N-fsl---------n-----------l-	24	38	24	42	O
+,	T	,	T--------------------------,	24	43	24	43	O
+tāpēc	R	tāpēc	R----p--------------------l-	24	45	24	49	O
+valstī	N	valsts	N-fsl---------n-----------l-	24	51	24	56	O
+visu	P	viss	P-msa-------g-------------l-	24	58	24	61	B-DATE
+gadu	N	gads	N-msa---------n-----------l-	24	63	24	66	I-DATE
+ir	V	būt	Vp----3--i----------7-----l-	24	68	24	69	O
+augsta	A	augsts	A-fsnp-n------------------l-	24	71	24	76	O
+gaisa	N	gaiss	N-msg---------n-----------l-	24	78	24	82	O
+temperatūra	N	temperatūra	N-fsn---------n-----------l-	24	84	24	94	O
+.	SENT	.	T--------------------------.	24	95	24	95	O
+Vidējā	A	vidējs	A-mslp-y------------------f-	24	97	24	102	O
+gaisa	N	gaiss	N-msg---------n-----------l-	24	104	24	108	O
+temperatūra	N	temperatūra	N-fsn---------n-----------l-	24	110	24	120	O
+janvārī	N	janvāris	N-msl---------n-----------l-	24	122	24	128	B-DATE
++	T	+	T--------------------------+	24	130	24	130	O
+25	D	25	D--p------------------------	24	132	24	133	O
+°	-	°	----------------------------	24	135	24	135	O
+C	Y	C	Y-------------------------f-	24	136	24	136	O
+,	T	,	T--------------------------,	24	137	24	137	O
+bet	C	bet	C---------------------c---l-	24	139	24	141	O
+jūlijā	N	jūlijs	N-msl---------n-----------l-	24	143	24	148	B-DATE
++	T	+	T--------------------------+	24	150	24	150	O
+35	D	35	D--p------------------------	24	151	24	152	O
+°	-	°	----------------------------	24	154	24	154	O
+C.	-	C.	----------------------------	24	155	24	156	O
+Klimats	N	klimats	N-msn---------n-----------f-	24	158	24	164	O
+ir	V	būt	Vp----3--i----------7-----l-	24	166	24	167	O
+karsts	A	karsts	A-msnp-n------------------l-	24	169	24	174	O
+,	T	,	T--------------------------,	24	175	24	175	O
+bet	C	bet	C---------------------c---l-	24	177	24	179	O
+mitrs	A	mitrs	A-msnp-n------------------l-	24	181	24	185	O
+un	C	un	C---------------------c---l-	24	187	24	188	O
+lietains	A	lietains	A-msnp-n------------------l-	24	190	24	197	O
+,	T	,	T--------------------------,	24	198	24	198	O
+gada	N	gads	N-msg---------n-----------l-	24	200	24	203	B-DATE
+vidējais	A	vidējs	A-msnp-y------------------l-	24	205	24	212	O
+nokrišņu	N	nokrišņi	N-mpg---------n-----------l-	24	214	24	221	O
+daudzums	N	daudzums	N-msn---------n-----------l-	24	223	24	230	O
+sasniedz	V	sasniegt	Vp----3--i----------------l-	24	232	24	239	O
+pat	Q	pat	Q-------------------------l-	24	241	24	243	O
+3000	D	3000	D--pg-----------------------	24	245	24	248	O
+mm	Y	mm	Y-------------------------l-	24	250	24	251	O
+,	T	,	T--------------------------,	24	252	24	252	O
+kas	P	kas	P---n-------r---------x---l-	24	254	24	256	O
+ir	V	būt	Vp----3--i----------7-----l-	24	258	24	259	O
+diezgan	R	diezgan	R----p---------------g----l-	24	261	24	267	O
+daudz	R	daudz	R----p---------------g----l-	24	269	24	273	O
+.	SENT	.	T--------------------------.	24	274	24	274	O
+
+
+
+
+Naudas	N	nauda	N-fsg---------n-----------f-	26	0	26	5	O
+vienība	N	vienība	N-fsn---------n-----------l-	26	7	26	13	O
+:	T	:	T--------------------------:	26	14	26	14	O
+
+
+
+
+Brunejas	N	Bruneja	N-fsg---------n-----------f-	28	0	28	7	B-LOC
+dolārs	N	dolārs	N-msn---------n-----------l-	28	9	28	14	O
+(	T	(	T--------------------------(	28	16	28	16	O
+BND	-	BND	----------------------------	28	17	28	19	O
+)	T	)	T--------------------------)	28	20	28	20	O
+1	D	1	D--s------------------------	28	22	28	22	B-MON
+USD	Y	USD	Y-------------------------u-	28	24	28	26	I-MON
+=	T	=	T--------------------------=	28	28	28	28	O
+1.71	D	1.71	D--s------------------------	28	30	28	33	B-MON
+BND	-	BND	----------------------------	28	35	28	37	I-MON
+;	T	;	T--------------------------;	28	38	28	38	O
+Paralēli	A	paralēls	A-mpnp-n------------------f-	28	40	28	47	O
+valstī	N	valsts	N-fsl---------n-----------l-	28	49	28	54	O
+daudzviet	R	daudzviet	R----p--------------------l-	28	56	28	64	O
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	28	66	28	74	O
+norēķināties	V	norēķināties	V--------n-----y----------l-	28	76	28	87	O
+arī	Q	arī	Q-------------------------l-	28	89	28	91	O
+ar	S	ar	S----------------pdp------l-	28	93	28	94	O
+Singapūras	N	Singapūra	N-fsg---------n-----------f-	28	96	28	105	B-LOC
+dolāriem	N	dolārs	N-mpd---------n-----------l-	28	107	28	114	O
+.	SENT	.	T--------------------------.	28	115	28	115	O
+
+
+
+
+Transports	N	transports	N-msn---------n-----------f-	30	0	30	9	O
+:	T	:	T--------------------------:	30	10	30	10	O
+
+
+
+
+Visvairāk	R	daudz	R----s--------------------f-	32	0	32	8	O
+tūristu	N	tūrists	N-msa---------n-----------l-	32	10	32	16	O
+Brunejā	N	Bruneja	N-fsl---------n-----------f-	32	18	32	24	B-LOC
+ierodas	V	ierasties	Vp----3--i-----y----------l-	32	26	32	32	O
+ar	S	ar	S----------------sap------l-	32	34	32	35	O
+aviotransportu	N	aviotransports	N-msa---------n-----------l-	32	37	32	50	O
+.	SENT	.	T--------------------------.	32	51	32	51	O
+Valstī	N	valsts	N-fsl---------n-----------f-	32	53	32	58	O
+ir	V	būt	Vp----3--i----------7-----l-	32	60	32	61	O
+2	D	2	D--p------------------------	32	63	32	63	O
+lidostas	N	lidosta	N-fpa---------n-----------l-	32	65	32	72	O
+.	SENT	.	T--------------------------.	32	73	32	73	O
+Latvijas	N	Latvija	N-fsg---------n-----------f-	32	75	32	82	B-LOC
+iedzīvotājiem	N	iedzīvotājs	N-mpd---------n-----------l-	32	84	32	96	O
+visērtāk	R	ērti	R----s--------------------l-	32	98	32	105	O
+ceļot	G	ceļot	G----------a-n------------l-	32	107	32	111	O
+caur	S	caur	S----------------sap------l-	32	113	32	116	O
+Londonu	N	Londons	N-msa---------n-----------f-	32	118	32	124	B-LOC
+.	SENT	.	T--------------------------.	32	125	32	125	O
+Brunejā	N	Bruneja	N-fsl---------n-----------f-	32	127	32	133	B-LOC
+var	V	varēt	Vp----3--i----------3-----l-	32	135	32	137	O
+pārvietoties	V	pārvietoties	V--------n-----y----------l-	32	139	32	150	O
+ar	S	ar	S----------------sap------l-	32	152	32	153	O
+autobusu	N	autobuss	N-msa---------n-----------l-	32	155	32	162	O
+,	T	,	T--------------------------,	32	163	32	163	O
+īrētu	A	īrēts	A-fsap-n------------------l-	32	165	32	169	O
+automašīnu	N	automašīna	N-fsa---------n-----------l-	32	171	32	180	O
+vai	C	vai	C---------------------c---l-	32	182	32	184	O
+taksi	N	takse	N-fsa---------n-----------l-	32	186	32	190	O
+.	SENT	.	T--------------------------.	32	191	32	191	O
+Maršrutu	N	maršruts	N-mpg---------n-----------f-	32	193	32	200	O
+autobusu	N	autobuss	N-mpg---------n-----------l-	32	202	32	209	O
+satiksme	N	satiksme	N-fsn---------n-----------l-	32	211	32	218	O
+ir	V	būt	Vp----3--i----------7-----l-	32	220	32	221	O
+tikai	Q	tikai	Q-------------------------l-	32	223	32	227	O
+galvaspilsētā	N	galvaspilsēta	N-fsl---------n-----------l-	32	229	32	241	O
+.	SENT	.	T--------------------------.	32	242	32	242	O
+No	S	no	S----------------pdp------f-	32	244	32	245	O
+apkārtesošajām	A	apkārtesošs	A-fpdp-y------------------l-	32	247	32	260	O
+salu	N	sals	N-mpg---------n-----------l-	32	262	32	265	O
+valstīm	N	valsts	N-fpd---------n-----------l-	32	267	32	273	O
+Brunejā	N	Bruneja	N-fsl---------n-----------f-	32	275	32	281	B-LOC
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	32	283	32	291	O
+nokļūt	V	nokļūt	V--------n----------------l-	32	293	32	298	O
+arī	Q	arī	Q-------------------------l-	32	300	32	302	O
+ar	S	ar	S----------------sap------l-	32	304	32	305	O
+ūdenstransportu	N	ūdenstransports	N-msa---------n-----------l-	32	307	32	321	O
+,	T	,	T--------------------------,	32	322	32	322	O
+lielākās	A	liels	A-fsgc-y------------------l-	32	324	32	331	O
+ostas	N	osta	N-fpn---------n-----------l-	32	333	32	337	O
+ir	V	būt	Vp----3--i----------7-----l-	32	339	32	340	O
+Bandarseribegavana	N	Bandarseribegavana	N-fsn---------n-----------f-	32	342	32	359	B-LOC
+,	T	,	T--------------------------,	32	360	32	360	O
+Kuala	-	Kuala	----------------------------	32	362	32	366	B-LOC
+Belait	-	Belait	----------------------------	32	368	32	373	I-LOC
+,	T	,	T--------------------------,	32	374	32	374	O
+Muar	-	Muar	----------------------------	32	376	32	379	B-LOC
+,	T	,	T--------------------------,	32	380	32	380	O
+Tutong	-	Tutong	----------------------------	32	382	32	387	B-LOC
+.	SENT	.	T--------------------------.	32	388	32	388	O
+
+
+
+
+Tradīcijas	N	tradīcija	N-fpn---------n-----------f-	34	0	34	9	O
+:	T	:	T--------------------------:	34	10	34	10	O
+
+
+
+
+Brunejā	N	Bruneja	N-fsl---------n-----------f-	36	0	36	6	B-LOC
+bieži	R	bieži	R----p--------------------l-	36	8	36	12	O
+notiek	V	notikt	Vp----3--i----------------l-	36	14	36	19	O
+krāšņi	A	krāšņs	A-mpnp-n------------------l-	36	21	36	26	O
+festivāli	N	festivāls	N-mpn---------n-----------l-	36	28	36	36	O
+.	SENT	.	T--------------------------.	36	37	36	37	O
+Lielākā	A	liels	A-fsnc-y------------------f-	36	39	36	45	O
+daļa	N	daļa	N-fsn---------n-----------l-	36	47	36	50	O
+svētku	N	svētki	N-mpg---------n-----------l-	36	52	36	57	O
+ir	V	būt	Vp----3--i----------7-----l-	36	59	36	60	O
+saistīti	G	saistīts	Gsmpnp-n---p--------------l-	36	62	36	69	O
+ar	S	ar	S----------------pdp------l-	36	71	36	72	O
+nozīmīgām	A	nozīmīgs	A-fpdp-n------------------l-	36	74	36	82	O
+dienām	N	diena	N-fpd---------n-----------l-	36	84	36	89	O
+sultāna	N	sultāns	N-msg---------n-----------l-	36	91	36	97	O
+dzīvē	N	dzīve	N-fsl---------n-----------l-	36	99	36	103	O
+,	T	,	T--------------------------,	36	104	36	104	O
+piemēram	R	piemēram	R----p--------------------l-	36	106	36	113	O
+,	T	,	T--------------------------,	36	114	36	114	O
+1	D	1	D--s------------------------	36	116	36	116	B-DATE
+.	T	.	T--------------------------.	36	117	36	117	I-DATE
+augusts	N	augusts	N-msn---------n-----------l-	36	119	36	125	I-DATE
+—	T	—	T--------------------------—	36	127	36	127	O
+sultāna	N	sultāns	N-msg---------n-----------l-	36	129	36	135	O
+kronēšanas	N	kronēšana	N-fsg---------n-----------l-	36	137	36	146	O
+gadadiena	N	gadadiena	N-fsn---------n-----------l-	36	148	36	156	O
+.	SENT	.	T--------------------------.	36	157	36	157	O
+23	D	23	D--p------------------------	36	159	36	160	B-DATE
+.	T	.	T--------------------------.	36	161	36	161	I-DATE
+februāris	N	februāris	N-msn---------n-----------l-	36	163	36	171	I-DATE
+ir	V	būt	Vp----3--i----------7-----l-	36	173	36	174	O
+Brunejas	N	Bruneja	N-fsg---------n-----------f-	36	176	36	183	B-LOC
+neatkarības	N	neatkarība	N-fsg---------n-----------l-	36	185	36	195	O
+diena	N	diena	N-fsn---------n-----------l-	36	197	36	201	O
+—	T	—	T--------------------------—	36	203	36	203	O
+kad	R	kad	R----p----------------o---l-	36	205	36	207	O
+tā	P	tas	P-fsn-------d-------------l-	36	209	36	210	O
+kļuva	V	kļūt	Vs----3--i----------2-----l-	36	212	36	216	O
+neatkarīga	A	neatkarīgs	A-fsnp-n--------y---------l-	36	218	36	227	O
+no	S	no	S----------------sgp------l-	36	229	36	230	O
+Lielbritānijas	N	Lielbritānija	N-fsg---------n-----------f-	36	232	36	245	B-LOC
+.	SENT	.	T--------------------------.	36	246	36	246	O
+Jauno	A	jauns	A-mpgp-y------------------f-	36	248	36	252	B-DATE
+gadu	N	gads	N-msa---------n-----------l-	36	254	36	257	I-DATE
+Brunejā	N	Bruneja	N-fsl---------n-----------f-	36	259	36	265	B-LOC
+sagaida	V	sagaidīt	Vp----3--i----------------l-	36	267	36	273	O
+pēc	S	pēc	S----------------pdp------l-	36	275	36	277	O
+ķīniešu	N	ķīnietis	N-mpg---------n-----------l-	36	279	36	285	O
+kalendāra	N	kalendārs	N-msg---------n-----------l-	36	287	36	295	O
+janvārī	N	janvāris	N-msl---------n-----------l-	36	297	36	303	B-DATE
+vai	C	vai	C---------------------c---l-	36	305	36	307	O
+februārī	N	februāris	N-msl---------n-----------l-	36	309	36	316	B-DATE
+.	SENT	.	T--------------------------.	36	317	36	317	O
+Hari	N	Haris	N-mpn---------n-----------f-	36	320	36	323	O
+Raija	N	Raija	N-fsn---------n-----------f-	36	325	36	329	O
+ir	V	būt	Vp----3--i----------7-----l-	36	331	36	332	O
+viens	M	viens	M-msn---c-----------------l-	36	334	36	338	O
+no	S	no	S----------------pdp------l-	36	340	36	341	O
+lielākajiem	A	liels	A-mpdc-y------------------l-	36	343	36	353	O
+festivāliem	N	festivāls	N-mpd---------n-----------l-	36	355	36	365	O
+—	T	—	T--------------------------—	36	367	36	367	O
+tas	P	tas	P-msn-------d-------------l-	36	369	36	371	O
+sākas	V	sākties	Vp----3--i-----y----3-----l-	36	373	36	377	O
+pēc	S	pēc	S----------------sgp------l-	36	379	36	381	O
+Ramadāna	-	Ramadāna	----------------------------	36	383	36	390	B-DATE
+(	T	(	T--------------------------(	36	392	36	392	O
+gavēšanas	N	gavēšana	N-fsg---------n-----------l-	36	393	36	401	O
+laika	N	laiks	N-msg---------n-----------l-	36	403	36	407	O
+)	T	)	T--------------------------)	36	408	36	408	O
+beigām	N	beigas	N-fpd---------n-----------l-	36	410	36	415	O
+.	SENT	.	T--------------------------.	36	416	36	416	O
+Šajā	P	šis	P-msl-------d-------------f-	36	418	36	421	O
+laikā	N	laiks	N-msl---------n-----------l-	36	423	36	427	O
+mošejas	N	mošeja	N-fpn---------n-----------l-	36	429	36	435	O
+ir	V	būt	Vp----3--i----------7-----l-	36	437	36	438	O
+pilnas	A	pilns	A-fpnp-n------------------l-	36	440	36	445	O
+ar	S	ar	S----------------pdp------l-	36	447	36	448	O
+ticīgajiem	A	ticīgs	A-mpdp-y------------------l-	36	450	36	459	O
+un	C	un	C---------------------c---l-	36	461	36	462	O
+sultāns	N	sultāns	N-msn---------n-----------l-	36	464	36	470	O
+uzņem	V	uzņemt	Vp----3--i----------------l-	36	472	36	476	O
+viesus	N	viesis	N-mpa---------n-----------l-	36	478	36	483	O
+savā	P	savs	P-fsl-------s-------------l-	36	485	36	488	O
+rezidencē	N	rezidence	N-fsl---------n-----------l-	36	490	36	498	O
+.	SENT	.	T--------------------------.	36	499	36	499	O
+
+
+
+
+Laika	N	laiks	N-msg---------n-----------f-	38	0	38	4	O
+starpība	N	starpība	N-fsn---------n-----------l-	38	6	38	13	O
+:	T	:	T--------------------------:	38	14	38	14	O
++	T	+	T--------------------------+	38	16	38	16	O
+8	D	8	D--p------------------------	38	18	38	18	B-TIME
+stundas	N	stunda	N-fpa---------n-----------l-	38	20	38	26	I-TIME
+
+
+
+
+Nacionālā	A	nacionāls	A-fsnp-y------------------f-	40	0	40	8	O
+virtuve	N	virtuve	N-fsn---------n-----------l-	40	10	40	16	O
+:	T	:	T--------------------------:	40	17	40	17	O
+
+
+
+
+Brunejā	N	Bruneja	N-fsl---------n-----------f-	42	0	42	6	B-LOC
+izvēles	N	izvēle	N-fsg---------n-----------l-	42	8	42	14	O
+iespējas	N	iespēja	N-fpn---------n-----------l-	42	16	42	23	O
+ir	V	būt	Vp----3--i----------7-----l-	42	25	42	26	O
+ļoti	R	ļoti	R----p---------------g----l-	42	28	42	31	O
+plašas	A	plašs	A-fpnp-n------------------l-	42	33	42	38	O
+,	T	,	T--------------------------,	42	39	42	39	O
+sākot	G	sākot	G----------a-n------------l-	42	41	42	45	O
+ar	S	ar	S----------------pdp------l-	42	47	42	48	O
+nelielām	A	neliels	A-fpdp-n--------y---------l-	42	50	42	57	O
+,	T	,	T--------------------------,	42	58	42	58	O
+lētām	A	lēts	A-fpdp-n------------------l-	42	60	42	64	O
+ēstuvītēm	N	ēstuve	N-fpd---------y-----------l-	42	66	42	74	O
+un	C	un	C---------------------c---l-	42	76	42	77	O
+ātrās	A	ātrs	A-fpnp-y------------------l-	42	79	42	83	O
+apkalpošanas	N	apkalpošana	N-fsg---------n-----------l-	42	85	42	96	O
+restorāniem	N	restorāns	N-mpd---------n-----------l-	42	98	42	108	O
+,	T	,	T--------------------------,	42	109	42	109	O
+beidzot	G	beidzot	G----------a-n------------l-	42	111	42	117	O
+ar	S	ar	S----------------pdp------l-	42	119	42	120	O
+smalkiem	A	smalks	A-mpdp-n------------------l-	42	122	42	129	O
+restorāniem	N	restorāns	N-mpd---------n-----------l-	42	131	42	141	O
+.	SENT	.	T--------------------------.	42	142	42	142	O
+Brunejas	N	Bruneja	N-fsg---------n-----------f-	42	144	42	151	B-LOC
+virtuves	N	virtuve	N-fsg---------n-----------l-	42	153	42	160	O
+tradīcijās	N	tradīcija	N-fpl---------n-----------l-	42	162	42	171	O
+ir	V	būt	Vp----3--i----------7-----l-	42	173	42	174	O
+jūtama	G	jūtams	Gpfsnp-n---p--------------l-	42	176	42	181	O
+ķīniešu	N	ķīniete	N-fpg---------n-----------l-	42	183	42	189	O
+,	T	,	T--------------------------,	42	190	42	190	O
+libāņu	-	libāņu	----------------------------	42	192	42	197	O
+,	T	,	T--------------------------,	42	198	42	198	O
+indonēziešu	N	indonēziete	N-fpg---------n-----------l-	42	200	42	210	O
+,	T	,	T--------------------------,	42	211	42	211	O
+indiešu	N	indiete	N-fpg---------n-----------l-	42	213	42	219	O
+un	C	un	C---------------------c---l-	42	221	42	222	O
+malaiziešu	N	malaiziete	N-fpg---------n-----------l-	42	224	42	233	O
+virtuves	N	virtuve	N-fsg---------n-----------l-	42	235	42	242	O
+ietekme	N	ietekme	N-fsn---------n-----------l-	42	244	42	250	O
+.	SENT	.	T--------------------------.	42	251	42	251	O
+Ļoti	R	ļoti	R----p---------------g----f-	42	253	42	256	O
+bieži	R	bieži	R----p--------------------l-	42	258	42	262	O
+ēdienu	N	ēdiens	N-mpg---------n-----------l-	42	264	42	269	O
+pagatavošanā	N	pagatavošana	N-fsl---------n-----------l-	42	271	42	282	O
+tiek	V	tikt	Vp----3--i----------6-----l-	42	284	42	287	O
+izmantotas	G	izmantots	Gsfpnp-n---p--------------l-	42	289	42	298	O
+jēlas	A	jēls	A-fpnp-n------------------l-	42	300	42	304	O
+zivis	N	zivs	N-fpn---------n-----------l-	42	306	42	310	O
+,	T	,	T--------------------------,	42	311	42	311	O
+rīsi	V	rīt	Vf-s--2--i----------------l-	42	313	42	316	O
+,	T	,	T--------------------------,	42	317	42	317	O
+nūdeles	N	nūdele	N-fpn---------n-----------l-	42	319	42	325	O
+un	C	un	C---------------------c---l-	42	327	42	328	O
+dažādas	A	dažāds	A-fsgp-n------------------l-	42	330	42	336	O
+garšvielas	N	garšviela	N-fpn---------n-----------l-	42	338	42	347	O
+.	SENT	.	T--------------------------.	42	348	42	348	O
+Nacionālie	A	nacionāls	A-mpnp-y------------------f-	42	350	42	359	O
+ēdieni	N	ēdiens	N-mpn---------n-----------l-	42	361	42	366	O
+:	T	:	T--------------------------:	42	367	42	367	O
+laksa	-	laksa	----------------------------	42	369	42	373	O
+—	T	—	T--------------------------—	42	375	42	375	O
+zivju	N	zivs	N-fpg---------n-----------l-	42	377	42	381	O
+zupa	N	zupa	N-fsn---------n-----------l-	42	383	42	386	O
+;	T	;	T--------------------------;	42	387	42	387	O
+rendang	-	rendang	----------------------------	42	389	42	395	O
+—	T	—	T--------------------------—	42	397	42	397	O
+liellopu	N	liellops	N-mpg---------n-----------l-	42	399	42	406	O
+gaļas	N	gaļa	N-fsg---------n-----------l-	42	408	42	412	O
+ēdiens	N	ēdiens	N-msn---------n-----------l-	42	414	42	419	O
+ar	S	ar	S----------------pdp------l-	42	421	42	422	O
+garšvielām	N	garšviela	N-fpd---------n-----------l-	42	424	42	433	O
+;	T	;	T--------------------------;	42	434	42	434	O
+satay	-	satay	----------------------------	42	436	42	440	O
+—	T	—	T--------------------------—	42	442	42	442	O
+nacionālajā	A	nacionāls	A-fslp-y------------------l-	42	444	42	454	O
+gaumē	N	gaume	N-fsl---------n-----------l-	42	456	42	460	O
+cepta	G	cepts	Gsmsgp-n---p--------------l-	42	462	42	466	O
+liellopu	N	liellops	N-msa---------n-----------l-	42	468	42	475	O
+,	T	,	T--------------------------,	42	476	42	476	O
+cūkas	N	cūka	N-fpn---------n-----------l-	42	478	42	482	O
+,	T	,	T--------------------------,	42	483	42	483	O
+vistas	N	vista	N-fsg---------n-----------l-	42	485	42	490	O
+gaļa	N	gaļa	N-fsn---------n-----------l-	42	492	42	495	O
+vai	C	vai	C---------------------c---l-	42	497	42	499	O
+garneles	N	garnele	N-fpn---------n-----------l-	42	501	42	508	O
+,	T	,	T--------------------------,	42	509	42	509	O
+ketupat	-	ketupat	----------------------------	42	511	42	517	O
+—	T	—	T--------------------------—	42	519	42	519	O
+rīsu	N	rīss	N-mpg---------n-----------l-	42	521	42	524	O
+pīrāgs	N	pīrāgs	N-msn---------n-----------l-	42	526	42	531	O
+.	SENT	.	T--------------------------.	42	532	42	532	O
+Alkohola	N	alkohols	N-msg---------n-----------f-	42	534	42	541	O
+tirdzniecība	N	tirdzniecība	N-fsn---------n-----------l-	42	543	42	554	O
+veikalos	N	veikals	N-mpl---------n-----------l-	42	556	42	563	O
+un	C	un	C---------------------c---l-	42	565	42	566	O
+restorānos	N	restorāns	N-mpl---------n-----------l-	42	568	42	577	O
+Brunejā	N	Bruneja	N-fsl---------n-----------f-	42	579	42	585	B-LOC
+ir	V	būt	Vp----3--i----------7-----l-	42	587	42	588	O
+aizliegta	G	aizliegts	Gsfsnp-n---p--------------l-	42	590	42	598	O
+ar	S	ar	S----------------sap------l-	42	600	42	601	O
+likumu	N	likums	N-msa---------n-----------l-	42	603	42	608	O
+.	SENT	.	T--------------------------.	42	609	42	609	O
+Lielākā	A	liels	A-fsnc-y------------------f-	42	611	42	617	O
+daļa	N	daļa	N-fsn---------n-----------l-	42	619	42	622	O
+restorānu	N	restorāns	N-msa---------n-----------l-	42	624	42	632	O
+ir	V	būt	Vp----3--i----------7-----l-	42	634	42	635	O
+atvērti	G	atvērts	Gsmpnp-n---p--------------l-	42	637	42	643	O
+tikai	Q	tikai	Q-------------------------l-	42	645	42	649	O
+līdz	S	līdz	S----------------sdp------l-	42	651	42	654	B-TIME
+plkst.	Y	plkst.	Y-------------------------l-	42	656	42	661	I-TIME
+22	D	22	D--p------------------------	42	663	42	664	I-TIME
+:	T	:	T--------------------------:	42	665	42	665	I-TIME
+00	-	00	----------------------------	42	666	42	667	I-TIME
+.	SENT	.	T--------------------------.	42	668	42	668	O
+
+
+
+
+Apskates	N	apskate	N-fsg---------n-----------f-	44	0	44	7	O
+objekti	N	objekts	N-mpn---------n-----------l-	44	9	44	15	O
+
+
+
+
+Bandarseribegavanā	N	Bandarseribegavana	N-fsl---------n-----------f-	46	0	46	17	B-LOC
+ievērojamākais	G	ievērojams	Gpmsnc-y---p--------------l-	46	19	46	32	O
+apskates	N	apskate	N-fsg---------n-----------l-	46	34	46	41	O
+objekts	N	objekts	N-msn---------n-----------l-	46	43	46	49	O
+bez	S	bez	S----------------pdp------l-	46	51	46	53	O
+šaubām	N	šaubas	N-fpd---------n-----------l-	46	55	46	60	O
+ir	V	būt	Vp----3--i----------7-----l-	46	62	46	63	O
+sultāna	N	sultāns	N-msg---------n-----------l-	46	65	46	71	O
+rezidence	N	rezidence	N-fsn---------n-----------l-	46	73	46	81	O
+un	C	un	C---------------------c---l-	46	83	46	84	O
+mošeja	N	mošeja	N-fsn---------n-----------l-	46	86	46	91	O
+—	T	—	T--------------------------—	46	93	46	93	O
+Istana	-	Istana	----------------------------	46	95	46	100	B-LOC
+Nurul	-	Nurul	----------------------------	46	102	46	106	I-LOC
+Iman	-	Iman	----------------------------	46	108	46	111	I-LOC
+.	SENT	.	T--------------------------.	46	112	46	112	O
+Tā	P	tas	P-fsn-------d-------------f-	46	114	46	115	O
+ir	V	būt	Vp----3--i----------7-----l-	46	117	46	118	O
+lielākā	A	liels	A-fsnc-y------------------l-	46	120	46	126	O
+valdnieka	N	valdnieks	N-msg---------n-----------l-	46	128	46	136	O
+rezidence	N	rezidence	N-fsn---------n-----------l-	46	138	46	146	O
+pasaulē	N	pasaule	N-fsl---------n-----------l-	46	148	46	154	O
+un	C	un	C---------------------c---l-	46	156	46	157	O
+pateicoties	G	pateicoties	G----------a-n-y----------l-	46	159	46	169	O
+krāšņajām	A	krāšņs	A-fpdp-y------------------l-	46	171	46	179	O
+velvēm	N	velve	N-fpd---------n-----------l-	46	181	46	186	O
+,	T	,	T--------------------------,	46	187	46	187	O
+zeltītajiem	A	zeltīts	A-mpdp-y------------------l-	46	189	46	199	O
+kupoliem	N	kupols	N-mpd---------n-----------l-	46	201	46	208	O
+,	T	,	T--------------------------,	46	209	46	209	O
+kā arī	C	kā_arī	C---------------------c---l-	46	211	46	216	O
+atrašanās	N	atrašanās	N-fpn---------n-----------l-	46	218	46	226	O
+vietai	N	vieta	N-fsd---------n-----------l-	46	228	46	233	O
+(	T	(	T--------------------------(	46	235	46	235	O
+upes	N	upe	N-fsg---------n-----------l-	46	236	46	239	O
+krastā	N	krasts	N-msl---------n-----------l-	46	241	46	246	O
+)	T	)	T--------------------------)	46	247	46	247	O
+ir	V	būt	Vp----3--i----------7-----l-	46	249	46	250	O
+iecienīts	G	iecienīts	Gsmsnp-n---p--------------l-	46	252	46	260	O
+fotogrāfu	N	fotogrāfs	N-mpg---------n-----------l-	46	262	46	270	O
+objekts	N	objekts	N-msn---------n-----------l-	46	272	46	278	O
+.	SENT	.	T--------------------------.	46	279	46	279	O
+Interesenti	N	interesents	N-mpn---------n-----------f-	46	281	46	291	O
+rezidenci	N	rezidence	N-fsa---------n-----------l-	46	293	46	301	O
+var	V	varēt	Vp----3--i----------3-----l-	46	303	46	305	O
+apmeklēt	V	apmeklēt	V--------n----------------l-	46	307	46	314	O
+tikai	Q	tikai	Q-------------------------l-	46	316	46	320	O
+Hari	N	Haris	N-msa---------n-----------f-	46	322	46	325	O
+Raya	-	Raya	----------------------------	46	327	46	330	O
+svētku	N	svētki	N-mpg---------n-----------l-	46	332	46	337	O
+laikā	N	laiks	N-msl---------n-----------l-	46	339	46	343	O
+,	T	,	T--------------------------,	46	344	46	344	O
+kad	R	kad	R----p----------------f---l-	46	346	46	348	O
+sultāns	N	sultāns	N-msn---------n-----------l-	46	350	46	356	O
+pieņem	V	pieņemt	Vp----3--i----------------l-	46	358	46	363	O
+viesus	N	viesis	N-mpa---------n-----------l-	46	365	46	370	O
+.	SENT	.	T--------------------------.	46	371	46	371	O
+Apmeklējot	G	apmeklējot	G----------a-n------------f-	46	373	46	382	O
+mošeju	N	mošeja	N-fsa---------n-----------l-	46	384	46	389	O
+,	T	,	T--------------------------,	46	390	46	390	O
+jāatceras	V	atcerēties	Vp-------c-----y----------l-	46	392	46	400	O
+,	T	,	T--------------------------,	46	401	46	401	O
+ka	C	ka	C---------------------p---l-	46	403	46	404	O
+ieeja	N	ieeja	N-fsn---------n-----------l-	46	406	46	410	O
+tajā	P	tas	P-fsl-------d-------------l-	46	412	46	415	O
+atļauta	G	atļauts	Gsfsnp-n---p--------------l-	46	417	46	423	O
+tikai	Q	tikai	Q-------------------------l-	46	425	46	429	O
+garajās	A	garš	A-fplp-y------------------l-	46	431	46	437	O
+biksēs	N	bikses	N-fpl---------n-----------l-	46	439	46	444	O
+,	T	,	T--------------------------,	46	445	46	445	O
+apsegtiem	G	apsegts	Gsmpdp-n---p--------------l-	46	447	46	455	O
+pleciem	N	plecs	N-mpd---------n-----------l-	46	457	46	463	O
+,	T	,	T--------------------------,	46	464	46	464	O
+sievietēm	N	sieviete	N-fpd---------n-----------l-	46	466	46	474	O
+obligāta	A	obligāts	A-fsnp-n------------------l-	46	476	46	483	O
+prasība	N	prasība	N-fsn---------n-----------l-	46	485	46	491	O
+ir	V	būt	Vp----3--i----------7-----l-	46	493	46	494	O
+galvassega	N	galvassega	N-fsn---------n-----------l-	46	496	46	505	O
+.	SENT	.	T--------------------------.	46	506	46	506	O
+
+
+
+
+Kampong	-	Kampong	----------------------------	48	0	48	6	B-LOC
+Ayer	-	Ayer	----------------------------	48	8	48	11	I-LOC
+—	T	—	T--------------------------—	48	13	48	13	O
+šis	P	šis	P-msn-------d-------------l-	48	15	48	17	O
+rajons	N	rajons	N-msn---------n-----------l-	48	19	48	24	O
+tiek	V	tikt	Vp----3--i----------6-----l-	48	26	48	29	O
+saukts	G	saukts	Gsmsnp-n---p--------------l-	48	31	48	36	O
+par	S	par	S----------------sap------l-	48	38	48	40	O
+Austrumu	N	austrums	N-msa---------n-----------f-	48	42	48	49	B-LOC
+Venēciju	N	Venēcija	N-fsa---------n-----------f-	48	51	48	58	I-LOC
+.	SENT	.	T--------------------------.	48	59	48	59	O
+Tā	P	tas	P-fsn-------d-------------f-	48	61	48	62	O
+ir	V	būt	Vp----3--i----------7-----l-	48	64	48	65	O
+pilsētas	N	pilsēta	N-fsg---------n-----------l-	48	67	48	74	O
+daļa	N	daļa	N-fsn---------n-----------l-	48	76	48	79	O
+,	T	,	T--------------------------,	48	80	48	80	O
+kas	P	kas	P---n-------r---------x---l-	48	82	48	84	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	48	86	48	92	O
+uz	S	uz	S----------------sgp------l-	48	94	48	95	O
+ūdens	N	ūdens	N-msg---------n-----------l-	48	97	48	101	O
+.	SENT	.	T--------------------------.	48	102	48	102	O
+Tajā	P	tas	P-fsl-------d-------------f-	48	104	48	107	O
+var	V	varēt	Vp----3--i----------3-----l-	48	109	48	111	O
+nokļūt	V	nokļūt	V--------n----------------l-	48	113	48	118	O
+ar	S	ar	S----------------pdp------l-	48	120	48	121	O
+laivām	N	laiva	N-fpd---------n-----------l-	48	123	48	128	O
+vai	C	vai	C---------------------c---l-	48	130	48	132	O
+autotransportu	N	autotransports	N-msa---------n-----------l-	48	134	48	147	O
+pa	S	pa	S----------------pdp------l-	48	149	48	150	O
+gariem	N	gars	N-mpd---------n-----------l-	48	152	48	157	O
+koka	N	koks	N-msg---------n-----------l-	48	159	48	162	O
+tiltiem	N	tilts	N-mpd---------n-----------l-	48	164	48	170	O
+.	SENT	.	T--------------------------.	48	171	48	171	O
+Šajā	P	šis	P-msl-------d-------------f-	48	173	48	176	O
+rajonā	N	rajons	N-msl---------n-----------l-	48	178	48	183	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	48	185	48	191	O
+daudz	R	daudz	R----p---------------g----l-	48	193	48	197	O
+gan	C	gan	C---------------------c---l-	48	199	48	201	O
+modernu	A	moderns	A-fsap-n------------------l-	48	203	48	209	O
+,	T	,	T--------------------------,	48	210	48	210	O
+gan	C	gan	C---------------------c---l-	48	212	48	214	O
+vēsturisku	A	vēsturisks	A-mpgp-n------------------l-	48	216	48	225	O
+celtņu	N	celtnis	N-mpg---------n-----------l-	48	227	48	232	O
+.	SENT	.	T--------------------------.	48	233	48	233	O
+Sultāns	N	sultāns	N-msn---------n-----------f-	48	235	48	241	O
+šajā	P	šis	P-msl-------d-------------l-	48	243	48	246	O
+ciematā	N	ciemats	N-msl---------n-----------l-	48	248	48	254	O
+ir	V	būt	Vp----3--i----------7-----l-	48	256	48	257	O
+uzbūvējis	G	uzbūvējis	Gsmsn--n---a--------------l-	48	259	48	267	O
+skolas	N	skola	N-fsg---------n-----------l-	48	269	48	274	O
+,	T	,	T--------------------------,	48	275	48	275	O
+mošejas	N	mošeja	N-fpn---------n-----------l-	48	277	48	283	O
+,	T	,	T--------------------------,	48	284	48	284	O
+slimnīcas	N	slimnīca	N-fpn---------n-----------l-	48	286	48	294	O
+un	C	un	C---------------------c---l-	48	296	48	297	O
+citas	P	cits	P-fpn-------i-------------l-	48	299	48	303	O
+nepieciešamas	A	nepieciešams	A-fpnp-n--------y---------l-	48	305	48	317	O
+iestādes	N	iestāde	N-fpn---------n-----------l-	48	319	48	326	O
+,	T	,	T--------------------------,	48	327	48	327	O
+kas	P	kas	P---n-------r---------x---l-	48	329	48	331	O
+nepieciešamas	G	nepieciešams	Gpfpnp-n---p----y---------l-	48	333	48	345	O
+30	D	30	D--pg-----------------------	48	347	48	348	O
+000	D	000	D--p------------------------	48	350	48	352	O
+ciemata	N	ciemats	N-msg---------n-----------l-	48	354	48	360	O
+iedzīvotājiem	N	iedzīvotājs	N-mpd---------n-----------l-	48	362	48	374	O
+.	SENT	.	T--------------------------.	48	375	48	375	O
+Brunejas	N	Bruneja	N-fsg---------n-----------f-	48	377	48	384	B-LOC
+apmeklējums	N	apmeklējums	N-msn---------n-----------l-	48	386	48	396	O
+bez	S	bez	S----------------sgp------l-	48	398	48	400	O
+Kampong	-	Kampong	----------------------------	48	402	48	408	B-LOC
+Ayer	-	Ayer	----------------------------	48	410	48	413	I-LOC
+apskates	N	apskate	N-fsg---------n-----------l-	48	415	48	422	O
+būtu	V	būt	Vp-------s----------7-----l-	48	424	48	427	O
+daudz	R	daudz	R----p---------------g----l-	48	429	48	433	O
+neizteiksmīgāks	A	neizteiksmīgs	A-msnc-n--------y---------l-	48	435	48	449	O
+.	SENT	.	T--------------------------.	48	450	48	450	O
+
+
+
+
+Karalisko	A	karalisks	A-mpgp-y------------------f-	50	0	50	8	B-LOC
+dārgumu	N	dārgums	N-mpg---------n-----------l-	50	10	50	16	I-LOC
+muzejs	N	muzejs	N-msn---------n-----------l-	50	18	50	23	I-LOC
+—	T	—	T--------------------------—	50	25	50	25	O
+tajā	P	tas	P-fsl-------d-------------l-	50	27	50	30	O
+glabājas	V	glabāties	Vp----3--i-----y----------l-	50	32	50	39	O
+karaliskās	A	karalisks	A-fsgp-y------------------l-	50	41	50	50	O
+ģimenes	N	ģimene	N-fsg---------n-----------l-	50	52	50	58	O
+relikvijas	N	relikvija	N-fpa---------n-----------l-	50	60	50	69	O
+,	T	,	T--------------------------,	50	70	50	70	O
+arī	C	arī	C-------------------------l-	50	72	50	74	O
+sultāna	N	sultāns	N-msg---------n-----------l-	50	76	50	82	O
+kroņa	N	kronis	N-msg---------n-----------l-	50	84	50	88	O
+kopija	N	kopija	N-fsn---------n-----------l-	50	90	50	95	O
+.	SENT	.	T--------------------------.	50	96	50	96	O
+Te	R	te	R----p--------------------f-	50	99	50	100	O
+arī	Q	arī	Q-------------------------l-	50	102	50	104	O
+aplūkojama	G	aplūkojams	Gpfsnp-n---p--------------l-	50	106	50	115	O
+ekspozīcija	N	ekspozīcija	N-fsn---------n-----------l-	50	117	50	127	O
+,	T	,	T--------------------------,	50	128	50	128	O
+kas	P	kas	P---n-------r---------x---l-	50	130	50	132	O
+vēsta	V	vēstīt	Vp----3--i----------------l-	50	134	50	138	O
+par	S	par	S----------------sap------l-	50	140	50	142	O
+Brunejas	N	Bruneja	N-fsg---------n-----------f-	50	144	50	151	B-LOC
+vēsturi	N	vēsture	N-fsa---------n-----------l-	50	153	50	159	O
+un	C	un	C---------------------c---l-	50	161	50	162	O
+konstitūciju	N	konstitūcija	N-fsa---------n-----------l-	50	164	50	175	O
+.	SENT	.	T--------------------------.	50	176	50	176	O
+Blakus	R	blakus	R----p--------------------f-	50	179	50	184	O
+muzejam	N	muzejs	N-msd---------n-----------l-	50	186	50	192	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	50	194	50	200	O
+Brunejas	N	Bruneja	N-fsg---------n-----------f-	50	202	50	209	B-LOC
+Vēstures	N	vēsture	N-fsg---------n-----------f-	50	211	50	218	I-LOC
+centrs	N	centrs	N-msn---------n-----------l-	50	220	50	225	I-LOC
+—	T	—	T--------------------------—	50	227	50	227	O
+šeit	R	šeit	R----p--------------------l-	50	229	50	232	O
+aplūkojamas	G	aplūkojams	Gpfpnp-n---p--------------l-	50	234	50	244	O
+dažādas	A	dažāds	A-fpap-n------------------l-	50	246	50	252	O
+vēsturiskas	A	vēsturisks	A-fpnp-n------------------l-	50	254	50	264	O
+liecības	N	liecība	N-fpn---------n-----------l-	50	266	50	273	O
+par	S	par	S----------------sap------l-	50	275	50	277	O
+sultanātu	N	sultanāts	N-msa---------n-----------l-	50	279	50	287	O
+,	T	,	T--------------------------,	50	288	50	288	O
+arī	Q	arī	Q-------------------------l-	50	290	50	292	O
+arheoloģiskie	A	arheoloģisks	A-mpnp-y------------------l-	50	294	50	306	O
+izrakumi	N	izrakums	N-mpn---------n-----------l-	50	308	50	315	O
+.	SENT	.	T--------------------------.	50	316	50	316	O
+
+
+
+
+Lapau	-	Lapau	----------------------------	52	0	52	4	B-LOC
+—	T	—	T--------------------------—	52	6	52	6	O
+karalisko	A	karalisks	A-fpgp-y------------------l-	52	8	52	16	O
+ceremoniju	N	ceremonija	N-fpg---------n-----------l-	52	18	52	27	O
+halle	N	halle	N-fsn---------n-----------l-	52	29	52	33	O
+,	T	,	T--------------------------,	52	34	52	34	O
+kurā	P	kurš	P-msl-------r---------a---l-	52	36	52	39	O
+1968	D	1968	D--p------------------------	52	41	52	44	B-DATE
+.	T	.	T--------------------------.	52	45	52	45	I-DATE
+gada	N	gads	N-msg---------n-----------l-	52	47	52	50	I-DATE
+1	D	1	D--s------------------------	52	52	52	52	I-DATE
+.	T	.	T--------------------------.	52	53	52	53	I-DATE
+augustā	N	augusts	N-msl---------n-----------l-	52	55	52	61	I-DATE
+tika	V	tikt	Vs----3--i----------6-----l-	52	63	52	66	O
+kronēts	G	kronēts	Gsmsnp-n---p--------------l-	52	68	52	74	O
+Brunejas	N	Bruneja	N-fsg---------n-----------f-	52	76	52	83	B-LOC
+sultāns.Te	-	sultāns.Te	----------------------------	52	85	52	94	O
+norisinās	V	norisināt	Vf----3--i----------------l-	52	96	52	104	O
+dažādas	A	dažāds	A-fpnp-n------------------l-	52	106	52	112	O
+svarīgas	A	svarīgs	A-fpnp-n------------------l-	52	114	52	121	O
+ceremonijas	N	ceremonija	N-fpa---------n-----------l-	52	123	52	133	O
+.	SENT	.	T--------------------------.	52	134	52	134	O
+15	D	15	D--pg-----------------------	52	137	52	138	B-TIME
+minūšu	N	minūte	N-fpg---------n-----------l-	52	140	52	145	I-TIME
+attālumā	N	attālums	N-msl---------n-----------l-	52	147	52	154	O
+no	S	no	S----------------sgp------l-	52	156	52	157	O
+Lapau	-	Lapau	----------------------------	52	159	52	163	B-LOC
+atrodas	V	atrasties	Vp----3--i-----y----------l-	52	165	52	171	O
+Tasek	-	Tasek	----------------------------	52	173	52	177	B-LOC
+Izklaides	N	izklaide	N-fsg---------n-----------f-	52	179	52	187	I-LOC
+parks	N	parks	N-msn---------n-----------l-	52	189	52	193	I-LOC
+—	T	—	T--------------------------—	52	195	52	195	O
+tas	P	tas	P-msn-------d-------------l-	52	197	52	199	O
+ir	V	būt	Vp----3--i----------7-----l-	52	201	52	202	O
+viens	M	viens	M-msn---c-----------------l-	52	204	52	208	O
+no	S	no	S----------------pdp------l-	52	210	52	211	O
+vecākajiem	A	vecs	A-mpdc-y------------------l-	52	213	52	222	O
+atpūtas	N	atpūta	N-fsg---------n-----------l-	52	224	52	230	O
+parkiem	N	parks	N-mpd---------n-----------l-	52	232	52	238	O
+pilsētā	N	pilsēta	N-fsl---------n-----------l-	52	240	52	246	O
+.	SENT	.	T--------------------------.	52	247	52	247	O
+Parkā	N	parks	N-msl---------n-----------f-	52	249	52	253	O
+ir	V	būt	Vp----3--i----------7-----l-	52	255	52	256	O
+dabīgs	A	dabīgs	A-msnp-n------------------l-	52	258	52	263	O
+ūdenskritums	N	ūdenskritums	N-msn---------n-----------l-	52	265	52	276	O
+un	C	un	C---------------------c---l-	52	278	52	279	O
+ezers	N	ezers	N-msn---------n-----------l-	52	281	52	285	O
+,	T	,	T--------------------------,	52	286	52	286	O
+kā arī	C	kā_arī	C---------------------c---l-	52	288	52	293	O
+skaists	A	skaists	A-msnp-n------------------l-	52	295	52	301	O
+koku	N	koks	N-mpg---------n-----------l-	52	303	52	306	O
+un	C	un	C---------------------c---l-	52	308	52	309	O
+puķu	N	puķe	N-fpg---------n-----------l-	52	311	52	314	O
+dārzs	N	dārzs	N-msn---------n-----------l-	52	316	52	320	O
+.	SENT	.	T--------------------------.	52	321	52	321	O
+Parks	N	parks	N-msn---------n-----------f-	52	323	52	327	O
+ir	V	būt	Vp----3--i----------7-----l-	52	329	52	330	O
+ideāla	A	ideāls	A-fsnp-n------------------l-	52	332	52	337	O
+vieta	N	vieta	N-fsn---------n-----------l-	52	339	52	343	O
+,	T	,	T--------------------------,	52	344	52	344	O
+kur	R	kur	R----p----------------f---l-	52	346	52	348	O
+atpūsties	V	atpūsties	V--------n-----y----------l-	52	350	52	358	O
+no	S	no	S----------------pdp------l-	52	360	52	361	O
+pilsētas	N	pilsēta	N-fsg---------n-----------l-	52	363	52	370	O
+trokšņiem	N	troksnis	N-mpd---------n-----------l-	52	372	52	380	O
+un	C	un	C---------------------c---l-	52	382	52	383	O
+burzmas	N	burzma	N-fsg---------n-----------l-	52	385	52	391	O
+.	SENT	.	T--------------------------.	52	392	52	392	O
+
+
+
+
+Tamu	-	Tamu	----------------------------	54	0	54	3	B-LOC
+Kianggeh	-	Kianggeh	----------------------------	54	5	54	12	I-LOC
+—	T	—	T--------------------------—	54	14	54	14	O
+tirgus	N	tirgus	N-msn---------n-----------l-	54	16	54	21	O
+,	T	,	T--------------------------,	54	22	54	22	O
+kas	P	kas	P---n-------r---------x---l-	54	24	54	26	O
+atrodas	V	atrasties	Vp----3--i-----y----------l-	54	28	54	34	O
+pilsētas	N	pilsēta	N-fsg---------n-----------l-	54	36	54	43	O
+centrā	N	centrs	N-msl---------n-----------l-	54	45	54	50	O
+,	T	,	T--------------------------,	54	51	54	51	O
+atvērts	G	atvērts	Gsmsnp-n---p--------------l-	54	53	54	59	O
+no	S	no	S----------------sgp------l-	54	61	54	62	B-TIME
+agra	A	agrs	A-msgp-n------------------l-	54	64	54	67	I-TIME
+rīta	N	rīts	N-msg---------n-----------l-	54	69	54	72	I-TIME
+līdz	S	līdz	S----------------pdp------l-	54	74	54	77	I-TIME
+vēlam	A	vēls	A-msdp-n------------------l-	54	79	54	83	I-TIME
+vakaram	N	vakars	N-msd---------n-----------l-	54	85	54	91	I-TIME
+.	SENT	.	T--------------------------.	54	92	54	92	O
+Šeit	R	šeit	R----p--------------------f-	54	94	54	97	O
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	54	99	54	107	O
+iegādāties	V	iegādāties	V--------n-----y----------l-	54	109	54	118	O
+nacionālos	A	nacionāls	A-mpap-y------------------l-	54	120	54	129	O
+ēdienus	N	ēdiens	N-mpa---------n-----------l-	54	131	54	137	O
+,	T	,	T--------------------------,	54	138	54	138	O
+augļus	N	auglis	N-mpa---------n-----------l-	54	140	54	145	O
+,	T	,	T--------------------------,	54	146	54	146	O
+dārzeņus	N	dārzenis	N-mpa---------n-----------l-	54	148	54	155	O
+,	T	,	T--------------------------,	54	156	54	156	O
+amatnieku	N	amatnieks	N-mpg---------n-----------l-	54	158	54	166	O
+izstrādājumus	N	izstrādājums	N-mpa---------n-----------l-	54	168	54	180	O
+un	C	un	C---------------------c---l-	54	182	54	183	O
+daudz	R	daudz	R----p---------------g----l-	54	185	54	189	O
+interesantu	A	interesants	A-mpgp-n------------------l-	54	191	54	201	O
+suvenīru	N	suvenīrs	N-msa---------n-----------l-	54	203	54	210	O
+.	SENT	.	T--------------------------.	54	211	54	211	O
+Wasai	-	Wasai	----------------------------	54	214	54	218	B-LOC
+Kandal	-	Kandal	----------------------------	54	220	54	225	I-LOC
+—	T	—	T--------------------------—	54	227	54	227	O
+vieta	N	vieta	N-fsn---------n-----------l-	54	229	54	233	O
+netālu	R	netālu	R----p--------------------l-	54	235	54	240	O
+no	S	no	S----------------sgp------l-	54	242	54	243	O
+pilsētas	N	pilsēta	N-fsg---------n-----------l-	54	245	54	252	O
+centra	N	centrs	N-msg---------n-----------l-	54	254	54	259	O
+,	T	,	T--------------------------,	54	260	54	260	O
+kur	R	kur	R----p----------------f---l-	54	262	54	264	O
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	54	266	54	274	O
+izbaudīt	V	izbaudīt	V--------n----------------l-	54	276	54	283	O
+džungļu	N	džungļi	N-mpg---------n-----------l-	54	285	54	291	O
+gaisotni	N	gaisotne	N-fsa---------n-----------l-	54	293	54	300	O
+.	SENT	.	T--------------------------.	54	301	54	301	O
+Izbūvētās	G	izbūvēts	Gsfpnp-y---p--------------f-	54	303	54	311	O
+takas	N	taka	N-fpn---------n-----------l-	54	313	54	317	O
+neapdraud	V	neapdraudēt	Vp----3--i------y---------l-	54	319	54	327	O
+tūristu	N	tūriste	N-fpg---------n-----------l-	54	329	54	335	O
+drošību	N	drošība	N-fsa---------n-----------l-	54	337	54	343	O
+,	T	,	T--------------------------,	54	344	54	344	O
+bet	C	bet	C---------------------c---l-	54	346	54	348	O
+sniedz	V	sniegt	Vp----3--i----------------l-	54	350	54	355	O
+patiesu	A	patiess	A-msap-n------------------l-	54	357	54	363	O
+baudījumu	N	baudījums	N-msa---------n-----------l-	54	365	54	373	O
+gan	C	gan	C---------------------c---l-	54	375	54	377	O
+dabas	N	daba	N-fsg---------n-----------l-	54	379	54	383	O
+mīļotājiem	N	mīļotājs	N-mpd---------n-----------l-	54	385	54	394	O
+,	T	,	T--------------------------,	54	395	54	395	O
+gan	C	gan	C---------------------c---l-	54	397	54	399	O
+zinātniekiem	N	zinātnieks	N-mpd---------n-----------l-	54	401	54	412	O
+un	C	un	C---------------------c---l-	54	414	54	415	O
+dabas	N	daba	N-fsg---------n-----------l-	54	417	54	421	O
+pētniekiem	N	pētnieks	N-mpd---------n-----------l-	54	423	54	432	O
+.	SENT	.	T--------------------------.	54	433	54	433	O
+Te	R	te	R----p--------------------f-	54	435	54	436	O
+ir	V	būt	Vp----3--i----------7-----l-	54	438	54	439	O
+skaisti	A	skaists	A-mpnp-n------------------l-	54	441	54	447	O
+ūdenskritumi	N	ūdenskritums	N-mpn---------n-----------l-	54	449	54	460	O
+,	T	,	T--------------------------,	54	461	54	461	O
+bambusu	N	bambuss	N-mpg---------n-----------l-	54	463	54	469	O
+audzes	N	audze	N-fpn---------n-----------l-	54	471	54	476	O
+un	C	un	C---------------------c---l-	54	478	54	479	O
+citi	P	cits	P-mpn-------i-------------l-	54	481	54	484	O
+eksotiski	R	eksotiski	R----p--------------------l-	54	486	54	494	O
+augi	N	augs	N-mpn---------n-----------l-	54	496	54	499	O
+.	SENT	.	T--------------------------.	54	500	54	500	O
+
+
+Kota	N	Kots	N-msg---------n-----------f-	56	0	56	3	B-LOC
+Batu	-	Batu	----------------------------	56	5	56	8	I-LOC
+ir	V	būt	Vp----3--i----------7-----l-	56	10	56	11	O
+amatnieku	N	amatnieks	N-mpg---------n-----------l-	56	13	56	21	O
+pilsēta	N	pilsēta	N-fsn---------n-----------l-	56	23	56	29	O
+,	T	,	T--------------------------,	56	30	56	30	O
+kur	R	kur	R----p----------------f---l-	56	32	56	34	O
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	56	36	56	44	O
+iegādāties	V	iegādāties	V--------n-----y----------l-	56	46	56	55	O
+jaukus	A	jauks	A-mpap-n------------------l-	56	57	56	62	O
+suvenīrus	N	suvenīrs	N-mpa---------n-----------l-	56	64	56	72	O
+.	SENT	.	T--------------------------.	56	73	56	73	O
+Mākslas	N	māksla	N-fsg---------n-----------f-	56	75	56	81	B-LOC
+un	C	un	C---------------------c---l-	56	83	56	84	I-LOC
+Amatniecības	N	amatniecība	N-fsg---------n-----------f-	56	86	56	97	I-LOC
+centrā	N	centrs	N-msl---------n-----------l-	56	99	56	104	I-LOC
+iespējams	G	iespējams	Gpmsnp-n---p--------------l-	56	106	56	114	O
+iegādāties	V	iegādāties	V--------n-----y----------l-	56	116	56	125	O
+amatnieku	N	amatnieks	N-mpg---------n-----------l-	56	127	56	135	O
+darinātas	G	darināts	Gsfsgp-n---p--------------l-	56	137	56	145	O
+sudraba	N	sudrabs	N-msg---------n-----------l-	56	147	56	153	O
+rotaslietas	N	rotaslieta	N-fpa---------n-----------l-	56	155	56	165	O
+,	T	,	T--------------------------,	56	166	56	166	O
+kā arī	C	kā_arī	C---------------------c---l-	56	168	56	173	O
+sarongas	-	sarongas	----------------------------	56	175	56	182	O
+(	T	(	T--------------------------(	56	184	56	184	O
+nacionālos	A	nacionāls	A-mpap-y------------------l-	56	185	56	194	O
+tautas	N	tauta	N-fsg---------n-----------l-	56	196	56	201	O
+tērpus	N	tērps	N-mpa---------n-----------l-	56	203	56	208	O
+)	T	)	T--------------------------)	56	209	56	209	O
+.	SENT	.	T--------------------------.	56	210	56	210	O
+Brunejas	N	Bruneja	N-fsg---------n-----------f-	56	213	56	220	B-LOC
+muzejs	N	muzejs	N-msn---------n-----------l-	56	222	56	227	I-LOC
+—	T	—	T--------------------------—	56	229	56	229	O
+apskatāmas	G	apskatāms	Gpfsgp-n---p--------------l-	56	231	56	240	O
+keramikas	N	keramika	N-fsg---------n-----------l-	56	242	56	250	O
+,	T	,	T--------------------------,	56	251	56	251	O
+stikla	N	stikls	N-msg---------n-----------l-	56	253	56	258	O
+un	C	un	C---------------------c---l-	56	260	56	261	O
+krāšņu	A	krāšņs	A-mpgp-n------------------l-	56	263	56	268	O
+paklāju	N	paklājs	N-mpg---------n-----------l-	56	270	56	276	O
+izstādes	N	izstāde	N-fsg---------n-----------l-	56	278	56	285	O
+,	T	,	T--------------------------,	56	286	56	286	O
+musulmaņu	N	musulmane	N-fpg---------n-----------l-	56	288	56	296	O
+mākslas	N	māksla	N-fsg---------n-----------l-	56	298	56	304	O
+izstādes	N	izstāde	N-fpn---------n-----------l-	56	306	56	313	O
+,	T	,	T--------------------------,	56	314	56	314	O
+bronzas	N	bronza	N-fsg---------n-----------l-	56	316	56	322	O
+izstrādājumi	N	izstrādājums	N-mpn---------n-----------l-	56	324	56	335	O
+,	T	,	T--------------------------,	56	336	56	336	O
+kā arī	C	kā_arī	C---------------------c---l-	56	338	56	343	O
+Borneo	N	Borneo	N-mpg---------n-----------f-	56	345	56	350	B-LOC
+salas	N	sala	N-fsg---------n-----------l-	56	352	56	356	I-LOC
+etnogrāfiskās	A	etnogrāfisks	A-fsgp-y------------------l-	56	358	56	370	O
+mākslas	N	māksla	N-fsg---------n-----------l-	56	372	56	378	O
+ekspozīcijas	N	ekspozīcija	N-fpn---------n-----------l-	56	380	56	391	O
+.	SENT	.	T--------------------------.	56	392	56	392	O
+
+
+
+
+Jerudonga	-	Jerudonga	----------------------------	58	0	58	8	B-LOC
+—	T	—	T--------------------------—	58	10	58	10	O
+Jerudongas	-	Jerudongas	----------------------------	58	12	58	21	B-LOC
+atpūtas	N	atpūta	N-fsg---------n-----------l-	58	23	58	29	I-LOC
+parks	N	parks	N-msn---------n-----------l-	58	31	58	35	I-LOC
+ir	V	būt	Vp----3--i----------7-----l-	58	37	58	38	O
+vienīgais	A	vienīgs	A-msnp-y------------------l-	58	40	58	48	O
+šāda	P	šāds	P-msg-------d-------------l-	58	50	58	53	O
+tipa	N	tips	N-msg---------n-----------l-	58	55	58	58	O
+parks	N	parks	N-msn---------n-----------l-	58	60	58	64	O
+pasaulē	N	pasaule	N-fsl---------n-----------l-	58	66	58	72	O
+,	T	,	T--------------------------,	58	73	58	73	O
+kurā	P	kurš	P-fsl-------r---------a---l-	58	75	58	78	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	58	80	58	82	O
+jāmaksā	V	maksāt	Vp-------c----------------l-	58	84	58	90	O
+par	S	par	S----------------sap------l-	58	92	58	94	O
+ieeju	N	ieeja	N-fsa---------n-----------l-	58	96	58	100	O
+.	SENT	.	T--------------------------.	58	101	58	101	O
+Bērniem	N	bērns	N-mpd---------n-----------f-	58	103	58	109	O
+iekārtoti	G	iekārtots	Gsmpnp-n---p--------------l-	58	111	58	119	O
+spēļu	N	spēle	N-fpg---------n-----------l-	58	121	58	125	O
+laukumi	N	laukums	N-mpn---------n-----------l-	58	127	58	133	O
+,	T	,	T--------------------------,	58	134	58	134	O
+pieaugušajiem	G	pieaudzis	Gsmpd--y---a--------------l-	58	136	58	148	O
+dažādi	R	dažādi	R----p--------------------l-	58	150	58	155	O
+sporta	N	sports	N-msg---------n-----------l-	58	157	58	162	O
+laukumi	N	laukums	N-mpn---------n-----------l-	58	164	58	170	O
+,	T	,	T--------------------------,	58	171	58	171	O
+izjādes	N	izjāde	N-fpn---------n-----------l-	58	173	58	179	O
+,	T	,	T--------------------------,	58	180	58	180	O
+polo	N	polo	N-mpg---------n-----------l-	58	182	58	185	O
+un	C	un	C---------------------c---l-	58	187	58	188	O
+golfa	N	golfs	N-msg---------n-----------l-	58	190	58	194	O
+laukumi	N	laukums	N-mpn---------n-----------l-	58	196	58	202	O
+.	SENT	.	T--------------------------.	58	203	58	203	O

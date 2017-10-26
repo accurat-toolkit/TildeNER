@@ -1,0 +1,14 @@
+Ubuntu
+SIA Odo piedāvā Ubuntu Linux operētājsistēmas atbalstu gan uz darbstacijām (galda datoros, klēpjadatoros un mazdatoros), gan uz serveriem.
+Darbstacija
+Ubuntu Linux darbstacija ir lēta un viegli lietojama alternatīva Microsoft Windows operētājsistēmai un Office biroja programmatūrai. Ubuntu Linux jau vairākus gadus ir http://www.distrowatch.org aptauju priekšgalā. Tajā ir iekļautas visas biroja darbam nepieciešamās programmas, OpenOffice biroja programmatūra, Firefox tīkla pārlūkprogramma, multivides atskaņošanas programmatūra, tīkla saziņas rīki, spēles u.c.
+Lietojot Ubuntu Linux, Jums nebūs jābaidās no vīrusiem, okšķerēšanas programmām u.tml. programmu uzbrukumiem. Varēsiet izmantot to pašu datoru gan grāmatvedībai un personīgo fotogrāfiju glabāšanai, gan tīmekļa pārlūkošanai un spēlēm.
+Lai uzzinātu vairāk, skatiet Ubuntu Linux lekciju ierakstus.
+Serveris
+Ubuntu Linux serveris nodrošina integrētu vidi biznesa risinājumu (tīmekļa rīku, dokumentu, klientu attiecību un uzņēmumu resursu pārvaldības u.c.) uzstādīšanai un darbināšanai. Visi SIA Odo uzturētie un pārraudzītie serveri darbojas ar Ubuntu Linux.
+Palīdzība
+Svarīga Ubuntu ideoloģija ir lietošanas ērtums. Lai arī oficiālais Ubuntu nosaukums Dienvidāfrikas zulu un kosa valodās nozīmē "Es esmu tas, kas es esmu, pateicoties tam, kas mēs visi esam", IT speciālistu aprindās to zobgalīgi sauc par "Neprotu uzstādīt Debian ". Tieši lietošanas ērtuma dēļ Ubuntu iegūst arvien lielāku popularitāti. Un ļoti daudz Jūs varat izdarīt paši saviem spēkiem. Jūs varat:
+Brīvi izmantot rīku un sistēmu uzstādīšanas instrukcijas, kas ir pieejamas nodaļā Padomi par Ubuntu lietošanu,
+SIA Odo Jums piedāvā profesionālu palīdzību , ja esat nobrieduši nopietnām pārmaiņām un uzlabojumiem risinājumu izstrādē, sistēmu integrācijā, u.c.
+Tagi:
+    

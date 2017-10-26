@@ -1,0 +1,130 @@
+Krievijas	N	Krievija	N-fsg---------n-----------f-	0	0	0	8	B-ORG
+Federācijas	N	federācija	N-fsg---------n-----------f-	0	10	0	20	I-ORG
+Konstitucionālā	A	konstitucionāls	A-fsnp-y------------------f-	0	22	0	36	I-ORG
+tiesa	N	tiesa	N-fsn---------n-----------l-	0	38	0	42	I-ORG
+
+
+
+
+Krievijas	N	Krievija	N-fsg---------n-----------f-	2	0	2	8	B-ORG
+Federācijas	N	federācija	N-fsg---------n-----------f-	2	10	2	20	I-ORG
+Konstitucionālā	A	konstitucionāls	A-msgp-y------------------f-	2	22	2	36	I-ORG
+tiesa	N	tiesa	N-fsn---------n-----------l-	2	38	2	42	I-ORG
+-	T	-	T---------------------------	2	44	2	44	O
+tiesu	N	tiesa	N-fpg---------n-----------l-	2	46	2	50	O
+sistēmas	N	sistēma	N-fsg---------n-----------l-	2	52	2	59	O
+institūcija	N	institūcija	N-fsn---------n-----------l-	2	61	2	71	O
+,	T	,	T--------------------------,	2	72	2	72	O
+kas	P	kas	P---n-------r---------x---l-	2	74	2	76	O
+īsteno	V	īstenot	Vp----3--i----------------l-	2	78	2	83	O
+konstitucionālo	A	konstitucionāls	A-fsap-y------------------l-	2	85	2	99	O
+kontroli	N	kontrole	N-fsa---------n-----------l-	2	101	2	108	O
+pār	S	pār	S----------------sap------l-	2	110	2	112	O
+Krievijā	N	Krievija	N-fsl---------n-----------f-	2	114	2	121	B-LOC
+spēkā	N	spēks	N-msl---------n-----------l-	2	123	2	127	O
+esošajiem	G	esošs	Gpmpdp-y---a--------------l-	2	129	2	137	O
+likumiem	N	likums	N-mpd---------n-----------l-	2	139	2	146	O
+un	C	un	C---------------------c---l-	2	148	2	149	O
+noteikumiem	N	noteikums	N-mpd---------n-----------l-	2	151	2	161	O
+.	SENT	.	T--------------------------.	2	162	2	162	O
+Krievijas	N	Krievija	N-fsg---------n-----------f-	2	164	2	172	B-ORG
+Federācijas	N	federācija	N-fsg---------n-----------f-	2	174	2	184	I-ORG
+Konstitucionālās	A	konstitucionāls	A-fpnp-y------------------f-	2	186	2	201	I-ORG
+tiesas	N	tiesa	N-fsg---------n-----------l-	2	203	2	208	I-ORG
+pilnvaras	N	pilnvara	N-fpn---------n-----------l-	2	210	2	218	O
+,	T	,	T--------------------------,	2	219	2	219	O
+formācijas	N	formācija	N-fsg---------n-----------l-	2	221	2	230	O
+kārtību	N	kārtība	N-fsa---------n-----------l-	2	232	2	238	O
+un	C	un	C---------------------c---l-	2	240	2	241	O
+darbību	N	darbība	N-fsa---------n-----------l-	2	243	2	249	O
+reglamentē	V	reglamentēt	Vp----3--i----------------l-	2	251	2	260	O
+Krievijas	N	Krievija	N-fsg---------n-----------f-	2	262	2	270	B-PROD
+Federācijas	N	federācija	N-fsg---------n-----------f-	2	272	2	282	I-PROD
+Konstitūcija	N	konstitūcija	N-fsn---------n-----------f-	2	284	2	295	I-PROD
+un	C	un	C---------------------c---l-	2	297	2	298	O
+Federālais	A	federāls	A-msnp-y------------------f-	2	300	2	309	O
+konstitucionālais	A	konstitucionāls	A-msnp-y------------------l-	2	311	2	327	O
+likums	N	likums	N-msn---------n-----------l-	2	329	2	334	O
+"	T	"	T--------------------------"	2	336	2	336	O
+Par	S	par	S----------------sap------f-	2	337	2	339	B-PROD
+Krievijas	N	Krievija	N-fsg---------n-----------f-	2	341	2	349	I-PROD
+Federācijas	N	federācija	N-fsg---------n-----------f-	2	351	2	361	I-PROD
+Konstitucionālo	A	konstitucionāls	A-fsap-y------------------f-	2	363	2	377	I-PROD
+tiesu	N	tiesa	N-fsa---------n-----------l-	2	379	2	383	I-PROD
+"	T	"	T--------------------------"	2	384	2	384	O
+.	SENT	.	T--------------------------.	2	385	2	385	O
+Konstitucionālā	A	konstitucionāls	A-fsnp-y------------------f-	2	387	2	401	O
+tiesa	N	tiesa	N-fsn---------n-----------l-	2	403	2	407	O
+sastāv	V	sastāvēt	Vp----3--i----------------l-	2	409	2	414	O
+no	S	no	S----------------pdp------l-	2	416	2	417	O
+19	D	19	D--pg-----------------------	2	419	2	420	O
+tiesnešiem	N	tiesnesis	N-mpd---------n-----------l-	2	422	2	431	O
+.	SENT	.	T--------------------------.	2	432	2	432	O
+Saskaņā	N	saskaņa	N-fsl---------n-----------f-	2	434	2	440	O
+ar	S	ar	S----------------sap------l-	2	442	2	443	O
+Krievijas	N	Krievija	N-fsg---------n-----------f-	2	445	2	453	B-PROD
+Federācijas	N	federācija	N-fsg---------n-----------f-	2	455	2	465	I-PROD
+Konstitūciju	N	konstitūcija	N-fsa---------n-----------f-	2	467	2	478	I-PROD
+,	T	,	T--------------------------,	2	479	2	479	O
+Konstitucionālā	A	konstitucionāls	A-fsnp-y------------------f-	2	481	2	495	B-ORG
+tiesa	N	tiesa	N-fsn---------n-----------l-	2	497	2	501	I-ORG
+ir	V	būt	Vp----3--i----------7-----l-	2	503	2	504	O
+viens	M	viens	M-msn---c-----------------l-	2	506	2	510	O
+no	S	no	S----------------pdp------l-	2	512	2	513	O
+trim	M	trīs	M-fpd---c-----------------l-	2	515	2	518	O
+valsts	N	valsts	N-fsg---------n-----------l-	2	520	2	525	O
+varas	N	vara	N-fsg---------n-----------l-	2	527	2	531	O
+pamatbalstiem	-	pamatbalstiem	----------------------------	2	533	2	545	O
+,	T	,	T--------------------------,	2	546	2	546	O
+tomēr	C	tomēr	C-------------------------l-	2	548	2	552	O
+praktiski	R	praktiski	R----p--------------------l-	2	554	2	562	O
+tā	P	tas	P-msg-------d-------------l-	2	564	2	565	O
+pilnībā	N	pilnība	N-fsl---------n-----------l-	2	567	2	573	O
+ir	V	būt	Vp----3--i----------7-----l-	2	575	2	576	O
+atkarīga	A	atkarīgs	A-fsnp-n------------------l-	2	578	2	585	O
+no	S	no	S----------------sgp------l-	2	587	2	588	O
+izpildvaras	N	izpildvara	N-fsg---------n-----------l-	2	590	2	600	O
+.	SENT	.	T--------------------------.	2	601	2	601	O
+
+
+
+
+2005	D	2005	D--p------------------------	4	0	4	3	B-DATE
+.	T	.	T--------------------------.	4	4	4	4	I-DATE
+gada	N	gads	N-msg---------n-----------l-	4	6	4	9	I-DATE
+decembrī	N	decembris	N-msl---------n-----------l-	4	11	4	18	I-DATE
+Krievijas	N	Krievija	N-fsg---------n-----------f-	4	20	4	28	B-ORG
+Federācijas	N	federācija	N-fsg---------n-----------f-	4	30	4	40	I-ORG
+Valsts	N	valsts	N-fsn---------n-----------f-	4	42	4	47	I-ORG
+Dome	N	dome	N-fsn---------n-----------f-	4	49	4	52	I-ORG
+pieņēma	V	pieņemt	Vs----3--i----------------l-	4	54	4	60	O
+lēmumu	N	lēmums	N-msa---------n-----------l-	4	62	4	67	O
+par	S	par	S----------------sap------l-	4	69	4	71	O
+Krievijas	N	Krievija	N-fsg---------n-----------f-	4	73	4	81	B-ORG
+Federācijas	N	federācija	N-fsg---------n-----------f-	4	83	4	93	I-ORG
+Konstitucionālās	A	konstitucionāls	A-fsgp-y------------------f-	4	95	4	110	I-ORG
+tiesas	N	tiesa	N-fsg---------n-----------l-	4	112	4	117	I-ORG
+pārcelšanu	N	pārcelšana	N-fsa---------n-----------l-	4	119	4	128	O
+no	S	no	S----------------sgp------l-	4	130	4	131	O
+Maskavas	N	Maskava	N-fsg---------n-----------f-	4	133	4	140	B-LOC
+uz	S	uz	S----------------sap------l-	4	142	4	143	O
+Sanktpēterburgu	N	Sanktpēterburga	N-fsa---------n-----------f-	4	145	4	159	B-LOC
+.	SENT	.	T--------------------------.	4	160	4	160	O
+
+
+
+
+Krievijas	N	Krievija	N-fsg---------n-----------f-	6	0	6	8	B-ORG
+Federācijas	N	federācija	N-fsg---------n-----------f-	6	10	6	20	I-ORG
+Konstitucionālās	A	konstitucionāls	A-fsgp-y------------------f-	6	22	6	37	I-ORG
+tiesas	N	tiesa	N-fsg---------n-----------l-	6	39	6	44	I-ORG
+pilnvaras	N	pilnvara	N-fpn---------n-----------l-	6	46	6	54	O
+
+
+
+
+Krievijas	N	Krievija	N-fsg---------n-----------f-	8	0	8	8	B-ORG
+Federācijas	N	federācija	N-fsg---------n-----------f-	8	10	8	20	I-ORG
+Konstitucionālā	A	konstitucionāls	A-fsnp-y------------------f-	8	22	8	36	I-ORG
+tiesa	N	tiesa	N-fsn---------n-----------l-	8	38	8	42	I-ORG
+:	T	:	T--------------------------:	8	43	8	43	O

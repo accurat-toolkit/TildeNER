@@ -1,0 +1,764 @@
+Nr	-	Nr	----------------------------	0	0	0	1	O
+Vārds	N	vārds	N-msn---------n-----------f-	0	3	0	7	O
+,	T	,	T--------------------------,	0	8	0	8	O
+Uzvārds	N	uzvārds	N-msn---------n-----------f-	0	10	0	16	O
+(	T	(	T--------------------------(	0	17	0	17	O
+17	D	17	D--pg-----------------------	0	18	0	19	O
+)	T	)	T--------------------------)	0	20	0	20	O
+Dzimis	G	dzimis	Gsmsn--n---a--------------f-	0	22	0	27	O
+Darba	N	darbs	N-msg---------n-----------f-	0	29	0	33	O
+vieta	N	vieta	N-fsn---------n-----------l-	0	35	0	39	O
+Amats	N	amats	N-msn---------n-----------f-	0	41	0	45	O
+Izglītība	N	izglītība	N-fsn---------n-----------f-	0	47	0	55	O
+
+
+1	D	1	D--s------------------------	1	0	1	0	O
+Ivars	N	Ivars	N-msn---------n-----------f-	1	2	1	6	B-PERS
+Ķervis	-	Ķervis	----------------------------	1	8	1	13	I-PERS
+1955	D	1955	D--p------------------------	1	15	1	18	B-DATE
+Liepājas	N	Liepāja	N-fsg---------n-----------f-	1	20	1	27	B-ORG
+pilsētas	N	pilsēta	N-fsg---------n-----------l-	1	29	1	36	I-ORG
+dome	N	dome	N-fsn---------n-----------l-	1	38	1	41	I-ORG
+deputāts	N	deputāts	N-msn---------n-----------l-	1	43	1	50	O
+augstākā	A	augstāks	A-msgp-y------------------l-	1	52	1	59	O
+
+
+2	D	2	D--p------------------------	2	0	2	0	O
+Arnis	N	Arnis	N-msn---------n-----------f-	2	2	2	6	B-PERS
+Jekste	-	Jekste	----------------------------	2	8	2	13	I-PERS
+1980	D	1980	D--pg-----------------------	2	15	2	18	B-DATE
+Valsts	N	valsts	N-fsg---------n-----------f-	2	20	2	25	B-ORG
+a	-	a	----------------------------	2	27	2	27	I-ORG
+/	T	/	T--------------------------/	2	28	2	28	I-ORG
+s	Y	s	Y-------------------------l-	2	29	2	29	I-ORG
+"	T	"	T--------------------------"	2	31	2	31	I-ORG
+Ceļu	N	ceļš	N-mpg---------n-----------f-	2	32	2	35	I-ORG
+satiksmes	N	satiksme	N-fsg---------n-----------l-	2	37	2	45	I-ORG
+drošības	N	drošība	N-fsg---------n-----------l-	2	47	2	54	I-ORG
+direkcija	N	direkcija	N-fsn---------n-----------l-	2	56	2	64	I-ORG
+"	T	"	T--------------------------"	2	65	2	65	I-ORG
+Liepājas	N	Liepāja	N-fsg---------n-----------f-	2	67	2	74	I-ORG
+rajona	N	rajons	N-msg---------n-----------l-	2	76	2	81	I-ORG
+nodaļa	N	nodaļa	N-fsn---------n-----------l-	2	83	2	88	I-ORG
+priekšnieka	N	priekšnieks	N-msg---------n-----------l-	2	90	2	100	O
+vietnieks	N	vietnieks	N-msn---------n-----------l-	2	102	2	110	O
+augstākā	A	augstāks	A-fsnp-y------------------l-	2	112	2	119	O
+
+
+3	D	3	D--p------------------------	3	0	3	0	O
+Kristīne	N	Kristīne	N-fsn---------n-----------f-	3	2	3	9	B-PERS
+Grulle-Drulle	-	Grulle-Drulle	----------------------------	3	11	3	23	I-PERS
+1975	D	1975	D--p------------------------	3	25	3	28	B-DATE
+Kurzemes	N	Kurzeme	N-fsg---------n-----------f-	3	30	3	37	B-ORG
+reģionālā	A	reģionāls	A-fsnp-y------------------l-	3	39	3	47	I-ORG
+valsts	N	valsts	N-fsg---------n-----------l-	3	49	3	54	I-ORG
+darba	N	darbs	N-msg---------n-----------l-	3	56	3	60	I-ORG
+inspekcija	N	inspekcija	N-fsn---------n-----------l-	3	62	3	71	I-ORG
+,	T	,	T--------------------------,	3	72	3	72	I-ORG
+Liepājas	N	Liepāja	N-fsg---------n-----------f-	3	74	3	81	I-ORG
+sektors	N	sektors	N-msn---------n-----------l-	3	83	3	89	I-ORG
+inspektors	N	inspektors	N-msn---------n-----------l-	3	91	3	100	O
+augstākā	A	augstāks	A-fsnp-y------------------l-	3	102	3	109	O
+
+
+4	D	4	D--p------------------------	4	0	4	0	O
+Uldis	N	Uldis	N-msn---------n-----------f-	4	2	4	6	B-PERS
+Pirktiņš	-	Pirktiņš	----------------------------	4	8	4	15	I-PERS
+1987	D	1987	D--p------------------------	4	17	4	20	B-DATE
+SIA	Y	SIA	Y-------------------------u-	4	22	4	24	B-ORG
+"	T	"	T--------------------------"	4	26	4	26	I-ORG
+VUP	-	VUP	----------------------------	4	27	4	29	I-ORG
+"	T	"	T--------------------------"	4	30	4	30	I-ORG
+valdes	N	valde	N-fsg---------n-----------l-	4	32	4	37	O
+loceklis	N	loceklis	N-msn---------n-----------l-	4	39	4	46	O
+,	T	,	T--------------------------,	4	47	4	47	O
+direktors	N	direktors	N-msn---------n-----------l-	4	49	4	57	O
+vidējā	A	vidējs	A-msgp-y------------------l-	4	59	4	64	O
+
+
+5	D	5	D--p------------------------	5	0	5	0	O
+Anita	N	Anita	N-fsn---------n-----------f-	5	2	5	6	B-PERS
+Baranovska	N	Baranovskis	N-msg---------n-----------f-	5	8	5	17	I-PERS
+1985	D	1985	D--p------------------------	5	19	5	22	B-DATE
+mājsaimniece	N	mājsaimniece	N-fsn---------n-----------l-	5	24	5	35	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	5	37	5	39	O
+augstākā	A	augstāks	A-msgp-y------------------l-	5	41	5	48	O
+
+
+6	D	6	D--p------------------------	6	0	6	0	O
+Inga	N	Inga	N-fsn---------n-----------f-	6	2	6	5	B-PERS
+Spirģe-Laukmane	-	Spirģe-Laukmane	----------------------------	6	7	6	21	I-PERS
+1982	D	1982	D--p------------------------	6	23	6	26	B-DATE
+SIA	Y	SIA	Y-------------------------u-	6	28	6	30	B-ORG
+"	T	"	T--------------------------"	6	32	6	32	I-ORG
+LISA	-	LISA	----------------------------	6	33	6	36	I-ORG
+A.P.	-	A.P.	----------------------------	6	38	6	41	I-ORG
+"	T	"	T--------------------------"	6	42	6	42	I-ORG
+veikala	N	veikals	N-msg---------n-----------l-	6	44	6	50	O
+LIZIĀNA	-	LIZIĀNA	----------------------------	6	52	6	58	B-ORG
+vadītāja	N	vadītāja	N-fsn---------n-----------l-	6	60	6	67	O
+augstākā	A	augstāks	A-msgp-y------------------l-	6	69	6	76	O
+
+
+7	D	7	D--p------------------------	7	0	7	0	O
+Iveta	N	Iveta	N-fsn---------n-----------f-	7	2	7	6	B-PERS
+Ļesina	-	Ļesina	----------------------------	7	8	7	13	I-PERS
+1958	D	1958	D--p------------------------	7	15	7	18	B-DATE
+SIA	Y	SIA	Y-------------------------u-	7	20	7	22	B-ORG
+"	T	"	T--------------------------"	7	24	7	24	I-ORG
+MAKS	N	maks	N-msn---------n-----------u-	7	25	7	28	I-ORG
+"	T	"	T--------------------------"	7	29	7	29	I-ORG
+ienākošā	G	ienākošs	Gpmslp-n---a--------------l-	7	31	7	38	O
+tūrisma	N	tūrisms	N-msg---------n-----------l-	7	40	7	46	O
+nodaļas	N	nodaļa	N-fsg---------n-----------l-	7	48	7	54	O
+vadītāja	N	vadītāja	N-fsn---------n-----------l-	7	56	7	63	O
+augstākā	A	augstāks	A-msgp-y------------------l-	7	65	7	72	O
+
+
+8	D	8	D--p------------------------	8	0	8	0	O
+Edgars	N	Edgars	N-msn---------n-----------f-	8	2	8	7	B-PERS
+Saldenieks	N	saldenieks	N-msn---------n-----------f-	8	9	8	18	I-PERS
+1985	D	1985	D--p------------------------	8	20	8	23	B-DATE
+SIA	Y	SIA	Y-------------------------u-	8	25	8	27	B-ORG
+"	T	"	T--------------------------"	8	29	8	29	I-ORG
+EIRO	N	eiro	N-msl---------n-----------u-	8	30	8	33	I-ORG
+AGRO	A	agrs	A-msap-y------------------u-	8	35	8	38	I-ORG
+"	T	"	T--------------------------"	8	39	8	39	I-ORG
+valdes	N	valde	N-fsg---------n-----------l-	8	41	8	46	O
+priekšsēdētājs	N	priekšsēdētājs	N-msn---------n-----------l-	8	48	8	61	O
+vidējā	A	vidējs	A-mslp-n------------------l-	8	63	8	68	O
+
+
+9	D	9	D--p------------------------	9	0	9	0	O
+Emīlija	N	Emīlija	N-fsn---------n-----------f-	9	2	9	8	B-PERS
+Ziemele	N	Ziemele	N-fsn---------n-----------f-	9	10	9	16	I-PERS
+1942	D	1942	D--p------------------------	9	18	9	21	B-DATE
+pensionāre	N	pensionāre	N-fsn---------n-----------l-	9	23	9	32	O
+nav	V	nebūt	Vp----3--i------y---1-----l-	9	34	9	36	O
+augstākā	A	augstāks	A-fsnp-y------------------l-	9	38	9	45	O
+
+
+10	D	10	D--pg-----------------------	10	0	10	1	O
+Inese	N	Inese	N-fsn---------n-----------f-	10	3	10	7	B-PERS
+Eistere	-	Eistere	----------------------------	10	9	10	15	I-PERS
+1933	D	1933	D--p------------------------	10	17	10	20	B-DATE
+Liepājas	N	Liepāja	N-fsg---------n-----------f-	10	22	10	29	B-ORG
+universitāte	N	universitāte	N-fsn---------n-----------l-	10	31	10	42	I-ORG
+vides	N	vide	N-fsg---------n-----------l-	10	44	10	48	I-ORG
+zinātņu	N	zinātne	N-fpg---------n-----------l-	10	50	10	56	I-ORG
+kadetdra	-	kadetdra	----------------------------	10	58	10	65	I-ORG
+lektore	N	lektore	N-fsn---------n-----------l-	10	67	10	73	O
+augstākā	A	augstāks	A-msgp-y------------------l-	10	75	10	82	O
+
+
+11	D	11	D--pg-----------------------	11	0	11	1	O
+Māris	N	Māris	N-msn---------n-----------f-	11	3	11	7	B-PERS
+Stankevičs	N	Stankevičs	N-msn---------n-----------f-	11	9	11	18	I-PERS
+1978	D	1978	D--p------------------------	11	20	11	23	B-DATE
+SIA	Y	SIA	Y-------------------------u-	11	25	11	27	B-ORG
+"	T	"	T--------------------------"	11	29	11	29	I-ORG
+Kurzemes	N	Kurzeme	N-fsg---------n-----------f-	11	30	11	37	I-ORG
+namzinis	-	namzinis	----------------------------	11	39	11	46	I-ORG
+"	T	"	T--------------------------"	11	47	11	47	I-ORG
+valdes	N	valde	N-fsg---------n-----------l-	11	49	11	54	O
+priekšsēdētājs	N	priekšsēdētājs	N-msn---------n-----------l-	11	56	11	69	O
+vidējā	A	vidējs	A-msgp-y------------------l-	11	71	11	76	O
+
+
+12	D	12	D--pg-----------------------	12	0	12	1	O
+Valda	N	Valda	N-fsn---------n-----------f-	12	3	12	7	B-PERS
+Šneidere	N	Šneidere	N-fsv---------n-----------f-	12	9	12	16	I-PERS
+1961	D	1961	D--s------------------------	12	18	12	21	B-DATE
+SIA	Y	SIA	Y-------------------------u-	12	23	12	25	B-ORG
+"	T	"	T--------------------------"	12	27	12	27	I-ORG
+Liepājas	N	Liepāja	N-fsg---------n-----------f-	12	28	12	35	I-ORG
+reģionālā	A	reģionāls	A-fsnp-y------------------l-	12	37	12	45	I-ORG
+slimnīca	N	slimnīca	N-fsn---------n-----------l-	12	47	12	54	I-ORG
+"	T	"	T--------------------------"	12	55	12	55	I-ORG
+māsa	N	māsa	N-fsn---------n-----------l-	12	57	12	60	O
+-	T	-	T---------------------------	12	62	12	62	O
+saimniece	N	saimniece	N-fsn---------n-----------l-	12	64	12	72	O
+vidējā	A	vidējs	A-msgp-y------------------l-	12	74	12	79	O
+
+
+13	D	13	D--pg-----------------------	13	0	13	1	O
+Erika	-	Erika	----------------------------	13	3	13	7	B-PERS
+Kursa	N	Kursa	N-fsn---------n-----------f-	13	9	13	13	I-PERS
+1947	D	1947	D--p------------------------	13	15	13	18	B-DATE
+Biedrība	N	biedrība	N-fsn---------n-----------f-	13	20	13	27	O
+"	T	"	T--------------------------"	13	29	13	29	O
+Liepājas	N	Liepāja	N-fsg---------n-----------f-	13	30	13	37	B-ORG
+Vācu	N	vācu	N-mpg---------n-----------f-	13	39	13	42	I-ORG
+nams	N	nams	N-msn---------n-----------l-	13	44	13	47	I-ORG
+"	T	"	T--------------------------"	13	48	13	48	O
+koordinātore	-	koordinātore	----------------------------	13	50	13	61	O
+vidējā	A	vidējs	A-fslp-y------------------l-	13	63	13	68	O
+
+
+14	D	14	D--pg-----------------------	14	0	14	1	O
+Ināra	N	Inārs	N-msg---------n-----------f-	14	3	14	7	B-PERS
+Putika	-	Putika	----------------------------	14	9	14	14	I-PERS
+1956	D	1956	D--p------------------------	14	16	14	19	B-DATE
+Komplekā	-	Komplekā	----------------------------	14	21	14	28	B-ORG
+sporta	N	sports	N-msg---------n-----------l-	14	30	14	35	I-ORG
+skola	N	skola	N-fsn---------n-----------l-	14	37	14	41	I-ORG
+-	T	-	T---------------------------	14	43	14	43	I-ORG
+8	D	8	D--p------------------------	14	45	14	45	I-ORG
+.	T	.	T--------------------------.	14	46	14	46	I-ORG
+vidusskola	N	vidusskola	N-fsn---------n-----------l-	14	47	14	56	I-ORG
+ūdens	N	ūdens	N-msg---------n-----------l-	14	58	14	62	O
+veselības	N	veselība	N-fsg---------n-----------l-	14	64	14	72	O
+aerobikas	N	aerobika	N-fsg---------n-----------l-	14	74	14	82	O
+trenere	N	trenere	N-fsn---------n-----------l-	14	84	14	90	O
+vidējā	A	vidējs	A-msgp-y------------------l-	14	92	14	97	O
+
+
+15	D	15	D--pg-----------------------	15	0	15	1	O
+Imants	N	Imants	N-msn---------n-----------f-	15	3	15	8	B-PERS
+Radavs	-	Radavs	----------------------------	15	10	15	15	I-PERS
+1947	D	1947	D--p------------------------	15	17	15	20	B-DATE
+SIA	Y	SIA	Y-------------------------u-	15	22	15	24	B-ORG
+"	T	"	T--------------------------"	15	26	15	26	I-ORG
+Latvijas	N	Latvija	N-fsg---------n-----------f-	15	27	15	34	I-ORG
+nacionālais	A	nacionāls	A-msnp-y------------------l-	15	36	15	46	I-ORG
+meteoroloģijas	N	meteoroloģija	N-fsg---------n-----------l-	15	48	15	61	I-ORG
+centrs	N	centrs	N-msn---------n-----------l-	15	63	15	68	I-ORG
+"	T	"	T--------------------------"	15	69	15	69	I-ORG
+Liepājas	N	Liepāja	N-fsg---------n-----------f-	15	71	15	78	I-ORG
+nodaļa	N	nodaļa	N-fsn---------n-----------l-	15	80	15	85	I-ORG
+inženieris	N	inženieris	N-msn---------n-----------l-	15	87	15	96	O
+vidējā	A	vidējs	A-fsnp-y------------------l-	15	98	15	103	O
+
+
+16	D	16	D--pg-----------------------	16	0	16	1	O
+Gunārs	N	Gunārs	N-msn---------n-----------f-	16	3	16	8	B-PERS
+Gūža	N	gūža	N-fsn---------n-----------f-	16	10	16	13	I-PERS
+1975	D	1975	D--p------------------------	16	15	16	18	B-DATE
+SIA	Y	SIA	Y-------------------------u-	16	20	16	22	B-ORG
+"	T	"	T--------------------------"	16	24	16	24	I-ORG
+Ungārs	N	ungārs	N-msn---------n-----------f-	16	25	16	30	I-ORG
+"	T	"	T--------------------------"	16	31	16	31	I-ORG
+valdes	N	valde	N-fsg---------n-----------l-	16	33	16	38	O
+priekšsēdētājs	N	priekšsēdētājs	N-msn---------n-----------l-	16	40	16	53	O
+vidējā	A	vidējs	A-msgp-y------------------l-	16	55	16	60	O
+
+
+17	D	17	D--pg-----------------------	17	0	17	1	O
+Gunārs	N	Gunārs	N-msn---------n-----------f-	17	3	17	8	B-PERS
+Stankevičs	N	Stankevičs	N-msn---------n-----------f-	17	10	17	19	I-PERS
+1954	D	1954	D--p------------------------	17	21	17	24	B-DATE
+Biedrība	N	biedrība	N-fsn---------n-----------f-	17	26	17	33	O
+"	T	"	T--------------------------"	17	35	17	35	O
+Latvijas	N	Latvija	N-fsg---------n-----------f-	17	36	17	43	B-ORG
+Dzīvokļu	N	dzīvoklis	N-mpg---------n-----------f-	17	45	17	52	I-ORG
+Īpašnieku	N	īpašnieks	N-mpg---------n-----------f-	17	54	17	62	I-ORG
+savienība	N	savienība	N-fsn---------n-----------l-	17	64	17	72	I-ORG
+"	T	"	T--------------------------"	17	73	17	73	O
+valdes	N	valde	N-fsg---------n-----------l-	17	75	17	80	O
+loceklis	N	loceklis	N-msn---------n-----------l-	17	82	17	89	O
+augstākā	A	augstāks	A-msgp-y------------------l-	17	91	17	98	O
+
+
+
+
+Lasītākais	G	lasīts	Gsmsnc-y---p--------------f-	19	0	19	9	O
+Jaunākais	A	jauns	A-msnc-y------------------f-	19	11	19	19	O
+Jaunākais	A	jauns	A-msnc-y------------------f-	19	21	19	29	O
+Lasītākais	G	lasīts	Gsmsnc-y---p--------------f-	19	31	19	40	O
+SABIEDROTO	A	sabiedrots	A-msap-y------------------u-	19	42	19	51	O
+RAKSTI	N	raksts	N-mpn---------n-----------u-	19	53	19	58	O
+
+
+'	T	'	T--------------------------'	20	0	20	0	O
+Avangard	-	Avangard	----------------------------	20	1	20	8	B-PROD
+'	T	'	T--------------------------'	20	9	20	9	O
+un	C	un	C---------------------c---l-	20	11	20	12	O
+'	T	'	T--------------------------'	20	14	20	14	O
+Vitjazj	-	Vitjazj	----------------------------	20	15	20	21	B-PROD
+'	T	'	T--------------------------'	20	22	20	22	O
+spēlē	V	spēlēt	Vp-s--2--i----------------l-	20	24	20	28	O
+izceļas	V	izcelties	Vp----3--i-----y----------l-	20	30	20	36	O
+masveida	N	masveida	N-msg---------n-----------l-	20	38	20	45	O
+kautiņš	N	kautiņš	N-msn---------n-----------l-	20	47	20	53	O
+(	T	(	T--------------------------(	20	55	20	55	O
+3	D	3	D--p------------------------	20	56	20	56	O
+)	T	)	T--------------------------)	20	57	20	57	O
+
+
+'	T	'	T--------------------------'	21	0	21	0	O
+Dinamo	N	dinamo	N-msn---------n-----------f-	21	1	21	6	B-PROD
+'	T	'	T--------------------------'	21	7	21	7	O
+zaudē	V	zaudēt	Vp----3--i----------------l-	21	9	21	13	O
+pēcspēles	N	pēcspēle	N-fsg---------n-----------l-	21	15	21	23	O
+metienu	N	metiens	N-mpg---------n-----------l-	21	25	21	31	O
+sērijā	N	sērija	N-fsl---------n-----------l-	21	33	21	38	O
+No	S	no	S----------------sgp------f-	21	40	21	41	O
+Rīgas	N	Rīga	N-fsg---------n-----------f-	21	43	21	47	B-LOC
+izvesti	G	izvests	Gsmpnp-n---p--------------l-	21	49	21	55	O
+1400	D	1400	D--pg-----------------------	21	57	21	60	O
+kubikmetri	N	kubikmetrs	N-mpn---------n-----------l-	21	62	21	71	O
+sniega	N	sniegs	N-msg---------n-----------l-	21	73	21	78	O
+(	T	(	T--------------------------(	21	80	21	80	O
+3	D	3	D--p------------------------	21	81	21	81	O
+)	T	)	T--------------------------)	21	82	21	82	O
+
+
+Uz	S	uz	S----------------sgp------f-	22	0	22	1	O
+Tallinas	N	Tallina	N-fsg---------n-----------f-	22	3	22	10	B-LOC
+šosejas	N	šoseja	N-fsg---------n-----------l-	22	12	22	18	I-LOC
+avarē	V	avarēt	Vp----3--i----------------l-	22	20	22	24	O
+autobuss	N	autobuss	N-msn---------n-----------l-	22	26	22	33	O
+DELFI	-	DELFI	----------------------------	22	35	22	39	B-ORG
+FOTO	N	foto	N-msg---------n-----------u-	22	41	22	44	O
+Sniega	N	sniegs	N-msg---------n-----------f-	22	46	22	51	O
+lāpsta	N	lāpsta	N-fsn---------n-----------l-	22	53	22	58	O
+Prāta	N	prāts	N-msg---------n-----------f-	22	60	22	64	B-ORG
+Vētras	N	vētra	N-fsg---------n-----------f-	22	66	22	71	I-ORG
+koncerts	N	koncerts	N-msn---------n-----------l-	22	73	22	80	O
+Prāta	N	prāts	N-msg---------n-----------f-	22	82	22	86	B-ORG
+Vētras	N	vētra	N-fsg---------n-----------f-	22	88	22	93	I-ORG
+koncerts	N	koncerts	N-msn---------n-----------l-	22	95	22	102	O
+"	T	"	T--------------------------"	22	104	22	104	O
+airBaltic	Y	airBaltic	Y-------------------------l-	22	105	22	113	B-ORG
+"	T	"	T--------------------------"	22	114	22	114	O
+iepazīstina	V	iepazīstināt	Vp----3--i----------------l-	22	116	22	126	O
+ar	S	ar	S----------------sap------l-	22	128	22	129	O
+jauno	A	jauns	A-fsap-y------------------l-	22	131	22	135	O
+"	T	"	T--------------------------"	22	137	22	137	O
+Bombardier	-	Bombardier	----------------------------	22	138	22	147	B-PROD
+"	T	"	T--------------------------"	22	148	22	148	O
+lidmašīnu	N	lidmašīna	N-fsa---------n-----------l-	22	150	22	158	O
+.	T	.	T--------------------------.	22	159	22	159	O
+(	T	(	T--------------------------(	22	161	22	161	O
+8	D	8	D--p------------------------	22	162	22	162	O
+)	T	)	T--------------------------)	22	163	22	163	O
+
+
+10	D	10	D--pg-----------------------	23	0	23	1	B-DATE
+.	T	.	T--------------------------.	23	2	23	2	I-DATE
+decembra	N	decembris	N-msg---------n-----------l-	23	4	23	11	I-DATE
+sniegs	N	sniegs	N-msn---------n-----------l-	23	13	23	18	O
+Rīgā	N	Rīga	N-fsl---------n-----------f-	23	20	23	23	B-LOC
+Sniegputenis	N	sniegputenis	N-msn---------n-----------f-	23	25	23	36	O
+Igaunijā	N	Igaunija	N-fsl---------n-----------f-	23	38	23	45	B-LOC
+Pie	S	pie	S----------------sgp------f-	23	47	23	49	O
+tiesas	N	tiesa	N-fsg---------n-----------l-	23	51	23	56	O
+iestieg	V	iestigt	Vp----3--i----------------l-	23	58	23	64	O
+apcietināto	G	apcietināts	Gsmsap-y---p--------------l-	23	66	23	76	O
+konvojs	N	konvojs	N-msn---------n-----------l-	23	78	23	84	O
+(	T	(	T--------------------------(	23	86	23	86	O
+14	D	14	D--pg-----------------------	23	87	23	88	O
+)	T	)	T--------------------------)	23	89	23	89	O
+
+
+Sniegputenis	N	sniegputenis	N-msn---------n-----------f-	24	0	24	11	O
+Igaunijā	N	Igaunija	N-fsl---------n-----------f-	24	13	24	20	B-LOC
+(	T	(	T--------------------------(	24	22	24	22	O
+9	D	9	D--p------------------------	24	23	24	23	O
+)	T	)	T--------------------------)	24	24	24	24	O
+
+
+Sniegputenis	N	sniegputenis	N-msn---------n-----------f-	25	0	25	11	O
+Rīgā	N	Rīga	N-fsl---------n-----------f-	25	13	25	16	B-LOC
+(	T	(	T--------------------------(	25	18	25	18	O
+2	D	2	D--p------------------------	25	19	25	19	O
+)	T	)	T--------------------------)	25	20	25	20	O
+
+
+Arhīvs	N	arhīvs	N-msn---------n-----------f-	26	0	26	5	O
+-	T	-	T---------------------------	26	7	26	7	O
+TABULA	N	tabula	N-fsn---------n-----------u-	26	9	26	14	O
+-	T	-	T---------------------------	26	16	26	16	O
+Cilvēku	N	cilvēks	N-mpg---------n-----------f-	26	18	26	24	O
+interneta	N	internets	N-msg---------n-----------l-	26	26	26	34	O
+lietošanas	N	lietošana	N-fsg---------n-----------l-	26	36	26	45	O
+paradumi	N	paradums	N-mpn---------n-----------l-	26	47	26	54	O
+mājās	N	māja	N-fpl---------n-----------l-	26	56	26	60	O
+
+
+Nespēj	V	nespēt	Vp----3--i------y---3-----f-	27	0	27	5	O
+iztikt	V	iztikt	V--------n----------------l-	27	7	27	12	O
+bez	S	bez	S----------------sgp------l-	27	14	27	16	O
+interneta	N	internets	N-msg---------n-----------l-	27	18	27	26	O
+9	D	9	D--p------------------------	27	28	27	28	O
+%	T	%	T--------------------------%	27	29	27	29	O
+
+
+Nevar	V	nevarēt	Vp----3--i------y---3-----f-	28	0	28	4	O
+pavadīt	V	pavadīt	V--------n----------------l-	28	6	28	12	O
+ne	Q	ne	Q---------------y---------l-	28	14	28	15	O
+dienu	N	diena	N-fsa---------n-----------l-	28	17	28	21	B-DATE
+bez	S	bez	S----------------pdp------l-	28	23	28	25	O
+interneta	N	internets	N-msg---------n-----------l-	28	27	28	35	O
+11,2	D	11,2	D--pg-----------------------	28	37	28	40	O
+%	T	%	T--------------------------%	28	41	28	41	O
+
+
+Var	V	varēt	Vp----3--i----------3-----f-	29	0	29	2	O
+pavadīt	V	pavadīt	V--------n----------------l-	29	4	29	10	O
+1-3	-	1-3	----------------------------	29	12	29	14	B-DATE
+dienas	V	dienēties	Vp----3--i-----y----------l-	29	16	29	21	I-DATE
+bez	S	bez	S----------------sgp------l-	29	23	29	25	O
+interneta	N	internets	N-msg---------n-----------l-	29	27	29	35	O
+>	T	>	T-------------------------->	29	37	29	37	O
+25	D	25	D--p------------------------	29	38	29	39	O
+%	T	%	T--------------------------%	29	40	29	40	O
+
+
+Var	V	varēt	Vp----3--i----------3-----f-	30	0	30	2	O
+pavadīt	V	pavadīt	V--------n----------------l-	30	4	30	10	O
+bez	S	bez	S----------------sgp------l-	30	12	30	14	O
+interneta	N	internets	N-msg---------n-----------l-	30	16	30	24	O
+nedēļu	N	nedēļa	N-fsa---------n-----------l-	30	26	30	31	B-DATE
+14	D	14	D--pg-----------------------	30	33	30	34	O
+%	T	%	T--------------------------%	30	35	30	35	O
+
+
+Dzīvojot	G	dzīvojot	G----------a-n------------f-	31	0	31	7	O
+bez	S	bez	S----------------sgp------l-	31	9	31	11	O
+interneta	N	internets	N-msg---------n-----------l-	31	13	31	21	O
+no	S	no	S----------------sgp------l-	31	23	31	24	B-DATE
+dienas	N	diena	N-fsg---------n-----------l-	31	26	31	31	I-DATE
+līdz	S	līdz	S----------------sdp------l-	31	33	31	36	I-DATE
+nedēļai	N	nedēļa	N-fsd---------n-----------l-	31	38	31	44	I-DATE
+,	T	,	T--------------------------,	31	45	31	45	O
+būtu	V	būt	Vp-------s----------7-----l-	31	47	31	50	O
+lielas	A	liels	A-fpap-n------------------l-	31	52	31	57	O
+problēmas	N	problēma	N-fsg---------n-----------l-	31	59	31	67	O
+60	D	60	D--pg-----------------------	31	69	31	70	O
+%	T	%	T--------------------------%	31	71	31	71	O
+
+
+Internetu	N	internets	N-msa---------n-----------f-	32	0	32	8	O
+lieto	G	liets	Gsfpgp-y---p--------------l-	32	10	32	14	O
+informācijas	N	informācija	N-fsg---------n-----------l-	32	16	32	27	O
+meklēšanai	N	meklēšana	N-fsd---------n-----------l-	32	29	32	38	O
+86,2	D	86,2	D--p------------------------	32	40	32	43	O
+%	T	%	T--------------------------%	32	44	32	44	O
+
+
+Internetu	N	internets	N-msa---------n-----------f-	33	0	33	8	O
+lieto	G	liets	Gsfsap-y---p--------------l-	33	10	33	14	O
+saziņai	N	saziņa	N-fsd---------n-----------l-	33	16	33	22	O
+74,4	D	74,4	D--p------------------------	33	24	33	27	O
+%	T	%	T--------------------------%	33	28	33	28	O
+
+
+Internetu	N	internets	N-msa---------n-----------f-	34	0	34	8	O
+lieto	G	liets	Gsmsap-y---p--------------l-	34	10	34	14	O
+rēķinu	N	rēķins	N-mpg---------n-----------l-	34	16	34	21	O
+kārtošanai	N	kārtošana	N-fsd---------n-----------l-	34	23	34	32	O
+65	D	65	D--p------------------------	34	34	34	35	O
+%	T	%	T--------------------------%	34	36	34	36	O
+
+
+Internetu	N	internets	N-msa---------n-----------f-	35	0	35	8	O
+lieto	G	liets	Gsmpgp-y---p--------------l-	35	10	35	14	O
+darbam	N	darbs	N-msd---------n-----------l-	35	16	35	21	O
+un	C	un	C---------------------c---l-	35	23	35	24	O
+mācībām	N	mācība	N-fpd---------n-----------l-	35	26	35	32	O
+<	T	<	T--------------------------<	35	34	35	34	O
+64	D	64	D--p------------------------	35	36	35	37	O
+%	T	%	T--------------------------%	35	38	35	38	O
+
+
+Internetu	N	internets	N-msa---------n-----------f-	36	0	36	8	O
+lieto	G	liets	Gsfsap-y---p--------------l-	36	10	36	14	O
+izklaidei	N	izklaide	N-fsd---------n-----------l-	36	16	36	24	O
+63	D	63	D--p------------------------	36	26	36	27	O
+%	T	%	T--------------------------%	36	28	36	28	O
+
+
+Internetu	N	internets	N-msa---------n-----------f-	37	0	37	8	O
+lieto	V	lietot	Vp----3--i----------------l-	37	10	37	14	O
+vismaz	R	vismaz	R----p---------------g----l-	37	16	37	21	B-TIME
+piecas	M	pieci	M-fpa---c-----------------l-	37	23	37	28	I-TIME
+stundas	N	stunda	N-fpa---------n-----------l-	37	30	37	36	I-TIME
+38	D	38	D--p------------------------	37	38	37	39	O
+%	T	%	T--------------------------%	37	40	37	40	O
+
+
+Internetu	N	internets	N-msa---------n-----------f-	38	0	38	8	O
+lieto	V	lietot	Vp-s--2--i----------------l-	38	10	38	14	O
+trīs	M	trīs	M-fpn---c-----------------l-	38	16	38	19	B-TIME
+līdz	S	līdz	S----------------sdp------l-	38	21	38	24	I-TIME
+četras	M	četri	M-fpa---c-----------------l-	38	26	38	31	I-TIME
+stundas	N	stunda	N-fpa---------n-----------l-	38	33	38	39	I-TIME
+33	D	33	D--p------------------------	38	41	38	42	O
+%	T	%	T--------------------------%	38	43	38	43	O
+
+
+Avots	N	avots	N-msn---------n-----------f-	39	0	39	4	O
+:	T	:	T--------------------------:	39	5	39	5	O
+"	T	"	T--------------------------"	39	7	39	7	O
+Lattelecom	Y	Lattelecom	Y-------------------------f-	39	8	39	17	B-ORG
+"	T	"	T--------------------------"	39	18	39	18	O
+
+
+AKCIJAS	N	akcija	N-fsg---------n-----------u-	40	0	40	6	O
+PRECE	N	prece	N-fsn---------n-----------u-	40	8	40	12	O
+!	SENT	!	T--------------------------!	40	13	40	13	O
+Ādas	N	āda	N-fsg---------n-----------f-	40	15	40	18	O
+krēsls	N	krēsls	N-msn---------n-----------l-	40	20	40	25	O
+168	D	168	D--p------------------------	40	27	40	29	B-MON
+Ls	Y	Ls	Y-------------------------f-	40	31	40	32	I-MON
+
+
+VAIRĀK	R	daudz	R----c--------------------u-	41	0	41	5	O
+NEKĀ	C	nekā	C---------------------w---u-	41	7	41	10	O
+400	D	400	D--pg-----------------------	41	12	41	14	O
+JAUNIE	A	jauns	A-mpnp-y------------------u-	41	16	41	21	O
+JUVELIERIZSTRĀDĀJUMU	N	juvelierizstrādājums	N-mpg---------n-----------u-	41	23	41	42	O
+MODEĻI	N	modelis	N-mpn---------n-----------u-	41	44	41	49	O
+!!!	SENT	!!!	T--------------------------!	41	50	41	52	O
+ATLAIDE	N	atlaide	N-fsv---------n-----------u-	41	54	41	60	O
+25	D	25	D--p------------------------	41	62	41	63	O
+%	T	%	T--------------------------%	41	64	41	64	O
+!	SENT	!	T--------------------------!	41	65	41	65	O
+LC-32LE705EV	-	LC-32LE705EV	----------------------------	41	67	41	78	O
+Izvēlies	G	izvēlies	Gsmsn--n---a---y----------f-	41	80	41	87	O
+labāko	A	labs	A-fsac-y------------------l-	41	89	41	94	O
+!	SENT	!	T--------------------------!	41	95	41	95	O
+LED	-	LED	----------------------------	41	97	41	99	O
+televizors	N	televizors	N-msn---------n-----------l-	41	101	41	110	O
+-	T	-	T---------------------------	41	112	41	112	O
+ražots	G	ražots	Gsmsnp-n---p--------------l-	41	114	41	119	O
+Japānā	N	Japāna	N-fsl---------n-----------f-	41	121	41	126	B-LOC
+!	T	!	T--------------------------!	41	127	41	127	O
+www.pta.lv	-	www.pta.lv	----------------------------	41	129	41	138	O
+
+
+Saldais	A	salds	A-msnp-y------------------f-	42	0	42	6	O
+grēks	N	grēks	N-msn---------n-----------l-	42	8	42	12	O
+Šokolādes	N	šokolāde	N-fsg---------n-----------f-	42	14	42	22	O
+konfekšu	N	konfekte	N-fpg---------n-----------l-	42	24	42	31	O
+izlase	N	izlase	N-fsn---------n-----------l-	42	33	42	38	O
+tamborētā	G	tamborēts	Gsmslp-n---p--------------l-	42	40	42	48	O
+groziņā	N	grozs	N-msl---------y-----------l-	42	50	42	56	O
+www.zemenitessniega.lv	-	www.zemenitessniega.lv	----------------------------	42	58	42	79	O
+
+
+labas	A	labs	A-fsgp-n------------------l-	43	0	43	4	O
+cenas	N	cena	N-fsg---------n-----------l-	43	6	43	10	O
+dāvanām	N	dāvana	N-fpd---------n-----------l-	43	12	43	18	O
+elektriskā	A	elektrisks	A-fsnp-y------------------l-	43	20	43	29	O
+tējkanna	N	tējkanna	N-fsn---------n-----------l-	43	31	43	38	O
+Comfort	-	Comfort	----------------------------	43	40	43	46	B-PROD
+,	T	,	T--------------------------,	43	47	43	47	O
+2000	D	2000	D--pg-----------------------	43	49	43	52	O
+W	Y	W	Y-------------------------f-	43	53	43	53	O
+,	T	,	T--------------------------,	43	54	43	54	O
+1.8	D	1.8	D--p------------------------	43	56	43	58	O
+l	Y	l	Y-------------------------l-	43	59	43	59	O
+www.cenuklubs.lv	-	www.cenuklubs.lv	----------------------------	43	61	43	76	O
+
+
+Apnika	V	apnikt	Vs----3--i----------------f-	44	0	44	5	O
+tizlas	A	tizls	A-fpnp-n------------------l-	44	7	44	12	O
+dāvanas	N	dāvana	N-fsg---------n-----------l-	44	14	44	20	O
+?	SENT	?	T--------------------------?	44	21	44	21	O
+Spied	V	spiest	Vp-s--2--i----------------f-	44	23	44	27	O
+!	SENT	!	T--------------------------!	44	28	44	28	O
+Un	C	un	C---------------------c---f-	44	30	44	31	O
+tavu	P	tavs	P-fpg-------s-------------l-	44	33	44	36	O
+dāvanu	N	dāvana	N-fsa---------n-----------l-	44	38	44	43	O
+novērtēs	V	novērtēt	Vf----3--i----------------l-	44	45	44	52	O
+visi	P	viss	P-mpn-------g-------------l-	44	54	44	57	O
+:	T	:	T--------------------------:	44	59	44	59	O
+-	T	-	T---------------------------	44	60	44	60	O
+)	T	)	T--------------------------)	44	61	44	61	O
+www.mojo	-	www.mojo	----------------------------	44	63	44	70	O
+-	T	-	T---------------------------	44	71	44	71	O
+jojo.lv	-	jojo.lv	----------------------------	44	72	44	78	O
+
+
+Jaunajam	A	jauns	A-msdp-y------------------f-	45	0	45	7	B-DATE
+Gadam	N	gads	N-msd---------n-----------f-	45	9	45	13	I-DATE
+Lai	C	lai	C---------------------f---f-	45	15	45	17	O
+sapņi	N	sapnis	N-mpn---------n-----------l-	45	19	45	23	O
+piepildās	V	piepildīties	Vp----3--i-----y----------l-	45	25	45	33	O
+!!	T	!!	T--------------------------!	45	34	45	35	O
+www.neoshop.lv	-	www.neoshop.lv	----------------------------	45	37	45	50	O
+
+
+Vajadzīgs	A	vajadzīgs	A-msnp-n------------------f-	46	0	46	8	O
+dators	N	dators	N-msn---------n-----------l-	46	10	46	15	O
+?	SENT	?	T--------------------------?	46	16	46	16	O
+Plaša	A	plašs	A-fsnp-n------------------f-	46	18	46	22	O
+personālo	A	personāls	A-mpgp-y------------------l-	46	24	46	32	O
+datoru	N	dators	N-mpg---------n-----------l-	46	34	46	39	O
+izvēle	N	izvēle	N-fsv---------n-----------l-	46	41	46	46	O
+Cena	N	cena	N-fsn---------n-----------f-	46	48	46	51	O
+no	S	no	S----------------sgp------l-	46	53	46	54	O
+Ls130.00	-	Ls130.00	----------------------------	46	56	46	63	B-MON
+Saldi	A	salds	A-mpnp-n------------------f-	46	65	46	69	O
+groziņi	N	grozs	N-mpn---------y-----------l-	46	71	46	77	O
+Jauna	A	jauns	A-fsnp-n------------------f-	46	79	46	83	O
+garšīga	A	garšīgs	A-fsnp-n------------------l-	46	85	46	91	O
+prece	N	prece	N-fsn---------n-----------l-	46	93	46	97	O
+!!!	SENT	!!!	T--------------------------!	46	98	46	100	O
+Cena	N	cena	N-fsn---------n-----------f-	46	102	46	105	O
+no	S	no	S----------------sgp------l-	46	107	46	108	O
+10	D	10	D--pg-----------------------	46	110	46	111	B-MON
+LVL	Y	LVL	Y-------------------------u-	46	113	46	115	I-MON
+!!!	T	!!!	T--------------------------!	46	116	46	118	O
+www.1shop.lv	-	www.1shop.lv	----------------------------	46	120	46	131	O
+
+
+Apple	-	Apple	----------------------------	47	0	47	4	B-PROD
+iPhone	-	iPhone	----------------------------	47	6	47	11	I-PROD
+4	D	4	D--p------------------------	47	13	47	13	I-PROD
+16	D	16	D--pg-----------------------	47	15	47	16	O
+GB	Y	GB	Y-------------------------u-	47	17	47	18	O
+salidzini.lv	-	salidzini.lv	----------------------------	47	20	47	31	O
+Rotaļlietas	N	rotaļlieta	N-fpa---------n-----------f-	47	33	47	43	O
+virs	S	virs	S----------------sgp------l-	47	45	47	48	O
+18	D	18	D--pg-----------------------	47	50	47	51	O
+Seksa	N	sekss	N-msg---------n-----------f-	47	53	47	57	O
+rotaļlietu	N	rotaļlieta	N-fpg---------n-----------l-	47	59	47	68	O
+komplekti	N	komplekts	N-mpn---------n-----------l-	47	70	47	78	O
+visdažādākajām	A	dažāds	A-fpds-y------------------l-	47	80	47	93	O
+gaumēm	N	gaume	N-fpd---------n-----------l-	47	95	47	100	O
+www.SexyStyle.lv	-	www.SexyStyle.lv	----------------------------	47	102	47	117	O
+
+
+Dāvanas	N	dāvana	N-fpn---------n-----------f-	48	0	48	6	O
+no	S	no	S----------------sgp------l-	48	8	48	9	O
+Bosch	N	Bosch	N-msa---------n-----------f-	48	11	48	15	B-ORG
+!	SENT	!	T--------------------------!	48	16	48	16	O
+Lieliskas	A	lielisks	A-fsgp-n------------------f-	48	18	48	26	O
+atlaides	N	atlaide	N-fsg---------n-----------l-	48	28	48	35	O
+Bosch	N	Bosch	N-msn---------n-----------f-	48	37	48	41	B-ORG
+sadzīves	N	sadzīve	N-fsg---------n-----------l-	48	43	48	50	O
+tehnikai	N	tehnika	N-fsd---------n-----------l-	48	52	48	59	O
+Nenokavē	V	nenokavēt	Vp----3--i------y---------f-	48	61	48	68	O
+!	SENT	!	T--------------------------!	48	69	48	69	O
+PRIME	-	PRIME	----------------------------	48	71	48	75	B-ORG
+Office	N	Office	N-fsn---------n-----------f-	48	77	48	82	I-ORG
+169	D	169	D--p------------------------	48	84	48	86	B-MON
+Ls	Y	Ls	Y-------------------------f-	48	87	48	88	I-MON
+Intel	-	Intel	----------------------------	48	90	48	94	B-ORG
+2.80	D	2.80	D--pg-----------------------	48	96	48	99	O
+GHz	Y	GHz	Y-------------------------u-	48	101	48	103	O
+/	T	/	T--------------------------/	48	104	48	104	O
+2	D	2	D--p------------------------	48	106	48	106	O
+GB	Y	GB	Y-------------------------u-	48	107	48	108	O
+/	T	/	T--------------------------/	48	110	48	110	O
+320	D	320	D--pg-----------------------	48	112	48	114	O
+GB	Y	GB	Y-------------------------u-	48	115	48	116	O
+7200	D	7200	D--pg-----------------------	48	118	48	121	O
+rpm	-	rpm	----------------------------	48	122	48	124	O
+/	T	/	T--------------------------/	48	125	48	125	O
+GMA	-	GMA	----------------------------	48	126	48	128	B-PROD
+X4500	-	X4500	----------------------------	48	130	48	134	I-PROD
+www.ITEM.lv	-	www.ITEM.lv	----------------------------	48	136	48	146	O
+
+
+Ziemassvētku	N	ziemassvētki	N-mpg---------n-----------f-	49	0	49	11	B-DATE
+atlaides	N	atlaide	N-fsg---------n-----------l-	49	13	49	20	O
+!	SENT	!	T--------------------------!	49	21	49	21	O
+Zelta	N	zelts	N-msg---------n-----------f-	49	23	49	27	O
+un	C	un	C---------------------c---l-	49	29	49	30	O
+sudraba	N	sudrabs	N-msg---------n-----------l-	49	32	49	38	O
+juvelierizstrādājumi	N	juvelierizstrādājums	N-mpn---------n-----------l-	49	40	49	59	O
+Vitreum.lv	-	Vitreum.lv	----------------------------	49	61	49	70	B-ORG
+ASUS	A	ass	A-mpap-n------------------u-	49	72	49	75	B-PROD
+Eee	-	Eee	----------------------------	49	77	49	79	I-PROD
+PC	Y	pc	Y-------------------------u-	49	81	49	82	O
+-	T	-	T---------------------------	49	84	49	84	O
+199	D	199	D--p------------------------	49	86	49	88	B-MON
+Ls	Y	Ls	Y-------------------------f-	49	89	49	90	I-MON
+Atom	-	Atom	----------------------------	49	92	49	95	B-PROD
+N450	-	N450	----------------------------	49	97	49	100	I-PROD
+1.66	D	1.66	D--p------------------------	49	102	49	105	O
+GHz	Y	GHz	Y-------------------------u-	49	106	49	108	O
+/	T	/	T--------------------------/	49	109	49	109	O
+1	D	1	D--s------------------------	49	111	49	111	O
+GB	Y	GB	Y-------------------------u-	49	112	49	113	O
+DDR2	-	DDR2	----------------------------	49	115	49	118	O
+/	T	/	T--------------------------/	49	119	49	119	O
+250	D	250	D--pg-----------------------	49	121	49	123	O
+GB	Y	GB	Y-------------------------u-	49	124	49	125	O
+/	T	/	T--------------------------/	49	126	49	126	O
+10.1	D	10.1	D--s------------------------	49	128	49	131	O
+/	T	/	T--------------------------/	49	132	49	132	O
+Win7	-	Win7	----------------------------	49	134	49	137	B-PROD
+/	T	/	T--------------------------/	49	138	49	138	O
+1.27	D	1.27	D--p------------------------	49	140	49	143	O
+kg	Y	kg	Y-------------------------l-	49	144	49	145	O
+www.m79.lv	-	www.m79.lv	----------------------------	49	147	49	156	O
+
+
+Backwards	-	Backwards	----------------------------	50	0	50	8	O
+clock	-	clock	----------------------------	50	10	50	14	O
+Amizants	A	amizants	A-msnp-n------------------f-	50	16	50	23	O
+pulkstenis	N	pulkstenis	N-msn---------n-----------l-	50	25	50	34	O
+.	SENT	.	T--------------------------.	50	35	50	35	O
+Rādītāji	N	rādītājs	N-mpn---------n-----------f-	50	37	50	44	O
+griežas	V	griezties	Vp----3--i-----y----------l-	50	46	50	52	O
+pretējā	A	pretējs	A-mslp-n------------------l-	50	54	50	60	O
+virzienā	N	virziens	N-msl---------n-----------l-	50	62	50	69	O
+!	SENT	!	T--------------------------!	50	70	50	70	O
+DĀVANU	N	dāvana	N-fpg---------n-----------u-	50	72	50	77	O
+veikals	N	veikals	N-msn---------n-----------l-	50	79	50	85	O
+Cherry.lv	-	Cherry.lv	----------------------------	50	87	50	95	B-PROD
+Moulinex	-	Moulinex	----------------------------	50	97	50	104	B-PROD
+maizes	N	maize	N-fsg---------n-----------l-	50	106	50	111	O
+krāsns	N	krāsns	N-fsn---------n-----------l-	50	113	50	118	O
+Izbaudi	V	izbaudīt	Vp-s--2--i----------------f-	50	120	50	126	O
+īstas	A	īsts	A-fpap-n------------------l-	50	128	50	132	O
+maizes	N	maize	N-fsg---------n-----------l-	50	134	50	139	O
+garšu	N	garša	N-fsa---------n-----------l-	50	141	50	145	O
+!!!	SENT	!!!	T--------------------------!	50	146	50	148	O
+Cena	N	cena	N-fsn---------n-----------f-	50	150	50	153	O
+no	S	no	S----------------sgp------l-	50	155	50	156	O
+45	D	45	D--p------------------------	50	158	50	159	B-MON
+ls	-	ls	----------------------------	50	161	50	162	I-MON
+Function	-	Function	----------------------------	50	164	50	171	B-PROD
+Plus	C	plus	C-------------------------f-	50	173	50	176	I-PROD
+80120	D	80120	D--pg-----------------------	50	178	50	182	O
+Īpašā	A	īpašs	A-fsnp-y------------------f-	50	184	50	188	O
+cena	N	cena	N-fsn---------n-----------l-	50	190	50	193	O
+:	T	:	T--------------------------:	50	194	50	194	O
+76.50	D	76.50	D--pg-----------------------	50	196	50	200	B-MON
+Ls	Y	Ls	Y-------------------------f-	50	202	50	203	I-MON
+www.living.lv	-	www.living.lv	----------------------------	50	205	50	217	O
+
+
+PTA	-	PTA	----------------------------	51	0	51	2	B-ORG
+Salidzini	-	Salidzini	----------------------------	51	4	51	12	O
+Living.lv	-	Living.lv	----------------------------	51	14	51	22	O
+
+
+DELFI	-	DELFI	----------------------------	52	0	52	4	B-ORG
+ceļojumi	N	ceļojums	N-mpn---------n-----------l-	52	6	52	13	O
+
+
+Karstās	A	karsts	A-fpnp-y------------------f-	53	0	53	6	O
+ceļazīmes	N	ceļazīme	N-fsg---------n-----------l-	53	8	53	16	O
+Turcijā	N	Turcija	N-fsl---------n-----------f-	53	18	53	24	B-LOC
+,	T	,	T--------------------------,	53	25	53	25	O
+Spānija	N	Spānija	N-fsn---------n-----------f-	53	26	53	32	B-LOC
+,	T	,	T--------------------------,	53	33	53	33	O
+Ēģipte	N	Ēģipte	N-fsn---------n-----------f-	53	34	53	39	B-LOC
+
+
+Aviokompāniju	N	aviokompānija	N-fpg---------n-----------f-	54	0	54	12	O
+akcijas	N	akcija	N-fsg---------n-----------l-	54	14	54	20	O
+Maskava-Rīga	-	Maskava-Rīga	----------------------------	54	22	54	33	B-LOC
+45	D	45	D--p------------------------	54	35	54	36	B-MON
+Ls	Y	Ls	Y-------------------------f-	54	38	54	39	I-MON
+
+
+Astra	N	astra	N-fsn---------n-----------f-	55	0	55	4	B-ORG
+Tūre	N	tūre	N-fsn---------n-----------f-	55	6	55	9	I-ORG
+Finnair	-	Finnair	----------------------------	55	11	55	17	B-ORG
+akcija	N	akcija	N-fsn---------n-----------l-	55	19	55	24	O
+
+
+Biļetes	N	biļete	N-fpn---------n-----------f-	56	0	56	6	O
+uz	S	uz	S----------------sgp------l-	56	8	56	9	O
+ASV	Y	ASV	Y-------------------------u-	56	11	56	13	B-LOC
+no	S	no	S----------------sgp------l-	56	15	56	16	O
+Ls	Y	Ls	Y-------------------------f-	56	18	56	19	B-MON
+320	D	320	D--pg-----------------------	56	21	56	23	I-MON
